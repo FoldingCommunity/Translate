@@ -1,2 +1,0 @@
-# Team-specific Onboarding Documentation
-
