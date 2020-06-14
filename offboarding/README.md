@@ -1,2 +1,0 @@
-# Team-specific Offboarding Documentation
-
