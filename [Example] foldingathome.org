@@ -1,6 +1,3 @@
-en-US to sv-SE
-Example:
-
 
 https://foldingathome.org/
 
