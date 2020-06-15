@@ -15,9 +15,9 @@ Kindly check out the example translation https://github.com/FoldingCommunity/Tra
 
 What to translate?
 
-1)foldingathome.org
+1)https://foldingathome.org
 
-2)foldingathome.org/about
+2)https://foldingathome.org/about
 
 3)https://foldingathome.org/start-folding/
 
