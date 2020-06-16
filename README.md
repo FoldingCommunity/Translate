@@ -1,29 +1,46 @@
 # Translate
 
-Thank you for helping us reach even more people around the world by adapting the experience to their native language.
+Thank you for helping us reach even more people around the world by adapting the
+experience to their native language.
 
+## What do we translate?
 
-How do we translate?
+We will start translating the [Folding@Home](https://foldingathome.org) website.
+We are starting with the following webpages: 
 
-We translate one text block at the time.
+1. https://foldingathome.org
+2. https://foldingathome.org/about/
+3. https://foldingathome.org/start-folding/
+4. https://foldingathome.org/diseases/
+5. https://foldingathome.org/statistics/
 
-What do we translate?
+## How do we translate? 
+So far we have extracted text blocks and created yaml files in 
+[Localization/en-US](Localization/en-US). Please copy the yaml in your 
+language's folder, edit the ``language`` code in the yaml file, and
+translate the text between the quotation marks 
+(e.g. `` " These are the text that need to be translated " ``). 
 
-We will start of by translating the website each website page = one translation document.
-Kindly check out the example translation https://github.com/FoldingCommunity/Translate/blob/master/%5BExample%5D%20foldingathome.org
+Please use your favourite text editor to make the edit. On Windows, you could 
+use [Notepad++](https://notepad-plus-plus.org/) or 
+[Atom](https://atom.io/).
 
+Please stick to the format, this will help with the automated webpage generation
+in the later stage. 
 
-What to translate?
+Please parsed your yaml files through a yaml verifier, e.g. 
+[YAML Lint](http://www.yamllint.com/) or 
+[onlineyamltools](https://onlineyamltools.com/validate-yaml) before commiting.
 
-1)https://foldingathome.org
+### Examples:
 
-<!-- 2)https://foldingathome.org/about -->
+- [Localization/sv-SE/home.yaml](Localization/sv-SE/home.yaml) is a Swedish
+translated example for 
+[Localization/en-US/home.yaml](Localization/en-US/home.yaml)
 
-<!-- 3)https://foldingathome.org/start-folding/ -->
+We will be adding more examples as translation progress. 
 
-<!-- 4)https://foldingathome.org/diseases/ -->
-
-<!-- 5)https://foldingathome.org/statistics/ -->
-
-
-
+## What if I need help? 
+Please feel free to open an Github issue, and tag 
+[fangfufu](https://github.com/fangfufu/) and/or 
+[Antonthynell](https://github.com/Antonthynell)
