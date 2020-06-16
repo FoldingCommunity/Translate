@@ -14,6 +14,8 @@ We are starting with the following webpages:
 4. https://foldingathome.org/diseases/
 5. https://foldingathome.org/statistics/
 
+We will add more pages as we go on. Please look out for the announcements.
+
 ## How do we translate? 
 So far we have extracted text blocks and created yaml files in 
 [Localization/en-US](Localization/en-US). Please copy the yaml in your 
