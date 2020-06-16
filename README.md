@@ -14,6 +14,7 @@ Kindly check out the example translation https://github.com/FoldingCommunity/Tra
 
 
 What to translate?
+You can start with these page, then kindly continue withto translate any other page or blogpost you feel is relevant.
 
 1)https://foldingathome.org
 
@@ -26,4 +27,5 @@ What to translate?
 5)https://foldingathome.org/statistics/
 
 
+Don't forget to implement a review process of the translation depending on the size of the team.
 
