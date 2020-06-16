@@ -17,13 +17,13 @@ What to translate?
 
 1)https://foldingathome.org
 
-2)https://foldingathome.org/about
+<!-- 2)https://foldingathome.org/about -->
 
-3)https://foldingathome.org/start-folding/
+<!-- 3)https://foldingathome.org/start-folding/ -->
 
-4)https://foldingathome.org/diseases/
+<!-- 4)https://foldingathome.org/diseases/ -->
 
-5)https://foldingathome.org/statistics/
+<!-- 5)https://foldingathome.org/statistics/ -->
 
 
 

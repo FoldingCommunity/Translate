@@ -1,0 +1,35 @@
+---
+url: "https://foldingathome.org/"
+language: "sv-SE"
+title: "Homepage"
+text: [
+# START FOLDING NOW bold text
+"BÖRJA VIKA NU",
+
+# Associated normal text
+"Hitta mjuvaruversionen som du föredrar och kom igång. Att ladda ner Folding@Home är helt gratis, lätt att installera och säkert att använda.
+
+Tillgänglig till:
+
+Linux
+
+Windows
+
+Mac
+",
+
+#JOIN THE COMMUNITY bold text
+"Gå med vårt Community",
+
+# Associated text
+"Folding@Home communityt är spritt över oräkneliga forum hemsidor och sociala media.
+Här är vår officiella kanaler:
+
+För teknisk support:",
+
+
+#URLs - Facebook and Twitter have localised name in certain languages:
+"foldingforum.org",
+"Facebook",
+"Twitter"
+]
