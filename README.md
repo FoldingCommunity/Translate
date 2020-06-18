@@ -42,6 +42,18 @@ translated example for
 
 We will be adding more examples as translation progress. 
 
+## Coordination
+There are languages with multiple translators, please organise a team amongst
+yourself. Please feel free to use the Folding@home Dev Discord server, or other
+communication methods your translation team is comfortable with.
+
+We recommend one member of your language team to fork this repository, and give
+write access to all translators within your team, so every member of your team
+can commit directly to the forked repository. We would like members within a
+language team to discuss and review the translation. Once your team has agreed
+upon a final version of the translation, please create a pull request for the
+this repository.
+
 ## What if I need help? 
 Please feel free to open an Github issue, and tag 
 [fangfufu](https://github.com/fangfufu/) and/or 
