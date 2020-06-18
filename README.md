@@ -51,7 +51,7 @@ We recommend one member of your language team to fork this repository, and give
 write access to all translators within your team, so every member of your team
 can commit directly to the forked repository. We would like members within a
 language team to discuss and review the translation. Once your team has agreed
-upon a final version of the translation, please create a pull request for the
+upon a final version of the translation, please create a pull request for
 this repository.
 
 ## What if I need help? 
