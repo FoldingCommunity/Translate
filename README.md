@@ -34,11 +34,25 @@ Please parsed your yaml files through a yaml verifier, e.g.
 [YAML Lint](http://www.yamllint.com/) or 
 [onlineyamltools](https://onlineyamltools.com/validate-yaml) before commiting.
 
+### Why are we using YAML? 
+We use YAML because it enables automation. The idea is that one of us will be 
+writing a Wordpress blog post generator, which takes in YAML files, and generates 
+Wordpress blog posts for Folding@home website. 
+
+We believe that YAML files are quite easy for non-programmers to read and edit,
+so even if we don't manage to create a blog post generator, it should not be
+too difficult to manually copy and paste the content from YAML files and 
+create blog posts manually. The structure of the YAML file serve as a metadata 
+to guide the webmasters at editing languages which they might not understand. 
+
 ### Examples:
 
 - [Localization/sv-SE/home.yaml](Localization/sv-SE/home.yaml) is a Swedish
 translated example for 
 [Localization/en-US/home.yaml](Localization/en-US/home.yaml)
+- [Localization/de-DE/about.yaml](Localization/de-DE/about.yaml) is a German
+translated example for 
+[Localization/en-US/about.yaml](Localization/en-US/about.yaml)
 
 We will be adding more examples as translation progress. 
 
