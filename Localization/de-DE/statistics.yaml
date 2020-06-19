@@ -1,17 +1,17 @@
 ---
 url: "https://foldingathome.org/statistics/"
 language: "de-DE"
-title: "STATISTIK"
+title: "STATISTIKEN"
 text: [
 # First two paragraphs
 #"One of the best ways to help Folding@home is by recruiting your friends and family. Start by sharing our project with them. Then join a team or even start your own team. The more points your team earns, the closer we come to finding cures.
 #On this page you will find access to statistics for individuals and teams who have joined together to earn points and compete with other teams. Some of us are quite intense in our approach to folding. We have team websites, we supe up our computers, and we drive the technology forward by reporting bugs and making suggestions about how to improve the software.",
-"Eine der besten Möglichkeiten, Folding@home zu helfen, besteht darin, Ihre Freunde und Familie zu rekrutieren. Teilen Sie zunächst unser Projekt mit ihnen. Schließen Sie sich dann einem Team an oder gründen Sie sogar ein eigenes Team. Je mehr Punkte Ihr Team verdient, desto näher kommen wir uns Heilmittel finden.
-Auf dieser Seite finden Sie Zugriff auf Statistiken für Personen und Teams, die sich zusammengeschlossen haben, um Punkte zu sammeln und mit anderen Teams zu konkurrieren. Einige von uns gehen sehr intensiv mit dem Falten um. Wir haben Team-Websites, wir verbessern unsere Computer und wir treiben die Technologie voran, indem wir Fehler melden und Vorschläge zur Verbesserung der Software machen. ",
+"Eine der besten Möglichkeiten, Folding@home zu helfen, besteht darin, Freunde und Familie zu rekrutieren. Teilen Sie zunächst unser Projekt mit ihnen. Schließen Sie sich dann einem Team an oder gründen Sie sogar ein eigenes Team. Je mehr Punkte Ihr Team verdient, desto näher kommen wir neuen Heilmitteln.
+Auf dieser Seite haben Sie Zugriff auf Statistiken für Personen und Teams, die sich zusammengeschlossen haben, um Punkte zu sammeln und mit anderen Teams zu konkurrieren. Einige von uns gehen sehr intensiv mit dem Falten um. Wir haben Team-Websites, wir verbessern unsere Computer und wir treiben die Technologie voran, indem wir Fehler melden und Vorschläge zur Verbesserung der Software machen. ",
 
 # Maximise your effort stylistic bold text
 #"MAXIMIZE your EFFORT",
-"MAXIMIERE deinen AUFWAND",
+"MAXIMALER EINSATZ",
 
 # SET UP YOUR TEAM
 #"SET UP YOUR TEAM",
@@ -19,11 +19,11 @@ Auf dieser Seite finden Sie Zugriff auf Statistiken für Personen und Teams, die
 
 # Associated text for setting up a team
 #"If you are interested in setting up a team of your own, you can get started here.",
-"Wenn Sie daran interessiert sind, ein eigenes Team aufzubauen, können Sie hier loslegen.",
+"Wenn Sie daran interessiert sind, ein eigenes Team zu gründen, können Sie hier loslegen.",
 
 # START A TEAM button
 #"START A TEAM",
-"STARTEN SIE EIN TEAM",
+"JETZT EIN TEAM EINRICHTEN",
 
 # CHANGE YOUR TEAM INFO button
 #"CHANGE YOUR TEAM INFO",
@@ -35,7 +35,7 @@ Auf dieser Seite finden Sie Zugriff auf Statistiken für Personen und Teams, die
 
 # Heading 1
 #"MONITORING STATS UPDATES AUTOMATICALLY: AVAILABLE DOWNLOADS AND RULES OF USE",
-"AUTOMATISCHE ÜBERWACHUNG STATS UPDATES: VERFÜGBARE DOWNLOADS UND NUTZUNGSBESTIMMUNGEN",
+"STATISTIK-UPDATES AUTOMATISCH ÜBERWACHEN: VERFÜGBARE DOWNLOADS UND NUTZUNGSBESTIMMUNGEN",
 
 # Text block
 #"The donor and team stats are updated every hour, although this can be delayed if there were a lot of work units to come back during that hour. We have been turning off web access to the stats database during stats updates (usually on the hour).
