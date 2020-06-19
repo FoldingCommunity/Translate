@@ -45,13 +45,20 @@ too difficult to manually copy and paste the content from YAML files and
 create blog posts manually. The structure of the YAML file serve as a metadata 
 to guide the webmasters at editing languages which they might not understand. 
 
+### Translation style guide
+Please also check out the [Wiki](https://github.com/FoldingCommunity/Translate/wiki)
+for the translation style guide. Please feel free to contribute to the Wiki. 
+
 ### Examples:
 
-- [Localization/sv-SE/home.yaml](Localization/sv-SE/home.yaml) is a Swedish
-translated example for 
+- [Localization/sv-SE/home.yaml](Localization/sv-SE/home.yaml)
+is the Swedish translation for
 [Localization/en-US/home.yaml](Localization/en-US/home.yaml)
-- [Localization/de-DE/about.yaml](Localization/de-DE/about.yaml) is a German
-translated example for 
+- [Localization/de-DE/about.yaml](Localization/de-DE/about.yaml)
+is the German translation for
+[Localization/en-US/about.yaml](Localization/en-US/about.yaml)
+- [Localization/fr-FR/about.yaml](Localization/fr-FR/about.yaml)
+is the French translation for
 [Localization/en-US/about.yaml](Localization/en-US/about.yaml)
 
 We will be adding more examples as translation progress. 
@@ -70,5 +77,9 @@ this repository.
 
 ## What if I need help? 
 Please feel free to open an Github issue, and tag 
-[fangfufu](https://github.com/fangfufu/) and/or 
-[Antonthynell](https://github.com/Antonthynell)
+[fangfufu](https://github.com/fangfufu/), 
+[ReadyPlayerEmma](https://github.com/ReadyPlayerEmma)
+and/or 
+[Antonthynell](https://github.com/Antonthynell). Alternatively, you could
+post a message in the main transation channel on Folding@home Dev Discord
+server and tag one of us. 
