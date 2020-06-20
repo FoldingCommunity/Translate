@@ -40,6 +40,6 @@ Auf dieser Seite haben Sie Zugriff auf Statistiken für Personen und Teams, die 
 # Text block
 #"The donor and team stats are updated every hour, although this can be delayed if there were a lot of work units to come back during that hour. We have been turning off web access to the stats database during stats updates (usually on the hour).
 #Please do not use scripts to access the donor or team pages, but use the full donor list (flat files) instead. IP addresses which do not abide by our robots.txt rules will be banned."
-"Die Spender- und Teamstatistiken werden stündlich aktualisiert. Dies kann sich jedoch verzögern, wenn während dieser Stunde viele Arbeitseinheiten zurückkommen. Wir haben den Webzugriff auf die Statistikdatenbank während der Statistikaktualisierungen deaktiviert (normalerweise zu jeder vollen Stunde).
-Bitte verwenden Sie keine Skripte, um auf die Unterstützer:in- oder Teamseiten zuzugreifen, sondern verwenden Sie stattdessen die vollständige Unterstützer:inliste (Flatfiles). IP-Adressen, die nicht unseren robots.txt-Regeln entsprechen, werden gesperrt."
+"Die Spender- und Teamstatistiken werden stündlich aktualisiert. Dies kann sich jedoch verzögern, wenn während dieser Stunde viele Arbeitseinheiten zurückkommen. Wir deaktivieren den Webzugriff auf die Statistikdatenbank während der Statistikaktualisierungen (normalerweise zu jeder vollen Stunde).
+Bitte verwenden Sie keine Skripte, um auf die Unterstützer:innen- oder Teamseiten zuzugreifen, sondern verwenden Sie stattdessen die vollständige Unterstützer:innenliste (Flatfiles). IP-Adressen, die nicht unseren robots.txt-Regeln entsprechen, werden gesperrt."
 ]
