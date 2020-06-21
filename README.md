@@ -3,6 +3,16 @@
 Thank you for helping us reach even more people around the world by adapting the
 experience to their native language.
 
+**Before you start translating, please read this README to learn how we
+collaborate and how to find out what is already done and what is left to do.**
+
+**Please check out the 
+[coordination threads](https://github.com/FoldingCommunity/Translate/labels/coordination-thread),
+and find out how your language team is coordinating with each other. Please
+submit pull requests to your language team's repository first. Your language
+team coordinator will collate all the translation changes, and submit a pull 
+request to this repository.**
+
 ## What do we translate?
 
 We will start translating the [Folding@Home](https://foldingathome.org) website.
@@ -16,7 +26,28 @@ We are starting with the following webpages:
 
 We will add more pages as we go on. Please look out for the announcements.
 
-## How do we translate? 
+## Coordination
+There are languages with multiple translators, please organise a team amongst
+yourself. Please feel free to use the Folding@home Dev Discord server, or other
+communication methods your translation team is comfortable with.
+
+We recommend one member of your language team to fork this repository, and give
+write access to all translators within your team, so every member of your team
+can commit directly to the forked repository. We would like members within a
+language team to discuss and review the translation. Once your team has agreed
+upon a final version of the translation, please create a pull request for
+this repository.
+
+**Every language team will come up with their own ways of working and also might
+be defining guidelines to follow. Check with them to find out what they already
+did and where help is needed.**
+
+You can check out the [Wiki](https://github.com/FoldingCommunity/Translate) for
+some general guidelines and we would highly recommend joining the development
+Discord server to easily coordinate with the other translators (and to avoid
+working on the same things).
+
+## How do we translate?
 So far we have extracted text blocks and created yaml files in 
 [Localization/en-US](Localization/en-US). Please copy the yaml in your 
 language's folder, edit the ``language`` code in the yaml file, and
@@ -62,18 +93,6 @@ is the French translation for
 [Localization/en-US/about.yaml](Localization/en-US/about.yaml)
 
 We will be adding more examples as translation progress. 
-
-## Coordination
-There are languages with multiple translators, please organise a team amongst
-yourself. Please feel free to use the Folding@home Dev Discord server, or other
-communication methods your translation team is comfortable with.
-
-We recommend one member of your language team to fork this repository, and give
-write access to all translators within your team, so every member of your team
-can commit directly to the forked repository. We would like members within a
-language team to discuss and review the translation. Once your team has agreed
-upon a final version of the translation, please create a pull request for
-this repository.
 
 ## What if I need help? 
 Please feel free to open an Github issue, and tag 
