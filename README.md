@@ -6,6 +6,13 @@ experience to their native language.
 **Before you start translating, please read this README to learn how we
 collaborate and how to find out what is already done and what is left to do.**
 
+**Please check out the 
+[coordination threads](https://github.com/FoldingCommunity/Translate/labels/coordination-thread),
+and find out how your language team is coordinating with each other. Please
+submit pull requests to your language team's repository first. Your language
+team coordinator will collate all the translation changes, and submit a pull 
+request to this repository.**
+
 ## What do we translate?
 
 We will start translating the [Folding@Home](https://foldingathome.org) website.
