@@ -54,16 +54,19 @@ language's folder, edit the ``language`` code in the yaml file, and
 translate the text between the quotation marks 
 (e.g. `` " These are the text that need to be translated " ``). 
 
-Please use your favourite text editor to make the edit. On Windows, you could 
+These are the points you have to follow:  
+ 1. use your favourite text editor to make the edit. On Windows, you could 
 use [Notepad++](https://notepad-plus-plus.org/) or 
 [Atom](https://atom.io/).
 
-Please stick to the format, this will help with the automated webpage generation
+ 2. stick to the format, this will help with the automated webpage generation
 in the later stage. 
 
-Please parsed your yaml files through a yaml verifier, e.g. 
+ 3. parse your yaml files through a yaml verifier, e.g. 
 [YAML Lint](http://www.yamllint.com/) or 
 [onlineyamltools](https://onlineyamltools.com/validate-yaml) before commiting.
+
+ 4. **Set your encoding to UTF-8, this is important!**
 
 ### Why are we using YAML? 
 We use YAML because it enables automation. The idea is that one of us will be 
@@ -82,9 +85,6 @@ for the translation style guide. Please feel free to contribute to the Wiki.
 
 ### Examples:
 
-- [Localization/sv-SE/home.yaml](Localization/sv-SE/home.yaml)
-is the Swedish translation for
-[Localization/en-US/home.yaml](Localization/en-US/home.yaml)
 - [Localization/de-DE/about.yaml](Localization/de-DE/about.yaml)
 is the German translation for
 [Localization/en-US/about.yaml](Localization/en-US/about.yaml)
