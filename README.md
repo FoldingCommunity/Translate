@@ -85,9 +85,6 @@ for the translation style guide. Please feel free to contribute to the Wiki.
 
 ### Examples:
 
-- [Localization/sv-SE/home.yaml](Localization/sv-SE/home.yaml)
-is the Swedish translation for
-[Localization/en-US/home.yaml](Localization/en-US/home.yaml)
 - [Localization/de-DE/about.yaml](Localization/de-DE/about.yaml)
 is the German translation for
 [Localization/en-US/about.yaml](Localization/en-US/about.yaml)
