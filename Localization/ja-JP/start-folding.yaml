@@ -40,5 +40,6 @@ text: [
 # URLs
 # "Docker for GPUs",
 "Docker (GPU用)",
+# "vSphere"
 "vSphere"
 ]
