@@ -2,29 +2,41 @@
 url: "https://foldingathome.org/"
 language: "de-DE"
 text: [
+# I AM One IN A MILLION bold text
+#"I AM One IN A MILLION",
+"ICH BIN Einer UNTER MILLIONEN",
+
+# Associated text
+#"Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal -- which is 1 million folders.",
+"Egal, ob Sie bereits falten oder noch kein Wort davon gehört haben: Wir brauchen Ihre Hilfe, um unser Ziel - eine Million Faltende - zu erreichen",
+
+#Associated square button
+#"START FOLDING NOW",
+"JETZT MITFALTEN",
+
+#Associated text with the aobve square button
+#"Hide this and watch the video.",
+"Schließen, um das Video anzusehen.",
+
 # START FOLDING NOW bold text
 #"START FOLDING NOW",
 "JETZT MITFALTEN",
 
-# Associated normal text
-#"Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use.#
-#
+# Associated text
+#"Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use.
 #Available for:
-#
 #Linux
-#
 #Windows
-#
 #Mac",
 "Suchen Sie sich die Version der Software aus, die ihnen am liebsten ist und legen Sie los. Folding@home herunterzuladen ist komplett kostenlos, es ist einfach zu installieren und die Nutzung ist sicher.
-
 Verfügbar für:
-
 Linux
-
 Windows
-
 MacOS",
+
+#Associated square button
+#"START FOLDING",
+"JETZT MITFALTEN",
 
 #JOIN THE COMMUNITY bold text
 #"JOIN THE COMMUNITY",
@@ -41,6 +53,49 @@ Für technische Hilfe: ",
 #URLs - Facebook and Twitter have localised name in certain languages:
 "foldingforum.org",
 "Facebook",
-"Twitter"
+"Twitter",
+
+#LATEST POSTS bold text
+#"LATEST POSTS",
+"NEUESTE ARTIKEL",
+
+# WHY WE NEED YOU bold text
+#"WHY WE NEED YOU",
+"WARUM WIR SIE BRAUCHEN",
+
+# Associated text
+#"Folding@home is a project focused on disease research. The problems we're solving require so many computer calculations and we need your help to find the cures!",
+"Folding@home ist ein Projekt, das sich auf die Erforschung von Krankheiten konzentriert. Die Problemlösungen erfordern eine so große Menge an Berechnungen, dass wir Ihre Hilfe brauchen, um Heilmittel zu finden!",
+
+#FIGHT DESIEASES TOGETHER WITH US bold text
+#"FIGHT DISEASES TOGETHER WITH US.",
+"BEKÄMPFT KRANKHEITEN GEMEINSAM MIT UNS",
+
+#Associated text
+#"The Folding@home software allows you to share your unused computer power with us so that we can research even more potential cures.",
+"Die Folding@home Software erlaubt es Ihnen, uns Ihre ungenutzte Rechenleistung zur Verfügung zu stellen, so dass wir noch mehr mögliche Heilmittel untersuchen können.",
+
+#Associated text in pentagon
+#"1 in a million",
+"1 unter Millionen",
+
+#FOLDING? bold text
+"FALTEN?",
+
+#Associated text
+#"Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health.",
+"Falten bezieht sich auf die Weise, wie sich menschliche Proteine in den Zellen, aus denen Ihr Körper besteht, verformen. Unsere Gesundheit ist auf Proteine angewiesen, und sie fügen sich durch das Falten zusammen. Aber wenn sie sich falsch falten kann dies ersthafte Folgen für die Gesundheit einer Person haben.",
+
+#Associated square button
+#"LEARN MORE",
+"ERFAHRE MEHR",
+
+#TEAM bold text
+#TEAM,
+"TEAM",
+
+#Associated text
+#"Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of  Dr. Greg Bowman. Drs. John Chodera (MSKCC) and Vince Voelz (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
+"Folding@home ist derzeit bei der Washington University in St. Louis School of Medicine zu Hause und steht unter der Leitung von Dr. Greg Bowman. Die Dres. John Chodera (MSKCC) und Vince Voelz (Temple University) unterstützen das Projektmanagement ebenfalls aktiv. Zusammen sind ihre drei Labore die hauptsächlichen Treiber von Folding@home."
 
 ]
