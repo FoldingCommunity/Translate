@@ -1,0 +1,13 @@
+---
+extends: default
+
+# For all rules
+ignore: |
+  .github/workflows/lint.yml
+
+rules:
+  # We are not limiting line length, because non-programmer translators might not be aware of it.
+  line-length: disable
+  comments:
+    # Tolerate comments which don't start with space.
+    require-starting-space: false
