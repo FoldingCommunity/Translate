@@ -1,0 +1,38 @@
+---
+url: "https://foldingathome.org/start-folding/"
+language: "ja-JP"
+title: "Folding@homeをはじめる"
+text: [
+# Bold first paragraph
+"Folding@homeは他の作業をしている間も動作し続けます。",
+
+# Second paragraph
+"あなたがいつも通り過ごしている間も、コンピュータはがんやALS、パーキンソン病、ハンチントン病、インフルエンザなどのさまざまな病気の治療法を見つける手助けを続けます。",
+
+# Third paragraph first sentence in bold
+"Please be patient if you experience idle time as we face the COVID-19 pandemic together! ",
+
+# Rest of the third paragraph
+"We are working like mad to start simulations of COVID-19 proteins. The enthusiastic response to our effort has been tremendous and has sometimes emptied our queues. This is a great “problem” to have as there is no end to the valuable science we can do, its just a matter of giving us some time to get more running.",
+
+#
+# OS-dependent binary download box
+#
+
+# Bold text
+"デバイスに合わないバージョンが表示されている場合は、下記をお試しください。",
+
+# Alternative downloads text
+"他のバージョンのダウンロード",
+"alternative downloads",
+
+# End of sentence punctuation
+"",
+
+# Bold text
+"追加のプラットフォーム",
+
+# URLs
+"Docker (GPU用)",
+"vSphere"
+]
