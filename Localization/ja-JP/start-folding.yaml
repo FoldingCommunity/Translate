@@ -4,9 +4,11 @@ language: "ja-JP"
 title: "Folding@homeをはじめる"
 text: [
 # Bold first paragraph
+# "The Folding@home software runs while you do other things.",
 "Folding@homeは他の作業をしている間も動作し続けます。",
 
 # Second paragraph
+# "While you keep going with your everyday activities, your computer will be working to help us find cures for diseases like cancer, ALS, Parkinson’s, Huntington’s, Influenza and many others.",
 "あなたがいつも通り過ごしている間も、コンピュータはがんやALS、パーキンソン病、ハンチントン病、インフルエンザなどのさまざまな病気の治療法を見つける手助けを続けます。",
 
 # Third paragraph first sentence in bold
@@ -20,19 +22,23 @@ text: [
 #
 
 # Bold text
-"デバイスに合わないバージョンが表示されている場合は、下記をお試しください。",
+# "Don’t see the correct software for your device? Try our list of",
+"デバイスに合わないバージョンが表示されている場合は、",
 
 # Alternative downloads text
+# "alternative downloads",
 "他のバージョンのダウンロード",
-"alternative downloads",
 
 # End of sentence punctuation
-".",
+# ".",
+"をお試しください。",
 
 # Bold text
+# "Additional platforms",
 "追加のプラットフォーム",
 
 # URLs
+# "Docker for GPUs",
 "Docker (GPU用)",
 "vSphere"
 ]
