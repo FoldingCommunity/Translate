@@ -3,7 +3,7 @@ extends: default
 
 # For all rules
 ignore: |
-  .github/workflows/lint.yml
+  .github
 
 rules:
   # We are not limiting line length, because non-programmer translators might not be aware of it.
