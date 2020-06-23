@@ -1,0 +1,75 @@
+---
+url: "https://foldingathome.org/"
+language: "it-IT"
+text: [
+# I AM One IN A MILLION bold text
+"I AM One IN A MILLION",
+
+# Associated text
+"Sia se stai già collaborando, sia se ancora non sai nulla riguardo al progetto, abbiamo bisogno del tuo aiuto per raggiungere il nostro obiettivo: 1 milione di 'folders'!",
+
+#Associated square button
+"COMINCIA ORA",
+
+#Associated text with the aobve square button
+"Nascondi questo e guarda il video.",
+
+# START FOLDING NOW bold text
+"COMINCIA ORA",
+
+# Associated text
+"Scarica la versione del programma adatta al tuo computer e comincia subito. Folding@Home è completamente gratuito, semplice da installare e del tutto sicuro.
+Disponibile per:
+Linux
+Windows
+Mac",
+
+#Associated square button
+"COMINCIA ORA",
+
+#JOIN THE COMMUNITY bold text
+"UNISCITI ALLA COMMUNITY",
+
+# Associated text
+"La comunità di Folding@Home è diffusa su moltissimi forum, siti web e social media.
+Questa è una lista dei nostri canali ufficiali.
+Per avere supporto tecnico: ",
+
+#URLs - Facebook and Twitter have localised name in certain languages:
+"foldingforum.org",
+"Facebook",
+"Twitter",
+
+#LATEST POSTS bold text
+"ULTIME DISCUSSIONI",
+
+# WHY WE NEED YOU bold text
+"PERCHÉ ABBIAMO BISOGNO DI TE",
+
+# Associated text
+"Folding@Home è un progetto di calcolo distribuito dedicato alla ricerca medica: i problemi che stiamo affrontando richiedono un grandissimo numero di elaborazioni informatiche e abbiamo bisogno del tuo aiuto per proseguire nella ricerca e trovare le cure!",
+
+#FIGHT DESIEASES TOGETHER WITH US bold text
+"COMBATTI LE PATOLOGIE INSIEME CON NOI",
+
+#Associated text
+"L'applicazione Folding@Home ti permette di condividere con i nostri laboratori la potenza di calcolo inutilizzata del tuo computer, permettendocì così di far progredire la nostra ricerca e cercare sempre più possibili cure.",
+
+#Associated text in pentagon
+"1 in a million",
+
+#FOLDING? bold text
+"FOLDING?",
+
+#Associated text
+"La parola 'folding' in italiano significa 'ripiegamento' e si riferisce al modo in cui le proteine si ripiegano per formare le cellule che compongono il nostro corpo. Attraverso questo processo, le proteine riescono ad assemblare loro stesse; tuttavia, quando questo non va a buon fine (misfolding), vi possono essere serissime conseguenze per la salute di un individuo.",
+
+#Associated square button
+"PER SAPERNE DI PIÙ",
+
+#TEAM bold text
+"TEAM",
+
+#Associated text
+"Folding@home al momento è gestito alla Washington University nella St. Louis Schoold of Medicine, sotto la direzione del dottor Greg Bowman. Anche i dottori John Chodera (MSKCC) e Vince Voelz (Temple University) sono coinvolti nella gestione del progetto. Questi sono i tre laboratori principali che lavorano su Folding@Home."
+]

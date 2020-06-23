@@ -1,0 +1,34 @@
+---
+url: "https://foldingathome.org/diseases/"
+language: "it-IT"
+title: "PATOLOGIE"
+text: [
+# Bold first paragraph
+"Folding@home è un progetto di ricerca scientifica riguardante il ripiegamento proteico e le patologie che conseguono dal cattivo ripiegamento delle proteine e dalla loro aggregazione. Inoltre, si occupa dello sviluppo di nuovi metodi computazionali al fine di progettare nuovi farmaci. In questa pagina, illustreremo brevemente i nostri obiettivi e in cosa consiste il nostro lavoro.",
+
+# Second paragraph
+"Un progetto di calcolo distribuito non deve limitarsi a far girare elaborazioni su milioni di computer ma deve anche produrre risultati che possano essere condivisi con la più vasta comunità scientifica: pubblicazioni peer-reviewed, seminari pubblici e altro ancora. Nella barra laterale, puoi trovare i collegamenti alle pagine che mostrano i nostri progressi nelle differenti aree.",
+
+# Third paragraph
+"Troverai anche aggiornamenti riguardanti il nostro lavoro, i nostri progressi e nuovi progetti",
+
+# Folding@Home blog link
+"Folding@home blog",
+
+# End of sentence punctuation
+".",
+
+# Bold heading 1
+"COS'È IL RIPIEGAMENTO PROTEICO? QUAL'È IL SUO RAPPORTO CON LE PATOLOGIE?",
+
+# Text block
+"Le proteine sono 'collane' di amminoacidi, molecole a lunga catena, e sono gli elementi fondamentali per il funzionamento biologico. Possono svolgere diverse funzioni: come enzimi, sono la forza motrice dietro a tutte le reazioni biochimiche che fanno funzionare la biologia; come elementi strutturali, sono i costituenti principali delle nostre ossa, muscoli, capelli, pelle e vasi sanguigni; come anticorpi, riconoscono gli intrusi e consentono al sistema immunitario di liberarsene. Queste sono le ragioni che hanno portato gli scienziati a sequenziare il genoma umano, la matrice di tutte le proteine. Ma come possiamo capire cosa queste proteine fanno e come funzionano?
+
+Conoscere solo la sequenza genetica ci dice ben poco del funzionamento delle proteine: per svolgere la loro funzione, infatti, devono prima assemblarsi in una specifica forma, chiamata "ripiegamento" (fold). Le proteine sono meccanismi davvero incredibili: prima che possano svolgere la loro funzione, si assemblano da sole! Questo autoassemblamento è chiamato 'ripiegamento' (folding)
+",
+
+# Bold heading 2
+"CHE SUCCEDE SE LE PROTEINE NON SI RIPIEGANO CORRETTAMENTE?",
+# Text block
+"Sembra che molte malattie, come la sindrome di Alzheimer, la corea di Huntington, la fibrosi cistica, la Mucca Pazza, una forma ereditaria di enfisema e anche diversi tipi di cancro, siano i risultati di un cattivo ripiegamento delle proteine. Quando le proteine non si ripiegano correttamente (misfold) possono formare degli aggregati e questi ultimi spesso si radunano nel cervello, dove sembra possano causare i sintomi della Mucca Pazza o della sindrome di Alzheimer."
+]
