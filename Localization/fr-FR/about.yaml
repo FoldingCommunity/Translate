@@ -1,12 +1,11 @@
 ---
 url: "https://foldingathome.org/about/"
 language: "fr-FR"
-title: "A propos"
+title: "À propos"
 text: [
 # Bold text at the start
-"Folding @ home (FAH or F @ h)",
+"Folding@home (FAH ou F@H)",
 
 # The rest of the paragraph
-# "is a distributed computing project for simulating protein dynamics, including the process of protein folding and the movements of proteins implicated in a variety of diseases. It brings together citizen scientists who volunteer to run simulations of protein dynamics on their personal computers. Insights from this data are helping scientists to better understand biology, and providing new opportunities for developing therapeutics. "
-"Folding@home (FAH ou F@h) est un projet de calcul distribué qui simule des protéines dynamiques, incluant le processus de repliement de protéines ainsi que le mouvement de protéines impliquées dans de nombreuses maladies. Ce projet rassemble des citoyens scientifiques bénévoles qui exécute des simulations de protéines dynamiques sur leurs ordinateurs personnels. Les perspectives de ces données sont d'aider les scientifiques à mieux comprendre la biologie et de leur donner des opportunités de développer des nouveaux traitements."
+"est un projet de calcul distribué qui simule la dynamique des protéines, y compris leur processus de repliement et leurs mouvements, des phénomènes impliqués dans de nombreuses maladies. Ce projet réunit des « citoyens scientifiques » bénévoles qui exécutent de telles simulations sur leur ordinateur personnel. Les enseignements ainsi obtenus aident les scientifiques à mieux comprendre la biologie en présence et leur permettent de développer de nouveaux traitements."
 ]
