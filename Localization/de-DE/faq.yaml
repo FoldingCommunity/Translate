@@ -1,0 +1,13 @@
+---
+url: "https://foldingathome.org/support/faq/"
+language: "de-DE"
+title: "FAQ"
+text: [
+# Bold paragraph
+# "You’ll find a large library of frequently asked questions about all things connected to Folding@home.",
+"Hier finden Sie eine große Sammlung von häufig gestellten Fragen über Dinge welche mit Folding@home zusammen hängen.",
+
+# The rest of the paragraph
+# "This section contains everything from guides and information about how to install and use the Folding@home software to the science behind our research. Look through the sidebar and find the topic you want to know more about."
+"Dieser Bereich beinhaltet alles, von Anleitungen und Informationen wie Folding@home zu installieren und benutzen ist bis hin zu der Wissenschaft welche hinter unseren Forschungen steckt. Navigieren Sie einfach durch die Seitenleiste und suchen Sie das Thema über welches Sie mehr erfahren wollen."
+]
