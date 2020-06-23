@@ -28,9 +28,7 @@ def filename_is(path, filename):
 
 
 def ensure_schema(translation, path):
-    keys = ["url", "language", "text"]
-    if not filename_is(path, "home.yaml"):
-        keys.append("title")
+    keys = ["url", "language", "text", "title"]
 
     for key in keys:
         if key not in translation:
