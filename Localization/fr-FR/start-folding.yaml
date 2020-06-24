@@ -1,0 +1,44 @@
+---
+url: "https://foldingathome.org/start-folding/"
+language: "fr-FR"
+title: "DÉMARRER"
+text: [
+# Bold first paragraph
+# "The Folding@home software runs while you do other things."
+"Le logiciel Folding@home travaille pendant que vous faites autre chose.",
+
+# Second paragraph
+# "While you keep going with your everyday activities, your computer will be working to help us find cures for diseases like cancer, ALS, Parkinson’s, Huntington’s, Influenza and many others."
+"Vous accomplissez vos activités quotidiennes comme d'ordinaire et, pendant ce temps, votre ordinateur nous aide à trouver des traitements contre des maladies comme le cancer, la SLA, la maladie de Parkinson, la maladie de Huntington, la grippe et bien d'autres.",
+
+# Third paragraph first sentence in bold
+# "Please be patient if you experience idle time as we face the COVID-19 pandemic together!"
+"Merci de faire preuve de patience si le système connaît des temps morts en raison des surcharges causées actuellement par la lutte contre la pandémie CIVID-19 !",
+
+# Rest of the third paragraph
+# "We are working like mad to start simulations of COVID-19 proteins. The enthusiastic response to our effort has been tremendous and has sometimes emptied our queues. This is a great “problem” to have as there is no end to the valuable science we can do, its just a matter of giving us some time to get more running."
+"Nous travaillons d'arrache-pied pour lancer des simulations des protéines COVID-19. Nos efforts ont suscité des avalanches de réactions enthousiastes, au point que nos serveurs sont parfois dépassés par la demande. Ce n'est certes pas un problème grave, car nous n'aurons pas de sitôt une surabondance de recherches scientifiques. Mais il vous faudra peut-être nous laisser le temps de préparer de nouveaux projets.",
+
+#
+# OS-dependent binary download box
+#
+
+# Bold text
+# "Don’t see the correct software for your device? Try our list of"
+"Vous ne trouvez pas le logiciel qui convient à votre appareil ? Examinez notre liste des ",
+
+# Alternative downloads text
+# "alternative downloads",
+"autres versions",
+
+# End of sentence punctuation
+"disponibles.",
+
+# Bold text
+# "Additional platforms"
+"Plateformes supplémentaires",
+
+# URLs
+"Docker pour GPU",
+"vSphere"
+]
