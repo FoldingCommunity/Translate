@@ -4,6 +4,7 @@ import fnmatch
 import yaml
 import traceback
 import os
+import sys
 
 
 def find(pattern, path):
@@ -53,6 +54,6 @@ for path in find("*.yaml", "Localization"):
             ensure_language(translation, path)
         except Exception as e:
             exit_code = 1
-            traceback.print_exc()
+            traceback.print_exc(file=sys.stdout)
 
 exit(exit_code)
