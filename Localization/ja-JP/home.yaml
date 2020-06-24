@@ -1,0 +1,98 @@
+---
+url: "https://foldingathome.org/"
+language: "ja-JP"
+text: [
+# I AM One IN A MILLION bold text
+#"I AM One IN A MILLION",
+"100万人の中のひとり",
+
+# Associated text
+#"Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal -- which is 1 million folders.",
+"目標の100万人の参加を達成するためにはフォールディングを知らない方も、すでに始めている方も皆様のご協力が必要です。"
+
+#Associated square button
+"START FOLDING NOW",
+
+#Associated text with the aobve square button
+#"Hide this and watch the video.",
+"ビデオを見る。",
+
+# START FOLDING NOW bold text
+#"START FOLDING NOW",
+"今すぐフォールディングを始める",
+
+# Associated text
+#"Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use.
+#Available for:
+#Linux
+#Windows
+#Mac",
+"対応するソフトのバージョンを見つけてスタートしましょう。 Folding@homeのダウンロードは無償で、簡単にインストールでき、安全に使用できます。
+対応OS:
+Linux
+Windows
+Mac",
+
+#Associated square button
+"START FOLDING",
+
+#JOIN THE COMMUNITY bold text
+#"JOIN THE COMMUNITY",
+"コミュニティに参加する",
+
+# Associated text
+#"The Folding@Home community is spread over countless forums, websites and social media.
+#Here's a list of our official channels.
+#For tech support: ",
+"Folding@Homeのコミュニティは、たくさんのフォーラム、ウェブサイト、SNSに広がっています。
+公式チャンネル
+テクニカルサポート: ",
+
+#URLs - Facebook and Twitter have localised name in certain languages:
+"foldingforum.org",
+"Facebook",
+"Twitter",
+
+#LATEST POSTS bold text
+#"LATEST POSTS",
+"最新の投稿",
+
+# WHY WE NEED YOU bold text
+#"WHY WE NEED YOU",
+"あなたの協力が必要です",
+
+# Associated text
+#"Folding@home is a project focused on disease research. The problems we're solving require so many computer calculations and we need your help to find the cures!",
+"Folding@homeは病気の研究に力を入れているプロジェクトです。解決しようとしている問題は非常に多くのコンピュータの計算能力を必要とし、治療法を見つけるためにはあなたの協力が必要です！",
+
+#FIGHT DESIEASES TOGETHER WITH US bold text
+#"FIGHT DISEASES TOGETHER WITH US.",
+"一緒に病気と闘いましょう",
+
+#Associated text
+#"The Folding@home software allows you to share your unused computer power with us so that we can research even more potential cures.",
+"Folding@homeのソフトを使うと、余分なパソコンの計算能力を使って、より多くの可能性のある治療法を研究することができます。"
+
+#Associated text in pentagon
+#"1 in a million",
+"100万人の中のひとり",
+
+#FOLDING? bold text
+#"FOLDING?",
+"フォールディング?",
+
+#Associated text
+#"Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health.",
+"フォールディングとは、人間のタンパク質が体を構成する細胞の中で折りたたまれることを指します。私たちの健康はタンパク質で維持されており、タンパク質は折りたたむことで自分自身を組み立てています。しかし、それらが誤って折りたたまれると、人の健康に深刻な結果をもたらす可能性があります。",
+
+#Associated square button
+#"LEARN MORE",
+"詳細情報",
+
+#TEAM bold text
+"チーム",
+
+#Associated text
+#"Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of  Dr. Greg Bowman. Drs. John Chodera (MSKCC) and Vince Voelz (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
+"Folding@homeは現在、Greg Bowman博士の下、ワシントン大学セントルイス校医学部を拠点としています。メモリアル・スローン・ケッタリング癌センターのJohn Chodera博士やテンプル大学のVince Voelz博士もプロジェクトの管理に積極的に協力しています。これら3つの研究室がFolding@homeを主に推進しています。"
+]
