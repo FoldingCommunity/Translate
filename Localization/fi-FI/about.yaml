@@ -1,0 +1,11 @@
+---
+url: "https://foldingathome.org/about/"
+language: "fi-FI"
+title: "TIETOA"
+text: [
+# Bold text at the start
+"Folding@home (FAH tai F@h)",
+
+# The rest of the paragraph
+"on hajautetun laskennan projekti, jolla simuloidaan proteiinien toimintaa kuten niiden laskostumista (engl. folding) ja liikkeitä, jotka on yhdistetty useisiin sairauksiin. Projekti tuo yhteen tieteestä kiinnostuneet tavalliset kansalaiset, jotka suorittavat vapaaehtoisesti proteiinien toimintaan liittyviä simulaatioita kotitietokoneillaan. Tästä laskennasta saatu tieto auttaa ammattilaisia ymmärtämään paremmin biologiaa ja tarjoamaan uusia mahdollisuuksia hoitokeinojen kehitykseen."
+]

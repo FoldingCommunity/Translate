@@ -1,0 +1,98 @@
+---
+url: "https://foldingathome.org/"
+title: "Folding@home"
+language: "fr-FR"
+text: [
+# I AM One IN A MILLION bold text
+# "I AM One IN A MILLION"
+"ÊTRE un/e PARMI UN MILLION",
+
+# Associated text
+# "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal -- which is 1 million folders."
+"Que vous participiez déjà à l'effort de « folding » ou que le sujet vous soit encore totalement étranger, nous avons besoin de vous pour atteindre notre objectif, à savoir un million de participants.",
+
+#Associated square button
+# "START FOLDING NOW"
+"SE LANCER",
+
+#Associated text with the aobve square button
+# "Hide this and watch the video."
+"Masquer cet écran pour visionner la vidéo.",
+
+# START FOLDING NOW bold text
+# "START FOLDING NOW"
+"DÉMARRER",
+
+# Associated text
+# "Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use.
+# Available for:
+"Trouvez la version du logiciel qui vous convient et lancez-vous. Folding@home est entièrement gratuit, facile à installer et utilisable sans aucun risque.
+Disponible pour :
+Linux
+Windows
+Mac",
+
+#Associated square button
+# "START FOLDING"
+"DÉMARRER",
+
+#JOIN THE COMMUNITY bold text
+# "JOIN THE COMMUNITY"
+"REJOINDRE LA COMMUNAUTÉ",
+
+# Associated text
+# "The Folding@Home community is spread over countless forums, websites and social media.
+# Here's a list of our official channels.
+# For tech support: "
+"La communauté Folding@Home est répartie entre d'innombrables forums, sites web et réseaux sociaux.
+Voici une liste de nos canaux officiels.
+Support technique : ",
+
+#URLs - Facebook and Twitter have localised name in certain languages:
+"foldingforum.org",
+"Facebook",
+"Twitter",
+
+#LATEST POSTS bold text
+# "LATEST POSTS"
+"DERNIERS BILLETS",
+
+# WHY WE NEED YOU bold text
+# "WHY WE NEED YOU"
+"POURQUOI NOUS AVONS BESOIN DE VOUS",
+
+# Associated text
+# "Folding@home is a project focused on disease research. The problems we're solving require so many computer calculations and we need your help to find the cures!"
+"Folding@home est un projet axé sur diverses recherches. Les problèmes que nous traitons nécessitent une immense puissance de calcul et nous avons besoin de votre aide pour guérir ces maladies!",
+
+#FIGHT DESIEASES TOGETHER WITH US bold text
+# "FIGHT DISEASES TOGETHER WITH US."
+"LUTTEZ AVEC NOUS CONTRE LA MALADIE.",
+
+#Associated text
+# "The Folding@home software allows you to share your unused computer power with us so that we can research even more potential cures."
+"Le logiciel Folding@home vous permet de partager votre ordinateur inutilisé avec nous, afin que nous puissions étudier davantage encore de remèdes potentiels.",
+
+#Associated text in pentagon
+# "1 in a million"
+"1 parmi un million",
+
+#FOLDING? bold text
+"FOLDING ?",
+
+#Associated text
+# "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
+"Le terme anglais folding (littéralement: plier/pliage) désigne ici la manière avec laquelle se replient les protéines qui composent notre organisme. Nous avons besoin des protéines pour rester en bonne santé et celles-ci s'assemblent par un processus de repliement. Mais si ce repliement est anormal, incorrect, cela peut sérieusement compromettre notre santé.",
+
+#Associated square button
+# "LEARN MORE",
+"EN SAVOIR PLUS",
+
+#TEAM bold text
+# "TEAM"
+"L'ÉQUIPE",
+
+#Associated text
+# "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of  Dr. Greg Bowman. Drs. John Chodera (MSKCC) and Vince Voelz (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
+"Actuellement, Folding@home est basé à l'École de médecine de l'Université Washington de Saint-Louis (Missouri, États-Unis) et dirigé par le Dr Greg Bowman. Les Drs John Chodera (MSKCC) and Vince Voelz (Temple University) participent aussi à la gestion du projet. Ensemble, leurs trois laboratoires constituent les principaux moteurs de Folding@home."
+]
