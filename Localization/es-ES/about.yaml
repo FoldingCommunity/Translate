@@ -1,0 +1,11 @@
+---
+url: "https://foldingathome.org/about/"
+language: "es-ES"
+title: "ACERCA DE"
+text: [
+# Bold text at the start
+"Folding@home (FAH or F@h)",
+
+# The rest of the paragraph
+"es un proyecto de computación distribuida para simular la dinámica de las proteínas, incluyendo el proceso de plegamiento de proteínas y los movimientos de proteínas implicadas en una variedad de enfermedades. Reúne a científicos ciudadanos que se ofrecen como voluntarios para ejecutar simulaciones de dinámica de proteínas en sus computadoras personales. El conocimientos de estos datos están ayudando a los científicos a comprender mejor la biología y brindar nuevas oportunidades para desarrollar terapias."
+]
