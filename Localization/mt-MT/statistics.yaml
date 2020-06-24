@@ -1,0 +1,36 @@
+---
+url: "https://foldingathome.org/statistics/"
+language: "mt-MT"
+title: "STATISTIKI"
+text: [
+# First two paragraphs
+"Wieħed mill-aħjar modi ta' kif tgħin Folding@home huwa billi tirrekluta l-ħbieb u l-familjari. Ibda billi taqsam il-proġett tagħna magħhom. Imbagħad ingħaqad ma' tim jew ibda t-tim tiegħek stess. Iktar ma jaqla' punti t-tim tiegħek, iktar niġu viċin li nsibu l-kuri.
+
+Fuq din il-paġna għandek issib aċċess għal statistika dwar individwi u timijiet li ngħaqdu flimkien biex jaqilgħu l-punti u jikkompetu ma' timijiet oħra. Xi wħud minna huma pjuttost intensivi fl-approċċ għat-tiwi. Għandna websajts għal timijiet, nsaħħu l-kompjuters tagħna, u navvanzaw it-teknoloġija billi nirraportaw bugs u nagħmlu suġġerimenti dwar it-titjib tas-software.",
+
+# Maximise your effort stylistic bold text
+"IMMASSIMIZZA SFORZOK",
+
+# SET UP YOUR TEAM
+"STABILIXXI T-TIM TIEGĦEK",
+
+# Associated text for setting up a team
+"Jekk int interessat fl-istabilixximent tat-tim tiegħek stess, tista' tibda hawn.",
+
+# START A TEAM button
+"WAQQAF TIM",
+
+# CHANGE YOUR TEAM INFO button
+"BIDDEL L-INFO TAT-TIM TIEGĦEK",
+
+# Lost team password? link
+"Tlift il-password tat-tim tiegħek?",
+
+# Heading 1
+"L-ISTASTIKI TAL-MONITORAĠĠ JIĠU AĠĠORNATI AWTOMATIKAMENT: DOWNLOADS DISPONIBBLI U REGOLI TAL-UŻU",
+
+# Text block
+"L-istatistiċi tad-donaturi u t-tims huma aġġornati kull siegħa, għalkemm dan jista' jiġi ttardjat jekk ikun hemm ħafna unitajiet ta’ xogħol li jkunu għadhom biex jaslu dik is-siegħa. Qegħdin nitfu l-aċċess mill-web għad-database tal-istatistiki waqt l-aġġornamenti (ġeneralment f'dik is-siegħa).
+
+Jekk jogħġbok tużax skripts biex taċċessa l-paġni tad-donaturi u t-tims, minflok uża l-lista sħiħa tad-donaturi (flat files). Indirizzi tal-IP li ma jimxux mar-regoli tar-robots.txt tagħna jiġu projbiti."
+]

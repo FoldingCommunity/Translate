@@ -1,0 +1,37 @@
+---
+url: "https://foldingathome.org/start-folding/"
+language: "fi-FI"
+title: "ALOITA LASKENTA"
+text: [
+# Bold first paragraph
+"Folding@home-ohjelma työskentelee samalla kun teet muuta.",
+
+# Second paragraph
+"Kun teet jokapäiväisiä asioitasi, tietokoneesi työskentelee auttaakseen meitä löytämään parannuskeinoja tauteihin kuten syöpä, ALS, Parkinsonin tauti, Huntingtonin tauti, influenssa ja monia muita.",
+
+# Third paragraph first sentence in bold
+"Ole huoleti vaikka havaitsisitkin joutokäyntiä taistelussamme COVID-19 pandemiaa vastaan! ",
+
+# Rest of the third paragraph
+"Työskentelemme vauhdilla saadaksemme simulaatioita COVID-19 proteineista laskettavaksi. Suuri mielenkiinto projektiamme kohtaan on yllättänyt meidät ja välillä tyhjentänyt työjonoja. Tämä on hieno positiivinen ongelma, koska loppua arvokkaille tutkimusmahdollisuuksille ei ole - kyse on vain siitä, että ehdimme asettaa lisää tutkimuksia laskettavaksi.",
+
+#
+# OS-dependent binary download box
+#
+
+# Bold text
+"Etkä näe sopivaa ohjelmaversiota laitteellesi? Kokeile listaa",
+
+# Alternative downloads text
+"vaihtoehtoisista versioista",
+
+# End of sentence punctuation
+".",
+
+# Bold text
+"Muut alustat",
+
+# URLs
+"Docker (näytönohjaimille)",
+"vSphere"
+]

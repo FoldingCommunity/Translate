@@ -1,0 +1,34 @@
+---
+url: "https://foldingathome.org/diseases/"
+language: "fi-FI"
+title: "TAUDIT"
+text: [
+# Bold first paragraph
+"Folding@home-projekti (FAH) on omistautunut lisäämään ymmärrystä proteiinien laskostumistavoista, virheellisestä laskostumisesta tai yhdistymisestä aiheutuvista taudeista, sekä uudenlaisista laskennallisista tavoista kehittää uusia lääkkeitä. Kuvaamme tässä lyhyesti tavoitteitamme, mitä me käytännössä teemme ja joitain tähänastisia kohokohtia.",
+
+# Second paragraph
+"Hajautetun laskennan projektin täytyy ei ainoastaan suorittaa laskentaa miljoonilla tietokoneilla, vaan projektien täytyy myös aikaansaada tuloksia, erityisesti vertaisarvioitujen julkaisujen muodossa, julkisina luentoina ja muilla tavoilla, jotka levittävät FAH-projektin aikaansaamia tuloksia laajemman tiedeyhteisön tietoisuuteen. Löydät sivupalkista linkkejä edistymisestä eri tutkimusalueilla.",
+
+# Third paragraph
+"Löydät myös päivityksiä työstämme, edistysaskelista ja uusista projekteista virallisesta",
+
+# Folding@Home blog link
+"Folding@home-blogista",
+
+# End of sentence punctuation
+".",
+
+# Bold heading 1
+"MITÄ ON PROTEIINIEN LASKOSTAMINEN JA MITEN SE LIITTYY TAUTEIHIN?",
+
+# Text block
+"Proteiinit ovat aminohapoista koostuvia helminauhoja, pitkäketjuisia molekyylejä. Ne ovat biologian perusrakennuspalikka, jolla saadaan asioita tapahtumaan. Entsyymeinä ne ovat voima kaikkien biokemiallisten reaktioiden taustalla saaden biologian toimimaan. Rakenteellisina elementteinä ne ovat luidemme, lihastemme, hiustemme, ihomme ja verisuoniemme päärakennusaine. Vasta-aineina ne tunnistavat tunkeutuvat ainekset ja mahdollistavat immuunijärjestelmämme hankkiutua eroon tunkeilijasta. Näistä syistä tutkijat ovat sekvensoineet ihmisperimän – piirustukset kaikille proteiineille biologiassamme – mutta miten voimme ymmärtää mitä nämä proteiinit tekevät ja miten ne toimivat?
+
+Pelkän geenisekvenssin tietäminen ei kerro meille juuri mitään, mitä proteiinit tekevät ja miten ne sen tekevät. Niiden tulee muuttaa muotoaan tarkkaan tietyllä tavalla, jotta ne voivat suorittaa kulloinkin halutun toiminnon (esim. toimia entsyyminä tai vasta-aineena). Tästä syystä proteiinit ovat kerrassaan uskomattomia koneita: Ennen työn suorittamista ne kokoavat itse itsensä! Tätä itsensä kokoamista nimitämme laskostumiseksi (engl. folding)",
+
+# Bold heading 2
+"MITÄ TAPAHTUU JOS PROTEIINIT EIVÄT LASKOSTU OIKEIN?",
+
+# Text block
+"Tautien kuten Alzheimerin taudin, Huntingtonin taudin, kystisen fibroosin, BSE:n (Hullun lehmän tauti), periytyvän keuhkolaajentuman ja jopa monien syövän muotojen uskotaan johtuvan proteiinien laskostumisvirheistä. Kun proteiinit laskostuvat väärin, ne saattavat kasautua yhteen. Nämä kasaumat saattavat kertyä aivoihin, missä niiden uskotaan aiheuttavan Hullun lehmän taudin tai Alzheimerin taudin oireita."
+]
