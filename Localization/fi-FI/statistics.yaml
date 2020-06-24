@@ -1,0 +1,36 @@
+---
+url: "https://foldingathome.org/statistics/"
+language: "fi-FI"
+title: "TILASTOT"
+text: [
+# First two paragraphs
+"Paras tapa auttaa Folding@home-projektia on rekrytoida mukaan ystäviä ja perheenjäseniä. Aloita kertomalla projektista muille. Liity joukkueeseen tai perusta jopa oma joukkueesi. Mitä enemmän joukkueesi kerää pisteitä, sitä lähemmäksi pääsemme hoitokeinojen löytymistä.
+
+Tältä sivulta löydät tilastoja yksittäisistä käyttäjistä, sekä joukkueista, jotka on perustettu keräämään käyttäjien pisteet yhteen ja kilpailemaan toisia joukkueita vastaan. Joidenkin suhtautuminen laskentaan on hyvinkin intohimoista. Joukkueilla on omia nettiyhteisöjä, virittelemme tietokoneita nopeammiksi ja puskemme kehitystä eteenpäin ilmoittamalla bugeja ja parannusehdotuksia ohjelman kehittämiseksi.",
+
+# Maximise your effort stylistic bold text
+"MAKSIMOI oma PANOKSESI",
+
+# SET UP YOUR TEAM
+"PERUSTA JOUKKUE",
+
+# Associated text for setting up a team
+"Jos sinua kiinnostaa oman joukkueen perustaminen, voit aloittaa sen tästä.",
+
+# START A TEAM button
+"LUO JOUKKUE",
+
+# CHANGE YOUR TEAM INFO button
+"MUUTA JOUKKUEEN TIETOJA",
+
+# Lost team password? link
+"Unohditko joukkueen salasanan?",
+
+# Heading 1
+"TILASTOJEN AUTOMAATTINEN SEURANTA: LADATTAVISSA OLEVA TIETO JA NIIDEN KÄYTTÖ",
+
+# Text block
+"Vapaaehtoisten ja joukkueiden tilastot päivittyvät tunneittain, mutta joissain tapauksissa tätä saatetaan viivästyttää jos suuri määrä laskentatöitä on palautuksessa juuri sillä hetkellä. Pääsy tilastoihin nettisivujen kautta katkeaa tilastojen päivityksen ajaksi (yleensä tasatunti).
+
+Älä käytä skriptejä lukemaan yksittäisten vapaaehtoisten tai joukkueiden tilastosivuja, vaan käytä täyttä tietolistausta. IP-osoitteet, jotka eivät noudata robots.txt-tiedoston sääntöjä tullaan estämään."
+]
