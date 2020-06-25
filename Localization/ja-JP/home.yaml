@@ -1,25 +1,27 @@
 ---
 url: "https://foldingathome.org/"
+title: "Folding@home"
 language: "ja-JP"
 text: [
 # I AM One IN A MILLION bold text
 #"I AM One IN A MILLION",
-"100–œl‚Ì’†‚Ì‚Ğ‚Æ‚è",
+"100ä¸‡äººã®ä¸­ã®ã²ã¨ã‚Šã«ãªã‚ã†",
 
 # Associated text
 #"Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal -- which is 1 million folders.",
-"–Ú•W‚Ì100–œl‚ÌQ‰Á‚ğ’B¬‚·‚é‚½‚ß‚É‚ÍƒtƒH[ƒ‹ƒfƒBƒ“ƒO‚ğ’m‚ç‚È‚¢•û‚àA‚·‚Å‚Én‚ß‚Ä‚¢‚é•û‚àŠF—l‚Ì‚²‹¦—Í‚ª•K—v‚Å‚·B"
+"ç›®æ¨™ã®100ä¸‡äººã®å‚åŠ ã‚’é”æˆã™ã‚‹ãŸã‚ã«ã¯ãƒ•ã‚©ãƒ¼ãƒ«ãƒ‡ã‚£ãƒ³ã‚°ã‚’çŸ¥ã‚‰ãªã„æ–¹ã‚‚ã€ã™ã§ã«å§‹ã‚ã¦ã„ã‚‹æ–¹ã‚‚çš†æ§˜ã®ã”å”åŠ›ãŒå¿…è¦ã§ã™ã€‚",
 
 #Associated square button
 "START FOLDING NOW",
+"ä»Šã™ããƒ•ã‚©ãƒ¼ãƒ«ãƒ‡ã‚£ãƒ³ã‚°ã‚’å§‹ã‚ã‚‹",
 
 #Associated text with the aobve square button
 #"Hide this and watch the video.",
-"ƒrƒfƒI‚ğŒ©‚éB",
+"ãƒ“ãƒ‡ã‚ªã‚’è¦‹ã‚‹ã€‚",
 
 # START FOLDING NOW bold text
 #"START FOLDING NOW",
-"¡‚·‚®ƒtƒH[ƒ‹ƒfƒBƒ“ƒO‚ğn‚ß‚é",
+"ä»Šã™ããƒ•ã‚©ãƒ¼ãƒ«ãƒ‡ã‚£ãƒ³ã‚°ã‚’å§‹ã‚ã‚‹",
 
 # Associated text
 #"Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use.
@@ -27,26 +29,27 @@ text: [
 #Linux
 #Windows
 #Mac",
-"‘Î‰‚·‚éƒ\ƒtƒg‚Ìƒo[ƒWƒ‡ƒ“‚ğŒ©‚Â‚¯‚ÄƒXƒ^[ƒg‚µ‚Ü‚µ‚å‚¤B Folding@home‚Ìƒ_ƒEƒ“ƒ[ƒh‚Í–³‚ÅAŠÈ’P‚ÉƒCƒ“ƒXƒg[ƒ‹‚Å‚«AˆÀ‘S‚Ég—p‚Å‚«‚Ü‚·B
-‘Î‰OS:
+"ã”å¸Œæœ›ã®ã‚½ãƒ•ãƒˆã®ãƒãƒ¼ã‚¸ãƒ§ãƒ³ã‚’è¦‹ã¤ã‘ã¦ã‚¹ã‚¿ãƒ¼ãƒˆã—ã¾ã—ã‚‡ã†ã€‚ Folding@homeã®ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã¯ç„¡å„Ÿã§ã€ç°¡å˜ã«ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã§ãã€å®‰å…¨ã«ä½¿ç”¨ã§ãã¾ã™ã€‚
+å¯¾å¿œOS:
 Linux
 Windows
 Mac",
 
 #Associated square button
 "START FOLDING",
+"ãƒ•ã‚©ãƒ¼ãƒ«ãƒ‡ã‚£ãƒ³ã‚°ã‚’å§‹ã‚ã‚‹",
 
 #JOIN THE COMMUNITY bold text
 #"JOIN THE COMMUNITY",
-"ƒRƒ~ƒ…ƒjƒeƒB‚ÉQ‰Á‚·‚é",
+"ã‚³ãƒŸãƒ¥ãƒ‹ãƒ†ã‚£ã«å‚åŠ ã™ã‚‹",
 
 # Associated text
 #"The Folding@Home community is spread over countless forums, websites and social media.
 #Here's a list of our official channels.
 #For tech support: ",
-"Folding@Home‚ÌƒRƒ~ƒ…ƒjƒeƒB‚ÍA‚½‚­‚³‚ñ‚ÌƒtƒH[ƒ‰ƒ€AƒEƒFƒuƒTƒCƒgASNS‚ÉL‚ª‚Á‚Ä‚¢‚Ü‚·B
-Œö®ƒ`ƒƒƒ“ƒlƒ‹
-ƒeƒNƒjƒJƒ‹ƒTƒ|[ƒg: ",
+"Folding@Homeã®ã‚³ãƒŸãƒ¥ãƒ‹ãƒ†ã‚£ã¯ã€ãŸãã•ã‚“ã®ãƒ•ã‚©ãƒ¼ãƒ©ãƒ ã€ã‚¦ã‚§ãƒ–ã‚µã‚¤ãƒˆã€SNSã«åºƒãŒã£ã¦ã„ã¾ã™ã€‚
+å…¬å¼ãƒãƒ£ãƒ³ãƒãƒ«
+ãƒ†ã‚¯ãƒ‹ã‚«ãƒ«ã‚µãƒãƒ¼ãƒˆ: ",
 
 #URLs - Facebook and Twitter have localised name in certain languages:
 "foldingforum.org",
@@ -55,44 +58,45 @@ Mac",
 
 #LATEST POSTS bold text
 #"LATEST POSTS",
-"ÅV‚Ì“Še",
+"æœ€æ–°ã®æŠ•ç¨¿",
 
 # WHY WE NEED YOU bold text
 #"WHY WE NEED YOU",
-"‚ ‚È‚½‚Ì‹¦—Í‚ª•K—v‚Å‚·",
+"ã‚ãªãŸã®å”åŠ›ãŒå¿…è¦ã§ã™",
 
 # Associated text
 #"Folding@home is a project focused on disease research. The problems we're solving require so many computer calculations and we need your help to find the cures!",
-"Folding@home‚Í•a‹C‚ÌŒ¤‹†‚É—Í‚ğ“ü‚ê‚Ä‚¢‚éƒvƒƒWƒFƒNƒg‚Å‚·B‰ğŒˆ‚µ‚æ‚¤‚Æ‚µ‚Ä‚¢‚é–â‘è‚Í”ñí‚É‘½‚­‚ÌƒRƒ“ƒsƒ…[ƒ^‚ÌŒvZ”\—Í‚ğ•K—v‚Æ‚µA¡—Ã–@‚ğŒ©‚Â‚¯‚é‚½‚ß‚É‚Í‚ ‚È‚½‚Ì‹¦—Í‚ª•K—v‚Å‚·I",
+"Folding@homeã¯ç—…æ°—ã®ç ”ç©¶ã«åŠ›ã‚’å…¥ã‚Œã¦ã„ã‚‹ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã§ã™ã€‚è§£æ±ºã—ã‚ˆã†ã¨ã—ã¦ã„ã‚‹å•é¡Œã¯éå¸¸ã«å¤šãã®ã‚³ãƒ³ãƒ”ãƒ¥ãƒ¼ã‚¿ãƒ¼ã®è¨ˆç®—èƒ½åŠ›ã‚’å¿…è¦ã§ã€æ²»ç™‚æ³•ã‚’è¦‹ã¤ã‘ã‚‹ãŸã‚ã«ã¯ã‚ãªãŸã®å”åŠ›ãŒå¿…è¦ã§ã™ï¼",
 
 #FIGHT DESIEASES TOGETHER WITH US bold text
 #"FIGHT DISEASES TOGETHER WITH US.",
-"ˆê‚É•a‹C‚Æ“¬‚¢‚Ü‚µ‚å‚¤",
+"ä¸€ç·’ã«ç—…æ°—ã¨é—˜ã„ã¾ã—ã‚‡ã†",
 
 #Associated text
 #"The Folding@home software allows you to share your unused computer power with us so that we can research even more potential cures.",
-"Folding@home‚Ìƒ\ƒtƒg‚ğg‚¤‚ÆA—]•ª‚Èƒpƒ\ƒRƒ“‚ÌŒvZ”\—Í‚ğg‚Á‚ÄA‚æ‚è‘½‚­‚Ì‰Â”\«‚Ì‚ ‚é¡—Ã–@‚ğŒ¤‹†‚·‚é‚±‚Æ‚ª‚Å‚«‚Ü‚·B"
+"Folding@homeã®ã‚½ãƒ•ãƒˆã‚’ä½¿ã†ã¨ã€ä½™åˆ†ãªãƒ‘ã‚½ã‚³ãƒ³ã®è¨ˆç®—èƒ½åŠ›ã‚’ä½¿ã£ã¦ã€ã‚ˆã‚Šå¤šãã®å¯èƒ½æ€§ã®ã‚ã‚‹æ²»ç™‚æ³•ã‚’ç ”ç©¶ã™ã‚‹ã“ã¨ãŒã§ãã¾ã™ã€‚",
 
 #Associated text in pentagon
 #"1 in a million",
-"100–œl‚Ì’†‚Ì‚Ğ‚Æ‚è",
+"100ä¸‡äººã®ä¸­ã®ã²ã¨ã‚Šã«ãªã‚ã†",
 
 #FOLDING? bold text
 #"FOLDING?",
-"ƒtƒH[ƒ‹ƒfƒBƒ“ƒO?",
+"ãƒ•ã‚©ãƒ¼ãƒ«ãƒ‡ã‚£ãƒ³ã‚°?",
 
 #Associated text
 #"Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health.",
-"ƒtƒH[ƒ‹ƒfƒBƒ“ƒO‚Æ‚ÍAlŠÔ‚Ìƒ^ƒ“ƒpƒN¿‚ª‘Ì‚ğ\¬‚·‚é×–E‚Ì’†‚ÅÜ‚è‚½‚½‚Ü‚ê‚é‚±‚Æ‚ğw‚µ‚Ü‚·B„‚½‚¿‚ÌŒ’N‚Íƒ^ƒ“ƒpƒN¿‚ÅˆÛ‚³‚ê‚Ä‚¨‚èAƒ^ƒ“ƒpƒN¿‚ÍÜ‚è‚½‚½‚Ş‚±‚Æ‚Å©•ª©g‚ğ‘g‚İ—§‚Ä‚Ä‚¢‚Ü‚·B‚µ‚©‚µA‚»‚ê‚ç‚ªŒë‚Á‚ÄÜ‚è‚½‚½‚Ü‚ê‚é‚ÆAl‚ÌŒ’N‚É[‚ÈŒ‹‰Ê‚ğ‚à‚½‚ç‚·‰Â”\«‚ª‚ ‚è‚Ü‚·B",
+"ãƒ•ã‚©ãƒ¼ãƒ«ãƒ‡ã‚£ãƒ³ã‚°ï¼ˆæŠ˜ã‚ŠãŸãŸã¿ï¼‰ã¨ã¯ã€äººé–“ã®ã‚¿ãƒ³ãƒ‘ã‚¯è³ªãŒä½“ã‚’æ§‹æˆã™ã‚‹ç´°èƒã®ä¸­ã§æŠ˜ã‚ŠãŸãŸã¾ã‚Œã‚‹ã“ã¨ã‚’æŒ‡ã—ã¾ã™ã€‚ç§ãŸã¡ã®å¥åº·ã¯ã‚¿ãƒ³ãƒ‘ã‚¯è³ªã§ç¶­æŒã•ã‚Œã¦ãŠã‚Šã€ã‚¿ãƒ³ãƒ‘ã‚¯è³ªã¯æŠ˜ã‚ŠãŸãŸã‚€ã“ã¨ã§è‡ªåˆ†è‡ªèº«ã‚’çµ„ã¿ç«‹ã¦ã¦ã„ã¾ã™ã€‚ã—ã‹ã—ã€ãã‚Œã‚‰ãŒèª¤ã£ã¦æŠ˜ã‚ŠãŸãŸã¾ã‚Œã‚‹ã¨ã€äººã®å¥åº·ã«æ·±åˆ»ãªçµæœã‚’ã‚‚ãŸã‚‰ã™å¯èƒ½æ€§ãŒã‚ã‚Šã¾ã™ã€‚",
 
 #Associated square button
 #"LEARN MORE",
-"Ú×î•ñ",
+"è©³ç´°æƒ…å ±",
 
 #TEAM bold text
-"ƒ`[ƒ€",
+"TEAM",
+"ãƒãƒ¼ãƒ ",
 
 #Associated text
 #"Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of  Dr. Greg Bowman. Drs. John Chodera (MSKCC) and Vince Voelz (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
-"Folding@home‚ÍŒ»İAGreg Bowman”m‚Ì‰ºAƒƒVƒ“ƒgƒ“‘åŠwƒZƒ“ƒgƒ‹ƒCƒXZˆãŠw•”‚ğ‹’“_‚Æ‚µ‚Ä‚¢‚Ü‚·Bƒƒ‚ƒŠƒAƒ‹EƒXƒ[ƒ“EƒPƒbƒ^ƒŠƒ“ƒOŠàƒZƒ“ƒ^[‚ÌJohn Chodera”m‚âƒeƒ“ƒvƒ‹‘åŠw‚ÌVince Voelz”m‚àƒvƒƒWƒFƒNƒg‚ÌŠÇ—‚ÉÏ‹É“I‚É‹¦—Í‚µ‚Ä‚¢‚Ü‚·B‚±‚ê‚ç3‚Â‚ÌŒ¤‹†º‚ªFolding@home‚ğå‚É„i‚µ‚Ä‚¢‚Ü‚·B"
+"Folding@homeã¯ç¾åœ¨ã€Greg Bowmanåšå£«ã®ä¸‹ã€ã‚»ãƒ³ãƒˆãƒ«ã‚¤ã‚¹ãƒ»ãƒ¯ã‚·ãƒ³ãƒˆãƒ³å¤§å­¦åŒ»å­¦éƒ¨ã‚’æ‹ ç‚¹ã¨ã—ã¦ã„ã¾ã™ã€‚ãƒ¡ãƒ¢ãƒªã‚¢ãƒ«ãƒ»ã‚¹ãƒ­ãƒ¼ãƒ³ãƒ»ã‚±ãƒƒã‚¿ãƒªãƒ³ã‚°ç™Œã‚»ãƒ³ã‚¿ãƒ¼ã®John Choderaåšå£«ã‚„ãƒ†ãƒ³ãƒ—ãƒ«å¤§å­¦ã®Vince Voelzåšå£«ã‚‚ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã®ç®¡ç†ã«ç©æ¥µçš„ã«å”åŠ›ã—ã¦ã„ã¾ã™ã€‚ã“ã‚Œã‚‰3ã¤ã®ç ”ç©¶å®¤ãŒFolding@homeã‚’ä¸»ã«æ¨é€²ã—ã¦ã„ã¾ã™ã€‚"
 ]
