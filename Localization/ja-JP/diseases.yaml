@@ -1,9 +1,8 @@
 ---
 url: "https://foldingathome.org/diseases/"
-language: "ja-JP"
 ＃title: "DISEASES"
 title: "病気の解明"
-
+language: "ja-JP"
 text: [
 # Bold first paragraph
 #"The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far.",
