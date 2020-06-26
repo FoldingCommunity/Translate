@@ -4,73 +4,74 @@ title: "Folding@home"
 language: "nl-NL"
 text: [
 # I AM One IN A MILLION bold text
-"I AM One IN A MILLION",
+"IK BEN 1 VAN DE MILJOEN",
 
 # Associated text
-"Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal -- which is 1 million folders.",
+"Ogeacht of je al bezig bent met 'folding' of er nog nooit iets  over gehoord hebt, we hebben je hulp nodig om ons doel te bereiken -- 1 miljoen 'folders'.",
 
 #Associated square button
-"START FOLDING NOW",
+"BEGIN NU MET 'FOLDEN'",
 
 #Associated text with the aobve square button
-"Hide this and watch the video.",
+"Verberg deze tekst en bekijk de video.",
 
 # START FOLDING NOW bold text
-"START FOLDING NOW",
+"BEGIN NU MET 'FOLDEN'",
 
 # Associated text
-"Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use.
-Available for:
+"Vind de software versie die jouw voorkeur heeft en begin. Het downloaden van Folding@home is gratis, makkelijk om te installeren en veilig te gebruiken.
+Beschikbaar voor:
 Linux
 Windows
 Mac",
 
 #Associated square button
-"START FOLDING",
+"BEGIN NU MET 'FOLDEN'",
 
 #JOIN THE COMMUNITY bold text
-"JOIN THE COMMUNITY",
+"WORD LID VAN DE GEMEENSCHAP",
 
 # Associated text
-"The Folding@Home community is spread over countless forums, websites and social media.
-Here's a list of our official channels.
-For tech support: ",
+"De Folding@Home gemeenschap is verspreid over ontelbare forums, websites en social media.
+Hieronder is  een lijst van onze officiële kanalen.
+Voor technische ondersteuning: ",
 
 #URLs - Facebook and Twitter have localised name in certain languages:
 "foldingforum.org",
-"Facebook",
-"Twitter",
+"Facebook.nl",
+"Twitter.nl",
 
 #LATEST POSTS bold text
-"LATEST POSTS",
+"MEEST RECENTE BERICHTEN",
 
 # WHY WE NEED YOU bold text
-"WHY WE NEED YOU",
+"WAAROM WIJ JOU NODIG ZIJN",
 
 # Associated text
-"Folding@home is a project focused on disease research. The problems we're solving require so many computer calculations and we need your help to find the cures!",
+"Folding@home is een project gefocused op onderzoek naar ziektes. De problemen die we oplossen vereisen zoveel computerberekeningen dat wij jouw hulp nodig zijn om een behandeling te vinden!",
 
 #FIGHT DESIEASES TOGETHER WITH US bold text
-"FIGHT DISEASES TOGETHER WITH US.",
+"VECHT SAMEN MET ONS TEGEN ZIEKTES.",
 
 #Associated text
-"The Folding@home software allows you to share your unused computer power with us so that we can research even more potential cures.",
+"De Folding@home software laat je jouw ongebruikte computerkracht delen met ons om zo nog meer mogelijke behandelingen te vinden.",
 
 #Associated text in pentagon
-"1 in a million",
+"1 van de miljoen",
 
 #FOLDING? bold text
 "FOLDING?",
 
 #Associated text
-"Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health.",
+"'Folding' verwijst naar de manier waarop menselijke proteїnen vouwen in de cellen van je lichaam. Wij zijn afhankelijk van proteїnen om ons gezond te helpen en zichzelf te bouwen d.m.v. vouwen. Maar als ze verkeed vouwen, dan zijn er mogelijk sirieuze gevolgen voor iemands gezondheid.",
+We rely on the proteins to keep us healthy and they assemble themselves by folding
 
 #Associated square button
-"LEARN MORE",
+"MEER LEREN",
 
 #TEAM bold text
 "TEAM",
 
 #Associated text
-"Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of  Dr. Greg Bowman. Drs. John Chodera (MSKCC) and Vince Voelz (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
+"Folding@home is gevestigd op de  Washington Universiteit in St. Louis School of Medicine, onder leiding van  Dr. Greg Bowman. Drs. John Chodera (MSKCC) en Vince Voelz (Temple University) zijn ook betrokken bij het sturing geven aan dit project. Samen, zijn hun drie laberatoria de drijfveren achgter Folding@home."
 ]
