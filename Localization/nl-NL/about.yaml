@@ -1,11 +1,11 @@
 ---
 url: "https://foldingathome.org/about/"
 language: "nl-NL"
-title: "ABOUT"
+title: "OVER"
 text: [
 # Bold text at the start
 "Folding@home (FAH or F@h)",
 
 # The rest of the paragraph
-"is a distributed computing project for simulating protein dynamics, including the process of protein folding and the movements of proteins implicated in a variety of diseases. It brings together citizen scientists who volunteer to run simulations of protein dynamics on their personal computers. Insights from this data are helping scientists to better understand biology, and providing new opportunities for developing therapeutics."
+"is een gedistribueerd computerproject voor het simuleren van eiwitdynamica, inclusief het proces van eiwitvouwing en de bewegingen van eiwitten die betrokken zijn bij verschillende ziekten. Het brengt burgerwetenschappers samen die zich aanmelden als vrijwilligers en simulaties uitvoeren van eiwitdynamica op hun computer. De inzichten die worden opgedaan helpen wetenschappers de biologie beter te begrijpen en bieden kansen voor het ontwikkelen van nieuwe therapieën."
 ]
