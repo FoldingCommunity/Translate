@@ -1,0 +1,11 @@
+---
+url: "https://foldingathome.org/about/"
+language: "mt-MT"
+title: "DWAR FOLDING@HOME"
+text: [
+# Bold text at the start
+"Folding@home (FAH jew F@h)",
+
+# The rest of the paragraph
+"huwa proġett tal-informatika distribwita għas-simulazzjoni tad-dinamiċi tal-proteini, li jinkludi l-proċess tat-tiwi tal-proteini u l-moviment tal-proteini implikati f'varjetà ta' mard differenti. Jgħaqqad flimkien xjentisti ċittadini li volonterjament jmexxu s-simulazzjonijiet tad-dinamika tal-proteini fuq il-kompjuters personali tagħhom. L-għarfien minn dan id-dejta qed jgħin xjentisti jifhmu aħjar il-bijoloġija, u jipprovdi oppurtinatijiet ġodda għall-iżviluppar tat-terapewtiki."
+]

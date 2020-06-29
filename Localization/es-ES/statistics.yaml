@@ -42,4 +42,5 @@ En esta página encontrará acceso a las estadísticas individuales y de equipos
 # Please do not use scripts to access the donor or team pages, but use the full donor list (flat files) instead. IP addresses which do not abide by our robots.txt rules will be banned."
 "Las estadísticas de los donantes y equipos se actualizan cada hora, a pesar de que puede retrasarse si hay demasiadas work units que procesar durante esa hora. Hemos desconectado el acceso web a la base de datos de las estadísticas durante la actualización de las mismas (normalmente durate esa hora).
 Por favor, no utilice scripts para acceder a las páginas de donante o equipo, utilice en su lugar la lista completa (ficheros de texto). Las direcciones IP que no sigan las reglas de nuestro robots.txt serán bloqueadas."
+
 ]
