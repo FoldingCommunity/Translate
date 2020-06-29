@@ -17,15 +17,14 @@ text: [
 
 # Rest of the third paragraph
 # "We are working like mad to start simulations of COVID-19 proteins. The enthusiastic response to our effort has been tremendous and has sometimes emptied our queues. This is a great “problem” to have as there is no end to the valuable science we can do, its just a matter of giving us some time to get more running."
-"Estamos trabajando sin descanso para comenzar simulaciones de proteinas del COVID-19. La entusiasta respuesta a nuestro esfuerzo ha sido tremenda y a veces a vaciado nuestras colas de trabajo. Esto es un "problema estupendo" que tenemos ya que no hay límites a la valiosa ciencia que podemos hacer, es cuestión de conseguir algo de tiempo para poder poner más tareas en ejecución.",
-
+"Estamos trabajando sin descanso para comenzar simulaciones de proteinas del COVID-19. La entusiasta respuesta a nuestro esfuerzo ha sido tremenda y a veces a vaciado nuestras colas de trabajo. Esto es un “problema estupendo” que tenemos ya que no hay límites a la valiosa ciencia que podemos hacer, es cuestión de conseguir algo de tiempo para poder poner más tareas en ejecución.",
 #
 # OS-dependent binary download box
 #
 
 # Bold text
 # "Don’t see the correct software for your device? Try our list of"
-"¿No ve el software correcto para su dispositivo? Pruebe con la lista siguiente",
+"¿No ve el software correcto para su dispositivo? Pruebe nuestra lista de",
 
 # Alternative downloads text
 # "alternative downloads",
@@ -40,5 +39,5 @@ text: [
 
 # URLs
 "Docker para GPU",
-"vSphere"
+"vSphere",
 ]
