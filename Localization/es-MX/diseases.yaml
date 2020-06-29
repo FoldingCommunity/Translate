@@ -1,0 +1,34 @@
+---
+url: "https://foldingathome.org/diseases/"
+language: "es-MX"
+title: "ENFERMEDADES"
+text: [
+# Bold first paragraph
+"El proyecto de Folding@home (FAH) se dedica a comprender el plegamiento de las proteínas, las enfermedades resultantes del mal plegado y agregación proteica, y nuevas formas computacionales para desarrollar nuevos fármacos en general. Aquí, describimos brevemente nuestros objetivos, lo que estamos haciendo y algunos aspectos destacados hasta ahora.",
+
+# Second paragraph
+"Un proyecto de computación distribuida no solo debe realizar cálculos en millones de PC, sino que dichos proyectos deben producir resultados, especialmente en forma de publicaciones revisadas por pares, conferencias públicas y otras formas que difunden los resultados de FAH a la comunidad científica en general. En la barra lateral, encontrará enlaces a nuestro progreso en diferentes áreas.",
+
+# Third paragraph
+"También encontrarás actualizaciones sobre nuestro trabajo, avances y nuevos proyectos en la página principal",
+
+# Folding@Home blog link
+"Folding@home blog",
+
+# End of sentence punctuation
+".",
+
+# Bold heading 1
+"¿QUÉ ES EL PLEGAMIENTO DE PROTEÍNAS Y CÓMO SE RELACIONA CON LAS ENFERMEDADES?",
+
+# Text block
+"Las proteínas son collares de aminoácidos, moléculas de cadena larga. Son la base de cómo la biología hace las cosas. Como enzimas, son la fuerza impulsora detrás de todas las reacciones bioquímicas que hacen que la biología funcione. Como elementos estructurales, son el componente principal de nuestros huesos, músculos, cabello, piel y vasos sanguíneos. Como anticuerpos, reconocen los elementos invasores y permiten que el sistema inmunitario elimine a los invasores no deseados. Por estas razones, los científicos han secuenciado el genoma humano, el modelo para todas las proteínas en biología, pero ¿cómo podemos entender qué hacen estas proteínas y cómo funcionan?
+
+Sin embargo, solo conocer esta secuencia nos dice poco sobre lo que hace la proteína y cómo lo hace. Para llevar a cabo su función (por ejemplo, como enzimas o anticuerpos), deben adoptar una forma particular, también conocida como \"pliegue\". Por lo tanto, las proteínas son máquinas realmente sorprendentes: ¡antes de hacer su trabajo, se ensamblan! Este autoensamblaje se llama \"plegado\".",
+
+# Bold heading 2
+"¿QUÉ OCURRE SI LAS PROTEÍNAS NO SE PLEGAN CORRECTAMENTE?",
+
+# Text block
+"Enfermedades como la enfermedad de Alzheimer, la enfermedad de Huntington, la fibrosis quística, la EEB (enfermedad de las vacas locas), una forma hereditaria de enfisema, e incluso se cree que muchos cánceres son el resultado del mal plegamiento de proteínas. Cuando las proteínas se pliegan incorrectamente, pueden agruparse (\"agregado\"). Estos grupos a menudo pueden acumularse en el cerebro, donde se cree que causan los síntomas de la vaca loca o la enfermedad de Alzheimer."
+]

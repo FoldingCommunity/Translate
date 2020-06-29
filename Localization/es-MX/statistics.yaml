@@ -1,0 +1,36 @@
+---
+url: "https://foldingathome.org/statistics/"
+language: "es-MX"
+title: "ESTADÍSTICAS"
+text: [
+# First two paragraphs
+"Una de las mejores maneras de ayudar a Folding@home es reclutando a sus amigos y familiares. Comience compartiendo nuestro proyecto con ellos. Entonces únete a un equipo o incluso comienza uno propio. Cuantos más puntos gane su equipo, más nos acercaremos a encontrar curas.
+
+En esta página encontrará acceso a estadísticas para individuos y equipos que se han unido para ganar puntos y competir con otros equipos. Algunos de nosotros somos bastante intensos en nuestro enfoque del plegado. Tenemos sitios web de equipos, mejoramos nuestras computadoras e impulsamos la tecnología hacia adelante al informar errores y hacer sugerencias sobre cómo mejorar el software.",
+
+# Maximise your effort stylistic bold text
+"MAXIMIZA tu ESFUERZO",
+
+# SET UP YOUR TEAM
+"CREA TU EQUIPO",
+
+# Associated text for setting up a team
+"Si está interesado en crear un equipo propio, puede comenzar aquí.",
+
+# START A TEAM button
+"COMIENZA UN EQUIPO",
+
+# CHANGE YOUR TEAM INFO button
+"CAMBIA LA INFORMACIÓN DE TU EQUIPO",
+
+# Lost team password? link
+"¿Perdió la contraseña del equipo?",
+
+# Heading 1
+"ACTUALIZACIÓN DE ESTADÍSTICAS DE MONITOREO AUTOMÁTICAS: DESCARGAS DISPONIBLES Y NORMAS DE USO",
+
+# Text block
+"Las estadísticas de donación y de los equipos se actualizan cada hora, aunque esto se puede atrasar si había muchas unidades de trabajo que regresaran durante esa hora. Hemos estado desactivando el acceso web a la base de datos de estadísticas durante las actualizaciones de estadísticas (al momento).
+
+No use scripts para acceder a las páginas de donación o de los equipos, sino que utilice la lista completa de donantes (archivos planos). Las direcciones IP que no cumplan con nuestras reglas de robots.txt serán prohibidas."
+]
