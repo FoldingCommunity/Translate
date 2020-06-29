@@ -5,7 +5,7 @@ language: "es-ES"
 text: [
 # I AM One IN A MILLION bold text
 # "I AM One IN A MILLION"
-"SOY uno ENTRE UN MILLÓN",
+"SOY Uno ENTRE UN MILLÓN",
 
 # Associated text
 # "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal -- which is 1 million folders."
@@ -75,14 +75,14 @@ Para soporte técnico:",
 
 #Associated text in pentagon
 # "1 in a million"
-"1 en un millón",
+"1 entre un millón",
 
 #FOLDING? bold text
 "FOLDING ?",
 
 #Associated text
 # "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
-"El término inglés folding (literalmente: plegamiento) se refiere a la forma en que las proteínas humanas se pliega en las células que conforman nuestro cuerpo. Dependemos de las proteínas para mantenernos saludables y se componen por sí mismas mediante el plegamiento. Pero cuando esto no ocurre correctamente, pueden derivar en serias consecuencias para la salud de una persona."
+"El término inglés folding (literalmente: plegamiento) se refiere a la forma en que las proteínas humanas se pliegan en las células que conforman nuestro cuerpo. Dependemos de las proteínas para mantenernos saludables y se componen por sí mismas mediante el plegamiento. Pero cuando esto no ocurre correctamente, pueden derivar en serias consecuencias para la salud de una persona."
 
 
 #Associated square button
