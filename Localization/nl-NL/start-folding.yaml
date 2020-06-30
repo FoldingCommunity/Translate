@@ -4,10 +4,9 @@ language: "nl-NL"
 title: "START FOLDING"
 text: [
 # Bold first paragraph
-"De software van Folding@home draait terwijl jij bezig bent met andere dingen.",
+"De software van Folding@home werkt terwijl jij bezig bent met andere dingen.",
 
 # Second paragraph
-"While you keep going with your everyday activities, your computer will be working to help us find cures for diseases like cancer, ALS, Parkinson’s, Huntington’s, Influenza and many others.",
 "Terwijl jij bezig bent je allerdaagse activiteiten is jouw computer ons aan het helpen om medicijnen te vinden tegen ziektes zoals kanker, ALS, Parkinson, Huntington, Influenza en nog veel meer.",
 
 # Third paragraph first sentence in bold
