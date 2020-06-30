@@ -5,7 +5,7 @@ language: "de-DE"
 text: [
 # I AM One IN A MILLION bold text
 #"I AM One IN A MILLION",
-"ICH BIN Einer UNTER MILLIONEN",
+"ICH BIN Einer VON EINER MILLION",
 
 # Associated text
 #"Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal -- which is 1 million folders.",
@@ -78,7 +78,7 @@ Für technische Hilfe: ",
 
 #Associated text in pentagon
 #"1 in a million",
-"1 unter Millionen",
+"Einer von einer Million",
 
 #FOLDING? bold text
 "FALTEN?",
