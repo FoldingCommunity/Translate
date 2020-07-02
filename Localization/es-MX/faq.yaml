@@ -1,0 +1,11 @@
+---
+url: "https://foldingathome.org/support/faq/"
+language: "es-MX"
+title: "PF"
+text: [
+# Bold paragraph
+"Encontrarás una gran biblioteca de preguntas frecuentes sobre todas las cosas relacionadas con Folding@home.",
+
+# The rest of the paragraph
+"Esta sección contiene todo desde guías e información sobre cómo instalar y usar el software Folding@home hasta la ciencia detrás de nuestra investigación. Mire a través de la barra lateral y encuentre el tema sobre el que desea saber más."
+]

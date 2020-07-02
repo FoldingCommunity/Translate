@@ -1,0 +1,43 @@
+---
+url: "https://foldingathome.org/diseases/"
+language: "es-ES"
+title: "ENFERMEDADES"
+text: [
+# Bold first paragraph
+# "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far."
+"El proyecto Folding@home (FAH) está enfocado a la comprensión del plegamiento de proteinas, las enfermedades resultantes de un plegamiento incorrecto y su agregación, y a novedosas técnicas computacionales para desarrollar nuevos fármacos en general. En esta sección se describe de forma breve nuestros objetivos, lo que estamos haciendo, y algunos avances significativos hasta el momento.",
+
+# Second paragraph
+# "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
+"Un proyecto de computación distribuida no sólo debe ser capaz de ejecutar cálculos en millones de PCs, sino que dichos proyectos han de producir resultados, especialmente en la forma de publicaciones contrastadas, exposiciones públicas, y otras formas que diseminen los resultado de FAH al resto de la comunidad científica. En la barra lateral encontrará enlaces a nuestro progreso en diferentes áreas.",
+
+# Third paragraph
+# "You will also find updates about our work, advancements and new projects in the main"
+"También encontrará actualizaciones sobre nuestro trabajo, avances y nuevos proyectos en general",
+
+# Folding@Home blog link
+# "Folding@home blog"
+"Folding@home blog",
+
+# End of sentence punctuation
+".",
+
+# Bold heading 1
+# "WHAT IS PROTEIN FOLDING AND HOW IS IT RELATED TO DISEASE?"
+"¿QUE ES EL PLEGAMIENTO DE PROTEÍNAS Y CÓMO ESTÁ RELACIONADO CON LAS ENFERMEDADES?",
+
+# Text block
+# "Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome – the blueprint for all of the proteins in biology – but how can we understand what these proteins do and how they work?
+"Las proteínas son cadenas de aminoácidos, largas cadenas de moléculas. Son la base de cómo la biología hace que las cosas funcionen correctamente. Como enzimas, son el motor detrás de todas las reacciones biomecánicas que hacen que la biología funcione. Como elementos estructurales, son los principales consituyentes de nuestros huesos, músculos, pelo, piel y vasos sanguíneos. Como anticuerpos, identifican a los elementos invasores y permiten al sistema inmune actuar para eliminar a los invasores no deseados. Por estas razones, los científicos han secuenciado el genoma humano - la base para todas las proteínas en biología - pero , ¿cómo podemos comprender que hacen estas proteínas y cómo funcionan?",
+
+# However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a “fold.” Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called “folding.”"
+"Sin embargo, sólo concer esta secuencia nos da poca información acerca de lo que la proteína hace y cómo lo hace. Para poder realizar sus funciones (por ejemplo como encimas o anticuerpos), deben tomar una forma determinada, también conocida como “pliegue.” Por tanto, las proteínas son máquinas realmente impresionantes: antes de hacer su trabajo, ¡se construyen a sí mismas! Esta auto-construcción se denomina “plegamiento.”",
+
+# Bold heading 2
+# "WHAT HAPPENS IF PROTEINS DON’T FOLD CORRECTLY?"
+"¿QUÉ OCURRE SI LAS PROTEÍNAS NO SE PLIEGAN CORRECTAMENTE?",
+
+# Text block
+# "Diseases such as Alzheimer’s disease, Huntington’s disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (“aggregate”). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer’s disease."
+"Enfermedades como el Alzheimer, la enfermedad de Huntington, fibrosis quística, EEB (enfermedad de las Vacas Locas), un tipo de enfisema heredado, e incluso muchos cánceres pueden ser el resultado de un plegamiento erróneo. Cuando las proteínas no se pliegan correctamente, pueden amontonarse juntas (“agregación”). Estas acumulaciones pueden producirse frecuentemente en el cerebro, que es donde se creé que se causan los síntomas de las enfermedades de las Vacas Locas o el Alzheimer."
+]
