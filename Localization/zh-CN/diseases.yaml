@@ -1,0 +1,48 @@
+---
+url: "https://foldingathome.org/diseases/"
+language: "zh-CN"
+title: "DISEASES"
+text: [
+# Bold first paragraph
+# "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far.",
+"Folding@home (FAH) 致力于理解蛋白质折叠，由蛋白质错误折叠和聚集导致的疾病以及开发新型药物的全新计算方法。在这里，我们将简要介绍我们的目标，我们正在进行的工作以及目前所取得的一些进展。",
+# comments by @jmnie: I used the word '进展' to describe 'highlight'.
+
+# Second paragraph
+# "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas.",
+"一个分布式项目不仅必须在数以百万计的个人计算机上进行计算，而且必须产生结果，尤其是以同行评审的出版物，公开演讲以及其他将Folding@home的结果传递至更大的科学界的方式。在左侧栏中，您可以找到我们在不同领域获得进展的链接。",
+
+
+# Third paragraph
+# "You will also find updates about our work, advancements and new projects in the main",
+"在主页面中您也可以找到有关我们工作，进展和新项目的更新。",
+
+# Folding@Home blog link
+"Folding@home blog",
+
+# End of sentence punctuation
+".",
+
+# Bold heading 1
+# "WHAT IS PROTEIN FOLDING AND HOW IS IT RELATED TO DISEASE?",
+"什么是蛋白质折叠？它又是和疾病如何联系起来的？",
+# comments by @jmnie: I break this sentence into 2 sub sentences for better reading experience. 
+
+# Text block
+# "Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome – the blueprint for all of the proteins in biology – but how can we understand what these proteins do and how they work?
+
+# However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a “fold.” Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called “folding.”",
+
+"蛋白质是由氨基酸残基形成的长链条组成的。它们是生物学中完成工作的基础。作为酶，它们驱动了生物学中所有起作用的生化反应。作为结构元素，它们是我们谷歌，肌肉，头发，皮肤和血管的主要成分。作为抗体，它们识别入侵的问题并且允许免疫系统清除不需要的入侵者。基于以上原因，科学家们已经对人类基因组进行了测序---这是生物学中所有蛋白质的蓝图。但是我们如何理解这些蛋白质的作用以及它们的工作方式呢？
+
+仅仅了解序列只能揭示很小一部分蛋白质的作用和其工作原理。为了执行这些功能（例如，酶和抗体），它们必须形成某种特殊的形状，这种过程也为人熟知为“折叠”。因此，蛋白质实际上是一种令人赞叹的机器：在它们能工作之前，它们会自行组装！这种自组装的机制，被称为“折叠”。",
+
+# Bold heading 2
+# "WHAT HAPPENS IF PROTEINS DON’T FOLD CORRECTLY?",
+"如果蛋白质不正确折叠会发生什么？",
+
+# Text block
+# "Diseases such as Alzheimer’s disease, Huntington’s disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (“aggregate”). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer’s disease."
+
+"诸如阿兹海默症，亨廷顿病，囊性纤维化，BSE（疯牛病），某种遗传的肺气肿，甚至是许多癌症也被认为是由蛋白质错误折叠引起的。当蛋白质错误折叠时，它们会堆在一起形成团块（聚集）。这些团块通常会聚集在大脑中，被认为是引发了疯牛病或者阿兹海默症的症状的原因。"
+]
