@@ -40,6 +40,6 @@ Sur cette page, vous allez avoir accès aux statistiques par participant et par 
 # Text block
 # "The donor and team stats are updated every hour, although this can be delayed if there were a lot of work units to come back during that hour. We have been turning off web access to the stats database during stats updates (usually on the hour).
 # Please do not use scripts to access the donor or team pages, but use the full donor list (flat files) instead. IP addresses which do not abide by our robots.txt rules will be banned."
-"Les statisitques des donateurs et de des équipes sont mises à jour toutes les heures, bien qu'un délai soit possible si un grand nombre d'unités de travail doit être retourné durant cette heure. Nous suspendons l'accès à la base de données des statistiques durant la mise à jour (habituallement dans l'heure).
+"Les statisitques des donateurs et des équipes sont mises à jour toutes les heures, bien qu'un délai soit possible si un grand nombre d'unités de travail doit être retourné durant cette heure. Nous suspendons l'accès à la base de données des statistiques durant la mise à jour (habituallement dans l'heure).
 Merci de ne pas utiliser des scripts pour consulter les pages des donateurs et/ou des équipes : veuillez utiliser la liste complète des donateurs. Les adresses IP qui ne ne respectent pas nos règles seront bannies."
 ]
