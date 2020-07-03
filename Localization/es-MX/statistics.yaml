@@ -30,7 +30,7 @@ En esta página encontrará acceso a estadísticas para individuos y equipos que
 "ACTUALIZACIÓN DE ESTADÍSTICAS DE MONITOREO AUTOMÁTICAS: DESCARGAS DISPONIBLES Y NORMAS DE USO",
 
 # Text block
-"Las estadísticas de donación y de los equipos se actualizan cada hora, aunque esto se puede atrasar si había muchas unidades de trabajo que regresaran durante esa hora. Hemos estado desactivando el acceso web a la base de datos de estadísticas durante las actualizaciones de estadísticas (al momento).
+"Las estadísticas de donación y de los equipos se actualizan cada hora, aunque esto se puede atrasar si había muchas unidades de trabajo que regresaran durante esa hora. Hemos estado desactivando el acceso web a la base de datos de estadísticas durante las actualizaciones de estadísticas (usualmente en él al momento).
 
 No use scripts para acceder a las páginas de donación o de los equipos, sino que utilice la lista completa de donantes (archivos planos). Las direcciones IP que no cumplan con nuestras reglas de robots.txt serán prohibidas."
 ]
