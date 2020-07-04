@@ -1,0 +1,11 @@
+---
+url: "https://foldingathome.org/about/"
+language: "nl-NL"
+title: "OVER"
+text: [
+# Bold text at the start
+"Folding@home (FAH or F@h)",
+
+# The rest of the paragraph
+"is een gedistribueerd computerproject voor het simuleren van eiwitdynamica, het proces van eiwitvouwing en de bewegingen van eiwitten die betrokken zijn bij verschillende ziektes. Het brengt burgerwetenschappers samen die als vrijwilligers simulaties uitvoeren van eiwitdynamica op hun computer. De opgedane inzichten uit de data helpen wetenschappers de biologie beter te begrijpen en bieden nieuwe kansen voor het ontwikkelen van therapieën."
+]
