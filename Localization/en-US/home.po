@@ -16,7 +16,7 @@ msgstr ""
 msgid "IN A MILLION"
 msgstr ""
 
-msgid "Regardless if you are already folding or haven?t heard a word about it before, we need your help to reach our goal ? which is 1 million folders."
+msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
 msgstr ""
 
 msgid "Start folding now"
