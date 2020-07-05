@@ -43,7 +43,7 @@ msgstr ""
 msgid "Mac"
 msgstr ""
 
-msgid "[Start folding](https://foldingathome.org/start-folding/)"
+msgid "Start folding"
 msgstr ""
 
 msgid "Latest Posts"
