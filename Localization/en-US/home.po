@@ -73,7 +73,7 @@ msgstr ""
 msgid "WHY WE NEED YOU"
 msgstr ""
 
-msgid "Folding@home is a project focused on disease research. The problems we?re solving require so many computer calcul�ations ? and we need your help to find the cures!"
+msgid "Folding@home is a project focused on disease research. The problems we are solving require so many computer calculations and we need your help to find the cures!"
 msgstr ""
 
 msgid "Fight diseases Together with us."
@@ -85,7 +85,7 @@ msgstr ""
 msgid "FOLDING?"
 msgstr ""
 
-msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person?s health."
+msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
 msgstr ""
 
 msgid "[Learn more](http://foldingathome.org/diseases/)"
