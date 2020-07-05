@@ -25,7 +25,7 @@ msgstr ""
 msgid "If you are interested in setting up a team of your own, you can get started here."
 msgstr ""
 
-msgid "[Start a team](https://apps.foldingathome.org/team/create)"
+msgid "Start a team"
 msgstr ""
 
 msgid "[Lost team password?](https://apps.foldingathome.org/team/mailpass)"
