@@ -12,53 +12,56 @@ read the updates.**
 collaborate and how to find out what is already done and what is left to do. **
 
 **Please check out the "Coordination" section, and the
-[coordination threads](https://github.com/FoldingCommunity/Translate/labels/coordination-thread)
+[coordination threads](https://github.com/FoldingCommunity/Translate/labels/coordination-thread) 
 to find out how your language team is coordinating with each other. Please
 submit pull requests to your language team's repository first. Your language
-team coordinator will collate all the translation changes, and submit a pull
+team coordinator will collate all the translation changes, and submit a pull 
 request to this repository.**
 
 ## What has changed?
-After the discussion within the translation plugin development team, we have
-decided to move from the custom YAML format to the more standardised
-[gettext](https://en.wikipedia.org/wiki/Gettext) Portable Object (PO) format.
+After the discussion within the translation plugin development team, we have 
+decided to move from the custom YAML format to the more standardised 
+[gettext](https://en.wikipedia.org/wiki/Gettext) Portable Object (PO) format. 
 We have decided to embedding formatting (*not layout*) within the PO files. This
-allows each PO file to follow the paragraph structure of the original webpage,
-while enabling more flexibility the translated text within each paragraph.
+allows each PO file to follow the paragraph structure of the original webpage, 
+while enabling more flexibility the translated text within each paragraph. 
 
 We believe that the format change is necessary for the long term maintainability
 of the project. We apologise for the extra work that you have to do. It is
-important to note that in software development, sometimes there are occasional
-requirements changes that require code refactoring and rewrite. This happens
+important to note that in software development, sometimes there are occasional 
+requirements changes that require code refactoring and rewrite. This happens 
 more often at the beginning of the project. We believe that there will not be
 major format changes down the line.
 
-The old YAML-based files are archived in the
+However we believe that the extra works we have to do is minimal - you should be
+able to copy and paste your translated works
+
+The old YAML-based files are archived in the 
 [old-yaml branch](https://github.com/FoldingCommunity/Translate/tree/old-yaml).
 
-## How do we translate?
+## How do we translate? 
 Please copy the files from [Localization/en-US](Localization/en-US) to your
 local language folder, e.g. [Localization/zh-CN](Localization/zh-CN), update
-the metadata field.  For each file, translate each ``msgid`` to ``msgstr``.
+the metadata field.  For each file, translate each ``msgid`` to ``msgstr``. 
 
-We are certain Markdown for formatting the strings to be translated and the
+We are certain Markdown for formatting the strings to be translated and the 
 translated string. We have made the decision to support the following Markdown
-syntaxes:
+syntaxes: 
 
  - Links: e.g. ``[Example](http://example.net/)``
  - Bold text: e.g. ``**Example**``
  - Italic: e.g. ``*example*``
 
-For more information on Markdown, feel free to have a look at
+For more information on Markdown, feel free to have a look at 
 [Github's official guide](https://guides.github.com/features/mastering-markdown/),
  however, we are only supporting the formatting syntaxes statated above.
 
-You can use a text editor, such as [Notepad++](https://notepad-plus-plus.org/)
-or [Atom](https://atom.io/). Please **Set your encoding to UTF-8, this is
-important!**. Alternatively you can use tools such as
-[Poedit](https://poedit.net/) or
+You can use a text editor, such as [Notepad++](https://notepad-plus-plus.org/) 
+or [Atom](https://atom.io/). Please **Set your encoding to UTF-8, this is 
+important!**. Alternatively you can use tools such as 
+[Poedit](https://poedit.net/) or 
 [Lokalize](https://kde.org/applications/en/office/org.kde.lokalize). We do not
-mind the extra metadata these tools add.
+mind the extra metadata these tools add. 
 
 ### PO file mandatory metadata
 At the top of each PO file, it is mandatory to have the following metadata
@@ -80,7 +83,7 @@ fields:
  8. ``Target-Last_Modified`` - The last modification date for this PO file, this
  must be in the format of **YYYYMMDD**, ``20200704``.
 
-Please note that:
+Please note that: 
 
  - For dates, ``YYYY`` is the 4-digit year, ``MM`` is the 2-digit month,
  and ``DD`` is the 2-digit day.
@@ -95,7 +98,7 @@ Please note that:
  main repository. ``z`` should be reset to 0, if a new ``Source-Version`` is
  released.
 
-The metadata block at the top of the file should look like this:
+The metadata block at the top of the file should look like this: 
 
     # Schema-Version: 1.0
     # URL: https://foldingathome.org/diseases/
@@ -107,26 +110,26 @@ The metadata block at the top of the file should look like this:
     # Target-Last_Modified: 20200706
 
 ## How do I add a PO file?
-For now, if you want to add a PO file, please use
-[PO file generator](http://wpdev.tshw.de/po-converter.php) created by
-[Till Helge](https://github.com/Tar-Minyatur).
+For now, if you want to add a PO file, please use 
+[PO file generator](http://wpdev.tshw.de/po-converter.php) created by 
+[Till Helge](https://github.com/Tar-Minyatur). 
 
-This is an alpha version, so you have to manually do these:
+This is an alpha version, so you have to manually do these: 
 
  - strip the menu
  - escape the double quotes
- - add the metadata block.
+ - add the metadata block. 
 
-We plan to release a proper tool in a later date to generate PO file properly.
+We plan to release a proper tool in a later date to generate PO file properly. 
 
 If you do want to add a PO file or modify an existing PO file, please use a **separate** pull request than the normal translation work. This is to maintain
 a clean workflow.
 
 ### Translation style guide
 Please also check out the [Wiki](https://github.com/FoldingCommunity/Translate/wiki)
-for the translation style guide. Please feel free to contribute to the Wiki.
+for the translation style guide. Please feel free to contribute to the Wiki. 
 
-We will be adding more examples as translation progress.
+We will be adding more examples as translation progress. 
 
 ## Coordination
 There are languages with multiple translators, please organise a team amongst
@@ -149,11 +152,20 @@ some general guidelines and we would highly recommend joining the development
 Discord server to easily coordinate with the other translators (and to avoid
 working on the same things).
 
-## What if I need help?
-Please feel free to open an Github issue, and tag
-[fangfufu](https://github.com/fangfufu/),
+## Todo for developers
+For this respository, we urgently need followings:
+
+- [ ] PO file verification as a Github action
+
+Other development tasks include: 
+- [ ] A proper PO file generator
+- [ ] PO file to HTML converter. 
+
+## What if I need help? 
+Please feel free to open an Github issue, and tag 
+[fangfufu](https://github.com/fangfufu/), 
 [ReadyPlayerEmma](https://github.com/ReadyPlayerEmma)
-and/or
+and/or 
 [Antonthynell](https://github.com/Antonthynell). Alternatively, you could
 post a message in the main transation channel on Folding@home Dev Discord
-server and tag one of us.
+server and tag one of us. 
