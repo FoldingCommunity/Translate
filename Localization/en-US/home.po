@@ -46,18 +46,6 @@ msgstr ""
 msgid "Start folding"
 msgstr ""
 
-msgid "Latest Posts"
-msgstr ""
-
-msgid "[The SARS-CoV-2 nucleocapsid protein is dynamic, disordered, and phase separates with RNA.](https://foldingathome.org/2020/06/26/the-sars-cov-2-nucleocapsid-protein-is-dynamic-disordered-and-phase-separates-with-rna/)"
-msgstr ""
-
-msgid "[Conformational distributions of isolated myosin motor domains encode their mechanochemical properties.](https://foldingathome.org/2020/06/04/conformational-distributions-of-isolated-myosin-motor-domains-encode-their-mechanochemical-properties/)"
-msgstr ""
-
-msgid "[The Covid Moonshot](https://foldingathome.org/2020/05/28/the-covid-moonshot/)"
-msgstr ""
-
 msgid "JOIN THE COMMUNITY"
 msgstr ""
 
