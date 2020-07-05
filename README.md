@@ -1,5 +1,3 @@
-FAH Translation Draft
-
 # Folding@home Translation Text Repository
 
 Thank you for helping us reach even more people around the world by adapting the
