@@ -108,21 +108,7 @@ The metadata block at the top of the file should look like this:
     # Target-Last_Modified: 20200706
 
 ## How do I add a PO file?
-For now, if you want to add a PO file, please use 
-[PO file generator](http://wpdev.tshw.de/po-converter.php) created by 
-[Till Helge](https://github.com/Tar-Minyatur). 
-
-This is an alpha version, so you have to manually do these: 
-
- - strip the menu
- - escape the double quotes
- - add the metadata block. 
- - convert invalid characters, some characters get turned into `?`
-
-We plan to release a proper tool in a later date to generate PO file properly. 
-
-If you do want to add a PO file or modify an existing PO file, please use a **separate** pull request than the normal translation work. This is to maintain
-a clean workflow.
+It's awesome that you're eager to do more translations. For now, however, we don't have an established process yet to add new pages to the translation effort. We have to be careful with how we define the message IDs to ensure that they will later work correctly with our translation system. The translation coordination team will add more files as our processes mature and become more stable.
 
 ### Translation style guide
 Please also check out the [Wiki](https://github.com/FoldingCommunity/Translate/wiki)
