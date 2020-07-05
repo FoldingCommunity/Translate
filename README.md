@@ -117,6 +117,7 @@ This is an alpha version, so you have to manually do these:
  - strip the menu
  - escape the double quotes
  - add the metadata block. 
+ - convert invalid characters, some characters get turned into `?`
 
 We plan to release a proper tool in a later date to generate PO file properly. 
 
