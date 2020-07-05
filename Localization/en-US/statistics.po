@@ -31,7 +31,7 @@ msgstr ""
 msgid "[Lost team password?](https://apps.foldingathome.org/team/mailpass)"
 msgstr ""
 
-msgid "[Change your team info](https://apps.foldingathome.org/team/update)"
+msgid "Change your team info"
 msgstr ""
 
 msgid "Monitoring stats updates automatically: available downloads and rules of use"
