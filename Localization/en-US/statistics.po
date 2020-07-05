@@ -16,13 +16,7 @@ msgstr ""
 msgid "On this page you will find access to statistics for individuals and teams who have joined together to earn points and compete with other teams. Some of us are quite intense in our approach to folding. We have team websites, we supe up our computers, and we drive the technology forward by reporting bugs and making suggestions about how to improve the software."
 msgstr ""
 
-msgid "MAXIMIZE"
-msgstr ""
-
-msgid "your"
-msgstr ""
-
-msgid "**EFFORT**"
+msgid "**MAXIMIZE** your **EFFORT**"
 msgstr ""
 
 msgid "Set up your team"
