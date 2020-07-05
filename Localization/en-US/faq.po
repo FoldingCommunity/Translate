@@ -1,0 +1,17 @@
+# Schema-Version: 1.0
+# URL: https://foldingathome.org/support/faq/
+# Source-Language: en-US
+# Source-Version: 1.0
+# Source-Last-Modified: 20200705
+# Target-Language:
+# Target-Version:
+# Target-Last_Modified:
+
+msgid "FAQ"
+msgstr ""
+
+msgid "**You?ll find a large library of frequently asked questions about all things connected to Folding@home.**"
+msgstr ""
+
+msgid "This section contains everything from guides and information about how to install and use the Folding@home software to the science behind our research. Look through the sidebar and find the topic you want to know more about."
+msgstr ""
