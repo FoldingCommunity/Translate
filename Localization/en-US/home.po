@@ -52,7 +52,7 @@ msgstr ""
 msgid "The Folding@Home community is spread over countless forums, websites and social media."
 msgstr ""
 
-msgid "Here?s a list of our official channels."
+msgid "Here's a list of our official channels."
 msgstr ""
 
 msgid "For tech support:"
