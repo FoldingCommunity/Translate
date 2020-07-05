@@ -7,7 +7,7 @@ experience to their native language.
 read the updates.**
 
 **Before you start translating, please read this README to learn how we
-collaborate and how to find out what is already done and what is left to do. **
+collaborate and how to find out what is already done and what is left to do.**
 
 **Please check out the "Coordination" section, and the
 [coordination threads](https://github.com/FoldingCommunity/Translate/labels/coordination-thread) 
