@@ -90,7 +90,7 @@ Please note that:
  change, e.g. adding or removing a paragraph. Increase in ``y`` indicates a
   minor change, e.g. a spelling mistake. Note that ``x`` and ``y`` can have
   multiple digits, e.g. ``1.12``. ``y`` should start at 0.
- - The ``Target-Version`` should also follow the format of ``x.y.z``. ``x` and
+ - The ``Target-Version`` should also follow the format of ``x.y.z``. ``x`` and
  ``y`` should follow the ``x`` and ``y`` in ``Original-Version``. ``z`` should
  start at 0. It should be incremented before pushing the updated PO file to the
  main repository. ``z`` should be reset to 0, if a new ``Source-Version`` is
