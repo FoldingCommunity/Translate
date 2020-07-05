@@ -22,7 +22,7 @@ msgstr ""
 msgid "Start folding now"
 msgstr ""
 
-msgid "[Hide this and watch the video.](#)"
+msgid "Hide this and watch the video."
 msgstr ""
 
 msgid "START FOLDING NOW"
