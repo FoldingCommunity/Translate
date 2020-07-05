@@ -42,7 +42,7 @@ Please copy the files from [Localization/en-US](Localization/en-US) to your
 local language folder, e.g. [Localization/zh-CN](Localization/zh-CN), update
 the metadata field.  For each file, translate each ``msgid`` to ``msgstr``. 
 
-We are certain Markdown for formatting the strings to be translated and the 
+We are using Markdown for formatting the strings to be translated and the 
 translated string. We have made the decision to support the following Markdown
 syntaxes: 
 
