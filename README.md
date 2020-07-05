@@ -7,7 +7,7 @@ experience to their native language.
 read the updates.**
 
 **Before you start translating, please read this README to learn how we
-collaborate and how to find out what is already done and what is left to do. **
+collaborate and how to find out what is already done and what is left to do.**
 
 **Please check out the "Coordination" section, and the
 [coordination threads](https://github.com/FoldingCommunity/Translate/labels/coordination-thread) 
@@ -117,6 +117,7 @@ This is an alpha version, so you have to manually do these:
  - strip the menu
  - escape the double quotes
  - add the metadata block. 
+ - convert invalid characters, some characters get turned into `?`
 
 We plan to release a proper tool in a later date to generate PO file properly. 
 
@@ -161,7 +162,8 @@ Other development tasks include:
 
 ## What if I need help? 
 Please feel free to open an Github issue, and tag 
-[fangfufu](https://github.com/fangfufu/), 
+[Fufu (fangfufu)](https://github.com/fangfufu/), 
+[Till Helge (Tar-Minyatur)](https://github.com/Tar-Minyatur/YAML-Translation-Wordpress-Plugin),
 [ReadyPlayerEmma](https://github.com/ReadyPlayerEmma)
 and/or 
 [Antonthynell](https://github.com/Antonthynell). Alternatively, you could
