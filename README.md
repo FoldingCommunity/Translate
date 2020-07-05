@@ -20,7 +20,7 @@ request to this repository.**
 After the discussion within the translation plugin development team, we have 
 decided to move from the custom YAML format to the more standardised 
 [gettext](https://en.wikipedia.org/wiki/Gettext) Portable Object (PO) format. 
-We have decided to embedding formatting (*not layout*) within the PO files. This
+We have decided to embed formatting (*not layout*) within the PO files. This
 allows each PO file to follow the paragraph structure of the original webpage, 
 while enabling more flexibility the translated text within each paragraph. 
 
