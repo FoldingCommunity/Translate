@@ -28,7 +28,7 @@ msgstr ""
 msgid "Start a team"
 msgstr ""
 
-msgid "[Lost team password?](https://apps.foldingathome.org/team/mailpass)"
+msgid "Lost team password?"
 msgstr ""
 
 msgid "Change your team info"
