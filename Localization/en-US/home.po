@@ -18,13 +18,13 @@ msgstr ""
 msgid "IN A MILLION"
 msgstr ""
 
-msgid "Regardless if you are already folding or haven?t heard a word about it before, we need your help to reach our goal ? which is 1 million folders."
+msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
 msgstr ""
 
 msgid "Start folding now"
 msgstr ""
 
-msgid "[Hide this and watch the video.](#)"
+msgid "Hide this and watch the video."
 msgstr ""
 
 msgid "START FOLDING NOW"
@@ -45,19 +45,7 @@ msgstr ""
 msgid "Mac"
 msgstr ""
 
-msgid "[Start folding](https://foldingathome.org/start-folding/)"
-msgstr ""
-
-msgid "Latest Posts"
-msgstr ""
-
-msgid "[The SARS-CoV-2 nucleocapsid protein is dynamic, disordered, and phase separates with RNA.](https://foldingathome.org/2020/06/26/the-sars-cov-2-nucleocapsid-protein-is-dynamic-disordered-and-phase-separates-with-rna/)"
-msgstr ""
-
-msgid "[Conformational distributions of isolated myosin motor domains encode their mechanochemical properties.](https://foldingathome.org/2020/06/04/conformational-distributions-of-isolated-myosin-motor-domains-encode-their-mechanochemical-properties/)"
-msgstr ""
-
-msgid "[The Covid Moonshot](https://foldingathome.org/2020/05/28/the-covid-moonshot/)"
+msgid "Start folding"
 msgstr ""
 
 msgid "JOIN THE COMMUNITY"
@@ -66,7 +54,7 @@ msgstr ""
 msgid "The Folding@Home community is spread over countless forums, websites and social media."
 msgstr ""
 
-msgid "Here?s a list of our official channels."
+msgid "Here's a list of our official channels."
 msgstr ""
 
 msgid "For tech support:"
@@ -87,7 +75,7 @@ msgstr ""
 msgid "WHY WE NEED YOU"
 msgstr ""
 
-msgid "Folding@home is a project focused on disease research. The problems we?re solving require so many computer calcul�ations ? and we need your help to find the cures!"
+msgid "Folding@home is a project focused on disease research. The problems we are solving require so many computer calculations and we need your help to find the cures!"
 msgstr ""
 
 msgid "Fight diseases Together with us."
@@ -99,7 +87,7 @@ msgstr ""
 msgid "FOLDING?"
 msgstr ""
 
-msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person?s health."
+msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
 msgstr ""
 
 msgid "[Learn more](http://foldingathome.org/diseases/)"

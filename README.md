@@ -20,7 +20,7 @@ request to this repository.**
 After the discussion within the translation plugin development team, we have 
 decided to move from the custom YAML format to the more standardised 
 [gettext](https://en.wikipedia.org/wiki/Gettext) Portable Object (PO) format. 
-We have decided to embedding formatting (*not layout*) within the PO files. This
+We have decided to embed formatting (*not layout*) within the PO files. This
 allows each PO file to follow the paragraph structure of the original webpage, 
 while enabling more flexibility the translated text within each paragraph. 
 
@@ -42,7 +42,7 @@ Please copy the files from [Localization/en-US](Localization/en-US) to your
 local language folder, e.g. [Localization/zh-CN](Localization/zh-CN), update
 the metadata field.  For each file, translate each ``msgid`` to ``msgstr``. 
 
-We are certain Markdown for formatting the strings to be translated and the 
+We are using Markdown for formatting the strings to be translated and the 
 translated string. We have made the decision to support the following Markdown
 syntaxes: 
 
@@ -90,7 +90,7 @@ Please note that:
  change, e.g. adding or removing a paragraph. Increase in ``y`` indicates a
   minor change, e.g. a spelling mistake. Note that ``x`` and ``y`` can have
   multiple digits, e.g. ``1.12``. ``y`` should start at 0.
- - The ``Target-Version`` should also follow the format of ``x.y.z``. ``x` and
+ - The ``Target-Version`` should also follow the format of ``x.y.z``. ``x`` and
  ``y`` should follow the ``x`` and ``y`` in ``Original-Version``. ``z`` should
  start at 0. It should be incremented before pushing the updated PO file to the
  main repository. ``z`` should be reset to 0, if a new ``Source-Version`` is
@@ -112,21 +112,7 @@ should look like this:
 
 Please note that PO file editors may add their own fields. This is totally okay.
 ## How do I add a PO file?
-For now, if you want to add a PO file, please use 
-[PO file generator](http://wpdev.tshw.de/po-converter.php) created by 
-[Till Helge](https://github.com/Tar-Minyatur). 
-
-This is an alpha version, so you have to manually do these: 
-
- - strip the menu
- - escape the double quotes
- - add the metadata block. 
- - convert invalid characters, some characters get turned into `?`
-
-We plan to release a proper tool in a later date to generate PO file properly. 
-
-If you do want to add a PO file or modify an existing PO file, please use a **separate** pull request than the normal translation work. This is to maintain
-a clean workflow.
+It's awesome that you're eager to do more translations. For now, however, we don't have an established process yet to add new pages to the translation effort. We have to be careful with how we define the message IDs to ensure that they will later work correctly with our translation system. The translation coordination team will add more files as our processes mature and become more stable.
 
 ### Translation style guide
 Please also check out the [Wiki](https://github.com/FoldingCommunity/Translate/wiki)
