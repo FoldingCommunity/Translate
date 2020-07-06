@@ -1,11 +1,13 @@
-# Schema-Version: 1.0
-# URL: https://foldingathome.org/statistics/
-# Source-Language: en-US
-# Source-Version: 1.0
-# Source-Last-Modified: 20200705
-# Target-Language:
-# Target-Version:
-# Target-Last_Modified:
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/statistics/\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
 
 msgid "Statistics"
 msgstr ""

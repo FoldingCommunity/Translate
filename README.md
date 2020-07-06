@@ -78,7 +78,7 @@ fields:
  6. ``Target-Language`` - The target language for this PO file, e.g. ``zh-CN``.
  7. ``Target-Version`` - The version code for the target PO file,
  e.g. ``1.2``.
- 8. ``Target-Last_Modified`` - The last modification date for this PO file, this
+ 8. ``Target-Last-Modified`` - The last modification date for this PO file, this
  must be in the format of **YYYYMMDD**, ``20200704``.
 
 Please note that: 
@@ -96,17 +96,21 @@ Please note that:
  main repository. ``z`` should be reset to 0, if a new ``Source-Version`` is
  released.
 
-The metadata block at the top of the file should look like this: 
+The metadata should be stored as ``msgstr`` for an empty ``msgid``. It
+should look like this:
 
-    # Schema-Version: 1.0
-    # URL: https://foldingathome.org/diseases/
-    # Source-Language: en-US
-    # Source-Version: 1.0
-    # Source-Last-Modified: 20200705
-    # Target-Language: zh-CN
-    # Target-Version: 1.0.0
-    # Target-Last_Modified: 20200706
+    msgid ""
+    msgstr ""
+    "FAH-Translate-Schema-Version: 1.0\n"
+    "URL: https://foldingathome.org/diseases/\n"
+    "Source-Language: en-US\n"
+    "Source-Version: 1.0\n"
+    "Source-Last-Modified: 20200705\n"
+    "Target-Language: \n"
+    "Target-Version: \n"
+    "Target-Last-Modified: \n"
 
+Please note that PO file editors may add their own fields. This is totally okay.
 ## How do I add a PO file?
 For now, if you want to add a PO file, please use 
 [PO file generator](http://wpdev.tshw.de/po-converter.php) created by 
