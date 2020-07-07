@@ -154,7 +154,7 @@ Other development tasks include:
 ## What if I need help? 
 Please feel free to open an Github issue, and tag 
 [Fufu (fangfufu)](https://github.com/fangfufu/), 
-[Till Helge (Tar-Minyatur)](https://github.com/Tar-Minyatur/YAML-Translation-Wordpress-Plugin),
+[Till Helge (Tar-Minyatur)](https://github.com/Tar-Minyatur),
 [ReadyPlayerEmma](https://github.com/ReadyPlayerEmma)
 and/or 
 [Antonthynell](https://github.com/Antonthynell). Alternatively, you could
