@@ -111,7 +111,8 @@ should look like this:
     "Target-Last-Modified: \n"
 
 Please note that PO file editors may add their own fields. This is totally okay.
-## How do I add a PO file?
+
+### How do I add a PO file?
 It's awesome that you're eager to do more translations. For now, however, we don't have an established process yet to add new pages to the translation effort. We have to be careful with how we define the message IDs to ensure that they will later work correctly with our translation system. The translation coordination team will add more files as our processes mature and become more stable.
 
 ### Translation style guide
@@ -120,7 +121,7 @@ for the translation style guide. Please feel free to contribute to the Wiki.
 
 We will be adding more examples as translation progress. 
 
-## Coordination
+### Coordination
 There are languages with multiple translators, please organise a team amongst
 yourself. Please feel free to use the Folding@home Dev Discord server, or other
 communication methods your translation team is comfortable with.
