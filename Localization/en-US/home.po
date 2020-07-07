@@ -81,7 +81,7 @@ msgstr ""
 msgid "Fight diseases Together with us."
 msgstr ""
 
-msgid "The Folding@home software allows you to share your unused computer power with us ? so that we can research even more potential cures."
+msgid "The Folding@home software allows you to share your unused computer power with us – so that we can research even more potential cures."
 msgstr ""
 
 msgid "FOLDING?"
