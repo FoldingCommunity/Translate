@@ -27,7 +27,7 @@ msgstr ""
 msgid "Additional platforms"
 msgstr ""
 
-msgid "[Docker for GPUs ](https://hub.docker.com/r/foldingathome/fah-gpu)"
+msgid "Docker for GPUs"
 msgstr ""
 
 msgid "[vSphere](https://flings.vmware.com/vmware-appliance-for-folding-home)"
