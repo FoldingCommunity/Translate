@@ -30,5 +30,5 @@ msgstr ""
 msgid "Docker for GPUs"
 msgstr ""
 
-msgid "[vSphere](https://flings.vmware.com/vmware-appliance-for-folding-home)"
+msgid "vSphere"
 msgstr ""
