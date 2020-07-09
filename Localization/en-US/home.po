@@ -93,7 +93,7 @@ msgstr ""
 msgid "[Learn more](http://foldingathome.org/diseases/)"
 msgstr ""
 
-msgid "**Team**"
+msgid "Team"
 msgstr ""
 
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
