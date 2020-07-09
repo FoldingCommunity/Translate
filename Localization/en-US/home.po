@@ -63,10 +63,10 @@ msgstr ""
 msgid "foldingforum.org"
 msgstr ""
 
-msgid "[Facebook](https://www.facebook.com/Foldinghome-136059519794607/)"
+msgid "Facebook"
 msgstr ""
 
-msgid "[Twitter](https://twitter.com/foldingathome)"
+msgid "Twitter"
 msgstr ""
 
 msgid "1 in a million"
