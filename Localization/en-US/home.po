@@ -90,7 +90,7 @@ msgstr ""
 msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
 msgstr ""
 
-msgid "[Learn more](http://foldingathome.org/diseases/)"
+msgid "Learn more"
 msgstr ""
 
 msgid "Team"
