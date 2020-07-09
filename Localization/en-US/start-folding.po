@@ -24,7 +24,7 @@ msgstr ""
 msgid "Don't see the correct software for your device? Try our list of [alternative downloads](/alternative-downloads)."
 msgstr ""
 
-msgid "**Additional platforms**"
+msgid "Additional platforms"
 msgstr ""
 
 msgid "[Docker for GPUs ](https://hub.docker.com/r/foldingathome/fah-gpu)"
