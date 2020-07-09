@@ -12,7 +12,7 @@ msgstr ""
 msgid "Start folding"
 msgstr ""
 
-msgid "**The Folding@home software runs while you do other things.**"
+msgid "The Folding@home software runs while you do other things."
 msgstr ""
 
 msgid "While you keep going with your everyday activities, your computer will be working to help us find cures for diseases like cancer, ALS, Parkinson's, Huntington's, Influenza and many others."
