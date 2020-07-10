@@ -39,7 +39,7 @@ msgid "Hide this and watch the video."
 msgstr "Schließen, um das Video anzusehen."
 
 msgid "START FOLDING NOW"
-msgstr "START FOLDING NOW"
+msgstr "JETZT MITFALTEN"
 
 msgid "Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use."
 msgstr "Suchen Sie sich die Version der Software aus, welche Ihnen am liebsten ist und legen Sie los. Folding@home herunterzuladen ist komplett kostenlos, einfach zu installieren, und die Nutzung ist sicher."
