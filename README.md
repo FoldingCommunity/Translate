@@ -106,9 +106,9 @@ should look like this:
     "Source-Language: en-US\n"
     "Source-Version: 1.0\n"
     "Source-Last-Modified: 20200705\n"
-    "Target-Language: \n"
-    "Target-Version: \n"
-    "Target-Last-Modified: \n"
+    "Target-Language: zh-CN\n"
+    "Target-Version: 1.0.0\n"
+    "Target-Last-Modified: 20200706\n"
 
 Please note that PO file editors may add their own fields. This is totally okay.
 
