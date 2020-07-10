@@ -77,7 +77,8 @@ fields:
  file, this must be  in the format of **YYYYMMDD**, e.g. ``20200704``.
  6. ``Target-Language`` - The target language for this PO file, e.g. ``zh-CN``.
  7. ``Target-Version`` - The version code for the target PO file,
- e.g. ``1.2.1``.
+ e.g. ``1.2.1``. (Note that it should be a subversion of ``Source-Version``,
+  please refer to the note below.)
  8. ``Target-Last-Modified`` - The last modification date for this PO file, this
  must be in the format of **YYYYMMDD**, ``20200704``.
 
