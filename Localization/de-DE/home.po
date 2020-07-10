@@ -108,7 +108,7 @@ msgid "Team"
 msgstr "Team"
 
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
-msgstr "Folding@home ist derzeit bei der Washington University in der St. Louis School of Medicine zu Hause und steht unter der Leitung von Dr. Greg Bowman. Die Doktoren John Chodera (MSKCC) und Vince Voelz (Temple University) unterstützen das Projektmanagement ebenfalls aktiv. Ihre drei Labore sind die Hauptantriebskraft von Folding@home."
+msgstr "Folding@home ist derzeit bei der Washington University in der St. Louis School of Medicine zu Hause und steht unter der Leitung von Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Die Doktoren [John Chodera](http://www.choderalab.org/) (MSKCC) und [Vince Voelz](http://www.voelzlab.org/) (Temple University) unterstützen das Projektmanagement ebenfalls aktiv. Ihre drei Labore sind die Hauptantriebskraft von Folding@home."
 
 msgid "Latest Posts"
 msgstr "Neueste Posts"
