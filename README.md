@@ -81,6 +81,9 @@ fields:
   please refer to the note below.)
  8. ``Target-Last-Modified`` - The last modification date for this PO file, this
  must be in the format of **YYYYMMDD**, ``20200704``.
+ 9. ``"Content-Type: text/plain; charset=UTF-8\n"`` is needed to remove warnings
+ during PO file validation. Your contribution should be in UTF-8 anyways. 
+ 
 
 Please note that: 
 
@@ -110,6 +113,7 @@ should look like this:
     "Target-Language: zh-CN\n"
     "Target-Version: 1.0.0\n"
     "Target-Last-Modified: 20200706\n"
+    "Content-Type: text/plain; charset=UTF-8\n"
 
 Please note that PO file editors may add their own fields. This is totally okay.
 
