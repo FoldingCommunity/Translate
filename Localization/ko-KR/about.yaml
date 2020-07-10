@@ -1,0 +1,11 @@
+---
+url: "https://foldingathome.org/about/"
+language: "ko-KR"
+title: "ABOUT"
+text: [
+# Bold text at the start
+"Folding@home (FAH 또는 F@h)",
+
+# The rest of the paragraph
+"은 단백질접힘의 과정과 다양한 질병에 관여하는 단백질의 움직임 등 단백질 역학을 시뮬레이션하기 위한 분산 컴퓨팅 프로젝트입니다. 이 프로젝트는 개인 컴퓨터를 이용하여 단백질 역학 시뮬레이션을 실행할 자원 시민과학자들을 모집합니다. 시뮬레이션 데이터를 통해 얻은 통찰력은 과학자들이 생물학을 더 잘 이해할 수 있도록 돕고 있으며, 치료법을 개발할 수 있는 새로운 기회를 제공하고 있습니다."
+]

@@ -1,0 +1,37 @@
+---
+url: "https://foldingathome.org/start-folding/"
+language: "es-MX"
+title: "COMIENZA A PLEGAR"
+text: [
+# Bold first paragraph
+"Folding@home trabaja mientras haces otras cosas.",
+
+# Second paragraph
+"Mientras continúa con sus actividades diarias, su computadora estará trabajando para ayudarnos a encontrar curas para enfermedades como el cáncer, ELA, Parkinson, Huntington, Influenza y muchas otras.",
+
+# Third paragraph first sentence in bold
+"¡Tenga paciencia si experimenta tiempo de inactividad mientras enfrentamos la pandemia de COVID-19 juntos!",
+
+# Rest of the third paragraph
+"Estamos trabajando como locos para comenzar las simulaciones de las proteínas COVID-19. La entusiasta respuesta a nuestro esfuerzo ha sido tremenda y a veces ha vaciado nuestras colas de trabajo. Esto un gran \"problema\", ya que no hay fin para la valiosa ciencia que podemos hacer, es solo una cuestión de darnos algo de tiempo para ponernos en marcha.",
+
+#
+# OS-dependent binary download box
+#
+
+# Bold text
+"¿No ve el software correcto para su dispositivo? Prueba nuestra lista de",
+
+# Alternative downloads text
+"descargas alternativas",
+
+# End of sentence punctuation
+".",
+
+# Bold text
+"Plataformas adicionales",
+
+# URLs
+"Docker para GPUs",
+"vSphere"
+]

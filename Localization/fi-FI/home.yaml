@@ -1,0 +1,76 @@
+---
+url: "https://foldingathome.org/"
+title: "Folding@home"
+language: "fi-FI"
+text: [
+# I AM One IN A MILLION bold text
+"OLEN Yksi MILJOONASTA",
+
+# Associated text
+"Riippumatta siitä oletko koskaan kuullutkaan foldaamisesta tai oletko jo vapaaehtoinen, tarvitsemme apuasi päämäärämme saavuttamiseen -- miljoona vapaaehtoista foldaajaa.",
+
+#Associated square button
+"ALOITA LASKENTA NYT",
+
+#Associated text with the aobve square button
+"Piilota tämä ja katso video.",
+
+# START FOLDING NOW bold text
+"ALOITA LASKENTA NYT",
+
+# Associated text
+"Valitse sinulle soveltuva versio ohjelmasta aloittaaksesi. Folding@home-sovelluksen lataaminen on ilmaista, asennus helppoa ja käyttö turvallista.
+Saatavilla:
+Linux
+Windows
+Mac",
+
+#Associated square button
+"ALOITA LASKENTA",
+
+#JOIN THE COMMUNITY bold text
+"LIITY YHTEISÖÖN",
+
+# Associated text
+"Folding@Home-yhteisö on hajautunut useille keskustelufoorumeille, nettisivuille ja sosiaaliseen mediaan.
+Tässä lista virallisista kanavistamme.
+Teknistä tukea varten: ",
+
+#URLs - Facebook and Twitter have localised name in certain languages:
+"foldingforum.org",
+"Facebook",
+"Twitter",
+
+#LATEST POSTS bold text
+"VIIMEISIMMÄT UUTISET",
+
+# WHY WE NEED YOU bold text
+"MIKSI TARVITSEMME SINUA",
+
+# Associated text
+"Folding@home-projekti keskittyy tautitutkimukseen. Ongelmat, joita ratkomme vaativat valtavasti tietokonelaskentaa ja tarvitsemme apuasi parannuskeinojen löytämiseen!",
+
+#FIGHT DESIEASES TOGETHER WITH US bold text
+"TAISTELE TAUTEJA VASTAAN KANSSAMME.",
+
+#Associated text
+"Folding@home-ohjelma mahdollistaa käyttämättömän tietokoneen laskentakapasiteetin jakamisen kanssamme, jotta voimme tutkia useampia mahdollisia parannuskeinoja.",
+
+#Associated text in pentagon
+"1 miljoonasta",
+
+#FOLDING? bold text
+"FOLDAAMINEN?",
+
+#Associated text
+"Foldaaminen viittaa tapaan, jolla proteiinit laskostuvat (engl. fold) soluissa, joista ihminen koostuu. Terveytemme nojaa proteiininen kykyyn koota itsensä laskostumalla. Mutta välillä laskostumisessa tapahtuu virheitä, joilla on usein vakavia seurauksia terveydelle.",
+
+#Associated square button
+"LUE LISÄÄ",
+
+#TEAM bold text
+"JOUKKUE",
+
+#Associated text
+"Folding@home-projektin tukikohta sijaitsee nykyään Washington Universityn alaisessa St. Louis School of Medicine -yksikössä ja sitä johtaa tohtori Greg Bowman. Tohtorit John Chodera (MSKCC) ja Vince Voelz (Temple University) ovat myös aktiivisia projektin hallinnassa. Yhdessä heidän kolme laboratoriotaan ovat suurin Folding@home-projektia eteenpäin vievä taho."
+]

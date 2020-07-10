@@ -1,0 +1,82 @@
+---
+url: "https://foldingathome.org/"
+title: "Folding@home"
+language: "ko-KR"
+text: [
+# I AM One IN A MILLION bold text
+"나는 백만 명 중의 한 명입니다",
+
+# Associated text
+"우리의 백만 명 폴딩 실행자 목표 달성을 위해, 폴딩에 대해 이미 익숙한 분들 뿐만 아니라 처음 접하시는 모든 분들의 도움이 필요합니다",
+
+#Associated square button
+"지금 폴딩 시작하기",
+
+#Associated text with the aobve square button
+"감추고 비디오보기.",
+
+# START FOLDING NOW bold text
+"지금 폴딩 시작하기",
+
+# Associated normal text
+"선호하는 소프트웨어 버전을 찾아서 시작하세요. Folding@home의 다운로드는 완전히 무료이며 손쉬운 설치로 안전히 사용할 수 있습니다.
+
+이용가능한 운영체제:
+
+리눅스
+
+윈도우
+
+맥",
+
+#Associated square button
+"폴딩 시작하기",
+
+#JOIN THE COMMUNITY bold text
+"커뮤니티 동참하기",
+
+# Associated text
+"Folding@home 커뮤니티는 포럼, 웹사이트, 소셜 미디어 등 많은 곳에서 만나실 수 있습니다.
+밑의 링크는 저희의 공식 웹사이트 입니다.
+기술 및 지원 문의:",
+
+#URLs - Facebook and Twitter have localised name in certain languages:
+"Folding@home 포럼",
+"Folding@home 페이스북",
+"Folding@home 트위터",
+
+#LATEST POSTS bold text
+"최신 게시글",
+
+# WHY WE NEED YOU bold text
+"당신의 도움이 필요합니다",
+
+# Associated text
+"Folding@home은 프로젝트를 중점으로하는 질병 연구 기관입니다. 저희가 다루는 문제들은 수 많은 컴퓨터 계산들을 필요로 합니다. 치료제 개발을 위해 당신의 도움이 필요합니다!",
+
+#FIGHT DESIEASES TOGETHER WITH US bold text
+"저희와 함께 질병을 극복합시다.",
+
+#Associated text
+"Folding@home 소프트웨어는 사용하지 않는 당신의 컴퓨터 전력을 저희와 공유할 수 있게하며, 저희는 훨씬 더 많은 잠재적인 치료법들을 연구할 수 있게 욉니다.",
+
+#Associated text in pentagon
+"백만 명 중 한 명 되기",
+
+#FOLDING? bold text
+"FOLDING 이란?",
+
+#Associated text
+"접힘이란 사람의 몸을 구성하는 세포에서 단백질이 접히는 방식을 말합니다. 우리의 몸은 건강을 유지하기 위해 단백질에 의존하며, 단백질들은 접힘을 통해 스스로 집합체를 이룹니다.
+이 과정에서 접힘이 잘못 이루어지면 사람의 건강에 심각한 결과를 초래할 수 있습니다.",
+
+#Associated square button
+"더 알아보기",
+
+#TEAM bold text
+"팀",
+
+#Associated text
+"Folding@home은 현재 그레그 보우만 박사의 지휘 아래 세인트루이스 워싱턴대학교 의과대학을 기반으로 두고 있습니다. 존 코데라 박사와 (메모리얼 슬론 케터링 암센터) 빈스 벨즈 박사도 (템플대학교) 프로젝트 운영에 적극 지원하고 있습니다.
+"
+]
