@@ -1,0 +1,51 @@
+---
+url: "https://foldingathome.org/statistics/"
+language: "it-IT"
+# title: "STATISTICS"
+title: "STATISTICHE"
+text: [
+# First two paragraphs
+# "One of the best ways to help Folding@home is by recruiting your friends and family. Start by sharing our project with them. Then join a team or even start your own team. The more points your team earns, the closer we come to finding cures.
+
+# On this page you will find access to statistics for individuals and teams who have joined together to earn points and compete with other teams. Some of us are quite intense in our approach to folding. We have team websites, we soup up our computers, and we drive the technology forward by reporting bugs and making suggestions about how to improve the software.",
+
+"Il modo migliore per contribuire a Folding@home è coinvolgere i tuoi amici e la tua famiglia. Comincia parlando loro del nostro progetto. Poi unisciti a una squadra, o magari crea la tua. Più sono i punti guadagnati dalla tua squadra, più vicini siamo tutti nel trovare delle cure.
+
+Su questa pagina troverai le statistiche degli individui e delle squadre formatesi per guadagnare punti e competere con altre squadre. Alcuni di noi prendono questa ricerca molto seriamente: alcune squadre hanno il loro sito web, altri aggiornano i loro computer per farli andare più veloci, altri aiutano il progetto segnalando errori e suggerendo miglioramenti.",
+
+# Maximise your effort stylistic bold text
+# "MAXIMIZE your EFFORT",
+"MASSIMIZZA il tuo IMPEGNO",
+
+# SET UP YOUR TEAM
+# "SET UP YOUR TEAM",
+"CREA LA TUA SQUADRA",
+
+# Associated text for setting up a team
+# "If you are interested in setting up a team of your own, you can get started here.",
+"Se vuoi creare la tua squadra, puoi farlo qui.",
+
+# START A TEAM button
+# "START A TEAM",
+"CREA UNA SQUADRA",
+
+# CHANGE YOUR TEAM INFO button
+# "CHANGE YOUR TEAM INFO",
+"MODIFICA LA TUA SQUADRA",
+
+# Lost team password? link
+# "Lost team password?",
+"Hai perso la password del tuo team?",
+
+# Heading 1
+# "MONITORING STATS UPDATES AUTOMATICALLY: AVAILABLE DOWNLOADS AND RULES OF USE",
+"MONITORAGGIO AUTOMATICO DEGLI AGGIORNAMENTI DELLE STATISTICHE: REGOLE DI UTILIZZO",
+
+# Text block
+# "The donor and team stats are updated every hour, although this can be delayed if there were a lot of work units to come back during that hour. We have been turning off web access to the stats database during stats updates (usually on the hour).
+
+# Please do not use scripts to access the donor or team pages, but use the full donor list (flat files) instead. IP addresses which do not abide by our robots.txt rules will be banned."
+"The donor and team stats are updated every hour, although this can be delayed if there were a lot of work units to come back during that hour. We have been turning off web access to the stats database during stats updates (usually on the hour).
+
+Invece di usare script per accedere alle statistiche di un donatore o di una squadra, scaricate i file con l'elenco di tutti i donatori e tutte le squadre. Gli indirizzi IP che non seguono le regole dettate dal file robots.txt verranno bloccati."
+]

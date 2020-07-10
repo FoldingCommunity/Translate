@@ -1,0 +1,76 @@
+---
+url: "https://foldingathome.org/"
+title: "Folding@home"
+language: "nl-NL"
+text: [
+# I AM One IN A MILLION bold text
+"IK BEN 1 VAN EEN MILJOEN",
+
+# Associated text
+"Ongeacht of je al bezig bent met 'folding' of er nog nooit iets over gehoord hebt, we hebben jouw hulp nodig om ons doel te bereiken -- 1 miljoen 'folders'.",
+
+#Associated square button
+"BEGIN DIRECT MET 'FOLDEN'",
+
+#Associated text with the aobve square button
+"Verberg deze tekst en bekijk de video.",
+
+# START FOLDING NOW bold text
+"BEGIN NU MET 'FOLDEN'",
+
+# Associated text
+"Kies de softwareversie van jouw voorkeur en begin. Het downloaden van Folding@home is helemaal gratis, makkelijk om te installeren en veilig te gebruiken.
+Beschikbaar voor:
+Linux
+Windows
+Mac",
+
+#Associated square button
+"BEGIN NU MET 'FOLDEN'",
+
+#JOIN THE COMMUNITY bold text
+"WORD LID VAN DE COMMUNITY",
+
+# Associated text
+"De Folding@Home COMMUNITY is verspreid over talloze forums, websites en social media.
+Hieronder is  een lijst van onze officiële kanalen.
+Voor technische ondersteuning: ",
+
+#URLs - Facebook and Twitter have localised name in certain languages:
+"foldingforum.org",
+"Facebook",
+"Twitter",
+
+#LATEST POSTS bold text
+"MEEST RECENTE BERICHTEN",
+
+# WHY WE NEED YOU bold text
+"WAAROM WIJ JOU NODIG hebben",
+
+# Associated text
+"Folding@home is een project gefocused op het onderzoeken van ziektes. De problemen waar wij aan werken vereisen heel veel computerberekeningen en we hebben jouw hulp nodig bij het vinden van geneesmiddelen.",
+
+#FIGHT DESIEASES TOGETHER WITH US bold text
+"VECHT SAMEN MET ONS TEGEN ZIEKTES.",
+
+#Associated text
+"De Folding@home software stelt je in staat jouw ongebruikte computerkracht te delen om zo nog meer potentiële behandelingen te vinden.",
+
+#Associated text in pentagon
+"1 van een miljoen",
+
+#FOLDING? bold text
+"FOLDING?",
+
+#Associated text
+"'Folding verwijst naar het proces waarop eiwitten vouwen in cellen van het menselijk lichaam. Wij zijn afhankelijk van eiwitten en de manier waarop zij zich vormen voor een goede gezondheid. Wanneer de eiwitten verkeerd vouwen kan dit ernstige gevolgen hebben voor iemands gezondheid.",
+
+#Associated square button
+"MEER INFORMATIE",
+
+#TEAM bold text
+"TEAM",
+
+#Associated text
+"Folding@home is momenteel gevestigd in de Washington University in St. Louis School of Medicine, onder leiding van Dr. Greg Bowman. Drs. John Chodera (MSKCC) en Vince Voelz (Temple University) zijn ook actief betrokken bij het leiden van het project. Samen zijn de drie laboratoria de belangrijkste drijfveren achter Folding@home."
+]
