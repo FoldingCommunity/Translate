@@ -1,0 +1,43 @@
+---
+url: "https://foldingathome.org/diseases/"
+language: "fr-FR"
+title: "MALADIES"
+text: [
+# Bold first paragraph
+# "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far."
+"Le projet Folding@home (FAH) s'attache à comprendre le phénomène du repliement des protéines, les maladies dues à un repliement anormal et à l'agrégation des protéines et les nouvelles approches informatiques du développement de médicaments en général. Nous décrivons ici brièvement nos objectifs, nos activités actuelles et quelques temps forts.", 
+
+# Second paragraph
+# "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
+"Un projet de calcul distribué doit non seulement gérer des calculs sur des millions de PC, mais aussi et surtout produire des résultats, notamment sous forme de publications soumises à un examen collégial, de conférences publiques et autres voies de communication ciblant la communauté scientifique au sens large. Vous trouverez dans la barre latérale divers liens illustrant nos progrès dans différents domaines.",
+
+# Third paragraph
+# "You will also find updates about our work, advancements and new projects in the main"
+"Vous pouvez aussi lire des contributions sur notre travail, nos percées et nos nouveaux projets dans le ",
+
+# Folding@Home blog link
+# "Folding@home blog"
+"blog Folding@home",
+
+# End of sentence punctuation
+".",
+
+# Bold heading 1
+# "WHAT IS PROTEIN FOLDING AND HOW IS IT RELATED TO DISEASE?"
+"QU'EST-CE QUE LE REPLIEMENT DES PROTÉINES ET QUELS SONT SES LIENS AVEC LA MALADIE?",
+
+# Text block
+# "Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome – the blueprint for all of the proteins in biology – but how can we understand what these proteins do and how they work?
+"Les protéines sont des chaînes d'acides aminés, de longues chaînes de molécules. Elles constituent la base des activités biologiques. Sous forme d'enzymes, elles forment l'élément moteur des réactions biochimiques: elles font fonctionner la biologie. Sous forme d'éléments structurels, elles constituent l'essentiel de nos os, nos muscles, nos cheveux, notre peau et nos vaisseaux sanguins. Sous forme d'anticorps, elles détectent les éléments envahisseurs et permettent au système immunitaire de les éliminer. C'est pourquoi les scientifiques ont séquencé le génome humain – le modèle de toutes les protéines de notre biologie. Mais comment comprendre ces protéines et leur mode de fonctionnement?",
+
+# However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a “fold.” Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called “folding.”"
+"La simple connaissance de cette séquence ne nous apprend en effet pas grand-chose sur ce que font les protéines et comment. Pour accomplir leur tâche (par ex. en tant qu'enzymes ou anticorps), elles doivent adopter une certaine forme, un certain « repliement ». Les protéines sont des mécanismes vraiment fascinants: elles s'assemblent par elles-mêmes avant de faire leur travail! Cet autoassemblage est appelé le « repliement ».", 
+
+# Bold heading 2
+# "WHAT HAPPENS IF PROTEINS DON’T FOLD CORRECTLY?"
+"QUE SE PASSE-T-IL SI LES PROTÉINES NE SE REPLIENT PAS CORRECTEMENT?", 
+
+# Text block
+# "Diseases such as Alzheimer’s disease, Huntington’s disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (“aggregate”). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer’s disease."
+"Des troubles tels que la maladie d'Alzheimer, la maladie de Huntington, la mucoviscidose, l'ESB (maladie de la vache folle), une forme transmise de l'emphysème et de nombreux cancers sont supposés provenir d'un repliement incorrect des protéines. Lorsque des protéines se replient mal, elles peuvent s'agglomérer et former ainsi des agrégats. Ceux-ci peuvent souvent se réunir dans le cerveau, où ils causeraient les symptômes de la maladie de la vache folle ou de la maladie d'Alzheimer."
+]

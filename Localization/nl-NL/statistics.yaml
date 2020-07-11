@@ -1,0 +1,36 @@
+---
+url: "https://foldingathome.org/statistics/"
+language: "nl-NL"
+title: "STATISTIEKEN"
+text: [
+# First two paragraphs
+"Een van de beste manieren om Folding@home te helpen, is door je vrienden en familie zich aan te laten sluiten. Sluit je vervolgens aan bij een team of maak een je eigen team. Hoe meer punten jouw team verdient, hoe dichter we komen bij het vinden van remedies.
+
+Op deze pagina vind je statistieken voor individuen en teams die gezamenlijk punten verdienen en concurreren met andere teams. Sommige van ons zijn behoorlijk fanatiek in onze aanpak van folden. Wij hebben teamwebsites, we voeren onze computers op, we helpen de technologie vooruit door het melden van bugs en we maken suggesties om de software te verbeteren.",
+
+# Maximise your effort stylistic bold text
+"MAXIMALISEER jouw INSPANNING",
+
+# SET UP YOUR TEAM
+"STEL JOUW TEAM SAMEN",
+
+# Associated text for setting up a team
+"Als je zelf een team op wilt zetten, dan kun je hier starten.",
+
+# START A TEAM button
+"START EEN TEAM",
+
+# CHANGE YOUR TEAM INFO button
+"WIJZIG JOUW TEAM INFO",
+
+# Lost team password? link
+"Teamwachtwoord verloren?",
+
+# Heading 1
+"AUTOMATISCH MONITOREN VAN STATS UPDATES: BESCHIKBARE DOWNLOADS EN REGELS VOOR GEBRUIK",
+
+# Text block
+"De donor- en teamstatistieken worden elk uur bijgewerkt, hoewel dit opgeschort kan worden als er gedurende dat uur veel werkeenheden terugkomen. We schakelen webtoegang tot de statistiekendatabase uit tijdens de statistiekenupdates (meestal op het hele uur).
+
+Gebruik geen scripts om toegang te krijgen tot de donor- of teampagina's, maar gebruik in plaats daarvan de volledige donorlijst (flat files). IP-adressen die niet voldoen aan onze robots.txt regels worden geblokkeerd."
+]

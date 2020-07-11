@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/statistics/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: it-IT\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20200710\n"
+
+msgid "Statistics"
+msgstr "Statistiche"
+
+msgid "One of the best ways to help Folding@home is by recruiting your friends and family. Start by sharing our project with them. Then join a team or even start your own team. The more points your team earns, the closer we come to finding cures."
+msgstr "Il modo migliore per contribuire a Folding@home è coinvolgere i tuoi amici e la tua famiglia. Comincia parlando loro del nostro progetto. Poi unisciti a una squadra, o magari crea la tua. Più sono i punti guadagnati dalla tua squadra, più vicini siamo tutti nel trovare delle cure."
+
+msgid "On this page you will find access to statistics for individuals and teams who have joined together to earn points and compete with other teams. Some of us are quite intense in our approach to folding. We have team websites, we supe up our computers, and we drive the technology forward by reporting bugs and making suggestions about how to improve the software."
+msgstr "Su questa pagina troverai le statistiche degli individui e delle squadre formatesi per guadagnare punti e competere con altre squadre. Alcuni di noi prendono questa ricerca molto seriamente: alcune squadre hanno il loro sito web, altri aggiornano i loro computer per farli andare più veloci, altri aiutano il progetto segnalando errori e suggerendo miglioramenti."
+
+msgid "**MAXIMIZE** your **EFFORT**"
+msgstr "**MASSIMIZZA** il tuo **IMPEGNO**"
+
+msgid "Set up your team"
+msgstr "Crea la tua squadra"
+
+msgid "If you are interested in setting up a team of your own, you can get started here."
+msgstr "Se vuoi creare la tua squadra, puoi farlo qui."
+
+msgid "Start a team"
+msgstr "Crea una squadra"
+
+msgid "Lost team password?"
+msgstr "Hai perso la password del tuo team?"
+
+msgid "Change your team info"
+msgstr "Modifica la tua squadra"
+
+msgid "Monitoring stats updates automatically: available downloads and rules of use"
+msgstr "Monitoraggio automatico degli aggiornamenti delle statistiche: regole di utilizzo"
+
+msgid "The donor and team stats are updated every hour, although this can be delayed if there were a lot of work units to come back during that hour. We have been turning off web access to the stats database during stats updates (usually on the hour)."
+msgstr "Le statistiche individuali e delle squadre vengono aggiornate ogni ora, anche se possono verificarsi dei rallentamenti causati dal gran numero di risultati inviati. L'accesso al database delle statistiche viene disabilitato durante l'aggiornamento (di solito allo scoccare dell'ora)."
+
+msgid "Please do not use scripts to access the donor or team pages, but use the full donor list (flat files) instead. IP addresses which do not abide by our robots.txt rules will be banned."
+msgstr "Invece di usare script per accedere alle statistiche di un donatore o di una squadra, scaricate i file con l'elenco di tutti i donatori e tutte le squadre. Gli indirizzi IP che non seguono le regole dettate dal file robots.txt verranno bloccati."

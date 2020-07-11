@@ -1,0 +1,44 @@
+---
+url: "https://foldingathome.org/diseases/"
+language: "de-DE"
+title: "KRANKHEITEN"
+text: [
+# Bold first paragraph
+#"The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far.",
+"Das Folding@home-Projekt (FAH) widmet sich dem Verständnis der Proteinfaltung, den Krankheiten, die aus falscher Proteinfaltung und -gruppierung entstehen, und ganz generell neuartigen computergestützten Möglichkeiten neue Medikamente zu entwickeln. Hier beschreiben wir kurz unsere Ziele, was wir machen und auch einige schon erreichte Höhepunkte.",
+
+# Second paragraph
+#"A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas.",
+"Ein Projekt im Bereich verteiltes Rechnen muss nicht nur Berechnungen auf Millionen von PCs laufen lassen, sondern so ein Projekt muss auch Ergebnisse liefern, insbesondere in der Form von durch Fachleute geprüften Veröffentlichungen, öffentlichen Vorlesungen und auf anderen Wegen, die die Ergebnisse von FAH an die breite Wissenschaftsgemeinschaft verteilen. In der Seitenleiste finden Sie Links zu den Fortschritten, die wir in verschiedenen Bereichen gemacht haben.",
+
+# Third paragraph
+#"You will also find updates about our work, advancements and new projects in the main",
+"Neuigkeiten zu unserer Arbeit, Weiterentwicklungen und neuen Projekten finden Sie auch im",
+
+# Folding@Home blog link
+#"Folding@home blog",
+"Folding@home Haupt-Blog",
+
+# End of sentence punctuation
+".",
+
+# Bold heading 1
+#"WHAT IS PROTEIN FOLDING AND HOW IS IT RELATED TO DISEASE?",
+"WAS IST PROTEINFALTUNG UND WAS HAT SIE MIT KRANKHEITEN ZU TUN?",
+
+# Text block
+#"Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome – the blueprint for all of the proteins in biology – but how can we understand what these proteins do and how they work?
+#
+#However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a “fold.” Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called “folding.”",
+"Proteine sind Aneinanderreihungen von Aminosäuren, also lange Kettenmoleküle. Diese schaffen die Basis für alles, was die Biologie tut. Als Enzyme sind sie die treibende Kraft hinter all den biochemischen Reaktionen, die Biologie funktionieren lassen. Als strukturelle Elemente sind sie der Hauptbestandteil unserer Knochen, Muskeln, Haare, Haut und Blutgefäße. Als Antikörper erkennen sie eindringende Elemente und erlauben dem Immunsystem die unerwünschten Eindringlinge zu beseitigen. Aus diesen Gründen haben Wissenschaftler das menschliche Genom sequenziert - die Blaupause für alle Proteine in der Biologie. Aber wie können wir verstehen was diese Proteine machen und wie sie funktionieren?
+
+Einfach nur diese Sequenz zu kennen sagt uns allerdings nur wenig darüber was ein Protein tut und wie es das tut. Um ihre Funktion zu erfüllen (bspw. als Enzyme oder Antikörper) müssen sie eine bestimmte Form annehmen, was man auch „Faltung“ (engl. „fold“) nennt. So gesehen sind Proteine also wirklich erstaunliche Maschinen: bevor sie ihre Arbeit verrichten müssen sie sich selbst zusammenbauen! Dieser Selbstzusammenbau wird „Faltung“ (engl. „folding“) genannt.",
+
+# Bold heading 2
+#"WHAT HAPPENS IF PROTEINS DON’T FOLD CORRECTLY?",
+"WAS PASSIERT, WENN PROTEINE SICH NICHT RICHTIG FALTEN?",
+
+# Text block
+#"Diseases such as Alzheimer’s disease, Huntington’s disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (“aggregate”). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer’s disease."
+"Von Krankheiten wie Alzheimer, Chorea Huntington, Mukoviszidose, BSE (Rinderwahn), einer erblichen Form von Emphysemen und sogar vielen Krebsarten glaubt man, dass sie das Ergebnis falscher Proteinfaltung sind. Wenn sich Proteine falsch falten, können sie sich verklumpen („aggregieren“). Diese Klumpen sammeln sich dann häufig im Gehirn und man vermutet, dass sie die Symptome von BSE oder Alzheimer verursachen."
+]

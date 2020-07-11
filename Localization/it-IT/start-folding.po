@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/start-folding/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: it-IT\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20200710\n"
+
+msgid "Start folding"
+msgstr "Comincia ora"
+
+msgid "The Folding@home software runs while you do other things."
+msgstr "Il software di Folding@home funziona mentre usi il tuo computer per fare altro."
+
+msgid "While you keep going with your everyday activities, your computer will be working to help us find cures for diseases like cancer, ALS, Parkinson's, Huntington's, Influenza and many others."
+msgstr "Mentre prosegui con le tue attività giornaliere, il tuo computer ci aiuterà a trovare cure per malattie come il cancro, la SLA, il morbo di Parkinson, la corea di Huntington, l'influenza e molte altre."
+
+msgid "**Please be patient if you experience idle time as we face the COVID-19 pandemic together!** We are working like mad to start simulations of COVID-19 proteins. The enthusiastic response to our effort has been tremendous and has sometimes emptied our queues. This is a great “problem“ to have as there is no end to the valuable science we can do, its just a matter of giving us some time to get more running."
+msgstr "**Sii paziente se ogni tanto ci sono dei tempi morti: stiamo affrontando la pandemia da COVID-19 tutti insieme!** Stiamo lavorando duramente per preparare nuove simulazioni delle proteine del COVID-19. La risposta al nostro progetto è stata imponente e qualche volta abbiamo terminato le simulazioni da assegnare ai volontari. La ricerca che possiamo fare insieme non ha limiti, dacci solo un po' di tempo per prepararla."
+
+msgid "Don't see the correct software for your device? Try our list of [alternative downloads](/alternative-downloads)."
+msgstr "Non vedi il software giusto per il tuo computer? Prova la nostra lista di [download alternativi](/alternative-downloads)."
+
+msgid "Additional platforms"
+msgstr "Ulteriori piattaforme"
+
+msgid "Docker for GPUs"
+msgstr "Docker per le GPUs"
+
+msgid "vSphere"
+msgstr ""

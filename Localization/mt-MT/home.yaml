@@ -1,0 +1,76 @@
+---
+url: "https://foldingathome.org/"
+title: "Folding@home"
+language: "mt-MT"
+text: [
+# I AM One IN A MILLION bold text
+"JIEN WIEĦED F'MILJUN",
+
+# Associated text
+Irrispettivament jekk diġà qed titwi jekk qatt ma smajt kelma dwara, għandna bżonn l-għajnuna tiegħek biex nilħqu l-għan tagħna -- li huwa miljun tennej.",
+
+#Associated square button
+"IBDA ITWI ISSA",
+
+#Associated text with the aobve square button
+"Għatti din u ara l-vidjow.",
+
+# START FOLDING NOW bold text
+"IBDA ITWI ISSA",
+
+# Associated text
+"Għażel il-verżjoni tas-software li tippreferi u ibda. It-tniżżil ta' Folding@home huwa totalment b'xejn, faċli biex tinstalla u sigur biex tuża.
+Disponnibli għal:
+Linux
+Windows
+Mac",
+
+#Associated square button
+"IBDA ITWI",
+
+#JOIN THE COMMUNITY bold text
+"INGĦAQAD MAGĦNA",
+
+# Associated text
+"Il-komunità ta' Folding@Home hija mifruxa fuq diversi forums, websajts u midja soċjali.
+Hawnhekk hawn lista ta' kanali offiċjali.
+Għall-appoġġ teknoloġiku: ",
+
+#URLs - Facebook and Twitter have localised name in certain languages:
+"foldingforum.org",
+"Facebook",
+"Twitter",
+
+#LATEST POSTS bold text
+"L-AKTAR POSTS RIĊENTI",
+
+# WHY WE NEED YOU bold text
+"GĦALA GĦANDNA BŻONNOK",
+
+# Associated text
+"Folding@home huwa proġett iffukat fuq ir-riċerka tal-mard. Il-problemi li qed insolvu jirrikjedu ammont kbir ta' kalkoli tal-kompjuters u għandna bżonn l-għajnuna tiegħek biex nsibu l-kuri!",
+
+#FIGHT DESIEASES TOGETHER WITH US bold text
+"IĠĠIELED IL-MARD FLIMKIEN MAGĦNA.",
+
+#Associated text
+"Is-software ta' Folding@home iħallik taqsam is-saħħa mhux użat tal-kompjuter tiegħek magħna biex b'hekk nkunu nistgħu nirriċerkaw aktar dwar kuri potenzjali.",
+
+#Associated text in pentagon
+"1 f'miljun",
+
+#FOLDING? bold text
+"TITWI?",
+
+#Associated text
+"Tiwi jirriferi għall-mod ta' kif proteini tal-ġisem jintwew fiċ-ċelluli li jiffurmaw ġismek. Aħna niddependu fuq il-proteini biex iżommuna b'saħħitna u huma jiġġantu billi jintwew. Iżda meta jintwew ħażin, ikun hemm konsegwenzi serji fis-saħħa tal-persuna.",
+
+#Associated square button
+"TGĦALLEM AKTAR",
+
+#TEAM bold text
+"TIM",
+
+#Associated text
+"Folding@home huwa bgħalissa bbażat fl-Università ta' Washington fl-Iskola tal-Mediċina St. Louis, taħt id-direttorat ta' Dr. Greg Bowman. Drs. John Chodera (MSKCC) u Vince Voelz (Università Temple) huma wkoll attivi fl-għajnuna tal-manniġjar tal-proġett. Flimkien, it-tlett laboritajiet tagħhom huma s-sewwieqa primarji ta' Folding@home."
+]

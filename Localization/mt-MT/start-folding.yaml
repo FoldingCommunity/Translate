@@ -1,0 +1,37 @@
+---
+url: "https://foldingathome.org/start-folding/"
+language: "mt-MT"
+title: "IBDA ITWI"
+text: [
+# Bold first paragraph
+"Is-software ta' Folding@home jaħdem waqt li int tagħmel affarjiet oħra.",
+
+# Second paragraph
+"Waqt li int tkompli bl-attivitajiet ta' kuljum, il-kompjuter tiegħek ikun qed jgħina nsibu kuri għal mard bħall-kanċer, ALS, l-marda ta' Parikinson, ta' Huntington, l-Influwenza u ħafna oħrajn.",
+
+# Third paragraph first sentence in bold
+"Jekk jogħġbok kun paċenzjuż jekk tesperjenza ħin wieqaf sakemm naffaċjaw il-pandemija tal-COVID-19 flimkien!",
+
+# Rest of the third paragraph
+"Qegħdin naħdmu isna mġienen biex nibdew simulazzjonijiet tal-proteini ta' COVID-19. Ir-rispons entużjastiku għall-isforz tagħna kien tremend u xi kultant ħeles mil-kjus li kien qed ikollna. Din kienet “problema” tajba ħafna biex ikollna għaliex m'hemmx tmiem għall-ixjenza prezzjuża li nistgħu nagħmlu, ija biss kwistjoni li ttuna ftit ħin biex nibdew nħaddmu aktar.",
+
+#
+# OS-dependent binary download box
+#
+
+# Bold text
+"Mintiex qed tara s-software t-tajjeb għall-apparat tiegħek? Prova l-lista ta'",
+
+# Alternative downloads text
+"downloads alternattivi.",
+
+# End of sentence punctuation
+".",
+
+# Bold text
+"Pjattaformi addizzjonali",
+
+# URLs
+"Docker għall-GPUs",
+"vSphere"
+]
