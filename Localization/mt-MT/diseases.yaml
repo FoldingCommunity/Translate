@@ -1,0 +1,34 @@
+---
+url: "https://foldingathome.org/diseases/"
+language: "mt-MT"
+title: "MARD"
+text: [
+# Bold first paragraph
+"Il-proġett ta' Folding@home (FAH) huwa ddedikat għall-fehim tat-tiwi tal-proteini, il-mard li jirriżulta mit-tiwi ħażin u aggregazzjoni, u modi tal-komputazzjoni ġodda għall-iżvilupp ta' drogi ġenerali ġodda. Hawnhekk, niddeskrivu fil-qosor għanijietna, dak li qegħdin nagħmlu, u xi punti ewlenin s'issa.",
+
+# Second paragraph
+"Proġett tal-informatika distribwita m'għandux biss jagħmel kalkuli fuq miljoni ta' kompjuters, iżda proġetti bħal dawn għandhom jipproduċu risultati, speċjalment fil-forma ta' pubblikazzjonijiet riveduti mill-pari, lectures pubbliċi, u modi oħra li jxerrdu r-riżultati mill-FAH lill-komunità akbar xjentifika. Mal-ġenb, issib links dwar il-progress tagħna f'oqsma differenti.",
+
+# Third paragraph
+"Issib ukoll aġġornamenti dwar xogħlna, avvanzi u proġetti ġodda fil-",
+
+# Folding@Home blog link
+"blog prinċipali ta' Folding@home",
+
+# End of sentence punctuation
+".",
+
+# Bold heading 1
+"X'INHUWA T-TIWI TAL-PROTEINI U X'GĦANDU X'JAQSAM MAL-MARD?",
+
+# Text block
+"Proteini huma ġiżirani ta' aċidi amminiċi, katina twila ta' molekuli. Huma l-bażi ta' kif il-bijoloġija jagħmel ix-xogħol. Bħala enżimi, dawn huma l-forza mexxejja wara r-reazzjonijiet bijokimiċi kollha li jħaddmu l-bijoloġija. Bħala elementi strutturali, huma l-kostitwent prinċipali tal-għadam, moħħ, xagħar, ġisem u l-vini ta' demm tagħna. Bħala antikorpi, jagħrfu elementi li qed jinvadu u jippermettu lis-sistema immunitarja teħles mill-invażuri mhux mixtieqa. Għal dawn ir-raġunijiet, xjentisti senslu l-ġenoma uman – l-iskema tal-proteini kollha fil-bijoloġija – imma kif nistgħu nifhmu x'jagħmlu l-proteini u kif jaħdmu?
+
+Madankollu, biss li nkunu nafu din is-segwenza ftit tgħidilna dwar x'tagħmel il-proteina u kif tagħmilha. Sabiex iwettqu l-funzjoni tagħhom (e.ż. bħala enżimi jew antikorpi), għandom bżonn jieħdu forma partikolari, li tissejjaħ ukoll “tiwja”. Għalhekk, il-proteini huma makkinarji tal-għaġeb: qabel ma jagħmlu xogħolhom, jiġbru nfushom! Dan l-awtoassemblaġġ ngħidulu “tiwi”.",
+
+# Bold heading 2
+"X'JIĠRI JEKK IL-PROTEINI MA JINTWEWX KIF SUPPOST?",
+
+# Text block
+"Mard bħal ta' Alzheimer, ta' Huntington, il-fibrożi ċistika, il-BSE (Marda tal-Mad Cow), forma li tintiret mill-enfisema, u ħafna kanċeri oħra huma maħsuba li jirriżultaw minn tiwi ħażin tal-proteini. Meta l-proteini jintwew ħażin, jistgħu jeħlu flimkien (“jaggregaw”). Dawn iċ-ċapep spiss jiffurmaw fil-moħħ, fejn huma maħsubin jikkawżaw is-sintomi tal-marda tal-Mad Cow jew ta' Alzheimer."
+]

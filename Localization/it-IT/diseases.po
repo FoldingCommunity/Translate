@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: it-IT\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20200710\n"
+
+msgid "Diseases"
+msgstr "Malattie"
+
+msgid "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far."
+msgstr "Il progetto Folding@home ha come scopo lo studio del ripiegamento proteico e delle malattie che conseguono dal cattivo ripiegamento delle proteine e dalla loro aggregazione. Inoltre, si occupa dello sviluppo di nuovi metodi computazionali per lo sviluppo di nuovi farmaci. In questa pagina, illustreremo brevemente i nostri obiettivi e in cosa consiste il nostro lavoro."
+
+msgid "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
+msgstr "Un progetto di calcolo distribuito non deve limitarsi ad eseguire calcoli su milioni di computer ma deve anche produrre risultati da condividere con la più vasta comunità scientifica: pubblicazioni, seminari pubblici e altro ancora. Nella barra laterale, puoi trovare i collegamenti alle pagine che mostrano i nostri progressi nelle differenti aree."
+
+msgid "You will also find updates about our work, advancements and new projects in the main [Folding@home blog](https://foldingathome.org/news/)."
+msgstr "Troverai anche aggiornamenti riguardanti il nostro lavoro, i nostri progressi e nuovi progetti sul [blog di Folding@home](https://foldingathome.org/news/)."
+
+msgid "What is protein folding and how is it related to disease?"
+msgstr "Cos'è il ripiegamento proteico? Qual è il suo rapporto con le malattie?"
+
+msgid "Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome – the blueprint for all of the proteins in biology – but how can we understand what these proteins do and how they work?"
+msgstr "Le proteine sono 'collane' di amminoacidi, molecole a catena lunga. Sono l'elemento fondamentale per il funzionamento biologico. Come enzimi, sono la forza motrice dietro a tutte le reazioni biochimiche che fanno funzionare la biologia. Come elementi strutturali, sono i costituenti principali delle nostre ossa, muscoli, capelli, pelle e vasi sanguigni. Come anticorpi, riconoscono gli intrusi e consentono al sistema immunitario di liberarsene. Per queste ragioni, gli scienziati hanno sequenziato il genoma umano, la matrice di tutte le proteine. Ma come possiamo capire cosa fanno e come funzionano queste proteine?"
+
+msgid "However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a \"fold\". Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called \"folding\"."
+msgstr "Conoscere solo la sequenza genetica ci dice ben poco sul funzionamento delle proteine. Per svolgere la loro funzione, infatti, devono prima prendere una specifica forma, per esempio quella dell'enzima o dell'anticorpo. Le proteine sono macchine davvero incredibili: prima di svolgere il loro compito, si assemblano da sole! Questo autoassemblamento è chiamato \"ripiegamento\" (folding)"
+
+msgid "What happens if proteins don't fold correctly?"
+msgstr "Cosa succede se le proteine non si ripiegano correttamente?"
+
+msgid "Diseases such as Alzheimer's disease, Huntington's disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (\"aggregate\"). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer's disease."
+msgstr "Sembra che molte malattie, come la sindrome di Alzheimer, la corea di Huntington, la fibrosi cistica, la Mucca Pazza, una forma ereditaria di enfisema e anche diversi tipi di cancro, siano il risultato di un cattivo ripiegamento proteico. Quando le proteine non si ripiegano correttamente, possono formare degli aggregati che spesso si radunano nel cervello, dove sembra possano causare i sintomi della Mucca Pazza o dell'Alzheimer."
