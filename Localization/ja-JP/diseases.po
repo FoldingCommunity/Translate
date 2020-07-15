@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: ja-JP\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20200712\n"
+
+msgid "Diseases"
+msgstr "病気の解明"
+
+msgid "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far."
+msgstr "Folding@home project (FAH) は主にタンパク質の折りたたみ、タンパク質の折りたたみ異常や凝集に起因する疾患の解明、そして新薬開発のための新しい計算法の開発を専門としています。ここでは、私たちの目標や何をしているのか、そしてこれまでのハイライトを簡単に説明します。"
+
+msgid "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
+msgstr "分散コンピューティングプロジェクトは何百万台ものPCで計算を行うだけではありません。特に査読付きの業績や公開講座などFAHの結果をより多くの科学界に広める方法で結果を出さなければなりません。様々な分野での進歩をサイドバーのリンクからご覧ください。"
+
+msgid "You will also find updates about our work, advancements and new projects in the main [Folding@home blog](https://foldingathome.org/news/)."
+msgstr "またFAHの進歩や新規プロジェクトについての最新情報が[Folding@homeブログ](https://foldingathome.org/news/)に掲載されています。"
+
+msgid "What is protein folding and how is it related to disease?"
+msgstr "タンパク質の折りたたみとは何なのでしょうか、どのように病気と関係しているのでしょうか？"
+
+msgid "Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome - the blueprint for all of the proteins in biology - but how can we understand what these proteins do and how they work?"
+msgstr "タンパク質はアミノ酸がネックレスのように繋がった長い鎖状分子です。そして生物の生命現象を担う基本的な物質です。酵素として生命維持に必要な生化学反応のすべての原動力となっています。また、骨や筋肉、髪の毛、皮膚、血管の主な構成要素となっています。さらに抗体として体内に侵入してきた外敵を識別し免疫系が排除することを可能にします。これらの理由から科学者たちはヒトゲノム配列－全てのタンパク質の設計図－を決定しようとしてきました。しかし、これらのタンパク質が何をしているのか、どのように機能しているのかを理解するにはどうしたらいいのでしょうか？"
+
+msgid "However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a \"fold\". Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called \"folding\"."
+msgstr "実はヒトゲノム配列を知っているだけでは、そのタンパク質が何をしているのか、どのように機能しているのかについてはほとんどわかりません。酵素や抗体のようにタンパク質が機能を持つには特定の立体構造に“折りたたまれ”なければなりません。つまり、タンパク質は自ら組み立てられ機能を持つ、驚くべきマシンなのです！　そして、この自己組織化を“折りたたみ（folding）”と呼びます。"
+
+msgid "What happens if proteins don't fold correctly?"
+msgstr "タンパク質が正しく折りたたまれていない場合はどうなるのでしょうか？"
+
+msgid "Diseases such as Alzheimer's disease, Huntington's disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (\"aggregate\"). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer's disease."
+msgstr "アルツハイマー病やハンチントン病、嚢胞性線維症、BSE（狂牛病）、肺気腫の遺伝的形態、さらには多くの癌などの疾患は、タンパク質の折りたたみ異常に起因すると考えられています。タンパク質が誤って折りたたまれると、より集まり塊になる現象、凝集が起こります。これらの塊はしばしば脳内で発生し、狂牛病やアルツハイマー病の症状を引き起こすと考えられています。"

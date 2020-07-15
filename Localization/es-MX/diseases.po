@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: es-MX\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200709 \n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_MX\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "Diseases"
+msgstr "Enfermedades"
+
+msgid "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far."
+msgstr "El proyecto de Folding@home (FAH) se dedica a comprender el plegamiento de las proteínas, las enfermedades resultantes del mal plegado y agregación proteica, y nuevas formas computacionales para desarrollar nuevos fármacos en general. Aquí, describimos brevemente nuestros objetivos, lo que estamos haciendo y algunos aspectos destacados hasta ahora."
+
+msgid "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
+msgstr "Un proyecto de computación distribuida no solo debe realizar cálculos en millones de PC, sino que dichos proyectos deben producir resultados, especialmente en forma de publicaciones revisadas por pares, conferencias públicas y otras formas que difunden los resultados de FAH a la comunidad científica en general. En la barra lateral, encontrará enlaces a nuestro progreso en diferentes áreas."
+
+msgid "You will also find updates about our work, advancements and new projects in the main [Folding@home blog](https://foldingathome.org/news/)."
+msgstr "También encontrarás actualizaciones sobre nuestro trabajo, avances y proyectos nuevos en la página principal [Folding@home blog](https://foldingathome.org/news/)."
+
+msgid "What is protein folding and how is it related to disease?"
+msgstr "¿Qué es el plegamiento de proteínas y cómo se relaciona con las enfermedades?"
+
+msgid "Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome - the blueprint for all of the proteins in biology - but how can we understand what these proteins do and how they work?"
+msgstr "Las proteínas son collares de aminoácidos, moléculas de cadena larga. Son la base de cómo la biología hace las cosas. Como enzimas, son la fuerza impulsora detrás de todas las reacciones bioquímicas que hacen que la biología funcione. Como elementos estructurales, son el componente principal de nuestros huesos, músculos, cabello, piel y vasos sanguíneos. Como anticuerpos, reconocen los elementos invasores y permiten que el sistema inmunitario elimine a los invasores no deseados. Por estas razones, los científicos han secuenciado el genoma humano, el modelo para todas las proteínas en biología, pero ¿cómo podemos entender qué hacen estas proteínas y cómo funcionan?"
+
+msgid "However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a \"fold\". Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called \"folding\"."
+msgstr "Sin embargo, solo conocer esta secuencia nos dice poco sobre lo que hace la proteína y cómo lo hace. Para llevar a cabo su función (por ejemplo, como enzimas o anticuerpos), deben adoptar una forma particular, también conocida como \"pliegue\". Por lo tanto, las proteínas son máquinas realmente sorprendentes: ¡Antes de hacer su trabajo, se ensamblan! Este autoensamblaje se llama \"plegado\"."
+
+msgid "What happens if proteins don't fold correctly?"
+msgstr "¿Qué ocurre si las proteínas no se pliegan correctamente?"
+
+msgid "Diseases such as Alzheimer's disease, Huntington's disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (\"aggregate\"). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer's disease."
+msgstr "Enfermedades el Alzheimer, la enfermedad de Huntington, la fibrosis quística, la EEB (enfermedad de las vacas locas), una forma hereditaria de enfisema, e incluso se cree que muchos cánceres son el resultado del mal plegamiento de proteínas. Cuando las proteínas se pliegan incorrectamente, pueden agruparse (\"agregado\"). Estos grupos a menudo pueden acumularse en el cerebro, donde se cree que causan los síntomas de la vaca loca o la enfermedad de Alzheimer."
