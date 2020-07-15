@@ -19,8 +19,8 @@ msgstr ""
 "Language: fr_FR\n"
 "X-Generator: Poedit 2.3.1\n"
 
-msgid "À propos"
-msgstr ""
+msgid "About"
+msgstr "À propos"
 
 msgid "Folding@home (FAH or F@h)"
 msgstr ""
@@ -33,4 +33,3 @@ msgid ""
 " ainsi obtenus aident les scientifiques à mieux comprendre la biologie en présence et"
 " leur permettent de développer de nouveaux traitements."
 msgstr ""
-
