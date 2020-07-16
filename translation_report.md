@@ -3,7 +3,7 @@
 | Language | Done % |
 | -------- | -----: |
 | [bg-BG](#bg-BG) |   0% |
-| [de-DE](#de-DE) |   86% |
+| [de-DE](#de-DE) |   0% |
 | [es-ES](#es-ES) |   0% |
 | [es-MX](#es-MX) |   86% |
 | [fi-FI](#fi-FI) |   0% |
@@ -34,13 +34,13 @@
 ### de-DE
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
-| about.po | is "" but should be "de-DE"  | ✔ | - |
+| about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
-| diseases.po | is "" but should be "de-DE"  | not up-to-date (0.9 vs 1.0) | - |
-| faq.po | is "" but should be "de-DE"  | ✔ | - |
-| home.po | is "" but should be "de-DE"  | ✔ | - |
-| start-folding.po | is "" but should be "de-DE"  | ✔ | - |
-| statistics.po | is "" but should be "de-DE"  | ✔ | - |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
 
 [↑ Back to the overview](#overview)
 ### es-ES
