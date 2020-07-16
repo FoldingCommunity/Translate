@@ -22,7 +22,7 @@ msgstr ""
 msgid "Ongeacht of je al bezig bent met folding of er nog nooit iets over gehoord hebt, we hebben jouw hulp nodig om ons doel te bereiken -- 1 miljoen \"folders\"."
 msgstr ""
 
-msgid "Begin direct met \"folden\"
+msgid "Begin direct met \"folden\""
 msgstr ""
 
 msgid "Verberg deze tekst en bekijk de video."
