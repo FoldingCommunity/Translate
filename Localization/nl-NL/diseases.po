@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200715\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "Ziektes"
+msgstr ""
+
+msgid "Het Folding@home project (FAH) is gewijd aan het beter begrijpen van eiwitvouwing, de ziektes die het gevolg zijn van verkeerde eiwitvouwing en aggregatie van eiwitten. Het is tevens toegespits op het ontwikkelen van nieuwe computationele manieren om geneesmiddelen te ontwikkelen. Hier beschrijven we kort onze doelen, wat wij doen en enkele hoogtepunten tot nu toe."
+msgstr ""
+
+msgid "Een gedistribueerd onderzoek moet niet alleen berekeningen uitvoeren op miljoenen computers, het moet resultaten opleveren. Vooral in de vorm van getoetste publicaties, openbare lezingen en andere manieren om de resultaten van FAH naar de grotere wetenschappelijke gemeenschap te verspreiden."
+msgstr ""
+
+msgid "Je kunt updates over ons werk, vorderingen en nieuwe projecten ook terugvinden in het [Folding@home blog](https://foldingathome.org/news/)."
+msgstr ""
+
+msgid "Wat is eiwitvouwing en hoe is het gerelateerd aan ziekte?"
+msgstr ""
+
+msgid "Eiwitten bestaan uit ketens van aminozuren. Ze zijn de basis van hoe in de natuur dingen geregeld worden. Als enzymen zijn ze de drijvende kracht achter alle biochemische reacties in de natuur. Als structurele elementen vormen ze het belangrijkste bestanddeel van onze botten, spieren, haren, huid en bloedvaten. Als antilichamen herkennen ze binnengedrongen elementen en laten ze het immuunsysteem de ongewenste indringers verwijderen. Om deze redenen hebben wetenschappers het menselijk genoom gesequenced - de blauwdruk voor alle eiwitten in de biologie - maar hoe kunnen we beter begrijpen wat deze eiwitten doen en hoe ze werken?"
+msgstr ""
+
+msgid "Echter, enkel het begrijpen van de sequentie vertelt ons weinig over wat het eiwit doet en hoe het werkt. Om hun functie te kunnen vervullen (bijv. als enzymen of antilichamen), moeten eiwitten een bepaalde vorm aannemen. Ook wel een \"vouw\" genoemd. Eiwitten zijn dus echt wonderbaarlijke machines: voordat ze hun werk doen assembleren zij zichzelf! Deze zelfassemblage wordt \"vouwen\" (folding) genoemd."
+msgstr ""
+
+msgid "Wat gebeurt er als eiwitten niet correct vouwen?"
+msgstr ""
+
+msgid "Ziektes zoals de ziekte van Alzheimer, de ziekte van Huntington, cystic fibrosis, BSE (gekkekoeienziekte), een erfelijke vorm van emfyseem en zelfs van veel soorten kanker wordt aangenomen dat ze het gevolg zijn van het verkeerd vouwen van eiwitten. Wanneer eiwitten verkeerd uitvouwen, kunnen ze samenklonteren (\"aggregeren\"). Deze klonten kunnen zich vaak in de hersenen verzamelen, waar wordt aangenomen dat ze de symptomen van BSE of de ziekte van Alzheimer veroorzaken."
+msgstr ""

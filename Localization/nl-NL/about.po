@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/about/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: nl-NL\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200715\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "Over"
+msgstr ""
+
+msgid "Folding@home (FAH or F@h)"
+msgstr ""
+
+msgid ""
+"is een gedistribueerd computerproject voor het simuleren van eiwitdynamica, het"
+" proces van eiwitvouwing en de bewegingen van eiwitten die betrokken zijn bij"
+" verschillende ziektes. Het brengt burgerwetenschappers samen die als vrijwilligers"
+" simulaties uitvoeren van eiwitdynamica op hun computer. De opgedane inzichten"
+" uit de data helpen wetenschappers de biologie beter te begrijpen en bieden"
+" nieuwe kansen voor het ontwikkelen van therapieën."
+msgstr ""
+
+

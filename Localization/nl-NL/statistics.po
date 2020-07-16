@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/statistics/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: nl-NL\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200716\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "Statistieken"
+msgstr ""
+
+msgid "Een van de beste manieren om Folding@home te helpen, is door je vrienden en familie zich aan te laten sluiten. Sluit je vervolgens aan bij een team of maak een je eigen team. Hoe meer punten jouw team verdient, hoe dichter we komen bij het vinden van remedies."
+msgstr ""
+
+msgid "Op deze pagina vind je statistieken voor individuen en teams die gezamenlijk punten verdienen en concurreren met andere teams. Sommige van ons zijn behoorlijk fanatiek in onze aanpak van folden. Wij hebben teamwebsites, we voeren onze computers op, we helpen de technologie vooruit door het melden van bugs en we maken suggesties om de software te verbeteren."
+msgstr ""
+
+msgid "**MAXIMALISEER** jouw **INSPANNING**"
+msgstr ""
+
+msgid "Stel jouw team samen"
+msgstr ""
+
+msgid "Als je zelf een team op wilt zetten, dan kun je hier starten."
+msgstr ""
+
+msgid "start een team"
+msgstr ""
+
+msgid "Teamwachtwoord verloren?"
+msgstr ""
+
+msgid "Wijzig jouw team info"
+msgstr ""
+
+msgid "Automatisch monitoren van stats updates: beschikbare downloads en regels voor gebruik"
+msgstr ""
+
+msgid "De donor- en teamstatistieken worden elk uur bijgewerkt, hoewel dit opgeschort kan worden als er gedurende dat uur veel werkeenheden terugkomen. We schakelen webtoegang tot de statistiekendatabase uit tijdens de statistiekenupdates (meestal op het hele uur)."
+msgstr ""
+
+msgid "Gebruik geen scripts om toegang te krijgen tot de donor- of teampagina's, maar gebruik in plaats daarvan de volledige donorlijst (flat files). IP-adressen die niet voldoen aan onze robots.txt regels worden geblokkeerd."
+msgstr ""

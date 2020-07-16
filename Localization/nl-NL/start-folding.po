@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/start-folding/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: nl-NL\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200716\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "Start folding"
+msgstr ""
+
+msgid "De software van Folding@home werkt terwijl jij bezig bent met andere dingen."
+msgstr ""
+
+msgid "Terwijl jij bezig bent je allerdaagse activiteiten is jouw computer ons aan het helpen om medicijnen te vinden tegen ziektes zoals kanker, ALS, Parkinson, Huntington, Influenza en nog veel meer."
+msgstr ""
+
+msgid "**Wees alsjeblieft geduldig als je system even niks doet want we vechten samen tegen de COVID-19 pandemie!** Wij werken keihard om te kunnen starten met simulaties van COVID-19 eiwitten. Er is met groot enthousiasme gereageerd op onze inspanningen en dit zorgt er soms voor dat wij geen voorraad meer hebben. Dit is een luxe “probleem” om te hebben omdat de waardevolle wetenschap die wij kunnen verrichten eindeloos is. Het is een kwestie van ons een beetje tijd gunnen om meer werk klaar te zetten."
+msgstr ""
+
+msgid "Zie je niet de juiste softwareversie voor jouw apparaat? Bekijk onze lijst van [alternatieve downloads](/alternative-downloads)."
+msgstr ""
+
+msgid "Alternatieve platformen"
+msgstr ""
+
+msgid "Docker voor GPUs"
+msgstr ""
+
+msgid "vSphere"
+msgstr ""

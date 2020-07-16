@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: nl-NL\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200715\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "IK BEN"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "VAN EEN MILJOEN"
+msgstr ""
+
+msgid "Ongeacht of je al bezig bent met folding of er nog nooit iets over gehoord hebt, we hebben jouw hulp nodig om ons doel te bereiken -- 1 miljoen \"folders\"."
+msgstr ""
+
+msgid "Begin direct met \"folden\"
+msgstr ""
+
+msgid "Verberg deze tekst en bekijk de video."
+msgstr ""
+
+msgid "BEGIN NU MET \"FOLDEN\""
+msgstr ""
+
+msgid "Kies de softwareversie van jouw voorkeur en begin. Het downloaden van Folding@home is helemaal gratis, makkelijk om te installeren en veilig te gebruiken."
+msgstr ""
+
+msgid "Beschikbaar voor:"
+msgstr ""
+
+msgid "Linux"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "Mac"
+msgstr ""
+
+msgid "BEGIN NU MET \"FOLDEN\""
+msgstr ""
+
+msgid "WORD LID VAN DE COMMUNITY"
+msgstr ""
+
+msgid "De Folding@Home COMMUNITY is verspreid over talloze forums, websites en social media."
+msgstr ""
+
+msgid "Hieronder is  een lijst van onze officiële kanalen."
+msgstr ""
+
+msgid "Voor technische ondersteuning:"
+msgstr ""
+
+msgid "foldingforum.org"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "1 van een miljoen"
+msgstr ""
+
+msgid "WAAROM WIJ JOU NODIG hebben"
+msgstr ""
+
+msgid "Folding@home is een project gefocused op het onderzoeken van ziektes. De problemen waar wij aan werken vereisen heel veel computerberekeningen en we hebben jouw hulp nodig bij het vinden van geneesmiddelen."
+msgstr ""
+
+msgid "Vecht samen met ons tegen ziektes."
+msgstr ""
+
+msgid "De Folding@home software stelt je in staat jouw ongebruikte computerkracht te delen om zo nog meer potentiële behandelingen te vinden."
+msgstr ""
+
+msgid "FOLDING?"
+msgstr ""
+
+msgid "Folding verwijst naar het proces waarop eiwitten vouwen in cellen van het menselijk lichaam. Wij zijn afhankelijk van eiwitten en de manier waarop zij zich vormen voor een goede gezondheid. Wanneer de eiwitten verkeerd vouwen kan dit ernstige gevolgen hebben voor iemands gezondheid."
+msgstr ""
+
+msgid "Meer informatie"
+msgstr ""
+
+msgid "Team"
+msgstr ""
+
+msgid "Folding@home is momenteel gevestigd in de Washington University in St. Louis School of Medicine, onder leiding van Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) en [Vince Voelz](http://www.voelzlab.org/) (Temple University) zijn ook actief betrokken bij het leiden van het project. Samen zijn de drie laboratoria de belangrijkste drijfveren achter Folding@home."
+msgstr ""
+
+msgid "Meest recente berichten"
+msgstr ""
