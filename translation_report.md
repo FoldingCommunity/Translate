@@ -1,0 +1,213 @@
+# Translation Status Report
+## Overview
+| Language | Done % |
+| -------- | -----: |
+| [bg-BG](#bg-BG) |   0% |
+| [de-DE](#de-DE) |   86% |
+| [es-ES](#es-ES) |   0% |
+| [es-MX](#es-MX) |   86% |
+| [fi-FI](#fi-FI) |   0% |
+| [fr-FR](#fr-FR) |   0% |
+| [it-IT](#it-IT) |   86% |
+| [ja-JP](#ja-JP) |   57% |
+| [ko-KR](#ko-KR) |   0% |
+| [mt-MT](#mt-MT) |   0% |
+| [nl-NL](#nl-NL) |   0% |
+| [pt-PT](#pt-PT) |   0% |
+| [ru-RU](#ru-RU) |   0% |
+| [sk-SK](#sk-SK) |   0% |
+| [sv-SE](#sv-SE) |   0% |
+| [zh-CN](#zh-CN) |   0% |
+## Details
+### bg-BG
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### de-DE
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | is "" but should be "de-DE"  | ✔ | - |
+| covid-19.po | ? | ? | missing |
+| diseases.po | is "" but should be "de-DE"  | not up-to-date (0.9 vs 1.0) | - |
+| faq.po | is "" but should be "de-DE"  | ✔ | - |
+| home.po | is "" but should be "de-DE"  | ✔ | - |
+| start-folding.po | is "" but should be "de-DE"  | ✔ | - |
+| statistics.po | is "" but should be "de-DE"  | ✔ | - |
+
+[↑ Back to the overview](#overview)
+### es-ES
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### es-MX
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ✔ | ✔ | - |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ✔ | ✔ | - |
+| faq.po | ✔ | ✔ | - |
+| home.po | ✔ | ✔ | - |
+| start-folding.po | ✔ | ✔ | - |
+| statistics.po | ✔ | ✔ | - |
+
+[↑ Back to the overview](#overview)
+### fi-FI
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### fr-FR
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### it-IT
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ✔ | ✔ | - |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ✔ | ✔ | - |
+| faq.po | ✔ | ✔ | - |
+| home.po | ✔ | ✔ | - |
+| start-folding.po | ✔ | ✔ | - |
+| statistics.po | ✔ | ✔ | - |
+
+[↑ Back to the overview](#overview)
+### ja-JP
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ✔ | ✔ | - |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ✔ | ✔ | - |
+| faq.po | ? | ? | missing |
+| home.po | ✔ | ✔ | - |
+| start-folding.po | ✔ | ✔ | - |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### ko-KR
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### mt-MT
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### nl-NL
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### pt-PT
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### ru-RU
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### sk-SK
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### sv-SE
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
+### zh-CN
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ? | ? | missing |
+| covid-19.po | ? | ? | missing |
+| diseases.po | ? | ? | missing |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+
+[↑ Back to the overview](#overview)
