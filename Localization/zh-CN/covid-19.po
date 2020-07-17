@@ -76,8 +76,8 @@ msgstr "[下载 Foling@home 模拟软件](/start-folding/)并帮助我们运行�
 msgid "Don’t miss our client FAQ. [HERE](https://foldingforum.org/viewtopic.php?f=24&t=32463)"
 msgstr "不要错我们的常见问题解答。[点击这里](https://foldingforum.org/viewtopic.php?f=24&t=32463)"
 
-msgid "To focus on Covid19 research set your category to any."
-msgstr "为了专注于Covid19研究，请将您的类别设置为任意。"
+msgid "To focus on Covid-19 research you can set the project category in your FAH client to “COVID-19”."
+msgstr "为了专注于COVID-19的研究，您可以在您的Folding@home客户端将项目分类设置为“COVID-19”。"
 
 msgid "2) If you don’t have computers to contribute or are feeling particularly generous, you can also [make donations](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) through Washington University in St. Louis. These funds are used for a number of purposes, including:"
 msgstr "2) 如果您没有计算机或者可以愿意慷慨地帮助我们的项目，您可以通过华盛顿大学圣路易斯分校[进行捐赠](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG)。这些资金会被用于以下用途，包括："
