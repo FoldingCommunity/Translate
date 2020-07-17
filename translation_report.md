@@ -1,23 +1,23 @@
 # Translation Status Report
 ## Overview
-| Language | Done % |
-| -------- | -----: |
-| [bg-BG](#bg-BG) | 0% |
-| [de-DE](#de-DE) | 0% |
-| [es-ES](#es-ES) | 0% |
-| [es-MX](#es-MX) | ✔ 100% |
-| [fi-FI](#fi-FI) | 0% |
-| [fr-FR](#fr-FR) | 86% |
-| [it-IT](#it-IT) | 86% |
-| [ja-JP](#ja-JP) | 57% |
-| [ko-KR](#ko-KR) | 0% |
-| [mt-MT](#mt-MT) | 0% |
-| [nl-NL](#nl-NL) | 0% |
-| [pt-PT](#pt-PT) | 0% |
-| [ru-RU](#ru-RU) | 0% |
-| [sk-SK](#sk-SK) | 0% |
-| [sv-SE](#sv-SE) | 0% |
-| [zh-CN](#zh-CN) | ✔ 100% |
+| Language | Done % | Updates Needed |
+| -------- | -----: | -------------: |
+| [bg-BG](#bg-BG) | 0% | ✔ 0 |
+| [de-DE](#de-DE) | 0% | ✔ 0 |
+| [es-ES](#es-ES) | 0% | ✔ 0 |
+| [es-MX](#es-MX) | ✔ 100% | ✔ 0 |
+| [fi-FI](#fi-FI) | 0% | ✔ 0 |
+| [fr-FR](#fr-FR) | 86% | ✔ 0 |
+| [it-IT](#it-IT) | 86% | ✔ 0 |
+| [ja-JP](#ja-JP) | 57% | ✔ 0 |
+| [ko-KR](#ko-KR) | 0% | ✔ 0 |
+| [mt-MT](#mt-MT) | 0% | ✔ 0 |
+| [nl-NL](#nl-NL) | 0% | ✔ 0 |
+| [pt-PT](#pt-PT) | 0% | ✔ 0 |
+| [ru-RU](#ru-RU) | 0% | ✔ 0 |
+| [sk-SK](#sk-SK) | 0% | ✔ 0 |
+| [sv-SE](#sv-SE) | 0% | ✔ 0 |
+| [zh-CN](#zh-CN) | ✔ 100% | 1 |
 ## Details
 ### bg-BG
 | File | Target-Language | Source-Version | Error |
