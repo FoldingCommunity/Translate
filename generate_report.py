@@ -103,7 +103,10 @@ class ReportGenerator:
         result += """| Language | Done % |\n"""
         result += """| -------- | -----: |\n"""
         for (language, stats) in overview.items():
-            result += f"""| [{language}](#{language}) |   {stats['percentage_done']}% |\n"""
+            result += f"""| [{language}](#{language}) | """
+            if stats['percentage_done'] >= 100:
+                result += '✔ '
+            result += f"""{stats['percentage_done']}% |\n"""
         result += details
 
         return result
