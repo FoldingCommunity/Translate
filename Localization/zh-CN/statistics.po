@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/statistics/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: zh-CN\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200715\n"
+
+msgid "Statistics"
+msgstr "统计数字"
+
+msgid "One of the best ways to help Folding@home is by recruiting your friends and family. Start by sharing our project with them. Then join a team or even start your own team. The more points your team earns, the closer we come to finding cures."
+msgstr "帮助Folding@home其中一种最佳方式是招募您的朋友和家人。从与他们分享我们的项目开始。然后加入一个小组或者创建您自己的小组。您的小组获取的点数越多，那么我们就离发现治疗的方法越近。"
+
+msgid "On this page you will find access to statistics for individuals and teams who have joined together to earn points and compete with other teams. Some of us are quite intense in our approach to folding. We have team websites, we supe up our computers, and we drive the technology forward by reporting bugs and making suggestions about how to improve the software."
+msgstr "在这个页面您可以访问不同的个人或团队协同合作获取点数并与其他小组进行竞争的数据。我们中部分人很认同这种获得结果的竞争模式。我们有团队网页，优化已有的计算资源，并且通过报告软件的缺陷以及改进软件来向前驱动这项技术。"
+
+msgid "**MAXIMIZE** your **EFFORT**"
+msgstr "尽您最大的努力"
+
+msgid "Set up your team"
+msgstr "组建您的团队"
+
+msgid "If you are interested in setting up a team of your own, you can get started here."
+msgstr "如果您对组建自己的团队感兴趣，您可以从这里开始。"
+
+msgid "Start a team"
+msgstr "组建队伍"
+
+msgid "Lost team password?"
+msgstr "忘记了队伍密码？"
+
+msgid "Change your team info"
+msgstr "更改队伍信息"
+
+msgid "Monitoring stats updates automatically: available downloads and rules of use"
+msgstr "自动监测数据更新: 可供提供的下载和使用准则"
+
+msgid "The donor and team stats are updated every hour, although this can be delayed if there were a lot of work units to come back during that hour. We have been turning off web access to the stats database during stats updates (usually on the hour)."
+msgstr "捐献者和队伍的信息每个小时更新一次， 在传回结果的高峰期更新可能会有延迟。我们会在信息更新的时候暂停对服务器的访问（通常为一小时）。"
+
+msgid "Please do not use scripts to access the donor or team pages, but use the full donor list (flat files) instead. IP addresses which do not abide by our robots.txt rules will be banned."
+msgstr "请勿使用脚本来访问捐献者和团队界面，请使用完整的捐赠者列表（平面文件）。不遵守机器人规则（robot.txt)的IP地址会被封禁。"

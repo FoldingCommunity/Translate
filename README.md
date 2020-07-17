@@ -39,8 +39,8 @@ The old YAML-based files are archived in the
 
 ## How do we translate? 
 Please copy the files from [Localization/en-US](Localization/en-US) to your
-local language folder, e.g. [Localization/zh-CN](Localization/zh-CN), update
-the metadata field.  For each file, translate each ``msgid`` to ``msgstr``. 
+local language folder, e.g. [Localization/zh-CN](Localization/zh-CN) and update
+the metadata fields. Then, for each file, translate each ``msgid`` to ``msgstr``. 
 
 We are using Markdown for formatting the strings to be translated and the 
 translated string. We have made the decision to support the following Markdown
@@ -54,12 +54,19 @@ For more information on Markdown, feel free to have a look at
 [Github's official guide](https://guides.github.com/features/mastering-markdown/),
  however, we are only supporting the formatting syntaxes statated above.
 
-You can use a text editor, such as [Notepad++](https://notepad-plus-plus.org/) 
-or [Atom](https://atom.io/). Please **Set your encoding to UTF-8, this is 
-important!**. Alternatively you can use tools such as 
-[Poedit](https://poedit.net/) or 
-[Lokalize](https://kde.org/applications/en/office/org.kde.lokalize). We do not
-mind the extra metadata these tools add. 
+**We would recommend to use one of the specialized free editors that are available
+for work with PO files:**
+* [Poedit](https://poedit.net/)
+* [Lokalize](https://kde.org/applications/en/office/org.kde.lokalize)
+
+They simplify the process a lot, because they take care of the correct formatting
+so that you can focus completely on the translation. You will have to add/edit the
+header data manually, however, as they are not supported by those tools. They also
+usually add more fields to the header automatically, which is perfectly okay.
+
+Alternatively, you can use a text editor, such as
+[Notepad++](https://notepad-plus-plus.org/) or [Atom](https://atom.io/) if you
+prefer. Please remember to *set your encoding to UTF-8!*.
 
 ### PO file mandatory metadata
 At the top of each PO file, it is mandatory to have the following metadata
