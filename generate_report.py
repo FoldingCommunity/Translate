@@ -89,24 +89,30 @@ class ReportGenerator:
             details += """| File | Target-Language | Source-Version | Error |\n"""
             details += """| ---- | --------------- | -------------- | ----- |\n"""
             errors = 0
+            updates_needed = 0
             for (file, file_info) in files['files'].items():
                 if 'error' in file_info:
                     details += f"""| {file} | ? | ? | {file_info['error']} |\n"""
                     errors += 1
                 else:
                     details += f"""| {file} | {file_info['Target-Language']} | {file_info['Source-Version']} | - |\n"""
+                    if file_info['Target-Language'] != '✔' or file_info['Source-Version'] != '✔':
+                        updates_needed += 1
             details += """\n[↑ Back to the overview](#overview)\n"""
-            overview[language] = {'percentage_done': round((len(files['files']) - errors) / len(files['files']) * 100)}
+            overview[language] = {'percentage_done': round((len(files['files']) - errors) / len(files['files']) * 100), 'updates_needed': updates_needed}
 
         result = """# Translation Status Report\n"""
         result += """## Overview\n"""
-        result += """| Language | Done % |\n"""
-        result += """| -------- | -----: |\n"""
+        result += """| Language | Done % | Updates Needed |\n"""
+        result += """| -------- | -----: | -------------: |\n"""
         for (language, stats) in overview.items():
             result += f"""| [{language}](#{language}) | """
             if stats['percentage_done'] >= 100:
                 result += '✔ '
-            result += f"""{stats['percentage_done']}% |\n"""
+            result += f"""{stats['percentage_done']}% | """
+            if stats['updates_needed'] == 0:
+                result += '✔ '
+            result += f"""{stats['updates_needed']} |\n"""
         result += details
 
         return result
