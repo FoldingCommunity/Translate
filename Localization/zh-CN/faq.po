@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/support/faq/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: zh-CN\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200715\n"
+
+msgid "FAQ"
+msgstr "常见问题"
+
+msgid "You'll find a large library of frequently asked questions about all things connected to Folding@home."
+msgstr "您会发现一个与Folding@home所有事务相关的常见问题解答的大型文库。"
+
+msgid "This section contains everything from guides and information about how to install and use the Folding@home software to the science behind our research. Look through the sidebar and find the topic you want to know more about."
+msgstr "这个部分包含所有内容，从如何安装并使用Folding@home软件到我们研究的科学基础。浏览侧边栏，找到您想进一步了解的主题。"

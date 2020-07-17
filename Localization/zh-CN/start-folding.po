@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/start-folding/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: zh-CN\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200715\n"
+
+msgid "Start folding"
+msgstr "开始折叠"
+
+msgid "The Folding@home software runs while you do other things."
+msgstr "在您执行其他操作时，Folding@home将会运行。"
+
+msgid "While you keep going with your everyday activities, your computer will be working to help us find cures for diseases like cancer, ALS, Parkinson's, Huntington's, Influenza and many others."
+msgstr "当您继续进行日常活动时，您的计算机将帮助我们找到治疗癌症，肌萎缩性脊髓侧硬化症（ALS，渐冻症），帕金森病，亨廷顿病和流行性感冒等疾病的方法。"
+
+msgid "**Please be patient if you experience idle time as we face the COVID-19 pandemic together!** We are working like mad to start simulations of COVID-19 proteins. The enthusiastic response to our effort has been tremendous and has sometimes emptied our queues. This is a great “problem“ to have as there is no end to the valuable science we can do, its just a matter of giving us some time to get more running."
+msgstr "**如果您遇到空闲时间，请耐心等待，因为我们正一同面对COVID-19的大流行！** 我们正在全力以赴进行COVID-19蛋白质的模拟。对我们努力的热情反应是十分巨大的，并且有时候清空了我们的队列。这是一个非常艰难的问题，因为我们可以做的有价值的科学没有尽头，这将是给我们一些时间去进行更多的计算。"
+
+msgid "Don't see the correct software for your device? Try our list of [alternative downloads](/alternative-downloads)."
+msgstr "没有找到适合您的设备的软件版本？尝试我们[其他下载列表](/alternative-downloads)。"
+
+msgid "Additional platforms"
+msgstr "其他平台"
+
+msgid "Docker for GPUs"
+msgstr "Docker for GPUs"
+
+msgid "vSphere"
+msgstr "vSphere"

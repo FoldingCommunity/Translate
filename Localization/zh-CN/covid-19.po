@@ -1,0 +1,92 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/covid-19/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200714\n"
+"Target-Language: zh-CN\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200717\n"
+
+msgid "COVID-19"
+msgstr "COVID-19"
+
+msgid "Coronavirus – What we’re doing and how you can help"
+msgstr "冠状病毒 - 我们正在进行的以及您将会如何帮到我们"
+
+msgid "Proteins are molecular machines that perform many functions we associate with life. They sense the environment (e.g. in taste and smell), perform work (e.g. muscle contraction and breaking down food), and play structural roles (e.g. your hair). They are made of a linear chain of chemicals called amino acids that, in many cases, spontaneously “fold” into compact, functional structures. Much like any other machine, it’s how a protein’s components are arranged and move that determine the protein’s function. In this case, the components are atoms."
+msgstr "蛋白质是执行许多与生命相关联功能的分子机器。它们用于感知环境（比如味觉和嗅觉），执行功能（比如肌肉收缩以及消化食物）和组成结构（比如你的头发）。它们由成为氨基酸的化学直链组成，通常情况下，自发地“折叠”成紧凑的功能结构。如同许多其他机器一样，蛋白质的构成物质的组织和移动方式决定了蛋白质的功能。在这种情形下，构成物质是原子。"
+
+msgid "Viruses also have proteins that they use to suppress our immune systems and reproduce themselves."
+msgstr "病毒也有蛋白质，用于入侵我们的免疫系统并进行自我复制。"
+
+msgid "To help tackle coronavirus, we want to understand how these viral proteins work and how we can design therapeutics to stop them."
+msgstr "为了帮助应对冠状病毒，我们想了解这些病毒蛋白如何工作以及如何设计治疗方式来组织它们。"
+
+msgid "There are many experimental methods for determining protein structures. While extremely powerful, they only reveal a single snapshot of a protein’s usual shape. But proteins have lots of moving parts, so we really want to see the protein in action. The structures we can’t see experimentally may be the key to discovering a new therapeutic."
+msgstr "探索蛋白质结构有许多实验方法。尽管功能强大，但它们只能显示蛋白质通常形状的单个快照。但是蛋白质有许多运动的部分，所以我们真的需要看到蛋白质的作用。在实验中看不到的结构可能是发现新疗法的关键。"
+
+msgid "Using football as an analogy for the experimental situation, it’s as if you could only see the players lined up for the snap (the single arrangement the players spend the most time in) and were blind to the rest of the game."
+msgstr "用足球运动来比喻实验方式的现状，现在我们能看到运动员在排队等待入场（运动员花费最多时间的单个行为），但是我们看不到比赛其他的部分。"
+
+msgid "Seeing a single structure of a protein (left) is like seeing players lined up for the snap in football. Important information, but a lot missing too. The protein structure shows a sphere for each atom (blue) and red arrows highlighting the one drug binding site in this protein."
+msgstr "看到一种蛋白质的单一结构（左图）就像看到球员排队争夺足球一样。重要的信息丢失了很多。蛋白质结构显示了每个原子的球形（蓝色）和红色箭头，揭示了该蛋白质中一个药物的结合位点。"
+
+msgid "Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means."
+msgstr "我们所长是利用计算机模拟去理解蛋白质的运动部分。观察分子在蛋白质中是如何进行相对运动很重要，因为它捕获了任何其它方式都无法捕获的信息。"
+
+msgid "Taking the experimental structures as starting points, we can simulate how all the atoms in the protein move, effectively filling in the rest of the game that experiments miss."
+msgstr "利用实验结构作为起始点，我们可以模拟所有的原子是如何在蛋白质中运动的，有效地填补实验中所缺失的部分。"
+
+msgid "A movie capturing how the protein shown before moves is like getting to watch the whole football game. In this case, we see a pocket form that was absent in the experimental structure."
+msgstr "一部捕捉运动前蛋白质的影像资料就像是观看整个足球比赛。在这种情形下，我们我们看到了实验结构中所没有的袋状形式。"
+
+msgid "Doing so can reveal new therapeutic opportunities. For example, in our recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), we simulated a protein from Ebola virus that is typically considered ‘undruggable’ because the snapshots from experiments don’t have obvious druggable sites. But, our simulations uncovered an alternative structure that does have a druggable site. Importantly, we then performed experiments that confirmed our computational prediction, and are now searching for drugs that bind this newly discovered binding site."
+msgstr "这样做可以揭示更多的治疗机会。在我们最近发表的[论文](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract)中，我们从埃博拉病毒中模拟了一种蛋白质，这种蛋白质通常被认为是“无法研制针对其有效药物”的，因为实验中没有发现明显的药物作用点。但是，我们的模拟却发现了一种特殊的药物附着点。更重要的是，我们随后进行了进行了实验验证了我们的模拟结果，现在我们正在寻找与这个附着点相关的药物。"
+
+msgid "An experimental structure of an Ebola protein doesn’t have obvious druggable sites (no deep pockets among the atoms shown as spheres).Our simulations captured a motion that creates a potentially druggable site in this Ebola protein. Instead of showing spheres for each atom, this cartoon shows a ribbon tracing the linear chain of amino acids (chemicals) the protein is made of."
+msgstr "埃博拉病毒蛋白的实验结构没有明显的可药用位点（显示为球形的原子中没有深层的囊袋）。我们的模拟捕获了一个运动，该运动在该埃博拉病毒蛋白中创建了潜在的可药物化部位。该视频演示没有显示每个原子的球体，而是显示了一条条带，该条带描绘了蛋白质的氨基酸（化学物质）的线性链。"
+
+msgid "We want to do the same thing with coronavirus."
+msgstr "我们想在冠状病毒上采取相同的措施。"
+
+msgid "Spreading the knowledge, Opensource"
+msgstr "传播知识，并且是开源的"
+
+msgid "When we are done with our analysis we upload the data here:"
+msgstr "当我们完成分析时，会将数据上传到这里："
+
+msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+msgstr "我们也会公开所有的数据，无论是在相同领域工作的人，还是其他使用新型方法的人（比如，愈发广泛使用的基于机器学习的数据分析），都可以在任何时候查看这些数据链接：[https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/)，[https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)。"
+
+msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap."
+msgstr "我们还与其他实验室和小组（没有参与Foling@home项目的）合作，以尽快解决COVID-19的大流行。"
+
+msgid "What you can do"
+msgstr "您能帮到我们什么"
+
+msgid "1. Donate computing power:"
+msgstr "1. 分享计算资源："
+
+msgid "[Downloading Folding@home](/start-folding/) and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can."
+msgstr "[下载 Foling@home 模拟软件](/start-folding/)并帮助我们运行模拟是主要的贡献方式。模拟运算非常复杂并且每一点计算都可以帮到我们！您进行的每次模拟都像买彩票一样。我们购买的门票越多，我们赢得大奖的机会就越大。通常情况下，您的计算机永远不会处于闲置状态，但是我们对COVID-19的工作表现出了极大的热情，以至于我们加紧展开更多模拟时，您会发现间歇性的停机时间。请耐心等待我们！有许多有价值的科学实验要做，而且我们正在尽可能快地使它运行。"
+
+msgid "Don’t miss our client FAQ. [HERE](https://foldingforum.org/viewtopic.php?f=24&t=32463)"
+msgstr "不要错我们的常见问题解答。[点击这里](https://foldingforum.org/viewtopic.php?f=24&t=32463)"
+
+msgid "To focus on Covid-19 research you can set the project category in your FAH client to “COVID-19”."
+msgstr "为了专注于COVID-19的研究，您可以在您的Folding@home客户端将项目分类设置为“COVID-19”。"
+
+msgid "2) If you don’t have computers to contribute or are feeling particularly generous, you can also [make donations](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) through Washington University in St. Louis. These funds are used for a number of purposes, including:"
+msgstr "2) 如果您没有计算机或者可以愿意慷慨地帮助我们的项目，您可以通过华盛顿大学圣路易斯分校[进行捐赠](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG)。这些资金会被用于以下用途，包括："
+
+msgid "2.1) Supporting our software engineering and server-side hardware (particularly important right now as we scale up rapidly!)"
+msgstr "2.1) 支持我们的软件工程和服务器端硬件（我们正在迅速扩大模拟的规模，现在尤其重要！）"
+
+msgid "2.2) Buying compounds to test experimentally based on insight from our simulations."
+msgstr "2.2) 根据模拟结果，购买化合物进行实验测试。"
+
+msgid "Covid-19 collaborators"
+msgstr "Covid-19合作者"
