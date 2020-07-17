@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: zh-CN\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200715\n"
+
+msgid "I AM"
+msgstr "我们"
+
+msgid "One"
+msgstr "坚定信念"
+
+msgid "IN A MILLION"
+msgstr "在一起"
+
+msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
+msgstr "无论你是否已经正在‘折叠’或者从未听说过这个词，我们需要你的帮助来完成愿景 -- 一百万个‘折叠者’"
+
+msgid "Start folding now"
+msgstr "现在开始折叠"
+
+msgid "Hide this and watch the video."
+msgstr "隐藏此处并观看视频。"
+
+msgid "START FOLDING NOW"
+msgstr "现在开始折叠"
+
+msgid "Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use."
+msgstr "发现你偏好的软件版本然后开始。下载Folding@Home是完全免费的，安装很简单，并且非常安全。"
+
+msgid "Available for:"
+msgstr "提供以下版本"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "Mac"
+msgstr "Mac"
+
+msgid "Start folding"
+msgstr "开始折叠"
+
+msgid "JOIN THE COMMUNITY"
+msgstr "加入社区"
+
+msgid "The Folding@Home community is spread over countless forums, websites and social media."
+msgstr "Folding@Home社区遍布于无数的论坛，网站和社交媒体。"
+
+msgid "Here's a list of our official channels."
+msgstr "这是我们官方频道列表。"
+
+msgid "For tech support:"
+msgstr "技术支持："
+
+msgid "foldingforum.org"
+msgstr "foldingforum.org"
+
+msgid "Facebook"
+msgstr "facebook"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "1 in a million"
+msgstr "成为百万分之一"
+
+msgid "WHY WE NEED YOU"
+msgstr "为什么我们需要你"
+
+msgid "Folding@home is a project focused on disease research. The problems we are solving require so many computer calculations and we need your help to find the cures!"
+msgstr "Folding@home是一个专注于疾病研究的项目。我们正在解决的问题需要非常多的电脑来计算，所以我们需要你的帮助来发现治疗方案！"
+
+msgid "Fight diseases Together with us."
+msgstr "与我们一同抗击疾病。"
+
+msgid "The Folding@home software allows you to share your unused computer power with us – so that we can research even more potential cures."
+msgstr "Folding@Home将会分享你闲置的计算力量给我们，这样我们可以研究更多潜在的治疗方式。"
+
+msgid "FOLDING?"
+msgstr "折叠？"
+
+msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
+msgstr "折叠是指人类蛋白质在细胞中折叠，并组成人体的方式。我们依赖于这些蛋白质来保持健康并且它们通过折叠的方式来构建自身。但是如果它们在折叠的过程中发生了错误，那么对人的健康将带来可怕的后果。"
+
+msgid "Learn more"
+msgstr "了解更多"
+
+msgid "Team"
+msgstr "团队"
+
+msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
+msgstr "Folding@home现在设于圣路易斯华盛顿大学医学院, 由 [Greg Bowan](https://bowmanlab.biochem.wustl.edu/) 博士领导该项目。[John Chodera](http://www.choderalab.org/) 博士（来自纪念斯隆-凯特琳癌症中心,MSKCC）和 [Vince Voelz](http://www.voelzlab.org/) （来自天普大学）也是此项目中积极的领导者。他们的三个实验室是Folding@home中主要的驱动者。"
+
+msgid "Latest Posts"
+msgstr "最新发布"
