@@ -73,9 +73,6 @@ msgstr ""
 msgid "[Downloading Folding@home](/start-folding/) and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can."
 msgstr ""
 
-msgid "Don’t miss our client FAQ. [HERE](https://foldingforum.org/viewtopic.php?f=24&t=32463)"
-msgstr ""
-
 msgid "To focus on Covid-19 research you can set the project category in your FAH client to “COVID-19”."
 msgstr ""
 
