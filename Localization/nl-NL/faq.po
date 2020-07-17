@@ -7,7 +7,7 @@ msgstr ""
 "Source-Version: 1.0\n"
 "Source-Last-Modified: 20200705\n"
 "Target-Language: nl-NL\n"
-"Target-Version: \n"
+"Target-Version: 1.0.0\n"
 "Target-Last-Modified: 20200716\n"
 
 msgid "FAQ"
