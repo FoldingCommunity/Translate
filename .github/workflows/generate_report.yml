@@ -19,3 +19,8 @@ jobs:
       uses: actions/setup-python@v2
     - name: Run Generator
       run: python3 generate_report.py
+    - name: Store Artifact
+      uses: actions/upload-artifact@v1
+      with:
+        name: translation_report
+        path: translation_report.md
