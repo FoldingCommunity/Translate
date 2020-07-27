@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from pathlib import Path
 from typing import TextIO
 
@@ -22,10 +24,10 @@ class ReportGenerator:
         translations = {}
         original_files = self._find_po_files(Path(f'{self.ROOT_FOLDER}{self.SOURCE_LANGUAGE}'))
         languages = self._find_languages()
-        for (language, directory) in languages.items():
+        for (language, directory) in sorted(languages.items(), key=lambda item: item[0]):
             translations[language] = {'files': {}}
             files = self._find_po_files(directory)
-            for file in original_files.keys():
+            for file in sorted(original_files.keys()):
                 if file in files:
                     translations[language]['files'][file] = self._verify_translation(original_files[file], files[file], language)
                 else:
