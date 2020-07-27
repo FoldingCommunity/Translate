@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/statistics/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: ja-JP\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20200725\n"
+
+msgid "Statistics"
+msgstr "統計情報"
+
+msgid "One of the best ways to help Folding@home is by recruiting your friends and family. Start by sharing our project with them. Then join a team or even start your own team. The more points your team earns, the closer we come to finding cures."
+msgstr "Folding@homeを助ける一番良い方法の1つは、あなたの友達や家族にも勧めることです。まずは、私たちのプロジェクトを皆さんに知らせてください。そして、チームに参加するか、あなた自身のチームを作成してください。あなたのチームが多くのポイントを獲得すればするほど、私たちは治療法の発見に近づけます。"
+
+msgid "On this page you will find access to statistics for individuals and teams who have joined together to earn points and compete with other teams. Some of us are quite intense in our approach to folding. We have team websites, we supe up our computers, and we drive the technology forward by reporting bugs and making suggestions about how to improve the software."
+msgstr "このページでは、ポイントを獲得して他チームと競い合うために参加した個人やチームの統計情報にアクセスできます。一部の人々は非常に真剣にFolding@homeに取り組んでいます。チームのウェブサイトを持ったり、コンピューターを強化したり、バグ報告やソフトウェアの改善を提案して技術を進展させたりする人もいます。"
+
+msgid "**MAXIMIZE** your **EFFORT**"
+msgstr "あなたの**成果**を**最大化**しよう"
+
+msgid "Set up your team"
+msgstr "チームを作成しよう"
+
+msgid "If you are interested in setting up a team of your own, you can get started here."
+msgstr "あなた自身のチームを作ることにご興味がありましたら、こちらからどうぞ。"
+
+msgid "Start a team"
+msgstr "チームをはじめる"
+
+msgid "Lost team password?"
+msgstr "パスワードを忘れましたか？"
+
+msgid "Change your team info"
+msgstr "チームの情報を変更する"
+
+msgid "Monitoring stats updates automatically: available downloads and rules of use"
+msgstr "統計情報の更新を自動で監視する：ダウンロード可能なデータと使用のルール"
+
+msgid "The donor and team stats are updated every hour, although this can be delayed if there were a lot of work units to come back during that hour. We have been turning off web access to the stats database during stats updates (usually on the hour)."
+msgstr "貢献者とチームの統計は1時間ごとに更新されますが、その時間に多くの結果が提出された場合には遅れる場合があります。統計の更新中（通常は毎時0分）には、統計データベースへのウェブアクセスは遮断されます。"
+
+msgid "Please do not use scripts to access the donor or team pages, but use the full donor list (flat files) instead. IP addresses which do not abide by our robots.txt rules will be banned."
+msgstr "スクリプトを使用して貢献者やチームのページにアクセスしないでください。代わりに、完全な貢献者のリスト（ファイルとして提供しています）を使用してください。robots.txtのルールを守らないIPアドレスからのアクセスは禁止します。"
