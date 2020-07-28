@@ -7,8 +7,8 @@ msgstr ""
 "Source-Version: 1.1\n"
 "Source-Last-Modified: 20200715\n"
 "Target-Language: ja-JP\n"
-"Target-Version: 1.1.0\n"
-"Target-Last-Modified: 20200725\n"
+"Target-Version: 1.1.1\n"
+"Target-Last-Modified: 20200728\n"
 
 msgid "COVID-19"
 msgstr "COVID-19"
@@ -29,10 +29,10 @@ msgid "There are many experimental methods for determining protein structures. W
 msgstr "タンパク質の構造を決める実験的な方法はたくさんあります。それらは非常に強力ですが、タンパク質が通常とる形状の一瞬の姿しか明らかにできません。タンパク質には多くの可動部があり、本当は動いている姿が見たいのです。実験的には確認できない構造が、新たな治療法を発見する鍵になるかもしれません。"
 
 msgid "Using football as an analogy for the experimental situation, it’s as if you could only see the players lined up for the snap (the single arrangement the players spend the most time in) and were blind to the rest of the game."
-msgstr "実験の状態をフットボールに例えると、スナップ（選手がほとんどの時間を費やす配置）のために並んでいる選手しか見ることができず、試合の残りは見られないようなものです。"
+msgstr "実験の状態をアメリカンフットボールに例えると、スナップ（攻撃開始前、ボールを投げる瞬間）のために並んでいる選手しか見ることができず、試合の残りは見られないようなものです。"
 
 msgid "Seeing a single structure of a protein (left) is like seeing players lined up for the snap in football. Important information, but a lot missing too. The protein structure shows a sphere for each atom (blue) and red arrows highlighting the one drug binding site in this protein."
-msgstr "タンパク質の単一の構造（左）を見ているのは、フットボールのスナップで並ぶ選手を見ているのと同じです。それも重要な情報ですが、不足も多いのです。タンパク質の構造図では、青い球がそれぞれの原子を、赤い矢印が薬と結合可能な部位を示しています。"
+msgstr "タンパク質の単一の構造（左）を見ているのは、アメリカンフットボールのスナップで並ぶ選手を見ているのと同じです。それも重要な情報ですが、不足も多いのです。タンパク質の構造図では、青い球がそれぞれの原子を、赤い矢印が薬と結合可能な部位を示しています。"
 
 msgid "Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means."
 msgstr "私たちは、タンパク質の可動部を理解するためのコンピューターシミュレーションの専門家です。タンパク質の原子がお互いにどう動くかを見ることは、他の手段ではたどり着けない貴重な情報を得られるので重要です。"
@@ -41,7 +41,7 @@ msgid "Taking the experimental structures as starting points, we can simulate ho
 msgstr "実験で得られた構造を出発点に、私たちはタンパク質の全ての原子がどのように動くかをシミュレーションし、実験で見逃していた残りの情報を効果的に得られます。"
 
 msgid "A movie capturing how the protein shown before moves is like getting to watch the whole football game. In this case, we see a pocket form that was absent in the experimental structure."
-msgstr "上の動画ではタンパク質がどのように動くかが捉えられており、例えるならフットボールの試合全てを見られるのと同様です。この場合、実験的な構造にはなかったポケット状の部位を発見できました。"
+msgstr "上の動画ではタンパク質がどのように動くかが捉えられており、例えるならアメリカンフットボールの試合全てを見られるのと同様です。この場合、実験的な構造にはなかったポケット状の部位を発見できました。"
 
 msgid "Doing so can reveal new therapeutic opportunities. For example, in our recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), we simulated a protein from Ebola virus that is typically considered ‘undruggable’ because the snapshots from experiments don’t have obvious druggable sites. But, our simulations uncovered an alternative structure that does have a druggable site. Importantly, we then performed experiments that confirmed our computational prediction, and are now searching for drugs that bind this newly discovered binding site."
 msgstr "こういったシミュレーションにより、新たな治療法の可能性を明らかにできます。例えば、私たちの最近の[論文](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract)では、実験で捉えた構造に明らかな薬の効く部位がないため一般的には“薬が効かない”とされている、エボラウイルス由来のタンパク質のシミュレーションを行いました。定説に反し、私たちのシミュレーションによって、薬の効く部位を持つ別の構造が明らかになりました。私たちはその後、計算上の予測を実験でも確認し、現在はこの新たに発見された結合部に結合できる薬を探しています。"
