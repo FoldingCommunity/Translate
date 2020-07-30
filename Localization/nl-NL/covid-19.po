@@ -8,13 +8,13 @@ msgstr ""
 "Source-Last-Modified: 20200715\n"
 "Target-Language: nl-NL\n"
 "Target-Version: 1.0.0\n"
-"Target-Last-Modified: 20200728\n"
+"Target-Last-Modified: 20200730\n"
 
 msgid "COVID-19"
 msgstr "COVID-19"
 
 msgid "Coronavirus – What we’re doing and how you can help"
-msgstr "Coronavirus – Wat wij doen en hoe je kunt helpen"
+msgstr "Coronavirus – Wat wij doen en hoe jij kunt helpen"
 
 msgid "Proteins are molecular machines that perform many functions we associate with life. They sense the environment (e.g. in taste and smell), perform work (e.g. muscle contraction and breaking down food), and play structural roles (e.g. your hair). They are made of a linear chain of chemicals called amino acids that, in many cases, spontaneously “fold” into compact, functional structures. Much like any other machine, it’s how a protein’s components are arranged and move that determine the protein’s function. In this case, the components are atoms."
 msgstr "Eiwitten zijn moleculaire machines die vele functies vervullen die we associëren met het leven. Ze voelen de omgeving (bijvoorbeeld in smaak en geur), voeren werk uit (bijvoorbeeld spiercontractie en het afbreken van voedsel) en spelen structurele rollen (bijvoorbeeld je haar). Ze zijn gemaakt van een lineaire keten van chemische stoffen genaamd aminozuren die, in veel gevallen, spontaan “vouwen” in compacte, functionele structuren. Net als de meeste andere machines, bepalen de onderdelen de functie van het eiwit. In dit geval zijn de atomen de onderdelen."
@@ -71,7 +71,7 @@ msgid "1. Donate computing power:"
 msgstr "1. Doneer rekenkracht:"
 
 msgid "[Downloading Folding@home](/start-folding/) and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can."
-msgstr "Folding@home downloaden] (/start-folding/) en ons helpen simulaties uit te voeren is de primaire manier om bij te dragen. De berekeningen die uitgevoerd moeten worden zijn enorm en elk klein beetje helpt! Elke simulatie die je uitvoert is als het kopen van een lot. Hoe meer loten we kopen, hoe groter onze kansen op het halen van de jackpot. Over het algemeen zal uw computer niet inactief zijn. Maar we hebben zo’n enthousiaste reactie gehad op ons COVID-19 werk dat u soms een kleine onderbreking kunt zien, terwijl wij hard werken om meer simulaties klaar te zetten. Wees alsjeblieft geduldig! Er is veel waardevolle wetenschap te doen, en wij doen ons best om het zo snel mogelijk te laten draaien."
+msgstr "[Folding@home downloaden](/start-folding/) en ons helpen simulaties uit te voeren is de beste manier om bij te dragen. De berekeningen die uitgevoerd moeten worden zijn enorm en elk klein beetje helpt! Elke simulatie die je uitvoert is als het kopen van een lot. Hoe meer loten we kopen, hoe groter onze kansen op het halen van de jackpot. Over het algemeen zal uw computer niet inactief zijn. Maar we hebben zo’n enthousiaste reactie gehad op ons COVID-19 werk dat u soms een kleine onderbreking kunt zien, terwijl wij hard werken om meer simulaties klaar te zetten. Wees alsjeblieft geduldig! Er is veel waardevolle wetenschap te doen, en wij doen ons best om het zo snel mogelijk te laten draaien."
 
 msgid "To focus on Covid-19 research you can set the project category in your FAH client to “COVID-19”."
 msgstr "Om te focussen op het Covid-19 onderzoek kun je de projectcategorie in de FAH-client instellen op “COVID-19”."
