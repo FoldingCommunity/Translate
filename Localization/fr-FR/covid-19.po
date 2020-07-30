@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/covid-19/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20200715\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.1\n"
+"Target-Last-Modified: 2020717\n"
+
+msgid "COVID-19"
+msgstr "COVID-19"
+
+msgid "Coronavirus – What we’re doing and how you can help"
+msgstr "Coronavirus – ce que nous faisons et comment vous pouvez nous aider"
+
+msgid "Proteins are molecular machines that perform many functions we associate with life. They sense the environment (e.g. in taste and smell), perform work (e.g. muscle contraction and breaking down food), and play structural roles (e.g. your hair). They are made of a linear chain of chemicals called amino acids that, in many cases, spontaneously “fold” into compact, functional structures. Much like any other machine, it’s how a protein’s components are arranged and move that determine the protein’s function. In this case, the components are atoms."
+msgstr "Les protéines sont des mécanismes moléculaires assurant un grand nombre de fonctions que nous associons à la vie. Elles perçoivent l'environnement (par ex. à travers le goût et l’odeur), travaillent (par ex. contraction musculaire, décomposition d’aliments) et assument même des rôles structurels (par ex. les cheveux). Elles sont faites d’une chaîne linéaire de substances chimiques appelées des acides aminés et, dans de nombreux cas, elles se replient spontanément pour former des structures plus compactes et fonctionnelles. À l’image de n’importe quel autre mécanisme, la fonction de la protéine dépend ainsi de la manière dont ses éléments sont arrangés entre eux. En l’occurrence, ces éléments sont des atomes."
+
+msgid "Viruses also have proteins that they use to suppress our immune systems and reproduce themselves."
+msgstr "Les virus aussi ont des protéines qu’ils utilisent pour contrer nos systèmes immunitaires et pour se reproduire."
+
+msgid "To help tackle coronavirus, we want to understand how these viral proteins work and how we can design therapeutics to stop them."
+msgstr "Pour contribuer à la lutte contre le coronavirus, nous tentons de comprendre comment fonctionnent ces protéines virales et comment mettre au point des traitements capables de les stopper."
+
+msgid "There are many experimental methods for determining protein structures. While extremely powerful, they only reveal a single snapshot of a protein’s usual shape. But proteins have lots of moving parts, so we really want to see the protein in action. The structures we can’t see experimentally may be the key to discovering a new therapeutic."
+msgstr "Il existe de nombreuses méthodes expérimentales, souvent extrêmement puissantes, permettant de déterminer la structure des protéines. Mais elles ne révèlent qu’un instantané de la forme usuelle des protéines observées. Or les protéines comportent de nombreux éléments mobiles et nous voulons donc les voir en action. Les structures que nous ne pouvons pas observer dans un cadre expérimental peuvent nous guider vers la découverte de nouveaux traitements."
+
+msgid "Using football as an analogy for the experimental situation, it’s as if you could only see the players lined up for the snap (the single arrangement the players spend the most time in) and were blind to the rest of the game."
+msgstr "Pour user d’une métaphore, imaginons que la situation expérimentale est un match de football américain. C’est un peu comme si nous ne pouvions voir les joueurs qu’en position de snap (la mise en jeu, donc la disposition dans laquelle les joueurs passent le plus de temps), sans jamais pouvoir assister à leurs autres mouvements, soit à l’essentiel de leurs activités sur le terrain."
+
+msgid "Seeing a single structure of a protein (left) is like seeing players lined up for the snap in football. Important information, but a lot missing too. The protein structure shows a sphere for each atom (blue) and red arrows highlighting the one drug binding site in this protein."
+msgstr "Observer une seule structure d’une protéine (gauche) est un peu comme de voir les joueurs alignés pour le snap (droite). C’est une information importante, mais avec des lacunes majeures. La structure de la protéine est représentée par une sphère pour chacun des atomes (bleus) et des flèches rouges indiquent ce qu’on appelle le site de liaison médicamenteux dans cette protéine."
+
+msgid "Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means."
+msgstr "Notre spécialité consiste à tirer parti de simulations informatiques pour comprendre les mouvements des parties mobiles des protéines. Observer comment les atomes d’une protéine évoluent les uns par rapport aux autres fournit en effet de précieuses informations, qu’aucun autre moyen ne permet d’obtenir."
+
+msgid "Taking the experimental structures as starting points, we can simulate how all the atoms in the protein move, effectively filling in the rest of the game that experiments miss."
+msgstr "En prenant les structures expérimentales comme points de départ, nous pouvons simuler l’évolution de tous les atomes de la protéine et ainsi combler les lacunes, révéler le déroulement du jeu auquel les méthodes expérimentales restent aveugles."
+
+msgid "A movie capturing how the protein shown before moves is like getting to watch the whole football game. In this case, we see a pocket form that was absent in the experimental structure."
+msgstr "Réaliser un film montrant comment évolue la protéine illustrée plus haut permet en quelque sorte de visionner le match de football entier. Ici, nous voyons la formation d’une poche absente dans la structure expérimentale."
+
+msgid "Doing so can reveal new therapeutic opportunities. For example, in our recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), we simulated a protein from Ebola virus that is typically considered ‘undruggable’ because the snapshots from experiments don’t have obvious druggable sites. But, our simulations uncovered an alternative structure that does have a druggable site. Importantly, we then performed experiments that confirmed our computational prediction, and are now searching for drugs that bind this newly discovered binding site."
+msgstr "Ces travaux peuvent révéler de nouvelles possibilités de traitement. Par exemple, dans le cadre de notre récent [papier](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), nous avons simulé une protéine du virus Ebola réputée intraitable par voie médicamenteuse parce que les instantanés livrés par les expériences n’indiquent aucun site de liaison évident. Mais nos simulations ont dévoilé une structure alternative qui offre un tel site de liaison. Ensuite, nous avons réalisé des expériences confirmant notre simulation informatique et nous sommes en train de chercher des médicaments qui utilisent ce site de liaison."
+
+msgid "An experimental structure of an Ebola protein doesn’t have obvious druggable sites (no deep pockets among the atoms shown as spheres).Our simulations captured a motion that creates a potentially druggable site in this Ebola protein. Instead of showing spheres for each atom, this cartoon shows a ribbon tracing the linear chain of amino acids (chemicals) the protein is made of."
+msgstr "Une structure expérimentale tridimensionnelle d’une protéine Ebola ne présente aucun site de liaison évident (pas de poche formée entre les atomes représentés par des sphères). Nos simulations ont permis de dévoiler un mouvement créant un site de liaison potentiel dans cette protéine Ebola. Au lieu de représenter les atomes sous forme de sphères, ce clip les montre sous la forme d’un ruban reproduisant la chaîne linéaire d’acides aminés (substances chimiques) qui constituent la protéine."
+
+msgid "We want to do the same thing with coronavirus."
+msgstr "Nous voulons faire de même avec le coronavirus."
+
+msgid "Spreading the knowledge, Opensource"
+msgstr "Répandre la connaissances, en open source"
+
+msgid "When we are done with our analysis we upload the data here:"
+msgstr "Quand nos analyses sont terminées, nous téléversons les données ici :"
+
+msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+msgstr "Toutes nos données sont ainsi librement accessibles, de sorte que les autres chercheurs de la discipline peuvent vérifier nos analyses, et quiconque utilisant de nouvelles méthodes (par ex. dans le domaine en pleine expansion de l’analyse de données par apprentissage informatique) peut les consulter à tout moment : [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) et [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+
+msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap."
+msgstr "Nous collaborons également avec d'autres laboratoires et groupes hors du consortium Foldingathome afin de maîtriser le COVID-19 dès que possible."
+
+msgid "What you can do"
+msgstr "Ce que vous pouvez faire"
+
+msgid "1. Donate computing power:"
+msgstr "1. Don de puissance de calcul"
+
+msgid "[Downloading Folding@home](/start-folding/) and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can."
+msgstr "[Télécharger Folding@home](/start-folding/) et nous aider à réaliser des simulations est la première et principale manière de contribuer à cet effort. Ces calculs sont vraiment énormes et chaque bit compte ! Chacune des simulations que vous réalisez équivaut à acheter un billet de loterie. Plus nous achetons de billets, meilleures sont nos chances de décrocher le jackpot. En temps normal, votre ordinateur connecté à Folding@home travaille sans interruption, mais nos travaux sur le COVID-19 ont suscité un tel enthousiasme que des pauses peuvent intervenir pendant que nous nous efforçons de préparer d’autres simulations. D’avance merci de votre patience ! Il y a beaucoup de travaux scientifiques très utiles à accomplir et nous faisons de notre mieux pour les mettre sur pied le plus rapidement possible."
+
+msgid "To focus on Covid-19 research you can set the project category in your FAH client to “COVID-19”."
+msgstr "Pour vous concentrer sur le COVID-19, vous pouvez sélectionner la catégorie « COVID-19 » dans votre client FAH."
+
+msgid "2) If you don’t have computers to contribute or are feeling particularly generous, you can also [make donations](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) through Washington University in St. Louis. These funds are used for a number of purposes, including:"
+msgstr "2) Si vous n’avez pas d’ordinateurs disponibles ou si vous vous sentez particulièrement généreux, vous pouvez aussi [faire des dons](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) par l’intermédiaire de l’Université Washington de Saint-Louis (Missouri, États-Unis). Ces fonds sont consacrés à plusieurs activités, notamment :"
+
+msgid "2.1) Supporting our software engineering and server-side hardware (particularly important right now as we scale up rapidly!)"
+msgstr "2.1) Soutenir nos travaux d’ingénierie logicielle et nos infrastructures matérielles pour les serveurs – un aspect particulièrement important en ce moment, car nous étoffons nos équipements rapidement !"
+
+msgid "2.2) Buying compounds to test experimentally based on insight from our simulations."
+msgstr "2.2) Acheter des composés en vue de réaliser des tests expérimentaux basés sur les connaissances fournies par nos simulations."
+
+msgid "Covid-19 collaborators"
+msgstr "Parrainage COVID-19"
