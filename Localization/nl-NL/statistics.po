@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/statistics/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: nl-NL\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20200717\n"
+
+msgid "Statistics"
+msgstr "Statistieken"
+
+msgid "One of the best ways to help Folding@home is by recruiting your friends and family. Start by sharing our project with them. Then join a team or even start your own team. The more points your team earns, the closer we come to finding cures."
+msgstr "Een van de beste manieren om Folding@home te helpen, is door je vrienden en familie zich aan te laten sluiten. Sluit je vervolgens aan bij een team of maak een je eigen team. Hoe meer punten jouw team verdient, hoe dichter we komen bij het vinden van remedies."
+
+msgid "On this page you will find access to statistics for individuals and teams who have joined together to earn points and compete with other teams. Some of us are quite intense in our approach to folding. We have team websites, we supe up our computers, and we drive the technology forward by reporting bugs and making suggestions about how to improve the software."
+msgstr "Op deze pagina vind je statistieken voor individuen en teams die gezamenlijk punten verdienen en concurreren met andere teams. Sommige van ons zijn behoorlijk fanatiek in onze aanpak van folden. Wij hebben teamwebsites, we voeren onze computers op, we helpen de technologie vooruit door het melden van bugs en we maken suggesties om de software te verbeteren."
+
+msgid "**MAXIMIZE** your **EFFORT**"
+msgstr "**MAXIMALISEER** jouw **INSPANNING**"
+
+msgid "Set up your team"
+msgstr "Stel jouw team samen"
+
+msgid "If you are interested in setting up a team of your own, you can get started here."
+msgstr "Als je zelf een team op wilt zetten, dan kun je hier starten."
+
+msgid "Start a team"
+msgstr "Start een team"
+
+msgid "Lost team password?"
+msgstr "Teamwachtwoord verloren?"
+
+msgid "Change your team info"
+msgstr "Wijzig jouw team info"
+
+msgid "Monitoring stats updates automatically: available downloads and rules of use"
+msgstr "Automatisch monitoren van stats updates: beschikbare downloads en regels voor gebruik"
+
+msgid "The donor and team stats are updated every hour, although this can be delayed if there were a lot of work units to come back during that hour. We have been turning off web access to the stats database during stats updates (usually on the hour)."
+msgstr "De donor- en teamstatistieken worden elk uur bijgewerkt, hoewel dit opgeschort kan worden als er gedurende dat uur veel werkeenheden terugkomen. We schakelen webtoegang tot de statistiekendatabase uit tijdens de statistiekenupdates (meestal op het hele uur)."
+
+msgid "Please do not use scripts to access the donor or team pages, but use the full donor list (flat files) instead. IP addresses which do not abide by our robots.txt rules will be banned."
+msgstr "Gebruik geen scripts om toegang te krijgen tot de donor- of teampagina’s, maar gebruik in plaats daarvan de volledige donorlijst (flat files). IP-adressen die niet voldoen aan onze robots.txt regels worden geblokkeerd."
