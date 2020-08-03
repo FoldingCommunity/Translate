@@ -10,24 +10,14 @@ TRANSLATION_REPORT_FILENAME = "translation_report.md"
 github_token = sys.argv[1]
 g = Github(github_token)
 repo = g.get_repo(os.getenv("GITHUB_REPOSITORY"))
-branch = os.getenv("GITHUB_REF")
+branch = sys.argv[2]
 
-
-def get_previous_file(path):
-    return repo.get_contents(path, ref=os.getenv("GITHUB_SHA"))
-
-
-def decode_contents(contents):
-    decoded_bytes = base64.b64decode(contents.content)
-    return str(decoded_bytes, "utf-8")
-
-
-previous_report_obj = get_previous_file(TRANSLATION_REPORT_FILENAME)
-previous_report = decode_contents(previous_report_obj)
+previous_report_obj = repo.get_contents(TRANSLATION_REPORT_FILENAME, ref=branch)
+previous_report = previous_report_obj.decoded_content.decode("utf-8")
 
 with open(TRANSLATION_REPORT_FILENAME) as r:
     current_report = r.read()
 
 if previous_report != current_report:
-    repo.update_file(path=TRANSLATION_REPORT_FILENAME, message="Updated translation report", content=current_report,
-                     sha=previous_report_obj.sha, branch=branch)
+    repo.update_file(previous_report_obj.path, "Updated translation report", current_report, previous_report_obj.sha,
+                     branch=branch)

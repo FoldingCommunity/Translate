@@ -2,9 +2,9 @@
 name: Generate translation report
 #on: push
 on:
-  push:
-    branches:
-      - master
+  pull_request:
+    paths-ignore:
+      - "translation_report.md"
 jobs:
   report:
     runs-on: ubuntu-latest
@@ -23,4 +23,4 @@ jobs:
       - name: Generate report
         run: ./generate_report.py
       - name: Update report
-        run: ./commit_report.py ${{ secrets.GITHUB_TOKEN }}
+        run: ./commit_report.py ${{ github.token }} ${{ github.head_ref }}
