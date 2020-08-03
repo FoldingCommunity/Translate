@@ -2,9 +2,9 @@
 name: Generate translation report
 #on: push
 on:
-  push:
-    branches:
-      - master
+  pull_request:
+  paths-ignore:
+    - "translation_report.md"
 jobs:
   report:
     runs-on: ubuntu-latest
