@@ -3,8 +3,8 @@ name: Generate translation report
 #on: push
 on:
   pull_request:
-  paths-ignore:
-    - "translation_report.md"
+    paths-ignore:
+      - "translation_report.md"
 jobs:
   report:
     runs-on: ubuntu-latest
