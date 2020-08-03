@@ -1,0 +1,177 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/together-we-are-powerful/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200803\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "Together We Are Powerful - Folding@home"
+msgstr ""
+
+msgid "[Take me home](https://foldingathome.org/home)"
+msgstr ""
+
+msgid "TOGETHER, WE ARE POWERFUL"
+msgstr ""
+
+msgid "Together, we have created the most powerful supercomputer on the planet, and are using it to help understand SARS-CoV-2/COVID-19 and develop new therapies. We need your help pushing toward a potent, patent-free drug."
+msgstr ""
+
+msgid "Use your PC to help fight COVID-19."
+msgstr ""
+
+msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
+msgstr ""
+
+msgid "[Available for Windows, Mac, Linux]"
+msgstr ""
+
+msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
+msgstr ""
+
+msgid "Campaign Trailer"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Learn about our work on SARS-CoV-2 and COVID-19."
+msgstr ""
+
+msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
+msgstr ""
+
+msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
+msgstr ""
+
+msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
+msgstr ""
+
+msgid "See real-time progress toward new drugs"
+msgstr ""
+
+msgid "Foldingathome Ambassadors"
+msgstr ""
+
+msgid "Satya Nadella"
+msgstr ""
+
+msgid "CEO, Microsoft"
+msgstr ""
+
+msgid "Dr. Lisa Su"
+msgstr ""
+
+msgid "President & CEO, AMD"
+msgstr ""
+
+
+msgid "Jensen Huang"
+msgstr ""
+
+msgid "CEO, Nvidia"
+msgstr ""
+
+msgid "Dr. Gregory Bowman"
+msgstr ""
+
+msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
+msgstr ""
+
+msgid "Charles H. Giancarlo"
+msgstr ""
+
+msgid "CEO, Pure Storage"
+msgstr ""
+
+msgid "Ilma Caprnja"
+msgstr ""
+
+msgid "Medical student, Lund University"
+msgstr ""
+
+msgid "Minerva Santana"
+msgstr ""
+
+msgid "Director of Innovation and Technological Transformation at LaLiga"
+msgstr ""
+
+msgid "Michael Ward"
+msgstr ""
+
+msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
+msgstr ""
+
+msgid "Patrick P. Gelsinger"
+msgstr ""
+
+msgid "CEO, VMware"
+msgstr ""
+
+msgid "Pedro Valadas"
+msgstr ""
+
+msgid "Founder, PCMR / Communication Advisor, Foldingathome"
+msgstr ""
+
+msgid "Vijay Pande"
+msgstr ""
+
+msgid "General Partner, Andreessen Horowitz / Founder, Foldingathome"
+msgstr ""
+
+msgid "Anton Thynell"
+msgstr ""
+
+msgid "Head of Collaboration and Communication, Foldingathome"
+msgstr ""
+
+msgid "Kirill Konovalov"
+msgstr ""
+
+msgid "Phd Student Xuhui lab, The Hong Kong University of Science and Technology"
+msgstr ""
+
+msgid "Emma Matthies"
+msgstr ""
+
+msgid "Info Security Engineer"
+msgstr ""
+
+msgid "Compilation Video"
+msgstr ""
+
+msgid "Courtesy – Washington University in Saint Louis"
+msgstr ""
+
+msgid "SHARE YOUR STORY"
+msgstr ""
+
+msgid "Help us spread the word about Foldingathome and why you have joined. Create your video and share it on social media."
+msgstr ""
+
+msgid "Step 1) Record yourself to make a video like those above."
+msgstr ""
+
+msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
+msgstr ""
+
+msgid "Thank you!"
+msgstr ""
+
+msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
+msgstr ""
+
+msgid "Choose your platform"
+msgstr ""
+
+msgid "Alternative Downloads"
+msgstr ""
+
+msgid "Contributors"
+msgstr ""
