@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: pl-PL\n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "I AM"
+msgstr ""
+
+msgid "One"
+msgstr ""
+
+msgid "IN A MILLION"
+msgstr ""
+
+msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
+msgstr ""
+
+msgid "Start folding now"
+msgstr ""
+
+msgid "Hide this and watch the video."
+msgstr ""
+
+msgid "START FOLDING NOW"
+msgstr ""
+
+msgid "Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use."
+msgstr ""
+
+msgid "Available for:"
+msgstr ""
+
+msgid "Linux"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "Mac"
+msgstr ""
+
+msgid "Start folding"
+msgstr ""
+
+msgid "JOIN THE COMMUNITY"
+msgstr ""
+
+msgid "The Folding@Home community is spread over countless forums, websites and social media."
+msgstr ""
+
+msgid "Here's a list of our official channels."
+msgstr ""
+
+msgid "For tech support:"
+msgstr ""
+
+msgid "foldingforum.org"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "1 in a million"
+msgstr ""
+
+msgid "WHY WE NEED YOU"
+msgstr ""
+
+msgid "Folding@home is a project focused on disease research. The problems we are solving require so many computer calculations and we need your help to find the cures!"
+msgstr ""
+
+msgid "Fight diseases Together with us."
+msgstr ""
+
+msgid "The Folding@home software allows you to share your unused computer power with us – so that we can research even more potential cures."
+msgstr ""
+
+msgid "FOLDING?"
+msgstr ""
+
+msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+msgid "Team"
+msgstr ""
+
+msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
+msgstr ""
+
+msgid "Latest Posts"
+msgstr ""

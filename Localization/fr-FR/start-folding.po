@@ -1,0 +1,44 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/start-folding/\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200716\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "Start folding"
+msgstr "Démarrer"
+
+msgid "The Folding@home software runs while you do other things."
+msgstr "Le logiciel Folding@home travaille pendant que vous faites autre chose."
+
+msgid "While you keep going with your everyday activities, your computer will be working to help us find cures for diseases like cancer, ALS, Parkinson's, Huntington's, Influenza and many others."
+msgstr "Vous accomplissez vos activités quotidiennes comme d'ordinaire et, pendant ce temps, votre ordinateur nous aide à trouver des traitements contre des maladies comme le cancer, la SLA, la maladie de Parkinson, la maladie de Huntington, la grippe et bien d'autres."
+
+msgid "**Please be patient if you experience idle time as we face the COVID-19 pandemic together!** We are working like mad to start simulations of COVID-19 proteins. The enthusiastic response to our effort has been tremendous and has sometimes emptied our queues. This is a great “problem“ to have as there is no end to the valuable science we can do, its just a matter of giving us some time to get more running."
+msgstr "**Merci de faire preuve de patience si le système connaît des temps morts en raison des surcharges causées actuellement par la lutte contre la pandémie COVID-19 !** Nous travaillons d'arrache-pied pour lancer des simulations des protéines COVID-19. Nos efforts ont suscité des avalanches de réactions enthousiastes, au point que nos serveurs sont parfois dépassés par la demande. Ce n'est certes pas un problème grave, car nous n'aurons pas de sitôt une surabondance de recherches scientifiques. Mais il vous faudra peut-être nous laisser le temps de préparer de nouveaux projets."
+
+msgid "Don't see the correct software for your device? Try our list of [alternative downloads](/alternative-downloads)."
+msgstr "Vous ne trouvez pas le logiciel qui convient à votre appareil ? Examinez notre liste des [autres versions](/alternative-downloads)."
+
+msgid "Additional platforms"
+msgstr "Plateformes supplémentaires"
+
+msgid "Docker for GPUs"
+msgstr "Docker pour GPU"
+
+msgid "vSphere"
+msgstr "vSphere"
