@@ -3,7 +3,7 @@
 | Language | Done % | Updates Needed |
 | -------- | -----: | -------------: |
 | [bg-BG](#bg-BG) | 0% | ✔ 0 |
-| [de-DE](#de-DE) | 0% | ✔ 0 |
+| [de-DE](#de-DE) | 62% | ✔ 0 |
 | [es-ES](#es-ES) | 0% | ✔ 0 |
 | [es-MX](#es-MX) | ✔ 100% | ✔ 0 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
@@ -36,13 +36,13 @@
 ### de-DE
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
-| about.po | ? | ? | missing |
+| about.po | ✔ | ✔ | - |
 | covid-19.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
-| faq.po | ? | ? | missing |
-| home.po | ? | ? | missing |
-| start-folding.po | ? | ? | missing |
-| statistics.po | ? | ? | missing |
+| faq.po | ✔ | ✔ | - |
+| home.po | ✔ | ✔ | - |
+| start-folding.po | ✔ | ✔ | - |
+| statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ? | ? | missing |
 
 [↑ Back to the overview](#overview)
