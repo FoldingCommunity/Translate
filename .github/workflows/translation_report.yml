@@ -1,6 +1,5 @@
 ---
 name: Generate translation report
-#on: push
 on:
   pull_request:
     paths-ignore:
@@ -23,4 +22,9 @@ jobs:
       - name: Generate report
         run: ./generate_report.py
       - name: Update report
-        run: ./commit_report.py ${{ github.token }} ${{ github.head_ref }}
+        #run: ./commit_report.py ${{ secrets.GITHUB_TOKEN }}
+        uses: test-room-7/action-update-file@v1.1.0
+        with:
+          file-path: translation_report.md
+          commit-msg: Updated translation report
+          github-token: ${{ secrets.GITHUB_TOKEN }}
