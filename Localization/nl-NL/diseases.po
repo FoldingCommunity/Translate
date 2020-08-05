@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: nl-NL\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20200716\n"
+
+msgid "Diseases"
+msgstr ""
+
+msgid "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far."
+msgstr "Het Folding@home project (FAH) is gewijd aan het beter begrijpen van eiwitvouwing, de ziektes die het gevolg zijn van verkeerde eiwitvouwing en aggregatie van eiwitten. Het is tevens toegespitst op het ontwikkelen van nieuwe computationele manieren om geneesmiddelen te ontwikkelen. Hier beschrijven we kort onze doelen, wat wij doen en enkele hoogtepunten tot nu toe."
+
+msgid "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
+msgstr "Een gedistribueerd onderzoek moet niet alleen berekeningen uitvoeren op miljoenen computers, het moet resultaten opleveren. Vooral in de vorm van getoetste publicaties, openbare lezingen en andere manieren om de resultaten van FAH naar de grotere wetenschappelijke gemeenschap te verspreiden."
+
+msgid "You will also find updates about our work, advancements and new projects in the main [Folding@home blog](https://foldingathome.org/news/)."
+msgstr "Je kunt updates over ons werk, vorderingen en nieuwe projecten ook terugvinden in het [Folding@home blog](https://foldingathome.org/news/)."
+
+msgid "What is protein folding and how is it related to disease?"
+msgstr "Wat is eiwitvouwing en hoe is het gerelateerd aan ziekte?"
+
+msgid "Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome - the blueprint for all of the proteins in biology - but how can we understand what these proteins do and how they work?"
+msgstr "Eiwitten bestaan uit ketens van aminozuren. Ze zijn de basis van hoe in de natuur dingen geregeld worden. Als enzymen zijn ze de drijvende kracht achter alle biochemische reacties in de natuur. Als structurele elementen vormen ze het belangrijkste bestanddeel van onze botten, spieren, haren, huid en bloedvaten. Als antilichamen herkennen ze binnengedrongen elementen en laten ze het immuunsysteem de ongewenste indringers verwijderen. Om deze redenen hebben wetenschappers het menselijk genoom gesequenced - de blauwdruk voor alle eiwitten in de biologie - maar hoe kunnen we beter begrijpen wat deze eiwitten doen en hoe ze werken?"
+
+msgid "However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a \"fold\". Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called \"folding\"."
+msgstr "Echter, enkel het begrijpen van de sequentie vertelt ons weinig over wat het eiwit doet en hoe het werkt. Om hun functie te kunnen vervullen (bijv. als enzymen of antilichamen), moeten eiwitten een bepaalde vorm aannemen. Ook wel een ”vouw” genoemd. Eiwitten zijn dus echt wonderbaarlijke machines: voordat ze hun werk doen assembleren zij zichzelf! Deze zelfassemblage wordt “vouwen” (folding) genoemd."
+
+msgid "What happens if proteins don't fold correctly?"
+msgstr "Wat gebeurt er als eiwitten niet correct vouwen?"
+
+msgid "Diseases such as Alzheimer's disease, Huntington's disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (\"aggregate\"). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer's disease."
+msgstr "Ziektes zoals de ziekte van Alzheimer, de ziekte van Huntington, cystic fibrosis, BSE (gekkekoeienziekte), een erfelijke vorm van emfyseem en zelfs van veel soorten kanker wordt aangenomen dat ze het gevolg zijn van het verkeerd vouwen van eiwitten. Wanneer eiwitten verkeerd uitvouwen, kunnen ze samenklonteren (“aggregeren”). Deze klonten kunnen zich vaak in de hersenen verzamelen, waar wordt aangenomen dat ze de symptomen van BSE of de ziekte van Alzheimer veroorzaken."

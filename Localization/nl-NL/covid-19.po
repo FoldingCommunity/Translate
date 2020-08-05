@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/covid-19/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20200715\n"
+"Target-Language: nl-NL\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20200730\n"
+
+msgid "COVID-19"
+msgstr "COVID-19"
+
+msgid "Coronavirus – What we’re doing and how you can help"
+msgstr "Coronavirus – Wat wij doen en hoe jij kunt helpen"
+
+msgid "Proteins are molecular machines that perform many functions we associate with life. They sense the environment (e.g. in taste and smell), perform work (e.g. muscle contraction and breaking down food), and play structural roles (e.g. your hair). They are made of a linear chain of chemicals called amino acids that, in many cases, spontaneously “fold” into compact, functional structures. Much like any other machine, it’s how a protein’s components are arranged and move that determine the protein’s function. In this case, the components are atoms."
+msgstr "Eiwitten zijn moleculaire machines die vele functies vervullen die we associëren met het leven. Ze voelen de omgeving (bijvoorbeeld in smaak en geur), voeren werk uit (bijvoorbeeld spiercontractie en het afbreken van voedsel) en spelen structurele rollen (bijvoorbeeld je haar). Ze zijn gemaakt van een lineaire keten van chemische stoffen genaamd aminozuren die, in veel gevallen, spontaan “vouwen” in compacte, functionele structuren. Net als de meeste andere machines, bepalen de onderdelen de functie van het eiwit. In dit geval zijn de atomen de onderdelen."
+
+msgid "Viruses also have proteins that they use to suppress our immune systems and reproduce themselves."
+msgstr "Virussen hebben ook eiwitten die ze gebruiken om ons immuunsysteem te onderdrukken en zichzelf te reproduceren."
+
+msgid "To help tackle coronavirus, we want to understand how these viral proteins work and how we can design therapeutics to stop them."
+msgstr "Om het coronavirus aan te pakken willen we begrijpen hoe deze virale eiwitten werken en hoe we therapieën kunnen ontwikkelen om ze te stoppen."
+
+msgid "There are many experimental methods for determining protein structures. While extremely powerful, they only reveal a single snapshot of a protein’s usual shape. But proteins have lots of moving parts, so we really want to see the protein in action. The structures we can’t see experimentally may be the key to discovering a new therapeutic."
+msgstr "Er zijn veel experimentele methoden voor het bepalen van eiwitstructuren. Hoewel ze extreem krachtig zijn, onthullen ze slechts één momentopname van de gebruikelijke vorm van een eiwit. Eiwitten hebben veel bewegende delen. Dus we willen het eiwit echt in actie zien. De structuren die we niet kunnen zien in experimenten, kunnen de sleutel zijn tot het ontdekken van een nieuwe therapie."
+
+msgid "Using football as an analogy for the experimental situation, it’s as if you could only see the players lined up for the snap (the single arrangement the players spend the most time in) and were blind to the rest of the game."
+msgstr "Om American Football te gebruiken als analogie voor de experimentele situatie. Het is alsof je alleen de rijen van spelers kunt zien voor de “snap” (de rangschikking waar de spelers zich het meest in bevinden), en je de rest van het spel niet kon zien."
+
+msgid "Seeing a single structure of a protein (left) is like seeing players lined up for the snap in football. Important information, but a lot missing too. The protein structure shows a sphere for each atom (blue) and red arrows highlighting the one drug binding site in this protein."
+msgstr "Het kijken naar een enkele structuur van een eiwit (links) is te vergelijken met het zien van American Football spelers die in een rij zijn opgesteld voor de “snap”. Belangrijke informatie tijdens een wedstrijd, maar veel informatie ontbreekt nog. De eiwitstructuur toont een bol voor elk atoom (blauw) en rode pijlen die de medicijnbindingsplaats in dit eiwit benadrukken."
+
+msgid "Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means."
+msgstr "Onze specialiteit is het gebruik van computersimulaties om de bewegende delen van eiwitten te begrijpen. Kijken hoe de atomen in een eiwit bewegen ten opzichte van elkaar is belangrijk omdat het waardevolle informatie bevat die niet via andere wegen verkrijgbaar is."
+
+msgid "Taking the experimental structures as starting points, we can simulate how all the atoms in the protein move, effectively filling in the rest of the game that experiments miss."
+msgstr "Met de experimentele structuren als uitgangspunt kunnen we simuleren hoe alle atomen in het eiwit bewegen en de rest van het spel invullen."
+
+msgid "A movie capturing how the protein shown before moves is like getting to watch the whole football game. In this case, we see a pocket form that was absent in the experimental structure."
+msgstr "Een film die vastlegt hoe het eiwit er uit zag voor de bewegingen is als het kijken van de hele voetbalwedstrijd. In dit geval zien we een “pocket” die afwezig was in de experimentele structuur."
+
+msgid "Doing so can reveal new therapeutic opportunities. For example, in our recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), we simulated a protein from Ebola virus that is typically considered ‘undruggable’ because the snapshots from experiments don’t have obvious druggable sites. But, our simulations uncovered an alternative structure that does have a druggable site. Importantly, we then performed experiments that confirmed our computational prediction, and are now searching for drugs that bind this newly discovered binding site."
+msgstr "Hierdoor kunnen nieuwe therapeutische mogelijkheden aan het licht komen. In onze recente [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract) simuleerden wij een eiwit uit het ebolavirus dat doorgaans als niet behandelbaar wordt beschouwd, omdat de experimenten geen duidelijke behandelbare plekken toonden voor medicatie. Onze simulaties ontdekten een alternatieve structuur die wel te behandelen is met medicatie. Vervolgens hebben wij experimenten uitgevoerd die onze computationele voorspelling bevestigden en dat wij nu op zoek zijn naar geneesmiddelen die deze nieuw ontdekte bindingssite binden."
+
+msgid "An experimental structure of an Ebola protein doesn’t have obvious druggable sites (no deep pockets among the atoms shown as spheres).Our simulations captured a motion that creates a potentially druggable site in this Ebola protein. Instead of showing spheres for each atom, this cartoon shows a ribbon tracing the linear chain of amino acids (chemicals) the protein is made of."
+msgstr "Een experimentele structuur van een ebola-eiwit heeft geen duidelijke behandelbare plekken voor medicatie (geen diepe “pockets\" tussen de atomen die als bollen worden weergegeven). Onze simulaties registreerden een beweging die een potentieel behandelbaar is in dit ebola-eiwit. In plaats van bollen voor elk atoom te tonen, laat deze cartoon een lint van aminozuren (chemicaliën) zien die traceert waar het eiwit van gemaakt is."
+
+msgid "We want to do the same thing with coronavirus."
+msgstr "We willen hetzelfde doen met het coronavirus."
+
+msgid "Spreading the knowledge, Opensource"
+msgstr "Verspreiding van kennis, Opensource"
+
+msgid "When we are done with our analysis we upload the data here:"
+msgstr "Wanneer we klaar zijn met onze analyse uploaden we de gegevens hier:"
+
+msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+msgstr "We maken alle gegevens openbaar, zodat andere mensen in het veld onze analyse kan controleren. En iedereen met nieuwe methoden (bijv. machine learning data-analyse) de data op elk moment kan bekijken: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) en [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+
+msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap."
+msgstr "Wij werken ook samen met andere laboratoria en groepen buiten het Foldingathome Consortium om COVID-19 zo snel mogelijk op te lossen."
+
+msgid "What you can do"
+msgstr "Wat jij kunt doen"
+
+msgid "1. Donate computing power:"
+msgstr "1. Doneer rekenkracht:"
+
+msgid "[Downloading Folding@home](/start-folding/) and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can."
+msgstr "[Folding@home downloaden](/start-folding/) en ons helpen simulaties uit te voeren is de beste manier om bij te dragen. De berekeningen die uitgevoerd moeten worden zijn enorm en elk klein beetje helpt! Elke simulatie die je uitvoert is als het kopen van een lot. Hoe meer loten we kopen, hoe groter onze kansen op het halen van de jackpot. Over het algemeen zal uw computer niet inactief zijn. Maar we hebben zo’n enthousiaste reactie gehad op ons COVID-19 werk dat u soms een kleine onderbreking kunt zien, terwijl wij hard werken om meer simulaties klaar te zetten. Wees alsjeblieft geduldig! Er is veel waardevolle wetenschap te doen, en wij doen ons best om het zo snel mogelijk te laten draaien."
+
+msgid "To focus on Covid-19 research you can set the project category in your FAH client to “COVID-19”."
+msgstr "Om te focussen op het Covid-19 onderzoek kun je de projectcategorie in de FAH-client instellen op “COVID-19”."
+
+msgid "2) If you don’t have computers to contribute or are feeling particularly generous, you can also [make donations](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) through Washington University in St. Louis. These funds are used for a number of purposes, including:"
+msgstr "2) Als je geen computers hebt om mee te doen, maar je bijzonder genereus voelt, kun je ook [doneren](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) via de Washington University in St. Louis. Deze donaties worden gebruikt voor een aantal doeleinden, waaronder:"
+
+msgid "2.1) Supporting our software engineering and server-side hardware (particularly important right now as we scale up rapidly!)"
+msgstr "2.1) Het ondersteuning van onze software ontwikkeling en server hardware (momenteel erg belangrijk nu wij snel opschalen!)"
+
+msgid "2.2) Buying compounds to test experimentally based on insight from our simulations."
+msgstr "2.2) Aanschaffen van compound dat nodig is om experimenten uit te voeren op basis van inzichten die zijn opgedaan in simulaties."
+
+msgid "Covid-19 collaborators"
+msgstr "Covid-19 partners"
