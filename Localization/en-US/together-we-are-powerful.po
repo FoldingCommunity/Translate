@@ -70,7 +70,6 @@ msgstr ""
 msgid "President & CEO, AMD"
 msgstr ""
 
-
 msgid "Jensen Huang"
 msgstr ""
 
