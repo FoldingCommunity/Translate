@@ -6,19 +6,9 @@ msgstr ""
 "Source-Language: en-US\n"
 "Source-Version: 1.0\n"
 "Source-Last-Modified: 20200803\n"
-"Target-Language: \n"
-"Target-Version: \n"
-"Target-Last-Modified: \n"
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: Nl-nl\n"
-"MIME-Version: 1.0\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: nl\n"
-"X-Generator: Poedit 2.4\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Target-Language: nl-NL\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20200806\n"
 
 msgid "Together We Are Powerful - Folding@home"
 msgstr "Samen staan we sterk - Folding@home"
@@ -27,10 +17,10 @@ msgid "[Take me home](https://foldingathome.org/home)"
 msgstr "[Breng me naar huis](https://foldingathome.org/home)"
 
 msgid "TOGETHER, WE ARE POWERFUL"
-msgstr "SAMEN, ZIJN WE STERK"
+msgstr "SAMEN ZIJN WE STERK"
 
 msgid "Together, we have created the most powerful supercomputer on the planet, and are using it to help understand SARS-CoV-2/COVID-19 and develop new therapies. We need your help pushing toward a potent, patent-free drug."
-msgstr "Samen, hebben we de meest krachtige supercomputer op aarde gecreëerd, en we gebruiken hem om SARS-Cov-2/COVID-29 beter te begrijpen en nieuwe behandelingen te ontwikkelen. Wij zijn jouw hulp nodig om te helpen een veel belovend, patent-vrij medicijn te ontwikkelen."
+msgstr "Samen hebben we de meest krachtige supercomputer op aarde gecreëerd, en we gebruiken hem om SARS-Cov-2/COVID-29 beter te begrijpen en nieuwe behandelingen te ontwikkelen. Wij hebben jouw hulp nodig om te helpen een veel belovend, patent-vrij medicijn te ontwikkelen."
 
 msgid "Use your PC to help fight COVID-19."
 msgstr "Gebruik je computer om te vechten tegen Corona."
@@ -42,7 +32,7 @@ msgid "[Available for Windows, Mac, Linux]"
 msgstr "[Beschikbaar voor Windows, Mac, Linux]"
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
-msgstr "Voortang van de huidige sprint 1 voor de evaluatie van een groep mogelijke medicijnen gestart op Zondag 26 Juli 06:31:13 UTC 2020"
+msgstr "Voortang van de huidige sprint 1 voor de evaluatie van een groep mogelijke medicijnen is gestart op Zondag 26 Juli 06:31:13 UTC 2020"
 
 msgid "Campaign Trailer"
 msgstr "Campagne trailer"
@@ -60,7 +50,7 @@ msgid "First, we uncovered novel protein structures that were previously inacces
 msgstr "Als eerste hebben we nieuwe eiwitstructuren blootgelegd die daarvoor ontoegankelijk waren voor de wetenschappelijke gemeenschap."
 
 msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
-msgstr "Met jouw hulp, zoeken we nu naar mogelijke medicijnen gericht op deze structuren als deel van de COVID Moonshot samenwerking."
+msgstr "Met jouw hulp zoeken we nu naar mogelijke medicijnen gericht op deze structuren als deel van de COVID Moonshot samenwerking."
 
 msgid "See real-time progress toward new drugs"
 msgstr "Bekijk live voortgang naar nieuwe medicijnen"
@@ -75,7 +65,7 @@ msgid "CEO, Microsoft"
 msgstr "CEO, Microsoft"
 
 msgid "Dr. Lisa Su"
-msgstr "CEO, Microsoft"
+msgstr "Dr. Lisa Su"
 
 msgid "President & CEO, AMD"
 msgstr "President & CEO, AMD"
@@ -102,7 +92,7 @@ msgid "Ilma Caprnja"
 msgstr "Ilma Caprnja"
 
 msgid "Medical student, Lund University"
-msgstr "Student verpleegkunde, Lund University"
+msgstr "Student geneeskunde, Lund University"
 
 msgid "Minerva Santana"
 msgstr "Minerva Santana"
@@ -114,7 +104,7 @@ msgid "Michael Ward"
 msgstr "Michael Ward"
 
 msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
-msgstr "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
+msgstr "Student-promovendus, Bowman lab, Washington University School of Medicine in St Louis"
 
 msgid "Patrick P. Gelsinger"
 msgstr "Patrick P. Gelsinger"
@@ -168,7 +158,7 @@ msgid "Step 1) Record yourself to make a video like those above."
 msgstr "Stap 1) Maak een video van jezelf zoals de voorbeelden hierboven."
 
 msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
-msgstr "Stap 2) Deel de video op sociale media met de hashtag #foldingathome en volg @foldingathome op Facebook en Twitter."
+msgstr "Stap 2) Deel de video op social media met de hashtag #foldingathome en volg @foldingathome op Facebook en Twitter."
 
 msgid "Thank you!"
 msgstr "Bedankt!"
@@ -177,7 +167,7 @@ msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
 msgstr "[Leer meer over Folding@home](https://foldingathome.org/home)"
 
 msgid "Choose your platform"
-msgstr "Kies jouw platvorm"
+msgstr "Kies jouw platform"
 
 msgid "Alternative Downloads"
 msgstr "Alternatieve downloads"
