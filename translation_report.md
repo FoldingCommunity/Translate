@@ -3,7 +3,7 @@
 | Language | Done % | Updates Needed |
 | -------- | -----: | -------------: |
 | [bg-BG](#bg-BG) | 0% | ✔ 0 |
-| [de-DE](#de-DE) | 62% | ✔ 0 |
+| [de-DE](#de-DE) | 75% | ✔ 0 |
 | [es-ES](#es-ES) | 0% | ✔ 0 |
 | [es-MX](#es-MX) | ✔ 100% | ✔ 0 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
@@ -37,7 +37,7 @@
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
-| covid-19.po | ? | ? | missing |
+| covid-19.po | ✔ | ✔ | - |
 | diseases.po | ? | ? | missing |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
