@@ -143,7 +143,7 @@ msgid "Info Security Engineer"
 msgstr "信息安全工程师"
 
 msgid "Compilation Video"
-msgstr "视频"
+msgstr "编辑视频"
 
 msgid "Courtesy – Washington University in Saint Louis"
 msgstr "圣路易斯华盛顿大学"
