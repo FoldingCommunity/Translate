@@ -12,7 +12,7 @@
 | [ja-JP](#ja-JP) | 88% | ✔ 0 |
 | [ko-KR](#ko-KR) | 0% | ✔ 0 |
 | [mt-MT](#mt-MT) | 0% | ✔ 0 |
-| [nl-NL](#nl-NL) | ✔ 100% | 1 |
+| [nl-NL](#nl-NL) | ✔ 100% | ✔ 0 |
 | [pl-PL](#pl-PL) | 88% | ✔ 0 |
 | [pt-PT](#pt-PT) | 0% | ✔ 0 |
 | [ru-RU](#ru-RU) | 0% | ✔ 0 |
@@ -160,7 +160,7 @@
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | is "" but should be "nl-NL"  | ✔ | - |
+| together-we-are-powerful.po | ✔ | ✔ | - |
 
 [↑ Back to the overview](#overview)
 ### pl-PL
