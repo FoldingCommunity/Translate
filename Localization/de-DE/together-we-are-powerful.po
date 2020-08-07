@@ -53,7 +53,7 @@ msgid "Learn about our work on SARS-CoV-2 and COVID-19."
 msgstr "Erfahren Sie mehr über unsere Arbeit an SARS-CoV-2 und COVID-19."
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
-msgstr "Wir konzentrieren die Rechenleistung von Foldingathome auf SARS-CoV-2 – das Virus, welches COVID-19 verursacht – sowie die menschlichen Proteine, mit denen das Virus interagiert."
+msgstr "Wir konzentrieren die Rechenleistung von Foldingathome auf SARS-CoV-2 (das Virus, welches COVID-19 verursacht) sowie die menschlichen Proteine, mit denen das Virus interagiert."
 
 msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
 msgstr "Zuerst entdeckten wir neuartige Proteinstrukturen, die der Forschungswelt zuvor nicht zugänglich waren."
@@ -164,7 +164,7 @@ msgid "Help us spread the word about Foldingathome and why you have joined. Crea
 msgstr "Helfen Sie uns, auf Foldingathome aufmerksam zu machen und erzählen Sie, warum Sie dabei sind. Erstellen Sie Ihr Video und teilen Sie es über sozialen Medien."
 
 msgid "Step 1) Record yourself to make a video like those above."
-msgstr "Schritt 1) Nehmen Sie nach obigen Vorlagen ein Video von sich auf."
+msgstr "Schritt 1) Nehmen Sie nach obigen Vorlagen ein Video von sich selbst auf."
 
 msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
 msgstr "Schritt 2) Teilen Sie es unter dem Hashtag #foldingathome in sozialen Medien, und folgen Sie @foldingathome auf Facebook und Twitter."
