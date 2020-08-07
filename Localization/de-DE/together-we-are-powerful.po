@@ -23,7 +23,7 @@ msgid "Together We Are Powerful - Folding@home"
 msgstr "Gemeinsam Sind Wir Stark - Folding@home"
 
 msgid "[Take me home](https://foldingathome.org/home)"
-msgstr "[Bringen Sie mich nach Hause](https://foldingathome.org/home)"
+msgstr "[Zur Startseite](https://foldingathome.org/home)"
 
 msgid "TOGETHER, WE ARE POWERFUL"
 msgstr "GEMEINSAM SIND WIR STARK"
@@ -32,13 +32,13 @@ msgid "Together, we have created the most powerful supercomputer on the planet, 
 msgstr "Gemeinsam haben wir den leistungsstärksten Supercomputer der Welt geschaffen und nutzen ihn, um SARS-CoV-2/COVID-19 zu verstehen und neue Therapien zu entwickeln. Wir brauchen Ihre Hilfe, um auf ein wirksames, patentfreies Medikament hinzuarbeiten."
 
 msgid "Use your PC to help fight COVID-19."
-msgstr "Nutzen Sie Ihren PC, um COVID-19 zu bekämpfen."
+msgstr "Nutzen Sie Ihren PC, um im Kampf gegen COVID-19 zu helfen."
 
 msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
 msgstr "[FOLDINGATHOME HERUNTERLADEN](#downloads)"
 
 msgid "[Available for Windows, Mac, Linux]"
-msgstr "[Verfügbar für Windows, Max, Linux]"
+msgstr "[Verfügbar für Windows, Mac, Linux]"
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
 msgstr "Fortschritt des aktuellen Sprints 1 zur Bewertung einer Serie potenzieller Medikamente gestartet am Sonntag, 26. Juli 2020 06:31:13 UTC"
@@ -56,7 +56,7 @@ msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus 
 msgstr "Wir konzentrieren die Rechenleistung von Foldingathome auf SARS-CoV-2 – das Virus, welches COVID-19 verursacht – sowie die menschlichen Proteine, mit denen das Virus interagiert."
 
 msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
-msgstr "Zuerst entdeckten wir neuartige Proteinstrukturen, die der Forschungs-Community zuvor nicht zugänglich waren."
+msgstr "Zuerst entdeckten wir neuartige Proteinstrukturen, die der Forschungswelt zuvor nicht zugänglich waren."
 
 msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
 msgstr "Mit Ihrer Hilfe prüfen wir nun im Rahmen der COVID-Moonshot-Zusammenarbeit auf mögliche Medikamente, um diese Strukturen ins Visier zu nehmen."
@@ -173,7 +173,7 @@ msgid "Thank you!"
 msgstr "Vielen Dank!"
 
 msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
-msgstr "[Lernen Sie mehr über Folding@home](https://foldingathome.org/home)"
+msgstr "[Erfahren Sie mehr über Folding@home](https://foldingathome.org/home)"
 
 msgid "Choose your platform"
 msgstr "Wählen Sie Ihre Plattform"
