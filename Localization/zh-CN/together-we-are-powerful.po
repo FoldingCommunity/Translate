@@ -8,7 +8,7 @@ msgstr ""
 "Source-Last-Modified: 20200803\n"
 "Target-Language: zh-CN\n"
 "Target-Version: 1.0\n"
-"Target-Last-Modified: 20200806\n"
+"Target-Last-Modified: 20200807\n"
 
 msgid "Together We Are Powerful - Folding@home"
 msgstr "一起行动起来，我们将更加强大 － Folding@home"
@@ -47,7 +47,7 @@ msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus 
 msgstr "我们正在将Foling@home的计算资源专注于引起COVID-19的SARS-CoV-2病毒，以及相关作用的人体蛋白质。"
 
 msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
-msgstr "首先，我们发现了全新的蛋白质结构，这是之前学术界"
+msgstr "首先，我们发现了全新的蛋白质结构，这是之前学术界未发现的。"
 
 msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
 msgstr "通过您的帮助，我们正在筛选潜在的作用于这些蛋白质结构，这也是COVID Moonshot合作的一部分。"
