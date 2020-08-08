@@ -3,7 +3,7 @@
 | Language | Done % | Updates Needed |
 | -------- | -----: | -------------: |
 | [bg-BG](#bg-BG) | 0% | ✔ 0 |
-| [de-DE](#de-DE) | 75% | ✔ 0 |
+| [de-DE](#de-DE) | 88% | ✔ 0 |
 | [es-ES](#es-ES) | 0% | ✔ 0 |
 | [es-MX](#es-MX) | ✔ 100% | ✔ 0 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
@@ -43,7 +43,7 @@
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ? | ? | missing |
+| together-we-are-powerful.po | ✔ | ✔ | - |
 
 [↑ Back to the overview](#overview)
 ### es-ES
