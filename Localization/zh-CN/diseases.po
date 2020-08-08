@@ -20,7 +20,7 @@ msgid "A distributed computing project must not only run calculations on million
 msgstr "一个分布式项目不仅必须在数以百万计的个人计算机上进行计算，而且必须产生结果，尤其是以同行评审的出版物，公开演讲以及其他将Folding@home的结果传递至更大的科学界的方式。在左侧栏中，您可以找到我们在不同领域获得进展的链接。"
 
 msgid "You will also find updates about our work, advancements and new projects in the main [Folding@home blog](https://foldingathome.org/news/)."
-msgstr "在主页面中您也可以找到有关我们工作，进展和新项目的更新。[Folding@home 博客] (https://foldingathome.org/news/)."
+msgstr "在主页面中您也可以找到有关我们工作，进展和新项目的更新。[Folding@home 博客](https://foldingathome.org/news/)."
 
 msgid "What is protein folding and how is it related to disease?"
 msgstr "什么是蛋白质折叠？它又是和疾病如何联系起来的？"
