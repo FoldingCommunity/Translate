@@ -18,7 +18,7 @@
 | [ru-RU](#ru-RU) | 0% | ✔ 0 |
 | [sk-SK](#sk-SK) | 0% | ✔ 0 |
 | [sv-SE](#sv-SE) | 0% | ✔ 0 |
-| [zh-CN](#zh-CN) | 88% | 1 |
+| [zh-CN](#zh-CN) | ✔ 100% | 1 |
 ## Details
 ### bg-BG
 | File | Target-Language | Source-Version | Error |
@@ -238,6 +238,6 @@
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ? | ? | missing |
+| together-we-are-powerful.po | ✔ | ✔ | - |
 
 [↑ Back to the overview](#overview)
