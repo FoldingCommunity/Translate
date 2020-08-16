@@ -32,7 +32,7 @@ msgid "Together, we have created the most powerful supercomputer on the planet, 
 msgstr "Tillsammans har vi skapat den mest kraftfulla superdatorn i hela världen, och vi använder den till att förstå SARS-CoV-2/ COVID-19 och utveckla nya behandlingar. Vi behöver din hjälp för att kunna framställa en kraftfull patent fri medicin."
 
 msgid "Use your PC to help fight COVID-19."
-msgstr "Använd din dator för att bekämpa covid-19"
+msgstr "Använd din dator för att bekämpa covid-19."
 
 msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
 msgstr "[ladda ner folding@home] (#nedladdningar)"
@@ -50,7 +50,7 @@ msgid "Play"
 msgstr "Spela upp"
 
 msgid "Learn about our work on SARS-CoV-2 and COVID-19."
-msgstr "Läs om vårt arbete med SARS-CoV-2 och covid-19"
+msgstr "Läs om vårt arbete med SARS-CoV-2 och covid-19."
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
 msgstr "I första hand används data kraften på SARS-CoV-2 , Viruset som orsakar sjukdomen COVID-19, och dom proteinerna i kroppen som viruset reagerar med."
@@ -62,7 +62,7 @@ msgid "With your help, we are now screening for potential drugs to target these 
 msgstr "Med eran hjälp, så håller vi på med att framställa en potentiell medicin som ska rikta sig till dessa strukturer som är en del av COVID  Moonshot samarbetet."
 
 msgid "See real-time progress toward new drugs"
-msgstr "Se i realtid framstegen mot en ny medicin."
+msgstr "Se i realtid framstegen mot en ny medicin"
 
 msgid "Foldingathome Ambassadors"
 msgstr "Foldingathome Ambassadörer"
