@@ -9,96 +9,105 @@ msgstr ""
 "Target-Language: sv-SE\n"
 "Target-Version: 1.0.0\n"
 "Target-Last-Modified: 20200816\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgid "I AM"
-msgstr ""
+msgstr "JAG ÄR"
 
 msgid "One"
-msgstr ""
+msgstr "EN"
 
 msgid "IN A MILLION"
-msgstr ""
+msgstr "I MILJONEN"
 
 msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
-msgstr ""
+msgstr "Oavsett om du redan viker eller om du aldrig har hört ett ord om det förut. Vi behöver din hjälp för att nå våra mål - vilket är 1 miljon vikare."
 
 msgid "Start folding now"
-msgstr ""
+msgstr "Börja vika nu"
 
 msgid "Hide this and watch the video."
-msgstr ""
+msgstr "Göm detta och titta på videon"
 
 msgid "START FOLDING NOW"
-msgstr ""
+msgstr "BÖRJA VIKA NU"
 
 msgid "Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use."
-msgstr ""
+msgstr "Hitta versionen av programvaran du föredra och kom igång. Att ladda ner Folding@home är helt gratis, enkelt att installera och säker att använda."
 
 msgid "Available for:"
-msgstr ""
+msgstr "Tillgänglig för:"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "Mac"
-msgstr ""
+msgstr "Mac"
 
 msgid "Start folding"
-msgstr ""
+msgstr "Börja vika"
 
 msgid "JOIN THE COMMUNITY"
-msgstr ""
+msgstr "GÅ MED I GEMENSKAPEN"
 
 msgid "The Folding@Home community is spread over countless forums, websites and social media."
-msgstr ""
+msgstr "Folding@home gemenskapen är spridet över oräkneliga forums, webbsidor och sociala medier."
 
 msgid "Here's a list of our official channels."
-msgstr ""
+msgstr "Här är våra offciala kanaler."
 
 msgid "For tech support:"
-msgstr ""
+msgstr "För teknisk support:"
 
 msgid "foldingforum.org"
-msgstr ""
+msgstr "foldingforum.org"
 
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 msgid "1 in a million"
-msgstr ""
+msgstr "1 i miljonen"
 
 msgid "WHY WE NEED YOU"
-msgstr ""
+msgstr "VARFÖR VI BEHÖVER DIG"
 
 msgid "Folding@home is a project focused on disease research. The problems we are solving require so many computer calculations and we need your help to find the cures!"
-msgstr ""
+msgstr "Folding@home är ett projekt som är fokuserad på sjukdoms forskning. Problemet vi löser kräver så mycket data beräkningar och vi behöver din hjälp för att hitta botemedel!"
 
 msgid "Fight diseases Together with us."
-msgstr ""
+msgstr "Bekämpa sjukdomar tillsammans med oss."
 
 msgid "The Folding@home software allows you to share your unused computer power with us – so that we can research even more potential cures."
-msgstr ""
+msgstr "Folding@home programvaran tillåter dig att dela din oanvända data kraft med oss - så vi kan forska fram ännu fler potentiella botemedel."
 
 msgid "FOLDING?"
-msgstr ""
+msgstr "VIKA?"
 
 msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
-msgstr ""
+msgstr "Vika hävisar till vägen hur människans proteiner viker  i celler vilket din kropp är uppbyggd av. Vi litar på proteinerna att dom ska hålla os friska och bygga upp sig själva genom vikning. Men när dom miss viks, Så kan det leda till allvarliga konsekvenser till en persons hälsa."
 
 msgid "Learn more"
-msgstr ""
+msgstr "Läs mer"
 
 msgid "Team"
-msgstr ""
+msgstr "lag"
 
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
-msgstr ""
+msgstr "Folding@home är nu baserad i Washingtons universitet i St.Lous skola i medicin, Under ledandet av Dr. Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) och[Vince Voelz](http://www.voelzlab.org/) (Temple Universitetet) är också aktiva i hanterade av projektet, det är 3 laboratorium som är primär driver av Folding@home."
 
 msgid "Latest Posts"
-msgstr ""
+msgstr "Senaste Inlägen"
