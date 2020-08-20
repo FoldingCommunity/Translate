@@ -38,10 +38,10 @@ msgid "Proteins are necklaces of amino acids, long chain molecules. They are the
 msgstr "Proteiner är som halsband av aminosyror syror, långa kedjor av molekyler. De är grund stenarna till hur biologi  får sin sak gjord. Som enzymer, de är den drivande kraften bakom alla bio kemikaliska reaktioner som gör så att biologi fungerar. Som strukturella element, de är huvudbeståndsdelen till våra ben, muskler, hår, skin och blodkärl. Som antikroppar, de känner igen om det kommer invaderande element och tillåter immun systemet att ta bort dom oönskade invandrarna. Av dessa anledningarna, så har forskare sekvenserat det mänskliga genomet - Ritningarna av all proteiner i biologin - Men hur kan vi förstå vad dessa proteiner gör och hur fungerar dom?"
 
 msgid "However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a \"fold\". Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called \"folding\"."
-msgstr ""
+msgstr "Emellertid,  att endast veta denna sekvens berättar för os lite om vad proteiner gör och hur de fungerar. I ordring till att göra dess funktion (t.ex så som enzymer och anti kroppar). DE måste ha en special form, också känd som en ”vikning”. Därför, proteiner är en så fantastisk maskin: för de gjorde deras jobb, påsatte de ihop sig själva! Denna själv ihop satsningen   kallas ”vikning”."
 
 msgid "What happens if proteins don't fold correctly?"
 msgstr "Vad händer om proteiner inte viks på ett korrekt sätt?"
 
 msgid "Diseases such as Alzheimer's disease, Huntington's disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (\"aggregate\"). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer's disease."
-msgstr ""
+msgstr "Sjukdomar så som alzheimers, Huntingtons, cystic fibrosis, BSE (galna ko-sjukan, en ärftlig form av emfysem och även många cancer typer tror vara ett resultat av proteiners miss viking. När en protein miss viks så kan de hoppa ihop. Dessa klumpar kan oftast samlas i hjärnan, där de tror kunna skapa symtom av galna ko sjukan och alzheimers."
