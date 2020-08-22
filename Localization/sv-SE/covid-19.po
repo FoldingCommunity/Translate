@@ -26,7 +26,7 @@ msgid "Coronavirus – What we’re doing and how you can help"
 msgstr "Corona viruset - Vad vi gör och hur du kan hjälpa till"
 
 msgid "Proteins are molecular machines that perform many functions we associate with life. They sense the environment (e.g. in taste and smell), perform work (e.g. muscle contraction and breaking down food), and play structural roles (e.g. your hair). They are made of a linear chain of chemicals called amino acids that, in many cases, spontaneously “fold” into compact, functional structures. Much like any other machine, it’s how a protein’s components are arranged and move that determine the protein’s function. In this case, the components are atoms."
-msgstr ""
+msgstr "Proteiner är molekylära maskiner som gör många funktioner som är assisterade med livet. De känner av omgivningen (t.ex smak och lukt sinne), utför arbete (t.ex muskelsammandragning och nedbrytandet av mat), Och spelar en struktur roligt (t.ex i ditt hår). De är gjorda av raka kedjor av kemikalier så kallade aminosyror syror som i många fall spontant viker till kompakta, funtinoela strukturer. Mycket linkande som någon anna maskin är hur en proteins delar är anordnade och rörelser som bestämmer vad en proteins funktion är. I detta fallet så är komponenterna är atomer."
 
 msgid "Viruses also have proteins that they use to suppress our immune systems and reproduce themselves."
 msgstr "Viruset har också proteiner som kan användas till att försvaga vårt immun försvar och forplanta sig."
@@ -38,13 +38,15 @@ msgid "There are many experimental methods for determining protein structures. W
 msgstr "Det finns många experiment metoder för att bestämma proteins struktur. Medans den väldigt krafulla så visar de endast en enda bild av proteins vanliga form. Men proteiner har många rörande delar. Därför är det vi på riktig vill ha är att kunna se proteinet i rörelse. Strukturen vi inte kan se experimentellt kan också var nykel till att hitta nya terapier."
 
 msgid "Using football as an analogy for the experimental situation, it’s as if you could only see the players lined up for the snap (the single arrangement the players spend the most time in) and were blind to the rest of the game."
-msgstr ""
+msgstr "Att använda fotboll som en analogi i en experimentell situation. Det är som om du kan endast se spelar som är länkade till snäppet ( den enda anordning som spelar spendera mest tid i) och om du var blid för i resten av spelet."
 
 msgid "Seeing a single structure of a protein (left) is like seeing players lined up for the snap in football. Important information, but a lot missing too. The protein structure shows a sphere for each atom (blue) and red arrows highlighting the one drug binding site in this protein."
 msgstr ""
+"Titta på en enda struktur av en protein (vänster) är som att titta spelare uppradade för snäppet i fotboll.\n"
+"Viktig information men det skakats också. Protein strukturen visar en sfär för varje atom (blå) och röd pillar visar de medicinerar sidan av protienen."
 
 msgid "Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means."
-msgstr ""
+msgstr "Vår specialitet är i att använda data simulationer till att förstå protienens rörande delar. Titta hur atomer i proteinen rör sig relativt till de andra det är viktigt för att få fram viktigt information som är otillgänglig med andra metoder."
 
 msgid "Taking the experimental structures as starting points, we can simulate how all the atoms in the protein move, effectively filling in the rest of the game that experiments miss."
 msgstr "Ta den experimentella strukturerna som en start punkt. Vi kan simulerar hur alla atomer i protonen rör sig, effektivt fyller rester av spelet som experimenter saknar."
