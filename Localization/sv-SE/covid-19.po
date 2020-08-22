@@ -43,7 +43,7 @@ msgstr "Att använda fotboll som en analogi i en experimentell situation. Det ä
 msgid "Seeing a single structure of a protein (left) is like seeing players lined up for the snap in football. Important information, but a lot missing too. The protein structure shows a sphere for each atom (blue) and red arrows highlighting the one drug binding site in this protein."
 msgstr ""
 "Titta på en enda struktur av en protein (vänster) är som att titta spelare uppradade för snäppet i fotboll.\n"
-"Viktig information men det skakats också. Protein strukturen visar en sfär för varje atom (blå) och röd pillar visar de medicinerar sidan av protienen."
+"Viktig information men det skakats också. Protein strukturen visar en sfär för varje atom (blå) och röd pillar visar de medicinerar sidan av proteinen."
 
 msgid "Our specialty is in using computer simulations to understand proteins’ moving parts. Watching how the atoms in a protein move relative to one another is important because it captures valuable information that is inaccessible by any other means."
 msgstr "Vår specialitet är i att använda data simulationer till att förstå protienens rörande delar. Titta hur atomer i proteinen rör sig relativt till de andra det är viktigt för att få fram viktigt information som är otillgänglig med andra metoder."
@@ -52,10 +52,10 @@ msgid "Taking the experimental structures as starting points, we can simulate ho
 msgstr "Ta den experimentella strukturerna som en start punkt. Vi kan simulerar hur alla atomer i protonen rör sig, effektivt fyller rester av spelet som experimenter saknar."
 
 msgid "A movie capturing how the protein shown before moves is like getting to watch the whole football game. In this case, we see a pocket form that was absent in the experimental structure."
-msgstr "En film har filmat hur protein   visar att före den rör sig så gillar den att titta på ett hel fotbolls match. I detta fallet, ser vi en fick from som var frånvarande från den strukturella formen."
+msgstr "En film har filmat hur protein  visar att före den rör sig så gillar den att titta på ett hel fotbolls match. I detta fallet, ser vi en fick from som var frånvarande från den strukturella formen."
 
 msgid "Doing so can reveal new therapeutic opportunities. For example, in our recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), we simulated a protein from Ebola virus that is typically considered ‘undruggable’ because the snapshots from experiments don’t have obvious druggable sites. But, our simulations uncovered an alternative structure that does have a druggable site. Importantly, we then performed experiments that confirmed our computational prediction, and are now searching for drugs that bind this newly discovered binding site."
-msgstr ""
+msgstr "Göra så att vi kan ta fram nya ”terpiteiska” möjligheter. Till exempel i vårt senaste [papper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract) så har vi simulerat en protein från ebola viruset som oftast anses vara ’icke bot bart med medicin’ för att bilder från experimentera har ingen tydlig botningsbar sida. Men våra simulationer har hittat en alternativ struktur som har en botningsbar sida. Viktigt är att våra genomförada experiment som bevisat våra beräkningsförutsägelse och är nu sökande för en medicin som binder på det nyligen hittade bindbara sidan."
 
 msgid "An experimental structure of an Ebola protein doesn’t have obvious druggable sites (no deep pockets among the atoms shown as spheres).Our simulations captured a motion that creates a potentially druggable site in this Ebola protein. Instead of showing spheres for each atom, this cartoon shows a ribbon tracing the linear chain of amino acids (chemicals) the protein is made of."
 msgstr ""
