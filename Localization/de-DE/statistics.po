@@ -50,7 +50,7 @@ msgstr ""
 "der Software machen."
 
 msgid "**MAXIMIZE** your **EFFORT**"
-msgstr "**MAXIMALER EINSATZ**"
+msgstr "**MAXIMIERN SIE IHREN EINSATZ**"
 
 msgid "Set up your team"
 msgstr "Jetzt ein Team einrichten"
