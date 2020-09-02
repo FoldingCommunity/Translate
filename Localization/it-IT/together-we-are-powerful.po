@@ -8,7 +8,7 @@ msgstr ""
 "Source-Last-Modified: 20200803\n"
 "Target-Language: it-IT\n"
 "Target-Version: 1.0.0\n"
-"Target-Last-Modified: 20200826\n"
+"Target-Last-Modified: 20200902\n"
 
 msgid "Together We Are Powerful - Folding@home"
 msgstr "Insieme siamo una forza - Folding@home"
@@ -38,7 +38,7 @@ msgid "Campaign Trailer"
 msgstr "Trailer della campagna"
 
 msgid "Play"
-msgstr ""
+msgstr "Play"
 
 msgid "Learn about our work on SARS-CoV-2 and COVID-19."
 msgstr "Informazioni sul nostro lavoro sul SARS-CoV-2 e il COVID-19."
@@ -56,94 +56,94 @@ msgid "See real-time progress toward new drugs"
 msgstr "Andamento della ricerca in tempo reale"
 
 msgid "Foldingathome Ambassadors"
-msgstr ""
+msgstr "Foldingathome Ambassadors"
 
 msgid "Satya Nadella"
-msgstr ""
+msgstr "Satya Nadella"
 
 msgid "CEO, Microsoft"
-msgstr ""
+msgstr "CEO, Microsoft"
 
 msgid "Dr. Lisa Su"
-msgstr ""
+msgstr "Dr. Lisa Su"
 
 msgid "President & CEO, AMD"
 msgstr "Presidente e CEO, AMD"
 
 msgid "Jensen Huang"
-msgstr ""
+msgstr "Jensen Huang"
 
 msgid "CEO, Nvidia"
-msgstr ""
+msgstr "CEO, Nvidia"
 
 msgid "Dr. Gregory Bowman"
-msgstr ""
+msgstr "Dr. Gregory Bowman"
 
 msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
 msgstr "Direttore di Foldingathome e professore associato, Washington University School of Medicine in St Louis"
 
 msgid "Charles H. Giancarlo"
-msgstr ""
+msgstr "Charles H. Giancarlo"
 
 msgid "CEO, Pure Storage"
-msgstr ""
+msgstr "CEO, Pure Storage"
 
 msgid "Ilma Caprnja"
-msgstr ""
+msgstr "Ilma Caprnja"
 
 msgid "Medical student, Lund University"
 msgstr "Studentessa di medicina, Lund University"
 
 msgid "Minerva Santana"
-msgstr ""
+msgstr "Minerva Santana"
 
 msgid "Director of Innovation and Technological Transformation at LaLiga"
 msgstr "Direttrice dell'innovazione e della trasformazione tecnologica a LaLiga"
 
 msgid "Michael Ward"
-msgstr ""
+msgstr "Michael Ward"
 
 msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
 msgstr "Dottorando, Bowman lab, Washington University School of Medicine in St Louis"
 
 msgid "Patrick P. Gelsinger"
-msgstr ""
+msgstr "Patrick P. Gelsinger"
 
 msgid "CEO, VMware"
-msgstr ""
+msgstr "CEO, VMware"
 
 msgid "Pedro Valadas"
-msgstr ""
+msgstr "Pedro Valadas"
 
 msgid "Founder, PCMR / Communication Advisor, Foldingathome"
-msgstr ""
+msgstr "Founder, PCMR / Communication Advisor, Foldingathome"
 
 msgid "Vijay Pande"
-msgstr ""
+msgstr "Vijay Pande"
 
 msgid "General Partner, Andreessen Horowitz / Founder, Foldingathome"
-msgstr ""
+msgstr "General Partner, Andreessen Horowitz / Founder, Foldingathome"
 
 msgid "Anton Thynell"
-msgstr ""
+msgstr "Anton Thynell"
 
 msgid "Head of Collaboration and Communication, Foldingathome"
 msgstr "Capo della collaborazione e comunicazione, Foldingathome"
 
 msgid "Kirill Konovalov"
-msgstr ""
+msgstr "Kirill Konovalov"
 
 msgid "Phd Student Xuhui lab, The Hong Kong University of Science and Technology"
 msgstr "Dottorando Xuhui lab, The Hong Kong University of Science and Technology"
 
 msgid "Emma Matthies"
-msgstr ""
+msgstr "Emma Matthies"
 
 msgid "Info Security Engineer"
-msgstr ""
+msgstr "Info Security Engineer"
 
 msgid "Compilation Video"
-msgstr ""
+msgstr "Compilation Video"
 
 msgid "Courtesy – Washington University in Saint Louis"
 msgstr "Grazie a Washington University in Saint Louis"
