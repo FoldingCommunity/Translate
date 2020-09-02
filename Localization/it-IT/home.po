@@ -7,8 +7,8 @@ msgstr ""
 "Source-Version: 1.0\n"
 "Source-Last-Modified: 20200705\n"
 "Target-Language: it-IT\n"
-"Target-Version: 1.0.0\n"
-"Target-Last-Modified: 20200710\n"
+"Target-Version: 1.1.0\n"
+"Target-Last-Modified: 20200902\n"
 
 msgid "I AM"
 msgstr "SONO"
@@ -38,13 +38,13 @@ msgid "Available for:"
 msgstr "Disponibile per:"
 
 msgid "Linux"
-msgstr ""
+msgstr "Linux"
 
 msgid "Windows"
-msgstr ""
+msgstr "Windows"
 
 msgid "Mac"
-msgstr ""
+msgstr "Mac"
 
 msgid "Start folding"
 msgstr "Comincia ora"
@@ -62,13 +62,13 @@ msgid "For tech support:"
 msgstr "Per il supporto tecnico:"
 
 msgid "foldingforum.org"
-msgstr ""
+msgstr "foldingforum.org"
 
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 msgid "1 in a million"
 msgstr "1 su un milione"
@@ -86,7 +86,7 @@ msgid "The Folding@home software allows you to share your unused computer power 
 msgstr "Il software di Folding@Home ti permette di condividere con noi la potenza di calcolo inutilizzata del tuo computer, permettendoci così di far progredire la nostra ricerca e cercare sempre più possibili cure."
 
 msgid "FOLDING?"
-msgstr ""
+msgstr "FOLDING?"
 
 msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
 msgstr "La parola \"folding\" significa \"ripiegamento\" e si riferisce al modo in cui le proteine si trasformano nelle cellule che compongono il nostro corpo: le proteine assemblano sè stesse. Tuttavia, quando questa trasformazione non va a buon fine, ci possono essere conseguenze serie per la salute di un individuo."
