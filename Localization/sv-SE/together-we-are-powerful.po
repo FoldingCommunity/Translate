@@ -20,22 +20,22 @@ msgstr ""
 "X-Generator: Poedit 2.4.1\n"
 
 msgid "Together We Are Powerful - Folding@home"
-msgstr "Tillsammans är vi starka - Folding@home"
+msgstr "Tillsammans är vi kraftfulla - Folding@home"
 
 msgid "[Take me home](https://foldingathome.org/home)"
 msgstr "[Ta mig hem](https://foldingathome.org/home)"
 
 msgid "TOGETHER, WE ARE POWERFUL"
-msgstr "TILLSAMMANS ÄR VI STARKA"
+msgstr "TILLSAMMANS ÄR VI KRAFTFULLA"
 
 msgid "Together, we have created the most powerful supercomputer on the planet, and are using it to help understand SARS-CoV-2/COVID-19 and develop new therapies. We need your help pushing toward a potent, patent-free drug."
-msgstr "Tillsammans har vi skapat den mest kraftfulla superdatorn i hela världen, och vi använder den till att förstå SARS-CoV-2/ COVID-19 och utveckla nya behandlingar. Vi behöver din hjälp för att kunna framställa en kraftfull patent fri medicin."
+msgstr "Tillsammans har vi skapat den mest kraftfulla superdatorn i hela världen, och vi använder den till att förstå SARS-CoV-2/COVID-19 och utveckla nya behandlingar. Vi behöver din hjälp för att kunna framställa en kraftfull patent fri medicin."
 
 msgid "Use your PC to help fight COVID-19."
-msgstr "Använd din dator för att bekämpa covid-19."
+msgstr "Använd din dator för att bekämpa COVID-19"
 
 msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
-msgstr "[ladda ner folding@home] (#nedladdningar)"
+msgstr "[LADDA NER FOLDINGATHOME] (#nedladdningar)"
 
 msgid "[Available for Windows, Mac, Linux]"
 msgstr "[Tillgänglig för Windows, Mac, Linux]"
@@ -50,7 +50,7 @@ msgid "Play"
 msgstr "Spela upp"
 
 msgid "Learn about our work on SARS-CoV-2 and COVID-19."
-msgstr "Läs om vårt arbete med SARS-CoV-2 och covid-19."
+msgstr "Läs om vårt arbete med SARS-CoV-2 och COVID-19"
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
 msgstr "I första hand används data kraften på SARS-CoV-2 , Viruset som orsakar sjukdomen COVID-19, och dom proteinerna i kroppen som viruset reagerar med."
@@ -89,7 +89,7 @@ msgid "Dr. Gregory Bowman"
 msgstr "Dr. Gregory Bowman"
 
 msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
-msgstr "Direktör av folding at home  och associerade professorer, Washington universitets skola i medicin i St Louis"
+msgstr "Direktör av Foldingathome & associerade professorer, Washington universitets skola i medicin i St Louis"
 
 msgid "Charles H. Giancarlo"
 msgstr "Charles H. Giancarlo"
@@ -113,9 +113,7 @@ msgid "Michael Ward"
 msgstr "Michael Ward"
 
 msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
-msgstr ""
-"Doktorand , Bowman laboratoriet, Washington universitets skola i Medicin i St Louis\n"
-"Patrick P. Gelsinger"
+msgstr "Doktorand , Bowman laboratoriet, Washington universitets skola i Medicin i St Louis"
 
 msgid "Patrick P. Gelsinger"
 msgstr "Patrick P. Gelsinger"
@@ -163,7 +161,7 @@ msgid "SHARE YOUR STORY"
 msgstr "Dela med dig med din historia"
 
 msgid "Help us spread the word about Foldingathome and why you have joined. Create your video and share it on social media."
-msgstr "Hjälp oss med att sprida foldingathome med varför du gick med. Skapa en video och dela med dig på sociala medier."
+msgstr "Hjälp oss med att sprida Foldingathome med varför du gick med. Skapa en video och dela med dig på sociala medier."
 
 msgid "Step 1) Record yourself to make a video like those above."
 msgstr "Steg 1) Spela in dig själv och gör en video som dom ovan har gjort."
