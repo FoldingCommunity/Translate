@@ -8,7 +8,7 @@
 | [es-MX](#es-MX) | ✔ 100% | ✔ 0 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
 | [fr-FR](#fr-FR) | ✔ 100% | ✔ 0 |
-| [it-IT](#it-IT) | 88% | ✔ 0 |
+| [it-IT](#it-IT) | ✔ 100% | ✔ 0 |
 | [ja-JP](#ja-JP) | 88% | ✔ 0 |
 | [ko-KR](#ko-KR) | 0% | ✔ 0 |
 | [mt-MT](#mt-MT) | 0% | ✔ 0 |
@@ -108,7 +108,7 @@
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ? | ? | missing |
+| together-we-are-powerful.po | ✔ | ✔ | - |
 
 [↑ Back to the overview](#overview)
 ### ja-JP
