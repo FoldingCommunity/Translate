@@ -29,13 +29,13 @@ msgid "IN A MILLION"
 msgstr "I MILJONEN"
 
 msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
-msgstr "Oavsett om du redan viker eller om du aldrig har hört ett ord om det förut. Vi behöver din hjälp för att nå våra mål - vilket är 1 miljon vikare."
+msgstr "Oavsett om du redan viker eller om du aldrig har hört ett ord om det förut. Vi behöver din hjälp för att nå vårt mål - vilket är 1 miljon vikare."
 
 msgid "Start folding now"
 msgstr "Börja vika nu"
 
 msgid "Hide this and watch the video."
-msgstr "Göm detta och titta på videon"
+msgstr "Göm detta och titta på videon."
 
 msgid "START FOLDING NOW"
 msgstr "BÖRJA VIKA NU"
@@ -98,16 +98,16 @@ msgid "FOLDING?"
 msgstr "VIKA?"
 
 msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
-msgstr "Vika hävisar till vägen hur människans proteiner viker  i celler vilket din kropp är uppbyggd av. Vi litar på proteinerna att dom ska hålla os friska och bygga upp sig själva genom vikning. Men när dom miss viks, Så kan det leda till allvarliga konsekvenser till en persons hälsa."
+msgstr "Vika hänvisar till vägen hur människans proteiner viker sig i celler vilket din kropp är uppbyggd av. Vi litar på proteinerna att dom ska hålla os friska och bygga upp sig själva genom vikning. Men när dom miss viks, Så kan det leda till allvarliga konsekvenser på en persons hälsa."
 
 msgid "Learn more"
 msgstr "Läs mer"
 
 msgid "Team"
-msgstr "lag"
+msgstr "Lag"
 
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
-msgstr "Folding@home är nu baserad i Washingtons universitet i St.Lous skola i medicin, Under ledandet av Dr. Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) och[Vince Voelz](http://www.voelzlab.org/) (Temple Universitetet) är också aktiva i hanterade av projektet, det är 3 laboratorium som är primär driver av Folding@home."
+msgstr "Folding@home är nu baserad i Washingtons universitet i St.Lous skola i medicin, Under ledandet av Dr. Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) och [Vince Voelz](http://www.voelzlab.org/) (Temple Universitetet) är också aktiva i hanterade av projektet, det är 3 laboratorium som är primär driver av Folding@home."
 
 msgid "Latest Posts"
 msgstr "Senaste Inlägen"
