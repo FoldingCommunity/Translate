@@ -23,7 +23,7 @@ msgid "FAQ"
 msgstr "Frågor och svar"
 
 msgid "You'll find a large library of frequently asked questions about all things connected to Folding@home."
-msgstr "Du kan hitta ett stort bibliotek av vanligt ställda frågor om saker som har med folding@home att göra."
+msgstr "Du kan hitta ett stort bibliotek av vanligt ställda frågor om saker som har med Folding@home att göra."
 
 msgid "This section contains everything from guides and information about how to install and use the Folding@home software to the science behind our research. Look through the sidebar and find the topic you want to know more about."
-msgstr "Denna delen innehåller allting ifrån guider och information om hur man installerar och använder folding@homes programvara till vetenskapen bakom våran forskning. Titta igenom sidofältet och hitta det ämnet du vill veta mer om."
+msgstr "Den här delen innehåller allt ifrån guider och information om hur man installerar och använder Folding@homes programvara till vetenskapen bakom våran forskning. Titta igenom sidofältet och hitta det ämnet du vill veta mer om."
