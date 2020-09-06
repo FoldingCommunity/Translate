@@ -32,7 +32,7 @@ msgid "[Available for Windows, Mac, Linux]"
 msgstr ""
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
-*NOTE: We are working on a script to pull  "Sprint 1" "Started Sun Jul 26 06:31:13 UTC 2020" from the server. But we need someone to write if you think you want to try. contact - Anton Thynell or ReadyplayerEmma *NOTE*
+*NOTE: For your information, not to be translated:  We are working on a script to pull  "Sprint 1" "Started Sun Jul 26 06:31:13 UTC 2020" from the server. But we need someone to write if you think you want to try. contact - Anton Thynell or ReadyplayerEmma *NOTE*
 msgstr ""
 
 msgid "Campaign Trailer"
@@ -148,7 +148,6 @@ msgstr ""
 
 msgid "Co-founder & CEO Origin PC"
 msgstr ""
-
 
 msgid "Compilation Video"
 msgstr ""
