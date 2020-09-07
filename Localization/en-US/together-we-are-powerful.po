@@ -4,8 +4,8 @@ msgstr ""
 "URL: https://foldingathome.org/together-we-are-powerful/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.2\n"
-"Source-Last-Modified: 20200904\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20200906\n"
 "Target-Language: \n"
 "Target-Version: \n"
 "Target-Last-Modified: \n"
@@ -32,6 +32,7 @@ msgid "[Available for Windows, Mac, Linux]"
 msgstr ""
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
+*NOTE: For your information, not to be translated:  We are working on a script to pull  "Sprint 1" "Started Sun Jul 26 06:31:13 UTC 2020" from the server. But we need someone to write if you think you want to try. contact - Anton Thynell or ReadyplayerEmma *NOTE*
 msgstr ""
 
 msgid "Campaign Trailer"
