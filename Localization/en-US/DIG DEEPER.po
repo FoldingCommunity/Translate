@@ -22,7 +22,7 @@ msgstr ""
 msgid "[Why do proteins fold?](https://foldingathome.org/dig-deeper/#why-do-proteins-fold)"
 msgstr ""
 
-msgid "[How does Folding@home simulate protein folding?](https://foldingathome.org/dig-deeper/#how-does-foldinghome-simulate-protein-folding)""
+msgid "[How does Folding@home simulate protein folding?](https://foldingathome.org/dig-deeper/#how-does-foldinghome-simulate-protein-folding)"
 msgstr ""
 
 msgid "[What are Markov State Models?](https://foldingathome.org/dig-deeper/#what-are-markov-state-models)"
