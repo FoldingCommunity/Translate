@@ -7,7 +7,7 @@
 | [es-ES](#es-ES) | 0% | ✔ 0 |
 | [es-MX](#es-MX) | ✔ 100% | 1 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
-| [fr-FR](#fr-FR) | ✔ 100% | 1 |
+| [fr-FR](#fr-FR) | ✔ 100% | ✔ 0 |
 | [it-IT](#it-IT) | ✔ 100% | 1 |
 | [ja-JP](#ja-JP) | 88% | ✔ 0 |
 | [ko-KR](#ko-KR) | 0% | ✔ 0 |
@@ -95,7 +95,7 @@
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
+| together-we-are-powerful.po | ✔ | ✔ | - |
 
 [↑ Back to the overview](#overview)
 ### it-IT
