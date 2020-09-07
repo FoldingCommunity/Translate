@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/together-we-are-powerful/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200907\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "PAPERS & RESULTS"
+msgstr ""
+
+msgid "Here are our peer-reviewed results from Folding@home. For summaries of these methods and papers, as well as the scientific background behind Folding@home, please see the [Folding@home article on Wikipedia](https://en.wikipedia.org/wiki/Folding@home)."
+msgstr ""
+
+msgid "For all of the papers from the Pande Lab (not just those from Folding@home), please see our [group papers page](http://pande.stanford.edu/papers). Note that it can take quite a while to go from a result to a published peer review article (often as much as a year). These papers represent our progress to date that’s publicly available, with lots more on the way."
+msgstr ""
+
+msgid "The distribution rules for published papers vary by the publication in which the paper appears. Due to these rules, a public web-source of each paper may not be immediately available. If full version is not linked below or available elsewhere on the Internet ([Google Scholar](https://scholar.google.com/) can be helpful for this), most, if not all of these publications are freely available at a local municipal or collegial library. Note these articles are written for fellow scientists, so the contents are fairly technical."
+msgstr ""
