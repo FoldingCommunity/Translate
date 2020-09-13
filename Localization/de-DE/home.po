@@ -54,7 +54,7 @@ msgid "Windows"
 msgstr "Windows"
 
 msgid "Mac"
-msgstr "Windows"
+msgstr "Mac"
 
 msgid "Start folding"
 msgstr "Jetzt mitfalten"
