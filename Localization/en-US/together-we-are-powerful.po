@@ -4,9 +4,9 @@ msgstr ""
 "URL: https://foldingathome.org/together-we-are-powerful/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
-"Source-Last-Modified: 20200803\n"
-"Target-Language: sv-SE\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20200906\n"
+"Target-Language: en-US\n"
 "Target-Version: 1.0.0\n"
 "Target-Last-Modified: 20200816\n"
 
@@ -140,6 +140,12 @@ msgid "Emma Matthies"
 msgstr ""
 
 msgid "Info Security Engineer"
+msgstr ""
+
+msgid "Kevin Wasielewski"	
+msgstr ""	
+
+msgid "Co-founder & CEO Origin PC"	
 msgstr ""
 
 msgid "Compilation Video"
