@@ -8,7 +8,7 @@ msgstr ""
 "Source-Last-Modified: 20200906\n"
 "Target-Language: fr-FR\n"
 "Target-Version: 1.1\n"
-"Target-Last-Modified: 20200906\n"
+"Target-Last-Modified: 20200914\n"
 
 msgid "Together We Are Powerful - Folding@home"
 msgstr "Ensemble, nous sommes formidables - Folding@home"
@@ -32,7 +32,6 @@ msgid "[Available for Windows, Mac, Linux]"
 msgstr "[Disponible pour Windows, Mac, Linux]"
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
-*NOTE: For your information, not to be translated:  We are working on a script to pull  "Sprint 1" "Started Sun Jul 26 06:31:13 UTC 2020" from the server. But we need someone to write if you think you want to try. contact - Anton Thynell or ReadyplayerEmma *NOTE*
 msgstr "Progrès de l’effort actuel visant à évaluer une série de médicaments potentiels, entamé le dimanche 26 juillet 2020 (en développement)"
 
 msgid "Campaign Trailer"
