@@ -7,12 +7,12 @@
 | [es-ES](#es-ES) | 0% | ✔ 0 |
 | [es-MX](#es-MX) | ✔ 100% | ✔ 0 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
-| [fr-FR](#fr-FR) | 88% | ✔ 0 |
+| [fr-FR](#fr-FR) | ✔ 100% | ✔ 0 |
 | [it-IT](#it-IT) | 88% | ✔ 0 |
 | [ja-JP](#ja-JP) | 88% | ✔ 0 |
 | [ko-KR](#ko-KR) | 0% | ✔ 0 |
 | [mt-MT](#mt-MT) | 0% | ✔ 0 |
-| [nl-NL](#nl-NL) | 88% | ✔ 0 |
+| [nl-NL](#nl-NL) | ✔ 100% | ✔ 0 |
 | [pl-PL](#pl-PL) | 88% | ✔ 0 |
 | [pt-PT](#pt-PT) | 0% | ✔ 0 |
 | [ru-RU](#ru-RU) | 0% | ✔ 0 |
@@ -95,7 +95,7 @@
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ? | ? | missing |
+| together-we-are-powerful.po | ✔ | ✔ | - |
 
 [↑ Back to the overview](#overview)
 ### it-IT
@@ -160,7 +160,7 @@
 | home.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ? | ? | missing |
+| together-we-are-powerful.po | ✔ | ✔ | - |
 
 [↑ Back to the overview](#overview)
 ### pl-PL
