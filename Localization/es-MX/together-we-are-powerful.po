@@ -182,4 +182,4 @@ msgid "Alternative Downloads"
 msgstr "Descargas alternativas"
 
 msgid "Contributors"
-msgstr "Contribuyentes"
+msgstr "Contribuidores"
