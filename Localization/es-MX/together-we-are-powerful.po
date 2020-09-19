@@ -9,11 +9,6 @@ msgstr ""
 "Target-Language: es-MX\n"
 "Target-Version: 1.0\n"
 "Target-Last-Modified: 20200803\n"
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es_MX\n"
@@ -71,19 +66,19 @@ msgid "Satya Nadella"
 msgstr "Satya Nadella"
 
 msgid "CEO, Microsoft"
-msgstr "CEO, Microsoft"
+msgstr "Director ejecutivo, Microsoft"
 
 msgid "Dr. Lisa Su"
 msgstr "Dra. Lisa Su"
 
 msgid "President & CEO, AMD"
-msgstr "Presidente & CEO, AMD"
+msgstr "Presidente & Director ejecutivo, AMD"
 
 msgid "Jensen Huang"
 msgstr "Jensen Huang"
 
 msgid "CEO, Nvidia"
-msgstr "CEO, Nvidia"
+msgstr "Director ejecutivo, Nvidia"
 
 msgid "Dr. Gregory Bowman"
 msgstr "Dr. Gregory Bowman"
@@ -95,7 +90,7 @@ msgid "Charles H. Giancarlo"
 msgstr "Charles H. Giancarlo"
 
 msgid "CEO, Pure Storage"
-msgstr "CEO, Pure Storage"
+msgstr "Director ejecutivo, Pure Storage"
 
 msgid "Ilma Caprnja"
 msgstr "Ilma Caprnja"
@@ -119,7 +114,7 @@ msgid "Patrick P. Gelsinger"
 msgstr "Patrick P. Gelsinger"
 
 msgid "CEO, VMware"
-msgstr "CEO, VMware"
+msgstr "Director ejecutivo, VMware"
 
 msgid "Pedro Valadas"
 msgstr "Pedro Valadas"
@@ -173,7 +168,7 @@ msgid "Thank you!"
 msgstr "¡Gracias!"
 
 msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
-msgstr "[Aprende más sobre Folding@home] (https://foldingathome.org/home)"
+msgstr "[Aprende más sobre Folding@home](https://foldingathome.org/home)"
 
 msgid "Choose your platform"
 msgstr "Elige tu plataforma"

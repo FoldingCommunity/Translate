@@ -24,16 +24,16 @@ msgid "TABLE OF CONTENTS"
 msgstr "TABLA DE CONTENIDO"
 
 msgid "[Why do proteins fold?](https://foldingathome.org/dig-deeper/#why-do-proteins-fold)"
-msgstr "[¿Por qué se pliegan las proteínas?](Https://foldingathome.org/dig-deeper/#why-do-proteins-fold)"
+msgstr "[¿Por qué se pliegan las proteínas?](https://foldingathome.org/dig-deeper/#why-do-proteins-fold)"
 
 msgid "[How does Folding@home simulate protein folding?](https://foldingathome.org/dig-deeper/#how-does-foldinghome-simulate-protein-folding)"
-msgstr "[¿Cómo simula Folding @ home el plegamiento de proteínas?](Https://foldingathome.org/dig-deeper/#how-does-foldinghome-simulate-protein-folding)"
+msgstr "[¿Cómo simula Folding @ home el plegamiento de proteínas?](https://foldingathome.org/dig-deeper/#how-does-foldinghome-simulate-protein-folding)"
 
 msgid "[What are Markov State Models?](https://foldingathome.org/dig-deeper/#what-are-markov-state-models)"
-msgstr "[¿Qué son los modelos de Markov?](https://foldingathome.org/dig-deeper/#what-are-markov-state-models)"
+msgstr "[¿Qué son los modelos de estado de Markov?](https://foldingathome.org/dig-deeper/#what-are-markov-state-models)"
 
 msgid "[What do MSMs look like?](https://foldingathome.org/dig-deeper/#what-do-msms-look-like)"
-msgstr "[¿Qué aspecto tienen los MM?](https://foldingathome.org/dig-deeper/#what-do-msms-look-like)"
+msgstr "[¿Qué aspecto tienen los MEM?](https://foldingathome.org/dig-deeper/#what-do-msms-look-like)"
 
 msgid "[What is adaptive sampling, and how is it related to MSMs?](https://foldingathome.org/dig-deeper/#what-is-adaptive-sampling-and-how-is-it-related-to-msms)"
 msgstr "[¿Qué es el muestreo adaptativo y cómo se relaciona con los MM?](https://foldingathome.org/dig-deeper/#what-is-adaptive-sampling-and-how-is-it-related-to-msms)"
@@ -90,7 +90,7 @@ msgid "Here are two examples:"
 msgstr "A continuación se muestran dos ejemplos:"
 
 msgid "MSM showing 14 out of 2000 macrostates for MSM for the NTL9 protein. States that are in better equilibrium are drawn larger, and more likely transitions are represented by larger arrows. Unfolded protein show in red, native state is in green. [(Voelz et al)](https://pubmed.ncbi.nlm.nih.gov/20070076/)"
-msgstr "MEM que muestra 14 de 2000 macroestados para MEM para la proteína NTL9. Los estados que están en mejor equilibrio se dibujan más grandes y las transiciones más probables están representadas por flechas más grandes. La proteína desplegada se muestra en rojo, el estado nativo está en verde. [(Voelz et al)] (https://pubmed.ncbi.nlm.nih.gov/20070076/)"
+msgstr "MEM que muestra 14 de 2000 macroestados para MEM para la proteína NTL9. Los estados que están en mejor equilibrio se dibujan más grandes y las transiciones más probables están representadas por flechas más grandes. La proteína desplegada se muestra en rojo, el estado nativo está en verde. [(Voelz et al)](https://pubmed.ncbi.nlm.nih.gov/20070076/)"
 
 msgid "MSM for the ACBP protein, illustrating some of the primary transitions. [(Voelz et al)](https://pubs.acs.org/doi/abs/10.1021/ja302528z)"
 msgstr "MEM para la proteína ACBP, que ilustra algunas de las transiciones primarias. [(Voelz et al)](https://pubs.acs.org/doi/abs/10.1021/ja302528z)"
