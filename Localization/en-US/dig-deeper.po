@@ -181,5 +181,3 @@ msgstr ""
 
 msgid "These questions were answered primarily by TJ Lane, Gregory Bowman, Robert McGibbon, Christian Schwantes, Vijay Pande, and Bruce Borden."
 msgstr ""
-
-
