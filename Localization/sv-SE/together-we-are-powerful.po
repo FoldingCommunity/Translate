@@ -4,11 +4,11 @@ msgstr ""
 "URL: https://foldingathome.org/together-we-are-powerful/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
+"Source-Version: 1.1\n"
 "Source-Last-Modified: 20200803\n"
 "Target-Language: sv-SE\n"
-"Target-Version: 1.0.0\n"
-"Target-Last-Modified: 20200816\n"
+"Target-Version: 0.3\n"
+"Target-Last-Modified: 20200925\n"
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
@@ -32,7 +32,7 @@ msgid "Together, we have created the most powerful supercomputer on the planet, 
 msgstr "Tillsammans har vi skapat den mest kraftfulla superdatorn i hela världen, och vi använder den till att förstå SARS-CoV-2/COVID-19 och utveckla nya behandlingar. Vi behöver din hjälp för att kunna framställa en kraftfull patent fri medicin."
 
 msgid "Use your PC to help fight COVID-19."
-msgstr "Använd din dator för att bekämpa COVID-19"
+msgstr "Använd din dator för att bekämpa COVID-19."
 
 msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
 msgstr "[LADDA NER FOLDINGATHOME] (#nedladdningar)"
@@ -41,7 +41,7 @@ msgid "[Available for Windows, Mac, Linux]"
 msgstr "[Tillgänglig för Windows, Mac, Linux]"
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
-msgstr "Utvecklingen på den nuvarande sprint 1 för att utvärdera en omgång av potentiell mediciner började sön juli 26  06:31:13 utc 2020"
+msgstr "Utvecklingen på den nuvarande sprint 1 för att utvärdera en omgång av potentiell läkemedel började sön juli 26  06:31:13 utc 2020"
 
 msgid "Campaign Trailer"
 msgstr "Kampanj Trailer"
@@ -50,16 +50,16 @@ msgid "Play"
 msgstr "Spela upp"
 
 msgid "Learn about our work on SARS-CoV-2 and COVID-19."
-msgstr "Läs om vårt arbete med SARS-CoV-2 och COVID-19"
+msgstr "Läs om vårt arbete med SARS-CoV-2 och COVID-19."
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
 msgstr "I första hand används data kraften på SARS-CoV-2 , Viruset som orsakar sjukdomen COVID-19, och dom proteinerna i kroppen som viruset reagerar med."
 
 msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
-msgstr "Först, tog vi fram en ny proteinstruktur som förut var otillgänglig till forskar gemenskapen."
+msgstr "Först, tog vi fram en ny proteinstruktur som förut var otillgänglig till forskare."
 
 msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
-msgstr "Med eran hjälp, så håller vi på med att framställa en potentiell medicin som ska rikta sig till dessa strukturer som är en del av COVID  Moonshot samarbetet."
+msgstr "Med eran hjälp, så håller vi på med att framställa ett potentiellt läkemedel som ska rikta sig till dessa strukturer som är en del av COVID  Moonshot samarbetet."
 
 msgid "See real-time progress toward new drugs"
 msgstr "Se i realtid framstegen mot en ny medicin"
@@ -151,11 +151,17 @@ msgstr "Emma Matthies"
 msgid "Info Security Engineer"
 msgstr "Informations Säkerhetstekniker"
 
+msgid "Kevin Wasielewski"
+msgstr "Kevin Wasielewski"
+
+msgid "Co-founder & CEO Origin PC"
+msgstr "Medgrundare och vd för Origin PC"
+
 msgid "Compilation Video"
 msgstr "Sammanfattnings video"
 
 msgid "Courtesy – Washington University in Saint Louis"
-msgstr "Ett stort tack till Washingtons universitet i Saint Louis"
+msgstr "Ett stort tack till Washington universitet i Saint Louis"
 
 msgid "SHARE YOUR STORY"
 msgstr "Dela med dig med din historia"
@@ -164,7 +170,7 @@ msgid "Help us spread the word about Foldingathome and why you have joined. Crea
 msgstr "Hjälp oss med att sprida Foldingathome med varför du gick med. Skapa en video och dela med dig på sociala medier."
 
 msgid "Step 1) Record yourself to make a video like those above."
-msgstr "Steg 1) Spela in dig själv och gör en video som dom ovan har gjort."
+msgstr "Steg 1) Spela in dig själv och gör en video som dom andra har gjort ovan."
 
 msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
 msgstr "Steg 2) Dela det på sociala medier under hashtagen #foldingathome och följ @foldingathome på Facebook och Twitter."
@@ -182,4 +188,4 @@ msgid "Alternative Downloads"
 msgstr "Alternativa nedladdningar"
 
 msgid "Contributors"
-msgstr "Bidragsgivare"
+msgstr "Medarbetare"
