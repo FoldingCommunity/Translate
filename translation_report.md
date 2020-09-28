@@ -5,9 +5,9 @@
 | [bg-BG](#bg-BG) | 0% | ✔ 0 |
 | [de-DE](#de-DE) | 70% | 1 |
 | [es-ES](#es-ES) | 0% | ✔ 0 |
-| [es-MX](#es-MX) | ✔ 100% | 1 |
+| [es-MX](#es-MX) | ✔ 100% | 2 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
-| [fr-FR](#fr-FR) | 80% | 1 |
+| [fr-FR](#fr-FR) | 80% | ✔ 0 |
 | [it-IT](#it-IT) | 80% | 1 |
 | [ja-JP](#ja-JP) | 70% | ✔ 0 |
 | [ko-KR](#ko-KR) | 0% | ✔ 0 |
@@ -29,7 +29,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -44,7 +44,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
@@ -59,7 +59,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -70,11 +70,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | ✔ | - |
-| dig-deeper.po | ✔ | ✔ | - |
+| dig-deeper.po | ✔ | not up-to-date (1.0 vs 1.2) | - |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| pappers-and-results.po | ✔ | ✔ | - |
+| papers-and-results.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
@@ -89,7 +89,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -104,10 +104,10 @@
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
+| together-we-are-powerful.po | ✔ | ✔ | - |
 
 [↑ Back to the overview](#overview)
 ### it-IT
@@ -119,7 +119,7 @@
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
@@ -134,7 +134,7 @@
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -149,7 +149,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -164,7 +164,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -179,7 +179,7 @@
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
@@ -194,7 +194,7 @@
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -209,7 +209,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -224,7 +224,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -239,7 +239,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -254,7 +254,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -269,7 +269,7 @@
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| pappers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
