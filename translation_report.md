@@ -5,7 +5,7 @@
 | [bg-BG](#bg-BG) | 0% | ✔ 0 |
 | [de-DE](#de-DE) | 70% | 1 |
 | [es-ES](#es-ES) | 0% | ✔ 0 |
-| [es-MX](#es-MX) | ✔ 100% | 2 |
+| [es-MX](#es-MX) | ✔ 100% | 1 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
 | [fr-FR](#fr-FR) | 80% | ✔ 0 |
 | [it-IT](#it-IT) | 80% | 1 |
@@ -70,7 +70,7 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | ✔ | - |
-| dig-deeper.po | ✔ | not up-to-date (1.0 vs 1.2) | - |
+| dig-deeper.po | ✔ | ✔ | - |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
