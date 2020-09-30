@@ -113,11 +113,9 @@ msgstr "¿Cómo se construye un MEM usando muestreo adaptativo?"
 msgid "To start a simulation project, we first must choose some initial conformations (a protein’s shape) to begin with. The heuristic methods we use so far include running high-temperature simulations, employing Rosetta’s Monte Carlo algorithm, and shooting off related MSMs of similar proteins. Once we have a set of conformations, each of them becomes the starting point for some simulations which together we call a Run. Within each Run, we launch many trajectories, each called a Clone. Thus, all of the Clones in a Run start from the same initial protein shape, but they have a different initial velocity, i.e. the atoms are given a different initial push in one direction or another. The Clones from a Run may find additional conformations, in which case that Run ends and several more Runs are started from them. This process continues with a lot of Runs branching out to other conformations, perhaps merging back together to a common shape with other Runs. In the end, we end up with a model with tens of thousands of different conformations, (terabytes of data!) and we can see all the shapes and energy states that the protein can take on while its folding towards its “native state”, the chances of all the transitions occurring, and how long it takes the protein to complete a transition from one conformation to another. More importantly, we can identify the places where the protein misfolds and gets stuck, which then leads to more research and models on how we can prevent this from happening. The more computers we have participating, the faster we can complete the Markov State Model."
 msgstr "Para iniciar un proyecto de simulación, primero debemos elegir algunas conformaciones iniciales (la forma de una proteína) para empezar. Los métodos heurísticos que usamos hasta ahora incluyen ejecutar simulaciones de alta temperatura, emplear el algoritmo Monte Carlo de Rosetta y disparar MEM relacionados de proteínas similares. Una vez que tenemos un conjunto de conformaciones, cada una de ellas se convierte en el punto de partida de unas simulaciones que en conjunto llamamos ejecución. Dentro de cada ejecución, lanzamos muchas trayectorias, cada una llamada Clon. Por lo tanto, todos los clones en una ejecución comienzan con la misma forma de proteína inicial, pero tienen una velocidad inicial diferente, es decir, los átomos reciben un impulso inicial diferente en una dirección u otra. Los Clones de una ejecución pueden encontrar conformaciones adicionales, en cuyo caso la ejecución termina y se inician varias ejecuciones más a partir de ellos. Este proceso continúa con una gran cantidad de ejecuciónes que se ramifican en otras conformaciones, quizás fusionándose nuevamente en una forma común con otras ejecuciónes. Al final, terminamos con un modelo con decenas de miles de conformaciones diferentes (¡terabytes de datos!) Y podemos ver todas las formas y estados de energía que la proteína puede asumir mientras se pliega hacia su “estado nativo”, las posibilidades de que se produzcan todas las transiciones y el tiempo que tarda la proteína en completar una transición de una conformación a otra. Más importante aún, podemos identificar los lugares donde la proteína se pliega mal y se atasca, lo que luego conduce a más investigaciones y modelos sobre cómo podemos evitar que esto suceda. Cuantas más computadoras tengamos participando, más rápido podremos completar el Modelo de Estado de Markov."
 
-<<<<<<< HEAD
 msgid "Aren’t these the PRCG numbers?"
 msgstr "¿No son estos los números de PRCG?"
-=======
->>>>>>> f2008290cbba4100f24dbefe3bba0fafa933e920
+
 msgid "Yes. Work Units are labeled with four distinct numbers in the format: Project (Run, Clone, Generation). We just described the first three; Project is the protein under study, a Run is a simulation started from a particular conformation, and Runs contain many Clones which have different initial velocities. Although Folding@home processes many different Projects, Runs, and Clones all at the same time, Clones themselves are serial in nature. They have to be simulated from start to finish, but it would be impractical for one computer to complete one by itself. Instead, your computer is given a piece of a Clone. We identify the piece using the Generation (Gen) number. One computer will start out with Generation 0, and when it finishes another computer is given Generation 1, etc. We cannot start Gen 1 until Gen 0 finishes, and there may be hundreds of Gens. This is why the Work Units have deadlines, and why speed is so important to us."
 msgstr "Si. Las Unidades de Trabajo están etiquetadas con cuatro números distintos en el formato: Proyecto (Ejecutar, Clonar, Generar). Acabamos de describir los tres primeros; Un projecto es la proteína en estudio, una ejecución es una simulación que se inicia a partir de una conformación particular y las ejecuciones  contienen muchos Clones que tienen diferentes velocidades iniciales. Aunque Folding@home procesa muchos proyectos, ejecuciones y clones diferentes al mismo tiempo, los clones en sí son de naturaleza serial. Deben simularse de principio a fin, pero no sería práctico que una computadora completara una sola. En cambio, su computadora recibe una pieza de un clon. Identificamos la pieza usando el número de Generación (Gen). Una computadora comenzará con la Generación 0, y cuando termine, a otra computadora se le asignará la Generación 1, etc. No podemos iniciar la Generación 1 hasta que la Generación 0 termine, y puede haber cientos de generaciones. Es por eso que las Unidades de Trabajo tienen plazos y por qué la velocidad es tan importante para nosotros."
 
@@ -127,13 +125,8 @@ msgstr "¿Por qué este enfoque es particularmente útil?"
 msgid "This approach can be powerful because not only is it very amendable to distributed computing, but the available computational resources can be used more efficiently. A protein spends most of its folding time “stuck” in an energetically-favorable position, with transitions – the processes largely of interest – taking place only rarely. Likewise, any straightforward simulation of protein folding will also waste valuable time generating data with little information content. However, using the adaptive sampling concept, the model can identify when the simulation is stuck, and then reinitialize new simulations starting from potentially more fruitful areas, avoiding the wasteful process of re-exploring areas that are already well understood."
 msgstr "Este enfoque puede ser poderoso porque no solo es muy fácil de modificar para la computación distribuida, sino que los recursos computacionales disponibles pueden usarse de manera más eficiente. Una proteína pasa la mayor parte de su tiempo de plegamiento \"atascada\" en una posición energéticamente favorable, con transiciones - los procesos en gran parte de interés - que ocurren sólo en raras ocasiones. Del mismo modo, cualquier simulación sencilla de plegamiento de proteínas también desperdiciará un tiempo valioso en la generación de datos con poco contenido de información. Sin embargo, utilizando el concepto de muestreo adaptativo, el modelo puede identificar cuándo la simulación está atascada y luego reiniciar nuevas simulaciones a partir de áreas potencialmente más fructíferas, evitando el proceso inútil de volver a explorar áreas que ya se comprenden bien."
 
-<<<<<<< HEAD
 msgid "In a recent paper, we compared MSMs to more traditional simulation methods. We compared some very long folding trajectories from the Anton supercomputer to an MSM built from the same folding data. Although our MSM “chops up” the simulation into a bunch of short trajectories, it was able to reproduce their simulations very well. Moreover, we also found that the MSM approach revealed new insights into the folding process (a new folding pathway) that was missing in ANTON’s more traditional approach."
 msgstr "En un artículo reciente, comparamos los MEM con métodos de simulación más tradicionales. Comparamos algunas trayectorias de plegado muy largas de la supercomputadora Anton con un MEM construido a partir de los mismos datos de plegado. Aunque nuestro MEM \"corta\" la simulación en un montón de trayectorias cortas, fue capaz de reproducir sus simulaciones muy bien. Además, también descubrimos que el enfoque de MEM reveló nuevos conocimientos sobre el proceso de plegado (una nueva vía de plegado) que faltaba en el enfoque más tradicional de ANTON."
-=======
-msgid "In a recent paper, we compared MSMs to more traditional simulation methods. We compared some very long folding trajectories from the Anton supercomputer to an MSM built from the same folding data. Although our MSM “chops up” the simulation into a bunch of short trajectories, it was able to reproduce their simulations very well. Moreover, we also found that the MSM approach revealed new insights into the folding process (a new folding pathway) that was missing in ANTON’s more traditional approach. See this blog post for more information."
-msgstr "En un artículo reciente, comparamos los MEM con métodos de simulación más tradicionales. Comparamos algunas trayectorias de plegado muy largas de la supercomputadora Anton con un MEM construido a partir de los mismos datos de plegado. Aunque nuestro MEM \"corta\" la simulación en un montón de trayectorias cortas, fue capaz de reproducir sus simulaciones muy bien. Además, también descubrimos que el enfoque de MEM reveló nuevos conocimientos sobre el proceso de plegado (una nueva vía de plegado) que faltaba en el enfoque más tradicional de ANTON. Consulte esta publicación de blog para obtener más información."
->>>>>>> f2008290cbba4100f24dbefe3bba0fafa933e920
 
 msgid "What are some of the applications for these techniques?"
 msgstr "¿Cuáles son algunas de las aplicaciones de estas técnicas?"
@@ -142,7 +135,6 @@ msgid "MSMs and adaptive sampling have been used to study protein folding (1-8),
 msgstr "Los MEM y el muestreo adaptativo se han utilizado para estudiar el plegamiento de proteínas (1-8), la dinámica funcional (8-11), la unión de ligandos (11-14) y las interacciones proteína-proteína (15)."
 
 msgid "Jayachandran G, Vishal V, & Pande VS (2006) Using massively parallel simulation and Markovian models to study protein folding: Examining the dynamics of the villin headpiece. Journal of Chemical Physics 124:164902."
-<<<<<<< HEAD
 msgstr "Jayachandran G, Vishal V, & Pande VS (2006) Using massively parallel simulation and Markovian models to study protein folding: Examining the dynamics of the villin headpiece. Journal of Chemical Physics 124:164902."
 
 msgid "Bowman GR, Beauchamp KA, Boxer G, & Pande VS (2009) Progress and challenges in the automated construction of Markov state models for full protein systems. Journal of Chemical Physics 131(12):124101."
@@ -177,58 +169,15 @@ msgstr "Bowman GR & Geissler PL (2012) Equilibrium fluctuations of a single fold
 
 msgid "Silva DA, Bowman GR, Sosa-Peinado A, & Huang X (2011) A role for both conformational selection and induced fit in ligand binding by the LAO protein. PLoS Computational Biology 7(5):e1002054."
 msgstr "Silva DA, Bowman GR, Sosa-Peinado A, & Huang X (2011) A role for both conformational selection and induced fit in ligand binding by the LAO protein. PLoS Computational Biology 7(5):e1002054."
-=======
-msgstr "Jayachandran G, Vishal V y Pande VS (2006) Uso de simulación masivamente paralela y modelos de Markov para estudiar el plegamiento de proteínas: examen de la dinámica del casco de villin. Revista de física química 124: 164902."
-
-msgid "Bowman GR, Beauchamp KA, Boxer G, & Pande VS (2009) Progress and challenges in the automated construction of Markov state models for full protein systems. Journal of Chemical Physics 131(12):124101."
-msgstr "Bowman GR, Beauchamp KA, Boxer G y Pande VS (2009) Progreso y desafíos en la construcción automatizada de modelos de estado de Markov para sistemas de proteínas completos. Revista de física química 131 (12): 124101."
-
-msgid "Noe F, Schutte C, Vanden-Eijnden E, Reich L, & Weikl TR (2009) Constructing the equilibrium ensemble of folding pathways from short off-equilibrium simulations. Proceedings of the National Academy of Sciences of the USA 106(45):19011-19016."
-msgstr "Noe F, Schutte C, Vanden-Eijnden E, Reich L y Weikl TR (2009) Construcción del conjunto de equilibrio de vías de plegado a partir de simulaciones cortas fuera de equilibrio. Actas de la Academia Nacional de Ciencias de EE. UU. 106 (45): 19011-19016."
-
-msgid "Bowman GR & Pande VS (2010) Protein folded states are kinetic hubs. Proceedings of the National Academy of Sciences of the USA 107(24):10890-10895."
-msgstr "Bowman GR y Pande VS (2010) Los estados plegados de proteínas son ejes cinéticos. Actas de la Academia Nacional de Ciencias de EE. UU. 107 (24): 10890-10895."
-
-msgid "Beauchamp KA, Ensign DL, Das R, & Pande VS (2011) Quantitative comparison of villin headpiece subdomain simulations and triplet-triplet energy transfer experiments. Proc Natl Acad Sci USA 108:12734-12739."
-msgstr "Beauchamp KA, Ensign DL, Das R y Pande VS (2011) Comparación cuantitativa de simulaciones de subdominio de villin headpiece y experimentos de transferencia de energía triplete-triplete. Proc Natl Acad Sci USA 108: 12734-12739."
-
-msgid "Bowman GR, Voelz VA, & Pande VS (2011) Atomistic folding simulations of the five-helix bundle protein (6-85). Journal of the American Chemical Society 133(4):664-667."
-msgstr "Bowman GR, Voelz VA y Pande VS (2011) Simulaciones de plegamiento atomístico de la proteína del haz de cinco hélices (6-85). Revista de la Sociedad Química Estadounidense 133 (4): 664-667."
-
-msgid "Voelz VA et al. (2012) Slow unfolded-state structuring in Acyl-CoA binding protein folding revealed by simulation and experiment. Journal of the American Chemical Society 134(30):12565-12577."
-msgstr "Voelz VA y col. (2012) Estructuración lenta de estado desplegado en el plegamiento de proteínas de unión de Acil-CoA revelado por simulación y experimento. Revista de la Sociedad Química Estadounidense 134 (30): 12565-12577."
-
-msgid "Lane TJ, Bowman GR, Beauchamp K, Voelz VA, & Pande VS (2011) Markov state model reveals folding and functional dynamics in ultra-long MD trajectories. Journal of the American Chemical Society 133(45):18413-18419."
-msgstr "Lane TJ, Bowman GR, Beauchamp K, Voelz VA y Pande VS (2011) El modelo de estado de Markov revela la dinámica funcional y de plegado en trayectorias MD ultralargas. Revista de la Sociedad Química Estadounidense 133 (45): 18413-18419."
-
-msgid "Yang S, Banavali NK, & Roux B (2009) Mapping the conformational transition in Src activation by cumulating the information from multiple molecular dynamics trajectories. Proc Natl Acad Sci USA 106(10):3776-3781."
-msgstr "Yang S, Banavali NK y Roux B (2009) Mapeo de la transición conformacional en la activación de Src acumulando la información de múltiples trayectorias de dinámica molecular. Proc Natl Acad Sci USA 106 (10): 3776-3781."
-
-msgid "Morcos F, et al. (2010) Modeling conformational ensembles of slow functional motions in Pin1-WW. PLoS Computational Biology 6(12):e1001015."
-msgstr "Morcos F y col. (2010) Modelado de conjuntos conformacionales de movimientos funcionales lentos en Pin1-WW. PLoS Computational Biology 6 (12): e1001015."
-
-msgid "Bowman GR & Geissler PL (2012) Equilibrium fluctuations of a single folded protein reveal a multitude of potential cryptic allosteric sites. Proc Natl Acad Sci USA 109(29):11681-11686."
-msgstr "Bowman GR y Geissler PL (2012) Las fluctuaciones de equilibrio de una única proteína plegada revelan una multitud de posibles sitios alostéricos crípticos. Proc Natl Acad Sci USA 109 (29): 11681-11686."
-
-msgid "Silva DA, Bowman GR, Sosa-Peinado A, & Huang X (2011) A role for both conformational selection and induced fit in ligand binding by the LAO protein. PLoS Computational Biology 7(5):e1002054."
-msgstr "Silva DA, Bowman GR, Sosa-Peinado A y Huang X (2011) Un papel tanto para la selección conformacional como para el ajuste inducido en la unión del ligando por la proteína LAO. Biología Computacional PLoS 7 (5): e1002054."
->>>>>>> f2008290cbba4100f24dbefe3bba0fafa933e920
 
 msgid "Buch I, Giorgino T, & De Fabritiis G (2011) Complete reconstruction of an enzyme-inhibitor binding process by molecular dynamics simulations. Proc Natl Acad Sci USA 108(25):10184-10189."
 msgstr "Buch I, Giorgino T, & De Fabritiis G (2011) Complete reconstruction of an enzyme-inhibitor binding process by molecular dynamics simulations. Proc Natl Acad Sci USA 108(25):10184-10189."
 
 msgid "Held M, Metzner P, Prinz JH, & Noe F (2011) Mechanisms of protein-ligand association and its modulation by protein mutations. Biophysics Journal 100(3):701-710."
-<<<<<<< HEAD
 msgstr "Held M, Metzner P, Prinz JH, & Noe F (2011) Mechanisms of protein-ligand association and its modulation by protein mutations. Biophysics Journal 100(3):701-710."
 
 msgid "Levin AM et al. (2012) Exploiting a natural conformational switch to engineer an interleukin-2 ‘super-kine.’ Nature 484(7395):529-533."
 msgstr "Levin AM et al. (2012) Exploiting a natural conformational switch to engineer an interleukin-2 ‘super-kine.’ Nature 484(7395):529-533.s"
-=======
-msgstr "Held M, Metzner P, Prinz JH y Noe F (2011) Mecanismos de asociación proteína-ligando y su modulación por mutaciones proteicas. Revista de biofísica 100 (3): 701-710."
-
-msgid "Levin AM et al. (2012) Exploiting a natural conformational switch to engineer an interleukin-2 ‘super-kine.’ Nature 484(7395):529-533."
-msgstr "Levin AM y col. (2012) Explotación de un cambio conformacional natural para diseñar una \"superkine\" de interleucina-2. Nature 484 (7395): 529-533."
->>>>>>> f2008290cbba4100f24dbefe3bba0fafa933e920
 
 msgid "Who answered these questions?"
 msgstr "¿Quién respondió a estas preguntas?"
