@@ -5,7 +5,7 @@ msgstr ""
 "Source-Language: en-US\n"
 "Source-Version: 1.0\n"
 "Source-Last-Modified: 20200907\n"
-"Target-Language: fr-FR\n;
+"Target-Language: fr-FR\n"
 "Target-Version: 1.0.0\n"
 "Target-Last-Modified: 20201003\n"
 "Content-Type: text/plain; charset=UTF-8\n"
