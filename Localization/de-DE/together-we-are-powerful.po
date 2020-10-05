@@ -62,7 +62,7 @@ msgid "With your help, we are now screening for potential drugs to target these 
 msgstr "Mit Ihrer Hilfe prüfen wir nun im Rahmen der COVID-Moonshot-Zusammenarbeit auf mögliche Medikamente, welche diese Strukturen ins Visier zu nehmen."
 
 msgid "See real-time progress toward new drugs"
-msgstr "Beobachten Sie die Entwicklung neuer Medikamenten in Echtzeit"
+msgstr "Beobachten Sie die Entwicklung neuer Medikamente in Echtzeit"
 
 msgid "Foldingathome Ambassadors"
 msgstr "Botschafter von Foldingathome"
