@@ -1,0 +1,47 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: fa-IR\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20201001\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa_IR\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "Diseases"
+msgstr "بیماری‌ها"
+
+msgid "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far."
+msgstr "پروژهٔ Folding@home (FAH) ‌مختص درک فرایند تاشدگی پروتئین‌ها، بیماری‌های حاصل مشکلات تاشدگی و تجمع پروتئین‌ها و به طور کلی روش های محاسباتی جدید برای توسعه داروها است. در اینجا ما به صورت کوتاه، اهدافمان، نحوه عملکردمان و یک سری نکات را شرح می دهیم."
+
+msgid "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
+msgstr "یک پروژه پردازش توزیع شده نباید تنها محاسبات را روی میلیون ها کامپیوتر انجام دهد، بلکه چنین پروژه ای باید نتایجی را ارائه دهد، به خصوص به صورت انتشارات بررسی شده، مقالات عمومی، و سایر روش‌هایی که نتایج FAH را برای جامعهٔ علمی بزرگ تر منتشر می‌کند."
+
+msgid "You will also find updates about our work, advancements and new projects in the main [Folding@home blog](https://foldingathome.org/news/)."
+msgstr "همچنین شما می‌توانید اخباری در رابطه با کارها، پیشرفت‌ها و پروژه های جدید ما را در [وبلاگ Folding@home](https://foldingathome.org/news/) پیدا کنید."
+
+msgid "What is protein folding and how is it related to disease?"
+msgstr "تاشدگی پروتئین‌ها چیست و چه ارتباطی با بیماری‌ها دارد؟"
+
+msgid "Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome - the blueprint for all of the proteins in biology - but how can we understand what these proteins do and how they work?"
+msgstr "پروتئین ها مانند گردنبند‌هایی از آمینو‌اسید‌ها - مولکول‌های بلند زنجیری - هستند. آن‌ها پایه‌های عملکرد زیست‌شناسی هستند. در نقش آنزیم‌ها، نیروی محرک تمام واکنش‌های شیمیایی برای عملکرد زیست‌شناسی هستند. به عنوان اجزای ساختاری، آنها اجزای اصلی سازنده استخوان‌ها، ماهیچه‌ها ،مو، پوست و رگ‌های خونی ما هستند. در نقش آنتی‌بادی‌ها عناصر مهاجم را شناسایی می‌کنند و به سیستم ایمنی اجازه می‌دهند تا از مهاجمان ناخواسته خلاص شود. به همین خاطر،، دانشمندان ژنوم انسان - نقشه تمام پروتئین‌های زیستی - را مرتب کرده اند. اما چطور می‌توان متوجه مکانیزم عمکلرد پروتئین‌ها شد؟"
+
+msgid "However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a \"fold\". Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called \"folding\"."
+msgstr "با این وجود، دانستن این اطلاعات تنها ذره ای درباره نحوهٔ عملکرد پروتئین‌ها به ما اطلاعات می‌دهد. آن‌ها برای انجام وظیفهٔ خود (مثلا به عنوان آنزیم یا آنتی‌بادی)، باید شکل خاصی،‌به خود بگیرند، این عمل به نام «تا شدن» شناخته می‌شود. بدین ترتیب، پروتئین‌ها دستگاه‌های شگفت‌انگیزی هستند: فبل از این که کارشان را انجام دهند،‌ خودشان را اسمبل می‌کنند! به این کار، تاشدگی (Folding) می‌گویند."
+
+msgid "What happens if proteins don't fold correctly?"
+msgstr "اگر پروتئین ها به درستی تا نشوند چه اتفاقی می‌افتد؟"
+
+msgid "Diseases such as Alzheimer's disease, Huntington's disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (\"aggregate\"). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer's disease."
+msgstr "بیماری‌هایی مانند آلزایمر، هانتینگتون، فیبروز سیستیک، BSE (جنون گاوی)، یک شکل ارثی از آمفیزم، و حتی تعداد زیادی از سرطان‌ها حاصل تاشدگی نادرست پروتئین‌ها هستند. وقتی پروتئین‌ها ناقص تا می‌شوند، می‌توانند در کنار یکدیگر انبوه شوند (تجمیع شوند). این توده‌ها معمولا می‌توانند در مغز ایجاد شوند، جایی که باور بر این است که می‌توانند سبب بیماری‌هایی مانند جنون گاوی یا آلزایمر شوند."
