@@ -3,8 +3,8 @@ msgstr ""
 "FAH-Translate-Schema-Version: 1.0\n"
 "URL: https://foldingathome.org/dig-deeper/\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
-"Source-Last-Modified: 20200907\n"
+"Source-Version: 1.2\n"
+"Source-Last-Modified: 20200923\n"
 "Target-Language: fr-FR\n"
 "Target-Version: 1.0.0\n"
 "Target-Last-Modified: 20201003\n"
@@ -145,7 +145,7 @@ msgstr "Pour démarrer un projet de simulation, nous devons d’abord choisir qu
 
 #: 
 msgid "Aren’t these the PRCG numbers?"
-msgstr "Ne sont-ils pas les numéros PRCG ?"
+msgstr "Il s'agit des numéros PRCG ?"
 
 #: 
 msgid "Yes. Work Units are labeled with four distinct numbers in the format: Project (Run, Clone, Generation). We just described the first three; Project is the protein under study, a Run is a simulation started from a particular conformation, and Runs contain many Clones which have different initial velocities. Although Folding@home processes many different Projects, Runs, and Clones all at the same time, Clones themselves are serial in nature. They have to be simulated from start to finish, but it would be impractical for one computer to complete one by itself. Instead, your computer is given a piece of a Clone. We identify the piece using the Generation (Gen) number. One computer will start out with Generation 0, and when it finishes another computer is given Generation 1, etc. We cannot start Gen 1 until Gen 0 finishes, and there may be hundreds of Gens. This is why the Work Units have deadlines, and why speed is so important to us."
