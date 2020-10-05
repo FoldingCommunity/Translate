@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/zika-virus/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "ZIKA VIRUS"
+msgstr ""
+
+msgid "Zika virus is an emerging flavivirus that is rapidly spreading throughout South America, Central America and the Caribbean."
+msgstr ""
+
+msgid "Zika infections generally cause only mild symptoms. However, recent studies show that Zika virus can pass from a pregnant woman to her fetus and there is strong evidence that associates Zika infection during pregnancy with a significant increase in serious fetal brain defects. There are no existing approved treatments for Zika. We are applying our approach from Dengue to Zika, due to the strong similarities between these diseases."
+msgstr ""
+
+msgid "By CDC/ Cynthia Goldsmith (http://phil.cdc.gov/phil/details.asp?pid=20541) [Public domain], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AZika_EM_CDC_20541.png)"
+msgstr ""
+
+
