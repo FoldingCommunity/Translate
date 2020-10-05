@@ -3,7 +3,7 @@
 | Language | Done % | Updates Needed |
 | -------- | -----: | -------------: |
 | [bg-BG](#bg-BG) | 0% | ✔ 0 |
-| [de-DE](#de-DE) | 70% | 1 |
+| [de-DE](#de-DE) | 80% | 1 |
 | [es-ES](#es-ES) | 0% | ✔ 0 |
 | [es-MX](#es-MX) | 80% | 1 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
@@ -44,7 +44,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| pappers-and-results.po | ? | ? | missing |
+| pappers-and-results.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
