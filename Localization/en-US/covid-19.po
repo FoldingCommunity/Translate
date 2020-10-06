@@ -58,7 +58,7 @@ msgstr ""
 msgid "When we are done with our analysis we upload the data here:"
 msgstr ""
 
-msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/)"
+msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any"
 msgstr ""
 
 msgid "time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/)"
