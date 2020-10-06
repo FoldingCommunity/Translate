@@ -4,17 +4,17 @@ msgstr ""
 "URL: https://foldingathome.org/covid-19/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.1\n"
-"Source-Last-Modified: 20200715\n"
+"Source-Version: 1.2\n"
+"Source-Last-Modified: 20201006\n"
 "Target-Language: fr-FR\n"
-"Target-Version: 1.1\n"
-"Target-Last-Modified: 2020717\n"
+"Target-Version: 1.2\n"
+"Target-Last-Modified: 20201006\n"
 
 msgid "COVID-19"
 msgstr "COVID-19"
 
-msgid "Coronavirus – What we’re doing and how you can help"
-msgstr "Coronavirus – ce que nous faisons et comment vous pouvez nous aider"
+msgid "Learn more about proteins and SARS-CoV-2"
+msgstr "Pour en savoir plus sur les protéines et le SARS-CoV-2"
 
 msgid "Proteins are molecular machines that perform many functions we associate with life. They sense the environment (e.g. in taste and smell), perform work (e.g. muscle contraction and breaking down food), and play structural roles (e.g. your hair). They are made of a linear chain of chemicals called amino acids that, in many cases, spontaneously “fold” into compact, functional structures. Much like any other machine, it’s how a protein’s components are arranged and move that determine the protein’s function. In this case, the components are atoms."
 msgstr "Les protéines sont des mécanismes moléculaires assurant un grand nombre de fonctions que nous associons à la vie. Elles perçoivent l'environnement (par ex. à travers le goût et l’odeur), travaillent (par ex. contraction musculaire, décomposition d’aliments) et assument même des rôles structurels (par ex. les cheveux). Elles sont faites d’une chaîne linéaire de substances chimiques appelées des acides aminés et, dans de nombreux cas, elles se replient spontanément pour former des structures plus compactes et fonctionnelles. À l’image de n’importe quel autre mécanisme, la fonction de la protéine dépend ainsi de la manière dont ses éléments sont arrangés entre eux. En l’occurrence, ces éléments sont des atomes."
@@ -52,14 +52,17 @@ msgstr "Une structure expérimentale tridimensionnelle d’une protéine Ebola n
 msgid "We want to do the same thing with coronavirus."
 msgstr "Nous voulons faire de même avec le coronavirus."
 
-msgid "Spreading the knowledge, Opensource"
-msgstr "Répandre la connaissances, en open source"
+msgid "Spreading the knowledge with open source and open science"
+msgstr "Répandre la connaissances, en open source et en open science"
 
 msgid "When we are done with our analysis we upload the data here:"
 msgstr "Quand nos analyses sont terminées, nous téléversons les données ici :"
 
 msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
 msgstr "Toutes nos données sont ainsi librement accessibles, de sorte que les autres chercheurs de la discipline peuvent vérifier nos analyses, et quiconque utilisant de nouvelles méthodes (par ex. dans le domaine en pleine expansion de l’analyse de données par apprentissage informatique) peut les consulter à tout moment : [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) et [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+
+msgid "and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+msgstr "et [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
 
 msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap."
 msgstr "Nous collaborons également avec d'autres laboratoires et groupes hors du consortium Foldingathome afin de maîtriser le COVID-19 dès que possible."
