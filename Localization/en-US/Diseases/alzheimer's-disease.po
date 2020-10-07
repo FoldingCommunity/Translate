@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "ALZHEIMER’S DISEASE"
+msgstr ""
+
+msgid "Alzheimer’s Disease (AD) is caused by the aggregation of relatively small (42 amino acid) proteins, called Abeta peptides. These proteins form aggregates which even in small clumps appear to be toxic to neurons and cause neuronal cell death involved in Alzheimer’s Disease and the horrible neurodegenerative consequences. It’s a challenge to study these aggregates, even with simulations."
+msgstr ""
+
+msgid "We have many calculations being performed on AD. Our primary goals are the prediction of AD aggregate structure for rational drug design approaches as well as further insight into how AD aggregates form kinetically (hopefully paving the way for a method to stop the AD aggregate formation). We have made great progress towards this end."
+msgstr ""
+
+msgid "By ADEAR: “Alzheimer’s Disease Education and Referral Center, a service of the National Institute on Aging.” [Public domain], [via Wikimedia Commons](https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/)"
+msgstr ""

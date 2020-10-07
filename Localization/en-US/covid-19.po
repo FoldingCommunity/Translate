@@ -4,8 +4,8 @@ msgstr ""
 "URL: https://foldingathome.org/covid-19/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.1\n"
-"Source-Last-Modified: 20200715\n"
+"Source-Version: 1.2\n"
+"Source-Last-Modified: 20201006\n"
 "Target-Language: \n"
 "Target-Version: \n"
 "Target-Last-Modified: \n"
@@ -13,7 +13,7 @@ msgstr ""
 msgid "COVID-19"
 msgstr ""
 
-msgid "Coronavirus – What we’re doing and how you can help"
+msgid "Learn more about proteins and SARS-CoV-2"
 msgstr ""
 
 msgid "Proteins are molecular machines that perform many functions we associate with life. They sense the environment (e.g. in taste and smell), perform work (e.g. muscle contraction and breaking down food), and play structural roles (e.g. your hair). They are made of a linear chain of chemicals called amino acids that, in many cases, spontaneously “fold” into compact, functional structures. Much like any other machine, it’s how a protein’s components are arranged and move that determine the protein’s function. In this case, the components are atoms."
@@ -52,13 +52,19 @@ msgstr ""
 msgid "We want to do the same thing with coronavirus."
 msgstr ""
 
-msgid "Spreading the knowledge, Opensource"
+msgid "Spreading the knowledge with open source and open science"
 msgstr ""
 
 msgid "When we are done with our analysis we upload the data here:"
 msgstr ""
 
-msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any"
+msgstr ""
+
+msgid "time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/)"
+msgstr ""
+
+msgid "and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
 msgstr ""
 
 msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap."

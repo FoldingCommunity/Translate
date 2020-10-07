@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/hepatitis-c/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "HEPATITIS C"
+msgstr ""
+
+msgid "Hepatitis C is a chronic viral infection of the liver that can lead to cirrhosis or cancer. It affects roughly 3-4 million people in the US alone."
+msgstr ""
+
+msgid "While there have been recent successes in the development of drugs that cure the disease, they do not work for all patients and the potential for the virus to develop immunity to them is a constant concern. We study some of the virus’ proteins in order to ensure we fully understand how they function and how we can maintain effective strategies to inhibit them."
+msgstr ""
+
+msgid "By BruceBlaus (Own work) [[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AHCV.png)"
+msgstr ""
+
+

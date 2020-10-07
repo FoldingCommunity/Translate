@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/chagas-disease-african-trypanosomiasis/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "CHAGAS DISEASE (AFRICAN TRYPANOSOMIASIS)"
+msgstr ""
+
+msgid "Chagas disease is caused by infection with the Trypanosoma cruzi parasite, and is one of the leading causes of heart failure in endemic regions of Latin America."
+msgstr ""
+
+msgid "It is estimated to have infected over 10 million people, and nearly 30 % of chronic Chagas patients eventually develop cardiac complications and heart disease. The existing treatments for Chagas disease have limited efficacy against the chronic stage of the disease, and can cause severe side effects."
+msgstr ""
+
+msgid "By Photo Credit:Content Providers(s): CDC/Dr. Myron G. Schultz [Public domain], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ATrypanosoma_cruzi_crithidia.jpeg)"
+msgstr ""
+
+
