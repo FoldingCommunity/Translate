@@ -13,6 +13,15 @@ msgstr ""
 msgid "COVID-19"
 msgstr ""
 
+msgid "Page info"
+msgstr ""
+
+msgid "1. Learn more about proteins and SARS-CoV-2"
+msgstr ""
+
+msgid "2. Our blog posts in chronological order"
+msgstr ""
+
 msgid "Learn more about proteins and SARS-CoV-2"
 msgstr ""
 
