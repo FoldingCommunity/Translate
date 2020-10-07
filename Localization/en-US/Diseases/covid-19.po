@@ -76,7 +76,7 @@ msgstr ""
 msgid "and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
 msgstr ""
 
-msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap."
+msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap. Learn more about the COVID Moonshot collaboration: [Link](https://covid.postera.ai/covid) COVID Moonshot dashboard: [Link](https://fah-ws3.s3.amazonaws.com/covid-moonshot/sprints/sprint-4/2020-09-06-ugi-tBu-x3110-3v3m-2020-04-Jacobs/index.html)"
 msgstr ""
 
 msgid "What you can do"
