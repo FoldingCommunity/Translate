@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201007\n"
+
+msgid "ALZHEIMER’S DISEASE"
+msgstr "MALADIE D'ALZHEIMER"
+
+msgid "Alzheimer’s Disease (AD) is caused by the aggregation of relatively small (42 amino acid) proteins, called Abeta peptides. These proteins form aggregates which even in small clumps appear to be toxic to neurons and cause neuronal cell death involved in Alzheimer’s Disease and the horrible neurodegenerative consequences. It’s a challenge to study these aggregates, even with simulations."
+msgstr "La maladie d’Alzheimer est causée par l’agrégation de protéines relativement petites (constituées de 42 acides aminés), appelées peptides β-amyloïdes ou peptides Aβ. Ces protéines forment ainsi des agrégats qui s’avèrent rapidement toxiques pour les neurones et engendrent la mort des cellules neuronales impliquées dans la maladie d’Alzheimer, avec ses horribles conséquences neurodégénératives. Il est extrêmement difficile d’étudier ces agrégats, même à l’aide de simulations."
+
+msgid "We have many calculations being performed on AD. Our primary goals are the prediction of AD aggregate structure for rational drug design approaches as well as further insight into how AD aggregates form kinetically (hopefully paving the way for a method to stop the AD aggregate formation). We have made great progress towards this end."
+msgstr "Nous réalisons un grand nombre de calculs sur la maladie d’Alzheimer. Notre objectif central consiste à prévoir la structure de ces agrégats afin de favoriser la conception de médicaments efficaces et de mieux comprendre la formation cinétique des agrégats spécifiques de la maladie d’Alzheimer, dans l’espoir de trouver une méthode permettant de stopper cette agrégation. Nous avons accompli d’importants progrès à ce niveau."
+
+msgid "By ADEAR: “Alzheimer’s Disease Education and Referral Center, a service of the National Institute on Aging.” [Public domain], [via Wikimedia Commons](https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/)"
+msgstr "Par ADEAR: « Alzheimer’s Disease Education and Referral Center, a service of the National Institute on Aging ». [Domaine public], [via Wikimedia Commons](https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/)"
