@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "FAH-Translate-Schema-Version: 1.0\n"
-"URL: https://foldingathome.org/covid-19/\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/covid-19/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
 "Source-Version: 1.2\n"
