@@ -71,11 +71,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | ✔ | - |
-| dig-deeper.po | ? | ? | missing |
+| dig-deeper.po | ✔ | ✔ | - |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| papers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
