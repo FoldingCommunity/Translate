@@ -4,173 +4,188 @@ msgstr ""
 "URL: https://foldingathome.org/together-we-are-powerful/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
-"Source-Last-Modified: 20200803\n"
+"Source-Version: 1.2\n"
+"Source-Last-Modified: 20200904\n"
 "Target-Language: sv-SE\n"
-"Target-Version: 1.0.0\n"
-"Target-Last-Modified: 20200816\n"
+"Target-Version: 1.2\n"
+"Target-Last-Modified: 20200925\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sv_SE\n"
+"X-Generator: Poedit 2.4.1\n"
 
 msgid "Together We Are Powerful - Folding@home"
-msgstr ""
+msgstr "Tillsammans är vi kraftfulla - Folding@home"
 
 msgid "[Take me home](https://foldingathome.org/home)"
-msgstr ""
+msgstr "[Ta mig hem](https://foldingathome.org/home)"
 
 msgid "TOGETHER, WE ARE POWERFUL"
-msgstr ""
+msgstr "TILLSAMMANS ÄR VI KRAFTFULLA"
 
 msgid "Together, we have created the most powerful supercomputer on the planet, and are using it to help understand SARS-CoV-2/COVID-19 and develop new therapies. We need your help pushing toward a potent, patent-free drug."
-msgstr ""
+msgstr "Tillsammans har vi skapat den mest kraftfulla superdatorn i hela världen, och vi använder den till att förstå SARS-CoV-2/COVID-19 och utveckla nya behandlingar. Vi behöver din hjälp för att kunna framställa ett kraftfullt patent fritt läkemedel."
 
 msgid "Use your PC to help fight COVID-19."
-msgstr ""
+msgstr "Använd din dator för att bekämpa COVID-19."
 
 msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
-msgstr ""
+msgstr "[LADDA NER FOLDINGATHOME] (#nedladdningar)"
 
 msgid "[Available for Windows, Mac, Linux]"
-msgstr ""
+msgstr "[Tillgänglig för Windows, Mac, Linux]"
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
-msgstr ""
+msgstr "Utvecklingen på den nuvarande sprint 1 för att utvärdera en omgång av potentiella läkemedel började sön juli 26  06:31:13 utc 2020"
 
 msgid "Campaign Trailer"
-msgstr ""
+msgstr "Kampanj Trailer"
 
 msgid "Play"
-msgstr ""
+msgstr "Spela upp"
 
 msgid "Learn about our work on SARS-CoV-2 and COVID-19."
-msgstr ""
+msgstr "Läs om vårt arbete med SARS-CoV-2 och COVID-19."
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
-msgstr ""
+msgstr "I första hand används data kraften på SARS-CoV-2 , Viruset som orsakar sjukdomen COVID-19, och dom proteinerna i kroppen som viruset reagerar med."
 
 msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
-msgstr ""
+msgstr "Först, tog vi fram en ny proteinstruktur som förut var otillgänglig till forskare."
 
 msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
-msgstr ""
+msgstr "Med eran hjälp, så håller vi på med att framställa ett potentiellt läkemedel som ska rikta sig till dessa strukturer som är en del av COVID  Moonshot samarbetet."
 
 msgid "See real-time progress toward new drugs"
-msgstr ""
+msgstr "Se i realtid framstegen mot en ny medicin"
 
 msgid "Foldingathome Ambassadors"
-msgstr ""
+msgstr "Foldingathome Ambassadörer"
 
 msgid "Satya Nadella"
-msgstr ""
+msgstr "Satya Nadella"
 
 msgid "CEO, Microsoft"
-msgstr ""
+msgstr "VD, Microsoft"
 
 msgid "Dr. Lisa Su"
-msgstr ""
+msgstr "Dr. Lisa Su"
 
 msgid "President & CEO, AMD"
-msgstr ""
+msgstr "Ordförande och VD, AMD"
 
 msgid "Jensen Huang"
-msgstr ""
+msgstr "Jensen Huang"
 
 msgid "CEO, Nvidia"
-msgstr ""
+msgstr "VD, Nvidia"
 
 msgid "Dr. Gregory Bowman"
-msgstr ""
+msgstr "Dr. Gregory Bowman"
 
 msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
-msgstr ""
+msgstr "Direktör av Foldingathome & associerade professorer, Washington universitets skola i medicin i St Louis"
 
 msgid "Charles H. Giancarlo"
-msgstr ""
+msgstr "Charles H. Giancarlo"
 
 msgid "CEO, Pure Storage"
-msgstr ""
+msgstr "VD, Pure Storage"
 
 msgid "Ilma Caprnja"
-msgstr ""
+msgstr "Ilma Caprnja"
 
 msgid "Medical student, Lund University"
-msgstr ""
+msgstr "Medicinsk student, lunds universitet"
 
 msgid "Minerva Santana"
-msgstr ""
+msgstr "Minerva Santana"
 
 msgid "Director of Innovation and Technological Transformation at LaLiga"
-msgstr ""
+msgstr "Direktör för innovation  och Teknologiska transformation på LaLiga"
 
 msgid "Michael Ward"
-msgstr ""
+msgstr "Michael Ward"
 
 msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
-msgstr ""
+msgstr "Doktorand , Bowman laboratoriet, Washington universitets skola i Medicin i St Louis"
 
 msgid "Patrick P. Gelsinger"
-msgstr ""
+msgstr "Patrick P. Gelsinger"
 
 msgid "CEO, VMware"
-msgstr ""
+msgstr "VD, VMware"
 
 msgid "Pedro Valadas"
-msgstr ""
+msgstr "Pedro Valadas"
 
 msgid "Founder, PCMR / Communication Advisor, Foldingathome"
-msgstr ""
+msgstr "Grundare, PCMR / kommunikations rådgivare, Foldingathome"
 
 msgid "Vijay Pande"
-msgstr ""
+msgstr "Vijay Pande"
 
 msgid "General Partner, Andreessen Horowitz / Founder, Foldingathome"
-msgstr ""
+msgstr "Förvaltare, Andreessen Horowitz / Grundare, Foldingathome"
 
 msgid "Anton Thynell"
-msgstr ""
+msgstr "Anton Thynell"
 
 msgid "Head of Collaboration and Communication, Foldingathome"
-msgstr ""
+msgstr "Ledare över samarbeten och kommunikation, Foldingathome"
 
 msgid "Kirill Konovalov"
-msgstr ""
+msgstr "Kirill Konovalov"
 
 msgid "Phd Student Xuhui lab, The Hong Kong University of Science and Technology"
-msgstr ""
+msgstr "Doktorand Xuhui laboratoriet, Hong Kongs universitet i vetenskap och teknologi"
 
 msgid "Emma Matthies"
-msgstr ""
+msgstr "Emma Matthies"
 
 msgid "Info Security Engineer"
-msgstr ""
+msgstr "Informations Säkerhetstekniker"
+
+msgid "Kevin Wasielewski"
+msgstr "Kevin Wasielewski"
+
+msgid "Co-founder & CEO Origin PC"
+msgstr "Medgrundare och vd för Origin PC"
 
 msgid "Compilation Video"
-msgstr ""
+msgstr "Sammanfattnings video"
 
 msgid "Courtesy – Washington University in Saint Louis"
-msgstr ""
+msgstr "Ett stort tack till Washington universitet i Saint Louis"
 
 msgid "SHARE YOUR STORY"
-msgstr ""
+msgstr "Dela med dig med din historia"
 
 msgid "Help us spread the word about Foldingathome and why you have joined. Create your video and share it on social media."
-msgstr ""
+msgstr "Hjälp oss med att sprida Foldingathome med varför du gick med. Skapa en video och dela med dig på sociala medier."
 
 msgid "Step 1) Record yourself to make a video like those above."
-msgstr ""
+msgstr "Steg 1) Spela in dig själv och gör en video som dom andra har gjort ovan."
 
 msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
-msgstr ""
+msgstr "Steg 2) Dela det på sociala medier under hashtagen #foldingathome och följ @foldingathome på Facebook och Twitter."
 
 msgid "Thank you!"
-msgstr ""
+msgstr "Tack!"
 
 msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
-msgstr ""
+msgstr "[läs mer om Folding@home](https://foldingathome.org/home)"
 
 msgid "Choose your platform"
-msgstr ""
+msgstr "Välj din plattform"
 
 msgid "Alternative Downloads"
-msgstr ""
+msgstr "Alternativa nedladdningar"
 
 msgid "Contributors"
-msgstr ""
+msgstr "Medarbetare"
