@@ -23,5 +23,5 @@ msgstr "Ces répétitions poly-Q, si elles sont suffisamment longues, forment de
 
  
 msgid "By Jensflorian (Own work) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AHuntington_disease_ubiquitin.jpg)"
-msgstr "Par Jensflorian (Travail personnel) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) ou [GFDL](http://www.gnu.org/licenses/fdl -1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AHuntington_disease_ubiquitin.jpg)"
+msgstr "Par Jensflorian (Travail personnel) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) ou [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AHuntington_disease_ubiquitin.jpg)"
 
