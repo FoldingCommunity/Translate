@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/dengue-fever/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201008\n"
+
+msgid "DENGUE FEVER"
+msgstr "DENGUE"
+ 
+msgid "Dengue virus is a flavivirus that is estimated to infect about 390 million people annually and can potentially cause the life threatening Dengue hemorrhagic fever."
+msgstr "Le virus de la dengue est un flavivirus dont on estime qu'il infecte environ 390 millions de personnes par an et peut causer la fièvre hémorragique de la dengue, potentiellement mortelle."
+ 
+msgid "The WHO has identified Dengue as the fastest growing mosquito borne disease in the world. Only 9 countries had experienced severe Dengue epidemics prior to 1970, but now the disease is prevalent in over 100 countries. There are no existing approved treatments for Dengue once infection occurs.  We are using a combination of cheminformatics and machine learning, in close coordination with experimental colleagues, to develop new therapies for Dengue."
+msgstr "L'OMS a identifié la dengue comme la maladie transmise par les moustiques présentant la croissance la plus rapide au monde. Seuls neuf pays avaient connu de graves épidémies de dengue avant 1970, mais la maladie est aujourd'hui répandue dans plus de 100 pays. Il n'existe aucun traitement approuvé pour la dengue une fois l'infection établie. Nous utilisons une combinaison de chémoinformatique et d'apprentissage automatique, en étroite coordination avec des collègues spécialistes des méthodes expérimentales, pour développer de nouveaux traitements \n"
+"contre la dengue."
+ 
+msgid "By Muhammad Mahdi Karim (www.micro2macro.net) Facebook Youtube (Own work) [[GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAedes_aegypti_feeding.jpg)"
+msgstr "Par Muhammad Mahdi Karim (www.micro2macro.net) Facebook Youtube (Travail personnel) [[GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAedes_aegypti_feeding.jpg)"
+

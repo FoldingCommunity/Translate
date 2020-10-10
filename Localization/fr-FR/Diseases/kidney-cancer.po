@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/cancer/kidney-cancer/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201010\n"
+ 
+msgid "KIDNEY CANCER"
+msgstr "CANCER DU REIN"
+ 
+msgid "In 2015, we started working on understanding mTOR, the target of several FDA approved inhibitors for Kidney Cancer. mTOR is responsible for regulating cell growth and metabolism, integratingsignaling from a number of other genes that are commonly mutated in many other cancer types as well."
+msgstr "En 2015, nous avons commencé à travailler sur la compréhension de mTOR, la cible de plusieurs inhibiteurs approuvés par la FDA pour le cancer du rein. mTOR est responsable de la régulation de la croissance cellulaire et du métabolisme, intégrant les signaux d'un certain nombre d'autres gènes qui sont également mutés dans de nombreux autres types de cancer."
+ 
+msgid "mTOR itself is most commonly mutated in Kidney Cancer, but is also mutated in 2% of all other cancer types, potentially affecting millions of patients!"
+msgstr "mTOR lui-même est le plus souvent muté dans le cancer du rein, mais est également muté dans 2% de tous les autres types de cancer, affectant potentiellement des millions de patients!"
+ 
+msgid "Projects 10491-10499 aim to help understand the effect these mutations, observed in the clinic, have on the structure and regulation of the protein. Understanding these mutants can provide a framework to understand which patients will respond to mTOR inhibitors already approved, and which mutants are best targeted by new drug development efforts."
+msgstr "Les projets 10491-10499 visent à aider à comprendre l'effet de ces mutations, observées en clinique, sur la structure et la régulation de la protéine. Comprendre ces mutants peut fournir un cadre pour comprendre quels patients répondront aux inhibiteurs de mTOR déjà approuvés, et quels mutants sont les mieux ciblés par les efforts de développement de nouveaux médicaments."
+ 
+msgid "The X-ray crystal structure of mTOR that projects 10491-10499 are based one. The three major domains (Kinase, FAT and FRB) are highlighted in white, black and gold respectively. Key features of the kinase domain are shown in red and blue, with ATP shown in spheres representation."
+msgstr "La structure cristalline aux rayons X de mTOR qui projette 10491-10499 en est une. Les trois domaines principaux (Kinase, FAT et FRB) sont surlignés respectivement en blanc, noir et or. Les principales caractéristiques du domaine kinase sont indiquées en rouge et bleu, l'ATP étant représenté en sphères."
+
