@@ -4,10 +4,10 @@ msgstr ""
 "URL: https://foldingathome.org/diseases/infectious-diseases/covid-19/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.2\n"
+"Source-Version: 1.2.1\n"
 "Source-Last-Modified: 20201008\n"
 "Target-Language: fr-FR\n"
-"Target-Version: 1.2\n"
+"Target-Version: 1.2.1\n"
 "Target-Last-Modified: 20201008\n"
 
 msgid "COVID-19"
@@ -92,7 +92,7 @@ msgid "To focus on Covid-19 research you can set the project category in your FA
 msgstr "Pour vous concentrer sur la COVID-19, vous pouvez sélectionner la catégorie correspondante."
 
 msgid "2) If you don’t have computers to contribute or are feeling particularly generous, you can also [make donations](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) through Washington University in St. Louis. These funds are used for a number of purposes, including:"
-msgstr "2. Si vous n’avez pas d’ordinateurs disponibles ou si vous vous sentez particulièrement généreux, vous pouvez aussi [faire des dons](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) par l’intermédiaire de l’Université Washington de Saint-Louis (Missouri, États-Unis). Ces fonds sont consacrés à plusieurs activités, notamment :"
+msgstr "2. Si vous n’avez pas d’ordinateurs disponibles ou si vous vous sentez particulièrement généreux, vous pouvez aussi [faire des dons](https://gifts.wustl.edu/med/index.html?other_designation_description=Folding@Home%20(Dr%20Greg%20Bowman,%20Dept%20of%20Biochemistry)&0_d_tr1=71&sc=NG) par l’intermédiaire de l’Université Washington de Saint-Louis (Missouri, États-Unis). Ces fonds sont consacrés à plusieurs activités, notamment:"
 
 msgid "2.1) Supporting our software engineering and server-side hardware (particularly important right now as we scale up rapidly!)"
 msgstr "2.1. Soutenir nos travaux d’ingénierie logicielle et nos infrastructures matérielles pour les serveurs – un aspect particulièrement important en ce moment, car nous étoffons nos équipements rapidement !"
