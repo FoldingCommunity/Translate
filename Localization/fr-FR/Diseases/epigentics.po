@@ -10,7 +10,6 @@ msgstr ""
 "Target-Version: 1.0\n"
 "Target-Last-Modified: 20201008\n"
 
-#: 
 msgid "EPIGENETICS"
 msgstr "ÉPIGÉNÉTIQUES"
 
