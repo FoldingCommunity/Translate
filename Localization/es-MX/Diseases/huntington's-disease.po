@@ -18,7 +18,7 @@ msgid "HUNTINGTON’S DISEASE"
 msgstr "ENFERMEDAD DE HUNTINGTON"
 
 msgid "Huntington’s Disease (HD) is caused by the aggregation of a different type of proteins. Some proteins have a repeat of a single amino acid (glutamine, often abbreviated as “Q”)."
-msgstr "La enfermedad de Huntington (EH) es causada por la agregación de un tipo diferente de proteínas. Algunas proteínas tienen una repetición de un solo aminoácido (glutamina, a menudo abreviada como "Q")."
+msgstr "La enfermedad de Huntington (EH) es causada por la agregación de un tipo diferente de proteínas. Algunas proteínas tienen una repetición de un solo aminoácido (glutamina, a menudo abreviada como “Q”)."
 
 msgid "These poly-Q repeats, if long enough, form aggregates which cause HD. We are studying the structure of poly-Q aggregates as well as predicting the pathway by which they form. Similar to AD, these HD studies, if successful, would be useful for rational drug design approaches as well as further insight into how HD aggregates form kinetically (hopefully paving the way for a method to stop the HD aggregate formation)."
 msgstr "Estas repeticiones de poli-Q, si son lo suficientemente largas, forman agregados que causan EH. Estamos estudiando la estructura de los agregados poli-Q y prediciendo la vía por la que se forman. De manera similar a la EA, estos estudios de EH, si tienen éxito, serían útiles para enfoques de diseño de fármacos racionales, así como para comprender mejor cómo se forman cinéticamente los agregados de EH (con suerte, allanando el camino para un método para detener la formación de agregados de EH)."
