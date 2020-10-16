@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: es-MX\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201005\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Language: es_MX\n"
+
+msgid "ALZHEIMER’S DISEASE"
+msgstr "ENFERMEDAD DE ALZHEIMER"
+
+msgid "Alzheimer’s Disease (AD) is caused by the aggregation of relatively small (42 amino acid) proteins, called Abeta peptides. These proteins form aggregates which even in small clumps appear to be toxic to neurons and cause neuronal cell death involved in Alzheimer’s Disease and the horrible neurodegenerative consequences. It’s a challenge to study these aggregates, even with simulations."
+msgstr "La enfermedad de Alzheimer (EA) es causada por la agregación de proteínas relativamente pequeñas (42 aminoácidos), llamadas péptidos Abeta. Estas proteínas forman agregados que incluso en pequeños grupos parecen ser tóxicos para las neuronas y causan la muerte de las células neuronales implicadas en la enfermedad de Alzheimer y las horribles consecuencias neurodegenerativas. Es un desafío estudiar estos agregados, incluso con simulaciones."
+
+msgid "We have many calculations being performed on AD. Our primary goals are the prediction of AD aggregate structure for rational drug design approaches as well as further insight into how AD aggregates form kinetically (hopefully paving the way for a method to stop the AD aggregate formation). We have made great progress towards this end."
+msgstr "Tenemos muchos cálculos que se están realizando en AD. Nuestros objetivos principales son la predicción de la estructura agregada de AD para enfoques racionales de diseño de fármacos, así como una mayor comprensión de cómo se forman cinéticamente los agregados de AD (con suerte, allanando el camino para un método para detener la formación de agregados de AD). Hemos logrado grandes avances en este sentido."
+
+msgid "By ADEAR: “Alzheimer’s Disease Education and Referral Center, a service of the National Institute on Aging.” [Public domain], [via Wikimedia Commons](https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/)"
+msgstr "Por ADEAR: “Alzheimer’s Disease Education and Referral Center, a service of the National Institute on Aging.” [Dominio público], [por Wikimedia Commons](https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/)"

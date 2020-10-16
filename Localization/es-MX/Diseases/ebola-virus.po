@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/ebola-virus/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0.1\n"
+"Source-Last-Modified: 20201010\n"
+"Target-Language: es-MX\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201010\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+Language: es_MX\n"
+
+msgid "EBOLA VIRUS"
+msgstr "VIRUS DEL ÉBOLA"
+
+msgid "Our work in infectious disease stems from the primary approach we take methodologically: we use computational methods to repurpose drugs, i.e. find new uses for existing drugs."
+msgstr "Nuestro trabajo en enfermedades infecciosas se deriva del enfoque principal que adoptamos metodológicamente: utilizamos métodos computacionales para reutilizar medicamentos, es decir, encontrar nuevos usos para los medicamentos existentes."
+
+msgid "The power of this method is that we can move very quickly and inexpensively to yield new therapies. The reason why infectious disease is such a good target for repurposing is that we already know that the drugs to repurpose are safe (or more specifically, at which doses they are safe) and it is also common for small molecules to be toxic to organisms (that’s a key reason why drug design is so hard) and so what we need to do is to find small molecule drugs that are toxic to the pathogen and not to humans (as repurpose drugs are already known to be safe)."
+msgstr "El poder de este método es que podemos actuar de forma muy rápida y económica para producir nuevas terapias. La razón por la que las enfermedades infecciosas son un buen objetivo para la reutilización es que ya sabemos que los medicamentos para reutilizar son seguros (o más específicamente, a qué dosis son seguras) y también es común que las moléculas pequeñas sean tóxicas para los organismos (esa es una razón clave por la que el diseño de medicamentos es tan difícil) y, por lo tanto, lo que debemos hacer es encontrar medicamentos de moléculas pequeñas que sean tóxicos para el patógeno y no para los humanos (ya que se sabe que los medicamentos de reutilización son seguros)."
+
+msgid "We are applying these approaches to key infectious diseases which have commonalities: Dengue Fever, Ebola, and Zika all have similar biology as does Chagas Disease, West Nile Virus, and African Sleeping Sickness."
+msgstr "Estamos aplicando estos enfoques a enfermedades infecciosas clave que tienen puntos en común: la fiebre del dengue, el ébola y el zika tienen una biología similar a la de la enfermedad de Chagas, el virus del Nilo occidental y la enfermedad del sueño africana."
+
+msgid "By NIAID [[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AEbola_Virus_From_Mali_Blood_Sample_(1).jpg)"
+msgstr "Por NIAID [[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)], [Por Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AEbola_Virus_From_Mali_Blood_Sample_(1).jpg)"
+
+
