@@ -1,25 +1,33 @@
 msgid ""
 msgstr ""
 "FAH-Translate-Schema-Version: 1.0\n"
-"URL: https://foldingathome.org/covid-19/\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/covid-19/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.1\n"
-"Source-Last-Modified: 20200715\n"
+"Source-Version: 1.2.1\n"
+"Source-Last-Modified: 20201008\n"
 "Target-Language: es-MX\n"
-"Target-Version: 1.1\n"
-"Target-Last-Modified: 20200715\n"
-"Language-Team: es-MX\n"
+"Target-Version: 1.2.1\n"
+"Target-Last-Modified: 20201008\n"
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: es_MX\n"
 "X-Generator: Poedit 2.3.1\n"
+"Language: es_MX\n"
 
 msgid "COVID-19"
 msgstr "COVID-19"
 
-msgid "Coronavirus – What we’re doing and how you can help"
-msgstr "Coronavirus - Qué estamos haciendo y cómo puede ayudar"
+msgid "Page info"
+msgstr "Información de la página"
+
+msgid "1. Learn more about proteins and SARS-CoV-2"
+msgstr "1. Obtenga más información sobre las proteínas y el SARS-CoV-2"
+
+msgid "2. Our blog posts in chronological order"
+msgstr "2. Nuestras publicaciones de blog en orden cronológico"
+
+msgid "Learn more about proteins and SARS-CoV-2"
+msgstr "Obtenga más información sobre las proteínas y el SARS-CoV-2"
 
 msgid "Proteins are molecular machines that perform many functions we associate with life. They sense the environment (e.g. in taste and smell), perform work (e.g. muscle contraction and breaking down food), and play structural roles (e.g. your hair). They are made of a linear chain of chemicals called amino acids that, in many cases, spontaneously “fold” into compact, functional structures. Much like any other machine, it’s how a protein’s components are arranged and move that determine the protein’s function. In this case, the components are atoms."
 msgstr "Las proteínas son máquinas moleculares que realizan muchas funciones que asociamos con la vida. Perciben el entorno (p. Ej., En el gusto y el olfato), realizan trabajos (p. Ej., Contracción muscular y descomposición de los alimentos) y desempeñan funciones estructurales (p. Ej., El cabello). Están formados por una cadena lineal de productos químicos llamados aminoácidos que, en muchos casos, se \"pliegan\" espontáneamente en estructuras compactas y funcionales. Al igual que cualquier otra máquina, es cómo se organizan y mueven los componentes de una proteína lo que determina la función de la proteína. En este caso, los componentes son átomos."
@@ -34,7 +42,7 @@ msgid "There are many experimental methods for determining protein structures. W
 msgstr "Existen muchos métodos experimentales para determinar las estructuras de proteínas. Si bien son extremadamente poderosos, solo revelan una sola instantánea de la forma habitual de una proteína. Pero las proteínas tienen muchas partes móviles, por lo que realmente queremos ver la proteína en acción. Las estructuras que no podemos ver experimentalmente pueden ser la clave para descubrir una nueva terapéutica."
 
 msgid "Using football as an analogy for the experimental situation, it’s as if you could only see the players lined up for the snap (the single arrangement the players spend the most time in) and were blind to the rest of the game."
-msgstr "Usando el fútbol como una analogía para la situación experimental, es como si solo pudieras ver a los jugadores alineados para el snap (el único arreglo en el que los jugadores pasan la mayor parte del tiempo) y estuvieran ciegos por el resto del juego."
+msgstr "Usando el fútbol americano como una analogía para la situación experimental, es como si solo pudieras ver a los jugadores alineados para el snap (el único arreglo en el que los jugadores pasan la mayor parte del tiempo) y estuvieran ciegos por el resto del juego."
 
 msgid "Seeing a single structure of a protein (left) is like seeing players lined up for the snap in football. Important information, but a lot missing too. The protein structure shows a sphere for each atom (blue) and red arrows highlighting the one drug binding site in this protein."
 msgstr "Ver una sola estructura de una proteína (izquierda) es como ver a los jugadores alineados para el snap en el fútbol. Información importante, pero también falta mucho. La estructura de la proteína muestra una esfera para cada átomo (azul) y flechas rojas que resaltan el sitio de unión de un fármaco en esta proteína."
@@ -49,25 +57,31 @@ msgid "A movie capturing how the protein shown before moves is like getting to w
 msgstr "Una película que captura cómo se muestra la proteína antes de los movimientos es como ver todo el partido de fútbol. En este caso, vemos una forma de bolsillo que estaba ausente en la estructura experimental."
 
 msgid "Doing so can reveal new therapeutic opportunities. For example, in our recent [paper](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), we simulated a protein from Ebola virus that is typically considered ‘undruggable’ because the snapshots from experiments don’t have obvious druggable sites. But, our simulations uncovered an alternative structure that does have a druggable site. Importantly, we then performed experiments that confirmed our computational prediction, and are now searching for drugs that bind this newly discovered binding site."
-msgstr "Hacerlo puede revelar nuevas oportunidades terapéuticas. Por ejemplo, en nuestro reciente [artículo] (https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), simulamos una proteína del virus Ébola que generalmente se considera 'no controlable' porque las instantáneas de los experimentos no tienen sitios obvios que se puedan tratar. Pero, nuestras simulaciones descubrieron una estructura alternativa que tiene un sitio tratable. Es importante destacar que luego realizamos experimentos que confirmaron nuestra predicción computacional, y ahora estamos buscando medicamentos que se unan a este sitio de unión recién descubierto."
+msgstr "Hacerlo puede revelar nuevas oportunidades terapéuticas. Por ejemplo, en nuestro reciente [artículo](https://www.biorxiv.org/content/10.1101/2020.02.09.940510v1.abstract), simulamos una proteína del virus Ébola que generalmente se considera 'no controlable' porque las instantáneas de los experimentos no tienen sitios obvios que se puedan tratar. Pero, nuestras simulaciones descubrieron una estructura alternativa que tiene un sitio tratable. Es importante destacar que luego realizamos experimentos que confirmaron nuestra predicción computacional, y ahora estamos buscando medicamentos que se unan a este sitio de unión recién descubierto."
 
-msgid "An experimental structure of an Ebola protein doesn’t have obvious druggable sites (no deep pockets among the atoms shown as spheres).Our simulations captured a motion that creates a potentially druggable site in this Ebola protein. Instead of showing spheres for each atom, this cartoon shows a ribbon tracing the linear chain of amino acids (chemicals) the protein is made of."
-msgstr "La estructura experimental de una proteína de Ebola no tiene sitios obvios que se puedan tratar (no hay bolsillos profundos entre los átomos que se muestran como esferas). Nuestras simulaciones capturaron un movimiento que crea un sitio potencialmente tratable en esta proteína Ebola. En lugar de mostrar esferas para cada átomo, esta caricatura muestra una cinta que traza la cadena lineal de aminoácidos (químicos) de la que está hecha la proteína."
+msgid "An experimental structure of an Ebola protein doesn’t have obvious druggable sites (no deep pockets among the atoms shown as spheres)."
+msgstr "La estructura experimental de una proteína de Ebola no tiene sitios obvios que se puedan tratar (no hay bolsillos profundos entre los átomos que se muestran como esferas)." 
+
+msgid "Our simulations captured a motion that creates a potentially druggable site in this Ebola protein. Instead of showing spheres for each atom, this cartoon shows a ribbon tracing the linear chain of amino acids (chemicals) the protein is made of."
+msgstr "Nuestras simulaciones capturaron un movimiento que crea un sitio potencialmente tratable en esta proteína de Ebola. En lugar de mostrar esferas para cada átomo, esta animación muestra una cinta que traza la cadena lineal de aminoácidos (químicos) de la que está hecha la proteína." 
 
 msgid "We want to do the same thing with coronavirus."
 msgstr "Queremos hacer lo mismo con el coronavirus."
 
-msgid "Spreading the knowledge, Opensource"
-msgstr "Difundiendo el conocimiento, Código abierto"
+msgid "Spreading the knowledge with open source and open science"
+msgstr "Difundir el conocimiento con código abierto y ciencia abierta"
 
 msgid "When we are done with our analysis we upload the data here:"
-msgstr "Cuando terminamos nuestro análisis, cargamos los datos aquí:"
+msgstr "Cuando terminamos con nuestro análisis, cargamos los datos aquí:"
 
-msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
-msgstr "También ponemos a disposición del público todos los datos, para que otras personas que trabajan en el campo puedan verificar nuestro análisis y cualquiera con nuevos métodos (por ejemplo, el siempre en crecimiento análisis de datos de aprendizaje automático) puede verlos en cualquier momento: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/) y [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+msgid "We also make all data publicly available, so that other people working in the field can check our analysis and anyone with new methods (e.g. the always growing machine learning data analysis) can look at them at any time: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/)"
+msgstr "También ponemos todos los datos a disposición del público, para que otras personas que trabajan en el campo puedan verificar nuestro análisis y cualquier persona con nuevos métodos (por ejemplo, el análisis de datos de aprendizaje automático en constante crecimiento) pueda verlos en cualquier momento: [https://osf.io/2h6p4/wiki/home/](https://osf.io/2h6p4/wiki/home/)"
 
-msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap."
-msgstr "También estamos colaborando con otros laboratorios y grupos fuera del consorcio de Foldingathome para resolver COVID-19 lo antes posible."
+msgid "and [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+msgstr "y [https://osf.io/dp4cb/wiki/home/](https://osf.io/dp4cb/wiki/home/)"
+
+msgid "We are also collaborating with other labs and groups outside the Foldingathome Consortium to solve COVID-19 asap. Learn more about the COVID Moonshot collaboration: [Link](https://covid.postera.ai/covid) COVID Moonshot dashboard: [Link](https://fah-ws3.s3.amazonaws.com/covid-moonshot/sprints/sprint-4/2020-09-06-ugi-tBu-x3110-3v3m-2020-04-Jacobs/index.html)"
+msgstr "También estamos colaborando con otros laboratorios y grupos fuera del Consorcio Foldingathome para resolver el COVID-19 lo antes posible. Obtenga más información sobre la colaboración de COVID Moonshot: [Enlace](https://covid.postera.ai/covid) Panel de control de COVID Moonshot: [Enlace](https://fah-ws3.s3.amazonaws.com/covid-moonshot/sprints/sprint-4/2020-09-06-ugi-tBu-x3110-3v3m-2020-04-Jacobs/index.html)"
 
 msgid "What you can do"
 msgstr "Lo que puede hacer"
@@ -76,7 +90,7 @@ msgid "1. Donate computing power:"
 msgstr "1. Donando poder de cómputo:"
 
 msgid "[Downloading Folding@home](/start-folding/) and helping us run simulations is the primary way to contribute. These calculations are enormous and every little bit helps! Each simulation you run is like buying a lottery ticket. The more tickets we buy, the better our chances of hitting the jackpot. Usually, your computer will never be idle, but we’ve had such an enthusiastic response to our COVID-19 work that you will see some intermittent downtime as we sprint to setup more simulations. Please be patient with us! There is a lot of valuable science to be done, and we’re getting it running as quickly as we can."
-msgstr "[Descargando Folding@home](/start-folding/) ay ayudarnos a ejecutar simulaciones es la forma principal de contribuir. ¡Estos cálculos son enormes y cada poquito ayuda! Cada simulación que ejecutes es como comprar un boleto de lotería. Cuantos más boletos compremos, mayores serán nuestras posibilidades de ganar. Por lo general, su computadora nunca estará inactiva, pero hemos tenido una respuesta tan entusiasta a nuestro trabajo de COVID-19 que verá un tiempo de inactividad intermitente a medida que avanzamos para configurar más simulaciones. ¡Por favor se paciente con nosotros! Hay mucha ciencia valiosa por hacer, y la estamos ejecutando lo más rápido posible."
+msgstr "[Descargando Folding@home](/start-folding/) y ayudarnos a ejecutar simulaciones es la forma principal de contribuir. ¡Estos cálculos son enormes y cada poquito ayuda! Cada simulación que ejecutes es como comprar un boleto de lotería. Cuantos más boletos compremos, mayores serán nuestras posibilidades de ganar. Por lo general, su computadora nunca estará inactiva, pero hemos tenido una respuesta tan entusiasta a nuestro trabajo de COVID-19 que verá un tiempo de inactividad intermitente a medida que avanzamos para configurar más simulaciones. ¡Por favor se paciente con nosotros! Hay mucha ciencia valiosa por hacer, y la estamos ejecutando lo más rápido posible."
 
 msgid "To focus on Covid-19 research you can set the project category in your FAH client to “COVID-19”."
 msgstr "Para enfocarse en la investigación de COVID-19, puede seleccionar directamente la categoría de \"COVID-19\" en el cliente."
@@ -90,5 +104,8 @@ msgstr "2.1) Soporte a nuestra ingeniería de software y hardware del lado del s
 msgid "2.2) Buying compounds to test experimentally based on insight from our simulations."
 msgstr "2.2) Comprar compuestos para probar experimentalmente en base a la percepción de nuestras simulaciones."
 
-msgid "Covid-19 collaborators"
-msgstr "Colaboradores de Covid-19"
+msgid "Our posts regarding Covid-19,SARS-CoV-2"
+msgstr "Nuestras publicaciones sobre Covid-19, SARS-CoV-2"
+
+msgid "results"
+msgstr "resultados"

@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/cancer/p53/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: es-MX\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201005\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Language: es_MX\n"
+
+msgid "P53"
+msgstr "P53"
+
+msgid "Over half of all known cancers involve some mutation in p53, the so-called guardian of the cell. p53 is a tumor-suppressor which signals for cell death if DNA gets damaged."
+msgstr "Más de la mitad de todos los cánceres conocidos involucran alguna mutación en p53, el llamado guardián de la célula. p53 es un supresor de tumores que indica la muerte celular si el ADN se daña."
+
+msgid "Without p53, damaged DNA can lead to the unusual growths found in cancer tumors. When p53 breaks down and does not fold correctly, then DNA damage goes unchecked and mutations can proliferate. We have been studying specific domains of p53 in order to predict mutations relevant in cancer and to study known cancer-related mutants."
+msgstr "Sin e; p53, el ADN dañado puede provocar inusuales crecimientos que se encuentran en los tumores cancerosos. Cuando p53 se descompone y no se pliega correctamente, el daño del ADN no se controla y las mutaciones pueden proliferar. Hemos estado estudiando dominios específicos de p53 para predecir mutaciones relevantes en el cáncer y estudiar mutantes conocidos relacionados con el cáncer."
+
+msgid "By Nephron (Own work) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAnaplastic_astrocytoma_-_p53_-_very_high_mag.jpg)"
+msgstr "Por Nephron (Trabajo propio) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAnaplastic_astrocytoma_-_p53_-_very_high_mag.jpg)"
