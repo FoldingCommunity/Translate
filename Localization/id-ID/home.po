@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: id-ID\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20201020\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "I AM"
+msgstr "SAYA"
+
+msgid "One"
+msgstr "SATU"
+
+msgid "IN A MILLION"
+msgstr "DARI SEJUTA"
+
+msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
+msgstr "Terlepas dari apakah Anda sudah melakukan *folding* atau belum pernah mendengar hal ini sebelumnya, kami membutuhkan bantuan Anda untuk mencapai tujuan kami - yaitu 1 juta kontributor."
+
+msgid "Start folding now"
+msgstr "Mulai folding sekarang"
+
+msgid "Hide this and watch the video."
+msgstr "Sembunyikan dan tonton video."
+
+msgid "START FOLDING NOW"
+msgstr "MULAI FOLDING SEKARANG"
+
+msgid "Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use."
+msgstr "Temukan versi perangkat lunak yang Anda sukai dan mulailah. Mengunduh Folding@home sepenuhnya gratis, mudah dipasang, dan aman digunakan."
+
+msgid "Available for:"
+msgstr "Tersedia untuk:"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "Mac"
+msgstr "Mac"
+
+msgid "Start folding"
+msgstr "Mulai folding"
+
+msgid "JOIN THE COMMUNITY"
+msgstr "GABUNG KE KOMUNITAS"
+
+msgid "The Folding@Home community is spread over countless forums, websites and social media."
+msgstr "Komunitas Folding@Home tersebar di berbagai forum, situs web, dan media sosial."
+
+msgid "Here's a list of our official channels."
+msgstr "Berikut daftar saluran resmi kami."
+
+msgid "For tech support:"
+msgstr "Untuk dukungan teknis:"
+
+msgid "foldingforum.org"
+msgstr "foldingforum.org"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "1 in a million"
+msgstr "1 dari sejuta"
+
+msgid "WHY WE NEED YOU"
+msgstr "KENAPA KAMI MEMBUTUHKAN ANDA"
+
+msgid "Folding@home is a project focused on disease research. The problems we are solving require so many computer calculations and we need your help to find the cures!"
+msgstr "Folding@home adalah proyek yang berfokus pada penelitian penyakit. Masalah yang kami selesaikan membutuhkan begitu banyak perhitungan komputer dan kami membutuhkan bantuan Anda untuk menemukan obatnya!"
+
+msgid "Fight diseases Together with us."
+msgstr "Lawan penyakit Bersama kami."
+
+msgid "The Folding@home software allows you to share your unused computer power with us – so that we can research even more potential cures."
+msgstr "Perangkat lunak Folding@home memungkinkan Anda berbagi tenaga komputer yang tidak terpakai dengan kami - sehingga kami dapat meneliti lebih banyak potensi penyembuhan."
+
+msgid "FOLDING?"
+msgstr "FOLDING?"
+
+msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
+msgstr "Folding mengacu pada cara protein manusia melipat dalam sel-sel yang membentuk tubuh Anda. Kita mengandalkan protein untuk membuat kita tetap sehat dan mereka berhimpun dengan melipat. Tetapi jika terjadi kesalahan lipatan, dapat terjadi konsekuensi serius bagi kesehatan seseorang."
+
+msgid "Learn more"
+msgstr "Pelajari lebih lanjut"
+
+msgid "Team"
+msgstr "Tim"
+
+msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
+msgstr "Folding@home saat ini berbasis di Washington University di St. Louis School of Medicine, di bawah kepemimpinan Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) dan [Vince Voelz](http://www.voelzlab.org/) (Temple University) juga aktif membantu mengelola proyek ini. Bersama-sama, ketiga lab tersebut adalah pendorong utama Folding@home."
+
+msgid "Latest Posts"
+msgstr "Postingan Terbaru"
