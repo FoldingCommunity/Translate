@@ -7,7 +7,7 @@ msgstr ""
 "Source-Last-Modified: 20200705\n"
 "Target-Language: id-ID\n"
 "Target-Version: 1.0.0\n"
-"Target-Last-Modified: 20201019\n"
+"Target-Last-Modified: 20201025\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -24,7 +24,7 @@ msgid "On this page you will find access to statistics for individuals and teams
 msgstr "Di halaman ini Anda akan menemukan akses statistik untuk individu dan tim yang telah bergabung untuk mendapatkan poin dan bersaing dengan tim lain. Beberapa dari kita cukup intens dalam melakukan *folding*. Kami memiliki situs web tim, kami melengkapi komputer kami, dan kami mendorong teknologi ke depan dengan melaporkan bug dan memberikan saran mengenai pengembangan perangkat lunak ini."
 
 msgid "**MAXIMIZE** your **EFFORT**"
-msgstr "**MAKSIMALKAN UPAYA** Anda"
+msgstr "**MAKSIMALKAN** upaya **ANDA**"
 
 msgid "Set up your team"
 msgstr "Siapkan tim Anda"
