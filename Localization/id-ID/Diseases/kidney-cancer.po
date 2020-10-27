@@ -1,0 +1,31 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/cancer/kidney-cancer/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: id-ID\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20201027\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "KIDNEY CANCER"
+msgstr "KANKER GINJAL"
+
+msgid "In 2015, we started working on understanding mTOR, the target of several FDA approved inhibitors for Kidney Cancer. mTOR is responsible for regulating cell growth and metabolism, integratingsignaling from a number of other genes that are commonly mutated in many other cancer types as well."
+msgstr "Pada tahun 2015, kami mulai bekerja untuk memahami mTOR, target dari beberapa inhibitor yang disetujui FDA untuk Kanker Ginjal. mTOR bertanggung jawab untuk mengatur pertumbuhan dan metabolisme sel, mengintegrasikan sinyal dari sejumlah gen lain yang biasanya bermutasi pada banyak jenis kanker lainnya."
+
+msgid "mTOR itself is most commonly mutated in Kidney Cancer, but is also mutated in 2% of all other cancer types, potentially affecting millions of patients!"
+msgstr "mTOR sendiri paling sering bermutasi pada Kanker Ginjal, tetapi juga bermutasi pada 2% dari semua jenis kanker lainnya, berpotensi mempengaruhi jutaan pasien!"
+
+msgid "Projects 10491-10499 aim to help understand the effect these mutations, observed in the clinic, have on the structure and regulation of the protein. Understanding these mutants can provide a framework to understand which patients will respond to mTOR inhibitors already approved, and which mutants are best targeted by new drug development efforts."
+msgstr "Proyek 10491-10499 bertujuan untuk membantu memahami pengaruh mutasi ini, diamati di klinik, terhadap struktur dan regulasi protein. Memahami mutan ini dapat memberikan kerangka kerja untuk memahami pasien mana yang akan merespons penghambat mTOR yang telah disetujui, dan mutan mana yang paling baik ditargetkan untuk upaya pengembangan obat baru."
+
+msgid "The X-ray crystal structure of mTOR that projects 10491-10499 are based one. The three major domains (Kinase, FAT and FRB) are highlighted in white, black and gold respectively. Key features of the kinase domain are shown in red and blue, with ATP shown in spheres representation."
+msgstr "Struktur kristal sinar-X dari mTOR adalah yang mendasari proyek 10491-10499. Tiga domain utama (Kinase, FAT dan FRB) masing-masing disorot dalam warna putih, hitam dan emas. Fitur utama dari domain kinase ditampilkan dalam warna merah dan biru, dengan ATP ditampilkan dalam representasi bola."
+
