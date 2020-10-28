@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/chagas-disease-african-trypanosomiasis/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: id-ID\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20201026\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "CHAGAS DISEASE (AFRICAN TRYPANOSOMIASIS)"
+msgstr "PENYAKIT CHAGAS (AFRICAN TRYPANOSOMIASIS)"
+
+msgid "Chagas disease is caused by infection with the Trypanosoma cruzi parasite, and is one of the leading causes of heart failure in endemic regions of Latin America."
+msgstr "Penyakit Chagas disebabkan oleh infeksi parasit Trypanosoma cruzi, dan merupakan salah satu penyebab utama gagal jantung di daerah endemik Amerika Latin."
+
+msgid "It is estimated to have infected over 10 million people, and nearly 30 % of chronic Chagas patients eventually develop cardiac complications and heart disease. The existing treatments for Chagas disease have limited efficacy against the chronic stage of the disease, and can cause severe side effects."
+msgstr "Penyakit ini diperkirakan telah menginfeksi lebih dari 10 juta orang, dan hampir 30% pasien Chagas kronis pada akhirnya mengalami komplikasi dan penyakit jantung. Pengobatan yang ada untuk penyakit Chagas tidak begitu manjur untuk mengatasi penyakit apabila sudah mencapai stadium kronis, dan dapat menyebabkan efek samping yang berat."
+
+msgid "By Photo Credit:Content Providers(s): CDC/Dr. Myron G. Schultz [Public domain], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ATrypanosoma_cruzi_crithidia.jpeg)"
+msgstr "Kredit Foto: Penyedia Konten: CDC/Dr. Myron G. Schultz [Domain publik], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ATrypanosoma_cruzi_crithidia.jpeg)"
+
+

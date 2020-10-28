@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/ebola-virus/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20201010\n"
+"Target-Language: id-ID\n"
+"Target-Version: 1.1.0\n"
+"Target-Last-Modified: 20201026\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "EBOLA VIRUS"
+msgstr "VIRUS EBOLA"
+
+msgid "Our work in infectious disease stems from the primary approach we take methodologically: we use computational methods to repurpose drugs, i.e. find new uses for existing drugs."
+msgstr "Pekerjaan kami dalam penyakit menular bermula dari pendekatan utama yang kami ambil secara metodologis: kami menggunakan metode komputasi untuk merancang kembali obat, yaitu menemukan kegunaan baru untuk obat yang sudah ada."
+
+msgid "The power of this method is that we can move very quickly and inexpensively to yield new therapies. The reason why infectious disease is such a good target for repurposing is that we already know that the drugs to repurpose are safe (or more specifically, at which doses they are safe) and it is also common for small molecules to be toxic to organisms (that’s a key reason why drug design is so hard) and so what we need to do is to find small molecule drugs that are toxic to the pathogen and not to humans (as repurpose drugs are already known to be safe)."
+msgstr "Keunggulan metode ini adalah bahwa kita dapat bergerak dengan sangat cepat dan murah untuk menghasilkan terapi baru. Alasan mengapa penyakit menular menjadi target yang baik untuk perancangan kembali adalah karena kami sudah paham bahwa obat tersebut aman (atau lebih spesifik lagi, aman pada dosis tertentu) dan umum juga untuk molekul kecil menjadi toksik bagi organisme (itulah alasan utama mengapa rancangan obat sangat sulit) dan jadi yang perlu kita lakukan adalah menemukan obat molekul kecil yang toksik bagi patogen dan bukan bagi manusia (karena obat-obatan yang dirancang kembali sudah diketahui aman)."
+
+msgid "We are applying these approaches to key infectious diseases which have commonalities: Dengue Fever, Ebola, and Zika all have similar biology as does Chagas Disease, West Nile Virus, and African Sleeping Sickness."
+msgstr "Kami menerapkan pendekatan ini pada penyakit menular utama yang memiliki kesamaan: Demam Berdarah, Ebola, dan Zika semuanya memiliki sifat biologis yang sama seperti halnya Penyakit Chagas, Virus West Nile, dan Penyakit Tidur Afrika."
+
+msgid "By NIAID [[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AEbola_Virus_From_Mali_Blood_Sample_(1).jpg)"
+msgstr "Oleh NIAID [[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AEbola_Virus_From_Mali_Blood_Sample_(1).jpg)"
+
+

@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/dengue-fever/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: id-ID\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20201023\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "DENGUE FEVER"
+msgstr "DEMAM BERDARAH"
+
+msgid "Dengue virus is a flavivirus that is estimated to infect about 390 million people annually and can potentially cause the life threatening Dengue hemorrhagic fever."
+msgstr "Virus Dengue merupakan flavivirus yang diperkirakan menginfeksi sekitar 390 juta orang setiap tahunnya dan berpotensi mengancam jiwa melalui penyakit Demam Berdarah."
+
+msgid "The WHO has identified Dengue as the fastest growing mosquito borne disease in the world. Only 9 countries had experienced severe Dengue epidemics prior to 1970, but now the disease is prevalent in over 100 countries. There are no existing approved treatments for Dengue once infection occurs.  We are using a combination of cheminformatics and machine learning, in close coordination with experimental colleagues, to develop new therapies for Dengue."
+msgstr "WHO telah mengidentifikasi Demam Berdarah sebagai penyakit yang ditularkan melalui nyamuk dengan pertumbuhan tercepat di dunia. Hanya 9 negara yang pernah mengalami epidemi Demam Berdarah yang parah sebelum tahun 1970, tetapi sekarang penyakit ini menyebar di lebih dari 100 negara. Tidak ada pengobatan yang diakui efektif untuk penyakit ini setelah infeksi terjadi. Kami menggunakan kombinasi kimiawi dan pembelajaran mesin, dalam koordinasi yang erat dengan rekan berpengalaman, untuk mengembangkan terapi baru untuk Demam Berdarah."
+
+msgid "By Muhammad Mahdi Karim (www.micro2macro.net) Facebook Youtube (Own work) [[GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAedes_aegypti_feeding.jpg)"
+msgstr "Oleh Muhammad Mahdi Karim (www.micro2macro.net) Facebook Youtube (Karya sendiri) [[GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAedes_aegypti_feeding.jpg)"
+
+
