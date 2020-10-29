@@ -100,7 +100,7 @@ msgstr "2.1. Soutenir nos travaux d’ingénierie logicielle et nos infrastructu
 msgid "2.2) Buying compounds to test experimentally based on insight from our simulations."
 msgstr "2.2. Acheter des composés en vue de réaliser des tests expérimentaux basés sur les connaissances fournies par nos simulations."
 
-msgid "Our posts regarding COVID-19,SARS-CoV-2"
+msgid "Our posts regarding COVID-19, SARS-CoV-2"
 msgstr "Nos billets relatifs à la COVID-19 et au SARS-CoV-2"
 
 msgid "results"
