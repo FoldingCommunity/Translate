@@ -104,7 +104,7 @@ msgstr "2.1) Soporte a nuestra ingeniería de software y hardware del lado del s
 msgid "2.2) Buying compounds to test experimentally based on insight from our simulations."
 msgstr "2.2) Comprar compuestos para probar experimentalmente en base a la percepción de nuestras simulaciones."
 
-msgid "Our posts regarding COVID-19,SARS-CoV-2"
+msgid "Our posts regarding COVID-19, SARS-CoV-2"
 msgstr "Nuestras publicaciones sobre COVID-19, SARS-CoV-2"
 
 msgid "results"
