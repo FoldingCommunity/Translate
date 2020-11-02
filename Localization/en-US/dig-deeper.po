@@ -61,7 +61,6 @@ msgstr ""
 msgid "Like both examples, it’s important for us to know about the motion of a folding protein, although we also want to know the intermediate steps along the way. Our simulation methods construct models of both of these properties. One way that makes Folding@home different from some other distributed computing projects (Rosetta@home for example) is that we want to see how the car parks, not just the end state of seeing it parked. While that’s an important result, it doesn’t shed any light on how or why a protein sometimes misfolds. By attempting to study all of the possible paths that the bouncing ball can take down the mountain, we learn a lot about the question “How did we get here?” It also gives us the opportunity to introduce changes – such as drugs – into the process that modify the probability of misfolded results."
 msgstr ""
 
-
 msgid "How does Folding@home simulate protein folding?"
 msgstr ""
 
