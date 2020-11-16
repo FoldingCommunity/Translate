@@ -4,8 +4,8 @@ msgstr ""
 "URL: https://foldingathome.org/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
-"Source-Last-Modified: 20200705\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20201102\n"
 "Target-Language: \n"
 "Target-Version: \n"
 "Target-Last-Modified: \n"
@@ -49,6 +49,9 @@ msgstr ""
 msgid "Start folding"
 msgstr ""
 
+msgid "Latest Posts"
+msgstr ""
+
 msgid "JOIN THE COMMUNITY"
 msgstr ""
 
@@ -58,10 +61,7 @@ msgstr ""
 msgid "Here's a list of our official channels."
 msgstr ""
 
-msgid "For tech support:"
-msgstr ""
-
-msgid "foldingforum.org"
+msgid "For tech support: [foldingforum.org](https://foldingforum.org/)"
 msgstr ""
 
 msgid "Facebook"
@@ -98,7 +98,4 @@ msgid "Team"
 msgstr ""
 
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
-msgstr ""
-
-msgid "Latest Posts"
 msgstr ""
