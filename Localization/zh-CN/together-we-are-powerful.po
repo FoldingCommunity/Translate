@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/together-we-are-powerful/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200803\n"
+"Target-Language: zh-CN\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200807\n"
+
+msgid "Together We Are Powerful - Folding@home"
+msgstr "一起行动起来，我们将更加强大 － Folding@home"
+
+msgid "[Take me home](https://foldingathome.org/home)"
+msgstr "[返回主页](https://foldingathome.org/home)"
+
+msgid "TOGETHER, WE ARE POWERFUL"
+msgstr "一起行动起来，我们将更加强大"
+
+msgid "Together, we have created the most powerful supercomputer on the planet, and are using it to help understand SARS-CoV-2/COVID-19 and develop new therapies. We need your help pushing toward a potent, patent-free drug."
+msgstr "通过合作，我们已经创造了地球上最强大的超级计算机，并且正在用它来帮助理解 SARS-CoV-2/COVID-19 并且探索新的治疗方案。"
+
+msgid "Use your PC to help fight COVID-19."
+msgstr "用您的个人计算机来对抗COVID-19。"
+
+msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
+msgstr "[下载Folding@home](#downloads)"
+
+msgid "[Available for Windows, Mac, Linux]"
+msgstr "[适用于：Windows，Mac，Linux]"
+
+msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
+msgstr "第一阶段用于评估潜在的药的进展开始于2020年7月26日06时31分13秒，世界标准时间。"
+
+msgid "Campaign Trailer"
+msgstr "活动预告片"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Learn about our work on SARS-CoV-2 and COVID-19."
+msgstr "了解我们有关SARS-CoV-2和COVID-19"
+
+msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
+msgstr "我们正在将Foling@home的计算资源专注于引起COVID-19的SARS-CoV-2病毒，以及相关作用的人体蛋白质。"
+
+msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
+msgstr "首先，我们发现了全新的蛋白质结构，这是之前学术界未发现的。"
+
+msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
+msgstr "通过您的帮助，我们正在筛选潜在的作用于这些蛋白质结构，这也是COVID Moonshot合作的一部分。"
+
+msgid "See real-time progress toward new drugs"
+msgstr "查看发现新药物的实时进程。"
+
+msgid "Foldingathome Ambassadors"
+msgstr "Folding@home 大使"
+
+msgid "Satya Nadella"
+msgstr "Satya Nadella"
+
+msgid "CEO, Microsoft"
+msgstr "微软首席执行官"
+
+msgid "Dr. Lisa Su"
+msgstr "苏姿丰博士"
+
+msgid "President & CEO, AMD"
+msgstr "AMD总裁及首席执行官"
+
+msgid "Jensen Huang"
+msgstr "黄仁勋"
+
+msgid "CEO, Nvidia"
+msgstr "英伟达首席执行官"
+
+msgid "Dr. Gregory Bowman"
+msgstr "Gregory Bowan博士"
+
+msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
+msgstr "Folding@home负责人，圣路易斯华盛顿大学医学院副教授"
+
+msgid "Charles H. Giancarlo"
+msgstr "Charles H. Giancarlo"
+
+msgid "CEO, Pure Storage"
+msgstr "Pure Storage首席执行官"
+
+msgid "Ilma Caprnja"
+msgstr "Ilma Caprnja"
+
+msgid "Medical student, Lund University"
+msgstr "隆德大学，医学系学生"
+
+msgid "Minerva Santana"
+msgstr "Minerva Santana"
+
+msgid "Director of Innovation and Technological Transformation at LaLiga"
+msgstr "西甲联赛创新与技术转换中心主任"
+
+msgid "Michael Ward"
+msgstr "Michael Ward"
+
+msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
+msgstr "圣路易斯华盛顿大学医学院Bowan实验室博士生"
+
+msgid "Patrick P. Gelsinger"
+msgstr "Patrick P. Gelsinger"
+
+msgid "CEO, VMware"
+msgstr "VMware首席执行官"
+
+msgid "Pedro Valadas"
+msgstr "Pedro Valadas"
+
+msgid "Founder, PCMR / Communication Advisor, Foldingathome"
+msgstr "Folding@home创始人，PCMR沟通顾问"
+
+msgid "Vijay Pande"
+msgstr "Vijay Pande"
+
+msgid "General Partner, Andreessen Horowitz / Founder, Foldingathome"
+msgstr "Andreessen Horowitz 创始人与合伙人，Foling@home"
+
+msgid "Anton Thynell"
+msgstr "Anton Thynell"
+
+msgid "Head of Collaboration and Communication, Foldingathome"
+msgstr "Folding@home 合作与联络主席"
+
+msgid "Kirill Konovalov"
+msgstr "Kirill Konovalov"
+
+msgid "Phd Student Xuhui lab, The Hong Kong University of Science and Technology"
+msgstr "香港科技大学Xuhui实验室，博士生"
+
+msgid "Emma Matthies"
+msgstr "Emma Matthies"
+
+msgid "Info Security Engineer"
+msgstr "信息安全工程师"
+
+msgid "Compilation Video"
+msgstr "编辑视频"
+
+msgid "Courtesy – Washington University in Saint Louis"
+msgstr "圣路易斯华盛顿大学"
+
+msgid "SHARE YOUR STORY"
+msgstr "分享您的故事"
+
+msgid "Help us spread the word about Foldingathome and why you have joined. Create your video and share it on social media."
+msgstr "请帮助我们让这个更多人了解Folding@home以及为什么您会加入。创建您的视频并分享在社交媒体上。"
+
+msgid "Step 1) Record yourself to make a video like those above."
+msgstr "第一步：录制以您为主角，类似上面一样的视频。"
+
+msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
+msgstr "第二步：在社交媒体分享您的视频并添加标签#foldingathome，同时在Facebook和Twitter上关注我们。"
+
+msgid "Thank you!"
+msgstr "谢谢您！"
+
+msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
+msgstr "[了解更多关于Folding@home](https://foldingathome.org/home)"
+
+msgid "Choose your platform"
+msgstr "选择您的平台"
+
+msgid "Alternative Downloads"
+msgstr "其他版本下载"
+
+msgid "Contributors"
+msgstr "项目贡献者"

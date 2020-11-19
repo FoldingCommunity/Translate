@@ -1,0 +1,42 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: id-ID\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20201016\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "Diseases"
+msgstr "Penyakit"
+
+msgid "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far."
+msgstr "Proyek Folding@home (FAH) didedikasikan untuk memahami proses pelipatan protein (*protein folding*), penyakit yang disebabkan oleh kesalahan lipatan (*misfolding*) dan agregasi protein, dan cara komputasi baru untuk mengembangkan obat baru secara umum. Pada bagian ini, kami menjelaskan secara singkat tujuan kami, apa yang kami lakukan, dan beberapa hal penting sejauh ini."
+
+msgid "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
+msgstr "Proyek komputasi terdistribusi tidak hanya harus menjalankan kalkulasi di jutaan PC, tetapi proyek itu harus membuahkan hasil, terutama dalam bentuk publikasi peer-review, kuliah umum, dan cara lain yang menyebarkan hasil dari FAH ke komunitas ilmiah yang lebih luas. Di bagian sidebar, Anda dapat menemukan tautan menuju progres kami di berbagai bidang."
+
+msgid "You will also find updates about our work, advancements and new projects in the main [Folding@home blog](https://foldingathome.org/news/)."
+msgstr "Anda juga dapat menemukan pembaruan tentang usaha kami, kemajuan, dan proyek baru di [Blog Folding@home](https://foldingathome.org/news/)."
+
+msgid "What is protein folding and how is it related to disease?"
+msgstr "Apa itu pelipatan protein dan bagaimana kaitannya dengan penyakit?"
+
+msgid "Proteins are necklaces of amino acids, long chain molecules. They are the basis of how biology gets things done. As enzymes, they are the driving force behind all of the biochemical reactions that make biology work. As structural elements, they are the main constituent of our bones, muscles, hair, skin and blood vessels. As antibodies, they recognize invading elements and allow the immune system to get rid of the unwanted invaders. For these reasons, scientists have sequenced the human genome - the blueprint for all of the proteins in biology - but how can we understand what these proteins do and how they work?"
+msgstr "Protein adalah kalung asam amino, molekul rantai panjang. Mereka adalah basis bagaimana biologi menyelesaikan sesuatu. Sebagai enzim, mereka adalah kekuatan pendorong di balik semua reaksi biokimia yang membuat biologi bekerja. Sebagai elemen struktural, mereka adalah penyusun utama tulang, otot, rambut, kulit, dan pembuluh darah kita. Sebagai antibodi, mereka mengenali elemen penyerang dan memungkinkan sistem kekebalan tubuh untuk menyingkirkan material penyusup yang tidak diinginkan. Dalam hal ini, para ilmuwan telah mengurutkan genom manusia - cetak biru untuk semua protein dalam biologi - tetapi bagaimana kita dapat memahami apa yang protein ini lakukan dan bagaimana cara kerjanya?"
+
+msgid "However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a \"fold\". Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called \"folding\"."
+msgstr "Namun, dengan hanya mengetahui deretan ini memberi kita sedikit informasi tentang apa protein lakukan dan bagaimana cara kerjanya. Untuk menjalankan fungsinya (misalnya sebagai enzim atau antibodi), mereka harus memiliki bentuk tertentu, yang dikenal dengan sebuah \"lipatan\". Itulah sebabnya protein benar-benar mesin yang luar biasa: sebelum mereka bekerja, mereka merakit dirinya sendiri! Perakitan diri sendiri inilah yang disebut *folding* atau \"melipat\"."
+
+msgid "What happens if proteins don't fold correctly?"
+msgstr "Apa yang terjadi jika protein tidak melipat dengan benar?"
+
+msgid "Diseases such as Alzheimer's disease, Huntington's disease, cystic fibrosis, BSE (Mad Cow disease), an inherited form of emphysema, and even many cancers are believed to result from protein misfolding. When proteins misfold, they can clump together (\"aggregate\"). These clumps can often gather in the brain, where they are believed to cause the symptoms of Mad Cow or Alzheimer's disease."
+msgstr "Penyakit seperti Penyakit Alzheimer, Penyakit Huntington, Cystic Fibrosis, BSE (Penyakit Sapi Gila), bentuk emfisema yang diturunkan, dan bahkan banyak jenis kanker diyakini sebagai akibat dari kesalahan lipatan protein. Ketika protein salah melipat, mereka dapat menggumpal (\"agregat\"). Gumpalan ini sering berkumpul di otak, di mana diyakini menyebabkan gejala Penyakit Sapi Gila atau Penyakit Alzheimer."

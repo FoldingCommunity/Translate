@@ -1,0 +1,15 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/cancer/epigenetics/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201008\n"
+
+msgid "EPIGENETICS"
+msgstr "ÉPIGÉNÉTIQUES"
+

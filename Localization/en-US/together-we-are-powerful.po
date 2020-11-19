@@ -4,11 +4,11 @@ msgstr ""
 "URL: https://foldingathome.org/together-we-are-powerful/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
-"Source-Last-Modified: 20200803\n"
-"Target-Language: \n"
-"Target-Version: \n"
-"Target-Last-Modified: \n"
+"Source-Version: 1.2\n"
+"Source-Last-Modified: 20201102\n"
+"Target-Language:\n"
+"Target-Version:\n"
+"Target-Last-Modified:\n"
 
 msgid "Together We Are Powerful - Folding@home"
 msgstr ""
@@ -69,7 +69,6 @@ msgstr ""
 
 msgid "President & CEO, AMD"
 msgstr ""
-
 
 msgid "Jensen Huang"
 msgstr ""
@@ -143,6 +142,12 @@ msgstr ""
 msgid "Info Security Engineer"
 msgstr ""
 
+msgid "Kevin Wasielewski"
+msgstr ""
+
+msgid "Co-founder & CEO Origin PC"
+msgstr ""
+
 msgid "Compilation Video"
 msgstr ""
 
@@ -170,7 +175,7 @@ msgstr ""
 msgid "Choose your platform"
 msgstr ""
 
-msgid "Alternative Downloads"
+msgid "[Alternative Downloads](https://foldingathome.org/alternative-downloads/)"
 msgstr ""
 
 msgid "Contributors"

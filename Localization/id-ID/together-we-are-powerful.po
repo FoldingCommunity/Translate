@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/together-we-are-powerful/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20200906\n"
+"Target-Language: id-ID\n"
+"Target-Version: 1.1.0\n"
+"Target-Last-Modified: 20201019\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "Together We Are Powerful - Folding@home"
+msgstr "Bersama Kita Kuat - Folding@home"
+
+msgid "[Take me home](https://foldingathome.org/home)"
+msgstr "[Beranda](https://foldingathome.org/home)"
+
+msgid "TOGETHER, WE ARE POWERFUL"
+msgstr "BERSAMA KITA KUAT"
+
+msgid "Together, we have created the most powerful supercomputer on the planet, and are using it to help understand SARS-CoV-2/COVID-19 and develop new therapies. We need your help pushing toward a potent, patent-free drug."
+msgstr "Bersama, kami telah menciptakan superkomputer paling kuat di planet ini, dan menggunakannya untuk membantu memahami SARS-CoV-2/COVID-19 dan mengembangkan terapi baru. Kami membutuhkan bantuan Anda untuk mendorong obat yang ampuh dan bebas paten."
+
+msgid "Use your PC to help fight COVID-19."
+msgstr "Gunakan PC Anda untuk membantu melawan COVID-19."
+
+msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
+msgstr "[UNDUH FOLDINGATHOME](#downloads)"
+
+msgid "[Available for Windows, Mac, Linux]"
+msgstr "[Tersedia untuk Windows, Mac, Linux]"
+
+msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
+msgstr "Progres pada Sprint 1 saat ini untuk mengevaluasi sekumpulan obat potensial Dimulai Minggu 26 Juli 06:31:13 UTC 2020"
+
+msgid "Campaign Trailer"
+msgstr "Cuplikan Kampanye"
+
+msgid "Play"
+msgstr "Mainkan"
+
+msgid "Learn about our work on SARS-CoV-2 and COVID-19."
+msgstr "Pelajari tentang usaha kami melawan SARS-CoV-2 dan COVID-19."
+
+msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
+msgstr "Kami memfokuskan kekuatan komputasi Foldingathome pada SARS-CoV-2, virus yang menyebabkan COVID-19, dan protein manusia yang berinteraksi dengan virus tersebut."
+
+msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
+msgstr "Pertama, kami menemukan struktur protein baru yang sebelumnya tidak dapat diakses oleh komunitas peneliti."
+
+msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
+msgstr "Dengan bantuan Anda, kami saat ini sedang menyaring obat potensial yang menargetkan struktur tersebut sebagai bagian dari COVID Moonshot Collaboration."
+
+msgid "See real-time progress toward new drugs"
+msgstr "Lihat progres nyata pada obat baru"
+
+msgid "Foldingathome Ambassadors"
+msgstr "Duta Besar Foldingathome"
+
+msgid "Satya Nadella"
+msgstr "Satya Nadella"
+
+msgid "CEO, Microsoft"
+msgstr "CEO, Microsoft"
+
+msgid "Dr. Lisa Su"
+msgstr "Dr. Lisa Su"
+
+msgid "President & CEO, AMD"
+msgstr "Presiden & CEO, AMD"
+
+msgid "Jensen Huang"
+msgstr "Jensen Huang"
+
+msgid "CEO, Nvidia"
+msgstr "CEO, Nvidia"
+
+msgid "Dr. Gregory Bowman"
+msgstr "Dr. Gregory Bowman"
+
+msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
+msgstr "Direktur Foldingathome & Associate Professor, Washington University School of Medicine di St Louis"
+
+msgid "Charles H. Giancarlo"
+msgstr "Charles H. Giancarlo"
+
+msgid "CEO, Pure Storage"
+msgstr "CEO, Pure Storage"
+
+msgid "Ilma Caprnja"
+msgstr "Ilma Caprnja"
+
+msgid "Medical student, Lund University"
+msgstr "Mahasiswa Farmasi, Lund University"
+
+msgid "Minerva Santana"
+msgstr "Minerva Santana"
+
+msgid "Director of Innovation and Technological Transformation at LaLiga"
+msgstr "Direktur Inovasi and Transformasi Teknologi di LaLiga"
+
+msgid "Michael Ward"
+msgstr "Michael Ward"
+
+msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
+msgstr "Mahasiswa PhD, Bowman lab, Washington University School of Medicine di St Louis"
+
+msgid "Patrick P. Gelsinger"
+msgstr "Patrick P. Gelsinger"
+
+msgid "CEO, VMware"
+msgstr "CEO, VMware"
+
+msgid "Pedro Valadas"
+msgstr "Pedro Valadas"
+
+msgid "Founder, PCMR / Communication Advisor, Foldingathome"
+msgstr "Founder, PCMR / Communication Advisor, Foldingathome"
+
+msgid "Vijay Pande"
+msgstr "Vijay Pande"
+
+msgid "General Partner, Andreessen Horowitz / Founder, Foldingathome"
+msgstr "General Partner, Andreessen Horowitz / Founder, Foldingathome"
+
+msgid "Anton Thynell"
+msgstr "Anton Thynell"
+
+msgid "Head of Collaboration and Communication, Foldingathome"
+msgstr "Kepala Kolaborasi dan Komunikasi, Foldingathome"
+
+msgid "Kirill Konovalov"
+msgstr "Kirill Konovalov"
+
+msgid "Phd Student Xuhui lab, The Hong Kong University of Science and Technology"
+msgstr "Mahasiswa Phd di Xuhui lab, The Hong Kong University of Science and Technology"
+
+msgid "Emma Matthies"
+msgstr "Emma Matthies"
+
+msgid "Info Security Engineer"
+msgstr "Info Security Engineer"
+
+msgid "Kevin Wasielewski"
+msgstr "Kevin Wasielewski"
+
+msgid "Co-founder & CEO Origin PC"
+msgstr "Co-founder & CEO Origin PC"
+
+msgid "Compilation Video"
+msgstr "Video Kompilasi"
+
+msgid "Courtesy – Washington University in Saint Louis"
+msgstr "Sumber – Washington University di Saint Louis"
+
+msgid "SHARE YOUR STORY"
+msgstr "BAGIKAN CERITA ANDA"
+
+msgid "Help us spread the word about Foldingathome and why you have joined. Create your video and share it on social media."
+msgstr "Bantu kami menyebarkan berita tentang Foldingathome dan mengapa Anda bergabung. Buat video Anda dan bagikan di media sosial."
+
+msgid "Step 1) Record yourself to make a video like those above."
+msgstr "Langkah 1) Rekam diri Anda untuk membuat video seperti di atas."
+
+msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
+msgstr "Langkah 2) Bagikan di media sosial dengan hashtag #foldingathome dan ikuti @foldingathome di Facebook dan Twitter."
+
+msgid "Thank you!"
+msgstr "Terima kasih!"
+
+msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
+msgstr "[Pelajari lebih lanjut tentang Folding@home](https://foldingathome.org/home)"
+
+msgid "Choose your platform"
+msgstr "Pilih jenis perangkat Anda"
+
+msgid "Alternative Downloads"
+msgstr "Unduhan Alternatif"
+
+msgid "Contributors"
+msgstr "Kontributor"

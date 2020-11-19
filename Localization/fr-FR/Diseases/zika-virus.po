@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/neurological-diseases/parkinsons-disease/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201010\n"
+
+
+msgid "ZIKA VIRUS"
+msgstr "VIRUS ZIKA"
+
+
+msgid "Zika virus is an emerging flavivirus that is rapidly spreading throughout South America, Central America and the Caribbean."
+msgstr "Le virus Zika est un flavivirus émergent qui se propage rapidement dans toute l'Amérique du Sud, l'Amérique centrale et les Caraïbes."
+
+
+msgid "Zika infections generally cause only mild symptoms. However, recent studies show that Zika virus can pass from a pregnant woman to her fetus and there is strong evidence that associates Zika infection during pregnancy with a significant increase in serious fetal brain defects. There are no existing approved treatments for Zika. We are applying our approach from Dengue to Zika, due to the strong similarities between these diseases."
+msgstr "Les infections Zika ne provoquent généralement que des symptômes bénins. Cependant, des études récentes montrent que le virus Zika peut passer d'une femme enceinte à son fœtus et il existe des preuves solides qui associent l'infection Zika pendant la grossesse à une augmentation significative des anomalies cérébrales fœtales graves. Il n'existe aucun traitement approuvé pour Zika. Nous appliquons notre approche de la Dengue au Zika, en raison des fortes similitudes entre ces maladies."
+
+
+msgid "By CDC/ Cynthia Goldsmith (http://phil.cdc.gov/phil/details.asp?pid=20541) [Public domain], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AZika_EM_CDC_20541.png)"
+msgstr "Par CDC/ Cynthia Goldsmith (http://phil.cdc.gov/phil/details.asp?pid=20541) [Domaine public], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AZika_EM_CDC_20541.png)"
+

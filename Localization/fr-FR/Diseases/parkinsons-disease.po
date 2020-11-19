@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/neurological-diseases/parkinsons-disease/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201010\n"
+
+msgid "PARKINSON’S DISEASE"
+msgstr "LA MALADIE DE PARKINSON"
+
+ 
+msgid "We have performed preliminary studies on a key protein implicated in Parkinson’s disease (PD)."
+msgstr "Nous avons réalisé des études préliminaires sur une protéine clé impliquée dans la maladie de Parkinson (MP)."
+
+ 
+msgid "Alpha-synuclein is a natively unfolded protein and its folding/misfolding (see figure on the right for misfolded aggregates) appears to be critically linked to PD. We have evaluated the application of various FAH methods to this problem. For now, PD stands still as a pilot project, with the bulk of our efforts going into Alzheimer’s Disease (AD) and Huntington’s Disease (HD)."
+msgstr "L'alpha-synucléine est une protéine dépliée nativement et son repliement/mauvais repliement (voir la figure à droite pour les agrégats mal repliés) semble être lié de manière critique à la MP. Nous avons évalué l'application de diverses méthodes FAH à ce problème. Pour le moment, la DP reste un projet pilote, l’essentiel de nos efforts étant consacré à la maladie d’Alzheimer (MA) et à la maladie de Huntington (HD)."
+
+ 
+msgid "By Jftrempe (Own work) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AStructure_of_parkin.png)"
+msgstr "Par Jftrempe (Travail personnel) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/Fichier%3AStructure_of_parkin.png)"
+

@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/cancer/breast-cancer/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "BREAST CANCER"
+msgstr ""
+
+msgid "In 2014, we started to study breast cancer, specifically the Her2 Kinase, which is a part of the EGFR family of Tyrosine kinases, responsible for initiating a host of biochemical pathways. These kinases are critical for regulating cell division and thus mutations within the EGFR family have been linked to various types of cancers, including breast and pancreatic cancer."
+msgstr ""
+
+msgid "The aim of projects 9104 to 9114 is to understand the effect of certain mutations in the kinase domain of Her2. We are also hoping to find new druggable states within the system for creating the next generation of targeted cancer therapeutics, as well as to study the effect of mutations, which will give us insight into mutations present in breast cancer tumors."
+msgstr ""
+
+msgid "By Dr. Cecil Fox (Photographer) [Public domain or Public domain], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABreast_cancer_cells.jpg)"
+msgstr ""
+
+

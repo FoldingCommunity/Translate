@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/hepatitis-c/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: id-ID\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20201026\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "HEPATITIS C"
+msgstr "HEPATITIS C"
+
+msgid "Hepatitis C is a chronic viral infection of the liver that can lead to cirrhosis or cancer. It affects roughly 3-4 million people in the US alone."
+msgstr "Hepatitis C adalah infeksi virus kronis pada hati yang dapat menyebabkan sirosis atau kanker. Di Amerika Serikat sendiri, penyakit ini telah menjangkit sekitar 3-4 juta orang."
+
+msgid "While there have been recent successes in the development of drugs that cure the disease, they do not work for all patients and the potential for the virus to develop immunity to them is a constant concern. We study some of the virus’ proteins in order to ensure we fully understand how they function and how we can maintain effective strategies to inhibit them."
+msgstr "Meskipun baru-baru ini telah berhasil dikembangkan obat untuk menyembuhkan penyakit ini, obat tersebut tidak berhasil untuk semua pasien dan potensi virus untuk mengembangkan kekebalan terhadap obat ini terus menjadi perhatian. Kami mempelajari beberapa protein virus untuk memastikan kami memahami sepenuhnya bagaimana fungsi mereka dan bagaimana kami dapat mempertahankan strategi efektif untuk mencegah penyakit ini."
+
+msgid "By BruceBlaus (Own work) [[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AHCV.png)"
+msgstr "Oleh BruceBlaus (Karya sendiri) [[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AHCV.png)"
+
+

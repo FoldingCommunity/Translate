@@ -1,0 +1,182 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/together-we-are-powerful/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20200906\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.1\n"
+"Target-Last-Modified: 20200914\n"
+
+msgid "Together We Are Powerful - Folding@home"
+msgstr "Ensemble, nous sommes formidables - Folding@home"
+
+msgid "[Take me home](https://foldingathome.org/home)"
+msgstr "[Home](https://foldingathome.org/home)"
+
+msgid "TOGETHER, WE ARE POWERFUL"
+msgstr "ENSEMBLE, NOUS SOMMES FORMIDABLES"
+
+msgid "Together, we have created the most powerful supercomputer on the planet, and are using it to help understand SARS-CoV-2/COVID-19 and develop new therapies. We need your help pushing toward a potent, patent-free drug."
+msgstr "Ensemble, nous avons créé le superordinateur le plus puissant de la planète. Nous l'utilisons pour comprendre le SARS-CoV-2/COVID-19 et développer de nouveaux traitements. Nous avons besoin de vous pour mettre au point un médicament efficace et libre de droits."
+
+msgid "Use your PC to help fight COVID-19."
+msgstr "Lancez votre PC dans la lutte contre la COVID-19."
+
+msgid "[DOWNLOAD FOLDINGATHOME](#downloads)"
+msgstr "[TÉLÉCHARGER FOLDINGATHOME](#downloads)"
+
+msgid "[Available for Windows, Mac, Linux]"
+msgstr "[Disponible pour Windows, Mac, Linux]"
+
+msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
+msgstr "Progrès de l’effort actuel visant à évaluer une série de médicaments potentiels, entamé le dimanche 26 juillet 2020 (en développement)"
+
+msgid "Campaign Trailer"
+msgstr "Bande-annonce de la campagne"
+
+msgid "Play"
+msgstr "Visionner"
+
+msgid "Learn about our work on SARS-CoV-2 and COVID-19."
+msgstr "Découvrir nos travaux sur SARS-CoV-2 et COVID-19."
+
+msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
+msgstr "Nous concentrons la puissance de calcul de Foldingathome sur le SARS-CoV-2, le virus à l’origine de la pandémie COVID-19, et les protéines humaines avec lesquelles le virus interagit."
+
+msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
+msgstr "Nous avons d'abord mis au jour de nouvelles structures protéiques qui restaient encore inaccessibles à la communauté scientifique."
+
+msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
+msgstr "Avec votre aide, nous examinons maintenant des médicaments potentiellement capables de tirer parti de ces structures dans le cadre de la collaboration COVID Moonshot."
+
+msgid "See real-time progress toward new drugs"
+msgstr "Suivre en temps réel les progrès du développement de nouveaux médicaments."
+
+msgid "Foldingathome Ambassadors"
+msgstr "Ambassadeurs Foldingathome"
+
+msgid "Satya Nadella"
+msgstr "Satya Nadella"
+
+msgid "CEO, Microsoft"
+msgstr "PDG, Microsoft"
+
+msgid "Dr. Lisa Su"
+msgstr "Lisa Su"
+
+msgid "President & CEO, AMD"
+msgstr "Présidente et PDG, AMD"
+
+msgid "Jensen Huang"
+msgstr "Jensen Huang"
+
+msgid "CEO, Nvidia"
+msgstr "PDG, Nvidia"
+
+msgid "Dr. Gregory Bowman"
+msgstr "Dr Gregory Bowman"
+
+msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
+msgstr "Directeur de Foldingathome et professeur associé à l'École de médecine de l'Université Washington de Saint-Louis"
+
+msgid "Charles H. Giancarlo"
+msgstr "Charles H. Giancarlo"
+
+msgid "CEO, Pure Storage"
+msgstr "PDG, Pure Storage"
+
+msgid "Ilma Caprnja"
+msgstr "Ilma Caprnja"
+
+msgid "Medical student, Lund University"
+msgstr "Étudiante en médecine, Université de Lund"
+
+msgid "Minerva Santana"
+msgstr "Minerva Santana"
+
+msgid "Director of Innovation and Technological Transformation at LaLiga"
+msgstr "Directrice de l'innovation et de la transformation technologique, LaLiga"
+
+msgid "Michael Ward"
+msgstr "Michael Ward"
+
+msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
+msgstr "Doctorant, Laboratoire Bowman, École de médecine de l'Université Washington de Saint-Louis"
+
+msgid "Patrick P. Gelsinger"
+msgstr "Patrick P. Gelsinger"
+
+msgid "CEO, VMware"
+msgstr "PDG, VMware"
+
+msgid "Pedro Valadas"
+msgstr "Pedro Valadas"
+
+msgid "Founder, PCMR / Communication Advisor, Foldingathome"
+msgstr "Fondateur, PCMR / Conseiller en communication, Foldingathome"
+
+msgid "Vijay Pande"
+msgstr "Vijay Pande"
+
+msgid "General Partner, Andreessen Horowitz / Founder, Foldingathome"
+msgstr "Commandité, Andreessen Horowitz / Fondateur, Foldingathome"
+
+msgid "Anton Thynell"
+msgstr "Anton Thynell"
+
+msgid "Head of Collaboration and Communication, Foldingathome"
+msgstr "Responsable de la collaboration et de la communication, Foldingathome"
+
+msgid "Kirill Konovalov"
+msgstr "Kirill Konovalov"
+
+msgid "Phd Student Xuhui lab, The Hong Kong University of Science and Technology"
+msgstr "Doctorant au laboratoire Xuhui de l'Université des sciences et technologies de Hong Kong"
+
+msgid "Emma Matthies"
+msgstr "Emma Matthies"
+
+msgid "Info Security Engineer"
+msgstr "Ingénieure en sécurité informatique"
+
+msgid "Kevin Wasielewski"
+msgstr "Kevin Wasielewski"
+
+msgid "Co-founder & CEO Origin PC"
+msgstr "Cofondateur et PDG, Origin PC"
+
+msgid "Compilation Video"
+msgstr "Compilation vidéo"
+
+msgid "Courtesy – Washington University in Saint Louis"
+msgstr "Avec l'aimable autorisation de l'Université Washington de Saint Louis"
+
+msgid "SHARE YOUR STORY"
+msgstr "PARTAGEZ VOTRE HISTOIRE"
+
+msgid "Help us spread the word about Foldingathome and why you have joined. Create your video and share it on social media."
+msgstr "Aidez-nous à faire connaître Foldingathome en expliquant pourquoi vous nous avez rejoints. Créez votre vidéo et partagez-la sur les médias sociaux."
+
+msgid "Step 1) Record yourself to make a video like those above."
+msgstr "1) Enregistrez une vidéo comme celles qui précèdent."
+
+msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
+msgstr "2) Partagez-la sur les médias sociaux avec le hashtag #foldingathome et suivez @foldingathome sur Facebook et Twitter."
+
+msgid "Thank you!"
+msgstr "Merci !"
+
+msgid "[Learn more about Folding@home](https://foldingathome.org/home)"
+msgstr "[En savoir plus sur Folding@home](https://foldingathome.org/home)"
+
+msgid "Choose your platform"
+msgstr "Sélectionnez votre plateforme"
+
+msgid "Alternative Downloads"
+msgstr "Autres versions"
+
+msgid "Contributors"
+msgstr "Contributeurs"

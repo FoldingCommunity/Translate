@@ -3,31 +3,34 @@
 | Language | Done % | Updates Needed |
 | -------- | -----: | -------------: |
 | [bg-BG](#bg-BG) | 0% | ✔ 0 |
-| [de-DE](#de-DE) | 0% | ✔ 0 |
+| [de-DE](#de-DE) | 80% | 1 |
 | [es-ES](#es-ES) | 0% | ✔ 0 |
-| [es-MX](#es-MX) | ✔ 100% | ✔ 0 |
+| [es-MX](#es-MX) | 80% | 1 |
+| [fa-IR](#fa-IR) | 20% | ✔ 0 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
-| [fr-FR](#fr-FR) | 88% | ✔ 0 |
-| [it-IT](#it-IT) | 88% | ✔ 0 |
-| [ja-JP](#ja-JP) | 88% | ✔ 0 |
+| [fr-FR](#fr-FR) | 80% | ✔ 0 |
+| [it-IT](#it-IT) | 80% | 1 |
+| [ja-JP](#ja-JP) | 70% | ✔ 0 |
 | [ko-KR](#ko-KR) | 0% | ✔ 0 |
 | [mt-MT](#mt-MT) | 0% | ✔ 0 |
-| [nl-NL](#nl-NL) | 88% | ✔ 0 |
-| [pl-PL](#pl-PL) | 88% | ✔ 0 |
+| [nl-NL](#nl-NL) | 80% | 1 |
+| [pl-PL](#pl-PL) | 70% | ✔ 0 |
 | [pt-PT](#pt-PT) | 0% | ✔ 0 |
 | [ru-RU](#ru-RU) | 0% | ✔ 0 |
 | [sk-SK](#sk-SK) | 0% | ✔ 0 |
 | [sv-SE](#sv-SE) | 0% | ✔ 0 |
-| [zh-CN](#zh-CN) | 88% | 1 |
+| [zh-CN](#zh-CN) | 80% | 2 |
 ## Details
 ### bg-BG
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -36,14 +39,16 @@
 ### de-DE
 | File | Target-Language | Source-Version | Error |
 | ---- | --------------- | -------------- | ----- |
-| about.po | ? | ? | missing |
-| covid-19.po | ? | ? | missing |
+| about.po | ✔ | ✔ | - |
+| covid-19.po | ✔ | ✔ | - |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
-| faq.po | ? | ? | missing |
-| home.po | ? | ? | missing |
-| start-folding.po | ? | ? | missing |
-| statistics.po | ? | ? | missing |
-| together-we-are-powerful.po | ? | ? | missing |
+| faq.po | ✔ | ✔ | - |
+| home.po | ✔ | ✔ | - |
+| papers-and-results.po | ✔ | ✔ | - |
+| start-folding.po | ✔ | ✔ | - |
+| statistics.po | ✔ | ✔ | - |
+| together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
 
 [↑ Back to the overview](#overview)
 ### es-ES
@@ -51,9 +56,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -64,12 +71,29 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | ✔ | - |
+| dig-deeper.po | ✔ | ✔ | - |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
+| papers-and-results.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ✔ | ✔ | - |
+| together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
+
+[↑ Back to the overview](#overview)
+### fa-IR
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ✔ | ✔ | - |
+| covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
+| diseases.po | ✔ | ✔ | - |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+| together-we-are-powerful.po | ? | ? | missing |
 
 [↑ Back to the overview](#overview)
 ### fi-FI
@@ -77,9 +101,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -90,12 +116,14 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | ✔ | - |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ? | ? | missing |
+| together-we-are-powerful.po | ✔ | ✔ | - |
 
 [↑ Back to the overview](#overview)
 ### it-IT
@@ -103,12 +131,14 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | ✔ | - |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ? | ? | missing |
+| together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
 
 [↑ Back to the overview](#overview)
 ### ja-JP
@@ -116,9 +146,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | ✔ | - |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -129,9 +161,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -142,9 +176,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -155,12 +191,14 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | ✔ | - |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ? | ? | missing |
+| together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
 
 [↑ Back to the overview](#overview)
 ### pl-PL
@@ -168,9 +206,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | ✔ | - |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -181,9 +221,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -194,9 +236,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -207,9 +251,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -220,9 +266,11 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ? | ? | missing |
 | covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ? | ? | missing |
 | faq.po | ? | ? | missing |
 | home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ? | ? | missing |
 | statistics.po | ? | ? | missing |
 | together-we-are-powerful.po | ? | ? | missing |
@@ -233,11 +281,13 @@
 | ---- | --------------- | -------------- | ----- |
 | about.po | ✔ | ✔ | - |
 | covid-19.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
+| dig-deeper.po | ? | ? | missing |
 | diseases.po | ✔ | ✔ | - |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
+| papers-and-results.po | ? | ? | missing |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
-| together-we-are-powerful.po | ? | ? | missing |
+| together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
 
 [↑ Back to the overview](#overview)

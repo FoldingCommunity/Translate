@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/dig-deeper/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.2\n"
+"Source-Last-Modified: 20200923\n"
+"Target-Language: es-MX\n"
+"Target-Version: 1.2\n"
+"Target-Last-Modified: 20200923\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es_MX\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "DIG DEEPER"
+msgstr "PROFUNDIZA"
+
+msgid "This section describes how Folding@home simulations work and why our methods benefit from distributed computing. The descriptions found here may be slightly technical, but aims for people who would like to learn more about how this project works and how their computer is involved."
+msgstr "Esta sección describe cómo funcionan las simulaciones de Folding@home y por qué nuestros métodos se benefician de la computación distribuida. Las descripciones que se encuentran aquí pueden ser un poco técnicas, pero están destinadas a personas que deseen aprender más sobre cómo funciona este proyecto y cómo está involucrada su computadora."
+
+msgid "TABLE OF CONTENTS"
+msgstr "TABLA DE CONTENIDO"
+
+msgid "[Why do proteins fold?](https://foldingathome.org/dig-deeper/#why-do-proteins-fold)"
+msgstr "[¿Por qué se pliegan las proteínas?](https://foldingathome.org/dig-deeper/#why-do-proteins-fold)"
+
+msgid "[How does Folding@home simulate protein folding?](https://foldingathome.org/dig-deeper/#how-does-foldinghome-simulate-protein-folding)"
+msgstr "[¿Cómo simula Folding @ home el plegamiento de proteínas?](https://foldingathome.org/dig-deeper/#how-does-foldinghome-simulate-protein-folding)"
+
+msgid "[What are Markov State Models?](https://foldingathome.org/dig-deeper/#what-are-markov-state-models)"
+msgstr "[¿Qué son los modelos de estado de Markov?](https://foldingathome.org/dig-deeper/#what-are-markov-state-models)"
+
+msgid "[What do MSMs look like?](https://foldingathome.org/dig-deeper/#what-do-msms-look-like)"
+msgstr "[¿Qué aspecto tienen los MEM?](https://foldingathome.org/dig-deeper/#what-do-msms-look-like)"
+
+msgid "[What is adaptive sampling, and how is it related to MSMs?](https://foldingathome.org/dig-deeper/#what-is-adaptive-sampling-and-how-is-it-related-to-msms)"
+msgstr "[¿Qué es el muestreo adaptativo y cómo se relaciona con los MM?](https://foldingathome.org/dig-deeper/#what-is-adaptive-sampling-and-how-is-it-related-to-msms)"
+
+msgid "[How do you build an MSM using adaptive sampling?](https://foldingathome.org/dig-deeper/#how-do-you-build-an-msm-using-adaptive-sampling)"
+msgstr "[¿Cómo se construye un MM usando muestreo adaptativo?](https://foldingathome.org/dig-deeper/#how-do-you-build-an-msm-using-adaptive-sampling)"
+
+msgid "[Why is this approach particularly useful?](https://foldingathome.org/dig-deeper/#why-is-this-approach-particularly-useful)"
+msgstr "[¿Por qué este enfoque es particularmente útil?](https://foldingathome.org/dig-deeper/#why-is-this-approach-particularly-useful)"
+
+msgid "[What are some of the applications for these techniques?](https://foldingathome.org/dig-deeper/#what-are-some-of-the-applications-for-these-techniques)"
+msgstr "[¿Cuáles son algunas de las aplicaciones de estas técnicas?](https://foldingathome.org/dig-deeper/#what-are-some-of-the-applications-for-these-techniques)"
+
+msgid "[Who answered these questions?](https://foldingathome.org/dig-deeper/#who-answered-these-questions)"
+msgstr "[¿Quién respondió a estas preguntas?](https://foldingathome.org/dig-deeper/#who-answered-these-questions)"
+
+msgid "Why do proteins fold?"
+msgstr "¿Por qué se pliegan las proteínas?"
+
+msgid "Proteins are trying to get into their most “comfortable” position, that is, where they are at the best energy equilibrium with their environment. Some proteins contain areas that are hydrophobic (hate water), so those sections of the protein will end up away from the aqueous environment by hiding in the middle of the folded protein. There are many other factors that drive the protein, but there are several different analogies that can be used to explain the general process."
+msgstr "Las proteínas intentan situarse en su posición más \"cómoda\", es decir, donde se encuentran en el mejor equilibrio energético con su entorno. Algunas proteínas contienen áreas que son hidrofóbicas (odian el agua), por lo que esas secciones de la proteína terminarán alejadas del ambiente acuoso escondiéndose en el medio de la proteína plegada. Hay muchos otros factores que impulsan la proteína, pero existen varias analogías diferentes que se pueden utilizar para explicar el proceso general."
+
+msgid "For one, think of a huge beach ball bouncing down the side of a steep mountain. The ball will bounce many times as it descends and it will eventually stop. If you throw the beach ball down it again, there will be random variations in its path and it won’t end up at the same place. If you repeat that process many, many times, you can determine that there is a statistical pattern to the final resting points. You can also see a statistical scattering in the amount of time it takes for the ball to stop. Most of the time the ball will end up at the bottom of the mountain, but occasionally it may end up in another nearby depression and never reach the lowest possible stopping point. There is a significant statistical nature to atomic motions much like this motion of the bouncing ball down the mountain. Normal folding is like all the times that the ball ends up at the lowest point. Misfolding is like when the ball ends up somewhere else."
+msgstr "Por un lado, piense en una enorme pelota de playa que rebota por la ladera de una montaña empinada. La pelota rebotará muchas veces mientras desciende y eventualmente se detendrá. Si vuelves a lanzar la pelota de playa hacia abajo, habrá variaciones aleatorias en su camino y no terminará en el mismo lugar. Si repite ese proceso muchas, muchas veces, puede determinar que existe un patrón estadístico en los puntos de reposo final. También puede ver una dispersión estadística en la cantidad de tiempo que tarda la bola en detenerse. La mayoría de las veces, la pelota terminará en la base de la montaña, pero ocasionalmente puede terminar en otra depresión cercana y nunca llegar al punto de parada más bajo posible. Hay una naturaleza estadística significativa en los movimientos atómicos muy parecidos a este movimiento de la pelota que rebota montaña abajo. El plegado normal es como todas las veces que la bola termina en el punto más bajo. El plegado incorrecto es como cuando la pelota termina en otro lugar."
+
+msgid "In some respects, it’s also similar to parallel-parking a car in a crowded street. At first, the car is exposed, and it usually takes several steps to properly park the car in the proper position. Sometimes it may be necessary to back out slightly and then try again. A protein does the same thing. An observer can watch a hundred similar cars being parked in that space, and they would come to understand the common ways of parking, and which methods work and which don’t."
+msgstr "En algunos aspectos, también es similar a estacionar un automóvil en paralelo en una calle concurrida. Al principio, el automóvil está expuesto y, por lo general, se necesitan varios pasos para estacionar correctamente el automóvil en la posición adecuada. A veces puede ser necesario retroceder un poco y luego intentarlo de nuevo. Una proteína hace lo mismo. Un observador puede ver un centenar de autos similares aparcados en ese espacio, y llegará a comprender las formas habituales de aparcar y qué métodos funcionan y cuáles no."
+
+msgid "Like both examples, it’s important for us to know about the motion of a folding protein, although we also want to know the intermediate steps along the way. Our simulation methods construct models of both of these properties. One way that makes Folding@home different from some other distributed computing projects (Rosetta@home for example) is that we want to see how the car parks, not just the end state of seeing it parked. While that’s an important result, it doesn’t shed any light on how or why a protein sometimes misfolds. By attempting to study all of the possible paths that the bouncing ball can take down the mountain, we learn a lot about the question “How did we get here?” It also gives us the opportunity to introduce changes – such as drugs – into the process that modify the probability of misfolded results."
+msgstr "Como en ambos ejemplos, es importante para nosotros conocer el movimiento de una proteína en plegamiento, aunque también queremos conocer los pasos intermedios a lo largo del camino. Nuestros métodos de simulación construyen modelos de ambas propiedades. Una forma que hace que Folding@home sea diferente de otros proyectos de computación distribuida (Rosetta@home, por ejemplo) es que queremos ver cómo se estaciona el automóvil, no solo el estado final de verlo estacionado. Si bien ese es un resultado importante, no arroja ninguna luz sobre cómo o por qué una proteína a veces se pliega mal. Al intentar estudiar todos los caminos posibles que la pelota que rebota puede tomar por la montaña, aprendemos mucho sobre la pregunta \"¿Cómo llegamos aquí?\" También nos da la oportunidad de introducir cambios, como medicamentos, en el proceso que modifiquen la probabilidad de resultados incorrectos."
+
+msgid "How does Folding@home simulate protein folding?"
+msgstr "¿Cómo simula Folding@home el plegamiento de proteínas?"
+
+msgid "Two key aspects to our simulations are adaptive sampling and Markov State Models (MSMs). The two are used together and are very important as they allow us to run efficient simulations."
+msgstr "Dos aspectos clave de nuestras simulaciones son el muestreo adaptativo y los modelos de estado de Markov (MEM). Los dos se usan juntos y son muy importantes ya que nos permiten ejecutar simulaciones eficientes."
+
+msgid "What are Markov State Models?"
+msgstr "¿Qué son los modelos de estado de Markov?"
+
+msgid "Protein folding is statistical in nature, so a protein can fold in many ways. We need a map to be able to see the bigger picture. Markov State Models (MSMs) are a way of describing all the conformations (shapes) a protein – or other biomolecule for that matter – explores as a set of states (i.e. distinct structures) and the transition rates between them. They also map out the protein’s motion and energy properties as it folds from one shape to another. Once we have all this information, we can observe the factors that influenced folding, which is especially important if the protein misfolds. Much of the theory underlying these methods is quite old but their use has been limited by the challenges inherent to identifying a reasonable set of states."
+msgstr "El plegamiento de proteínas es de naturaleza estadística, por lo que una proteína se puede plegar de muchas formas. Necesitamos un mapa para poder ver el panorama más amplio. Los modelos de estado de Markov (MEM) son una forma de describir todas las conformaciones (formas) que una proteína, u otra biomolécula para el caso, explora como un conjunto de estados (es decir, estructuras distintas) y las tasas de transición entre ellos. También trazan el movimiento de la proteína y las propiedades energéticas a medida que se pliega de una forma a otra. Una vez que tenemos toda esta información, podemos observar los factores que influyeron en el plegamiento, lo cual es especialmente importante si la proteína se pliega mal. Gran parte de la teoría subyacente a estos métodos es bastante antigua, pero su uso se ha visto limitado por los desafíos inherentes a la identificación de un conjunto razonable de estados."
+
+msgid "MSMs are particularly useful to us as they facilitate parallelization across many computer processors by allowing for the statistical aggregation of short, independent simulation trajectories. This replaces the need for single long trajectories, and thus has been widely employed by distributed computing networks such as Folding@home and GPUGRID. Further, through adaptive sampling, MSMs provide a way to increase the efficiency of simulation without introducing artificial biases or approximations. We’ve been making a lot of progress with developing Markov state model (MSM) methods for analyzing the data we generate with the help of the FAH community. Several Pande Group members include Drs. Xuhui Huang and Gregory Bowman have developed MSMBuilder, an open-source software package used to build, analyze, and visualize MSMs. Since its release in 2009, it’s been download over 1,600 times across five continents and has been used in at least 40 publications to date."
+msgstr "Los MEM son particularmente útiles para nosotros, ya que facilitan la paralelización en muchos procesadores de computadora al permitir la agregación estadística de trayectorias de simulación cortas e independientes. Esto reemplaza la necesidad de trayectorias largas únicas y, por lo tanto, ha sido ampliamente utilizado por redes informáticas distribuidas como Folding@home y GPUGRID. Además, a través del muestreo adaptativo, los HSH brindan una forma de aumentar la eficiencia de la simulación sin introducir sesgos o aproximaciones artificiales. Hemos progresado mucho en el desarrollo de métodos de modelo de estado de Markov (MEM) para analizar los datos que generamos con la ayuda de la comunidad FAH. Varios miembros del Grupo Pande incluyen a los Dres. Xuhui Huang y Gregory Bowman han desarrollado MSMBuilder, un paquete de software de código abierto que se utiliza para crear, analizar y visualizar MEM. Desde su lanzamiento en 2009, se ha descargado más de 1.600 veces en los cinco continentes y se ha utilizado en al menos 40 publicaciones hasta la fecha."
+
+msgid "Formally, MSMs are a specific application of discrete-space master equations parameterized from simulation. They consist of two parts: a state space partitioning X, typically chosen to divide the system into a set of metastable states; and a master equation describing kinetics on X, represented by either a transition matrix T or rate matrix. Both the state space and master equation are found from molecular simulation. The precise manner in which this is done varies widely."
+msgstr "Formalmente, los MSM son una aplicación específica de ecuaciones maestras de espacio discreto parametrizadas a partir de la simulación. Consisten en dos partes: un espacio de estados que divide X, normalmente elegido para dividir el sistema en un conjunto de estados metaestables; y una ecuación maestra que describe la cinética en X, representada por una matriz de transición T o una matriz de velocidad. Tanto el espacio de estados como la ecuación maestra se obtienen a partir de la simulación molecular. La forma precisa en que se hace esto varía ampliamente."
+
+msgid "What do MSMs look like?"
+msgstr "¿Qué aspecto tienen los MEM?"
+
+msgid "Here are two examples:"
+msgstr "A continuación se muestran dos ejemplos:"
+
+msgid "MSM showing 14 out of 2000 macrostates for MSM for the NTL9 protein. States that are in better equilibrium are drawn larger, and more likely transitions are represented by larger arrows. Unfolded protein show in red, native state is in green. [(Voelz et al)](https://pubmed.ncbi.nlm.nih.gov/20070076/)"
+msgstr "MEM que muestra 14 de 2000 macroestados para MEM para la proteína NTL9. Los estados que están en mejor equilibrio se dibujan más grandes y las transiciones más probables están representadas por flechas más grandes. La proteína desplegada se muestra en rojo, el estado nativo está en verde. [(Voelz et al)](https://pubmed.ncbi.nlm.nih.gov/20070076/)"
+
+msgid "MSM for the ACBP protein, illustrating some of the primary transitions. [(Voelz et al)](https://pubs.acs.org/doi/abs/10.1021/ja302528z)"
+msgstr "MEM para la proteína ACBP, que ilustra algunas de las transiciones primarias. [(Voelz et al)](https://pubs.acs.org/doi/abs/10.1021/ja302528z)"
+
+msgid "What is adaptive sampling, and how is it related to MSMs?"
+msgstr "¿Qué es el muestreo adaptativo y cómo se relaciona con los MEM?"
+
+msgid "When researchers are using computers to study protein conformational dynamics (how the protein changes shape as it’s folding), the conventional approach for unbiased all-atom molecular dynamics is two-step. First, they run a set of simulations, and second, after the simulations have completed, they analyze the resulting data. The adaptive sampling Markov State Model approach involves breaking this paradigm by interleaving these two steps. Instead of building the model only after the data has been collected, it is instead built on the fly as the data is being generated. A feedback loop can then be set up where the current state of the model is used to inform the progress of further simulations."
+msgstr "Cuando los investigadores utilizan computadoras para estudiar la dinámica conformacional de las proteínas (cómo la proteína cambia de forma a medida que se pliega), el enfoque convencional para la dinámica molecular imparcial de todos los átomos es de dos pasos. En primer lugar, ejecutan un conjunto de simulaciones y, en segundo lugar, una vez finalizadas las simulaciones, analizan los datos resultantes. El enfoque del modelo de estado de Markov de muestreo adaptativo implica romper este paradigma intercalando estos dos pasos. En lugar de construir el modelo solo después de que se hayan recopilado los datos, se construye sobre la marcha a medida que se generan los datos. A continuación, se puede configurar un circuito de retroalimentación en el que se utiliza el estado actual del modelo para informar el progreso de futuras simulaciones."
+
+msgid "Imagine, for example, that you were exploring a maze for the first time. Although you have no map, you do have a GPS which is able to track your progress and display the parts of the maze you’ve explored. One approach is to put the GPS in your purse and walk around blindly — bumping off walls — for as long as possible. Once you’re tired, you take out the GPS and analyze the path your trajectory took; by looking at your path on the GPS you’re able to see the structure of the maze and have effectively built a map. Unfortunately, you notice that you’ve wasted a lot of time stuck in various parts of the maze. Instead, the smarter strategy is to watch the GPS as you walk around — to try to build your map of the maze incrementally. Using your map, you’re able to identify when you’re “stuck” in a certain part of the maze, and to avoid re-exploring parts of the maze that you’re confident that you’ve already discovered."
+msgstr "Imagine, por ejemplo, que está explorando un laberinto por primera vez. Aunque no tiene mapa, tiene un GPS que puede rastrear su progreso y mostrar las partes del laberinto que ha explorado. Un método consiste en guardar el GPS en el bolso y caminar a ciegas, chocando contra las paredes, durante el mayor tiempo posible. Una vez que estás cansado, sacas el GPS y analizas el camino que tomó tu trayectoria; Al mirar su ruta en el GPS, puede ver la estructura del laberinto y ha construido un mapa de manera efectiva. Desafortunadamente, notas que has perdido mucho tiempo atrapado en varias partes del laberinto. En cambio, la estrategia más inteligente es observar el GPS mientras camina, para tratar de construir su mapa del laberinto de forma incremental. Con su mapa, puede identificar cuándo está \"atascado\" en una determinada parte del laberinto y evitar volver a explorar partes del laberinto que está seguro de haber descubierto."
+
+msgid "In many ways, these two approaches to exploring a maze are analogous to the two approaches to collecting and analyzing molecular simulations. Due to the incremental nature of building the model on the fly in the adaptive sampling approach, it is possible to increase the efficiency of simulations."
+msgstr "En muchos sentidos, estos dos enfoques para explorar un laberinto son análogos a los dos enfoques para recopilar y analizar simulaciones moleculares. Debido a la naturaleza incremental de la construcción del modelo sobre la marcha en el enfoque de muestreo adaptativo, es posible aumentar la eficiencia de las simulaciones."
+
+msgid "How do you build an MSM using adaptive sampling?"
+msgstr "¿Cómo se construye un MEM usando muestreo adaptativo?"
+
+msgid "To start a simulation project, we first must choose some initial conformations (a protein’s shape) to begin with. The heuristic methods we use so far include running high-temperature simulations, employing Rosetta’s Monte Carlo algorithm, and shooting off related MSMs of similar proteins. Once we have a set of conformations, each of them becomes the starting point for some simulations which together we call a Run. Within each Run, we launch many trajectories, each called a Clone. Thus, all of the Clones in a Run start from the same initial protein shape, but they have a different initial velocity, i.e. the atoms are given a different initial push in one direction or another. The Clones from a Run may find additional conformations, in which case that Run ends and several more Runs are started from them. This process continues with a lot of Runs branching out to other conformations, perhaps merging back together to a common shape with other Runs. In the end, we end up with a model with tens of thousands of different conformations, (terabytes of data!) and we can see all the shapes and energy states that the protein can take on while its folding towards its “native state”, the chances of all the transitions occurring, and how long it takes the protein to complete a transition from one conformation to another. More importantly, we can identify the places where the protein misfolds and gets stuck, which then leads to more research and models on how we can prevent this from happening. The more computers we have participating, the faster we can complete the Markov State Model."
+msgstr "Para iniciar un proyecto de simulación, primero debemos elegir algunas conformaciones iniciales (la forma de una proteína) para empezar. Los métodos heurísticos que usamos hasta ahora incluyen ejecutar simulaciones de alta temperatura, emplear el algoritmo Monte Carlo de Rosetta y disparar MEM relacionados de proteínas similares. Una vez que tenemos un conjunto de conformaciones, cada una de ellas se convierte en el punto de partida de unas simulaciones que en conjunto llamamos ejecución. Dentro de cada ejecución, lanzamos muchas trayectorias, cada una llamada Clon. Por lo tanto, todos los clones en una ejecución comienzan con la misma forma de proteína inicial, pero tienen una velocidad inicial diferente, es decir, los átomos reciben un impulso inicial diferente en una dirección u otra. Los Clones de una ejecución pueden encontrar conformaciones adicionales, en cuyo caso la ejecución termina y se inician varias ejecuciones más a partir de ellos. Este proceso continúa con una gran cantidad de ejecuciónes que se ramifican en otras conformaciones, quizás fusionándose nuevamente en una forma común con otras ejecuciónes. Al final, terminamos con un modelo con decenas de miles de conformaciones diferentes (¡terabytes de datos!) Y podemos ver todas las formas y estados de energía que la proteína puede asumir mientras se pliega hacia su “estado nativo”, las posibilidades de que se produzcan todas las transiciones y el tiempo que tarda la proteína en completar una transición de una conformación a otra. Más importante aún, podemos identificar los lugares donde la proteína se pliega mal y se atasca, lo que luego conduce a más investigaciones y modelos sobre cómo podemos evitar que esto suceda. Cuantas más computadoras tengamos participando, más rápido podremos completar el Modelo de Estado de Markov."
+
+msgid "Aren’t these the PRCG numbers?"
+msgstr "¿No son estos los números de PRCG?"
+
+msgid "Yes. Work Units are labeled with four distinct numbers in the format: Project (Run, Clone, Generation). We just described the first three; Project is the protein under study, a Run is a simulation started from a particular conformation, and Runs contain many Clones which have different initial velocities. Although Folding@home processes many different Projects, Runs, and Clones all at the same time, Clones themselves are serial in nature. They have to be simulated from start to finish, but it would be impractical for one computer to complete one by itself. Instead, your computer is given a piece of a Clone. We identify the piece using the Generation (Gen) number. One computer will start out with Generation 0, and when it finishes another computer is given Generation 1, etc. We cannot start Gen 1 until Gen 0 finishes, and there may be hundreds of Gens. This is why the Work Units have deadlines, and why speed is so important to us."
+msgstr "Si. Las Unidades de Trabajo están etiquetadas con cuatro números distintos en el formato: Proyecto (Ejecutar, Clonar, Generar). Acabamos de describir los tres primeros; Un projecto es la proteína en estudio, una ejecución es una simulación que se inicia a partir de una conformación particular y las ejecuciones  contienen muchos Clones que tienen diferentes velocidades iniciales. Aunque Folding@home procesa muchos proyectos, ejecuciones y clones diferentes al mismo tiempo, los clones en sí son de naturaleza serial. Deben simularse de principio a fin, pero no sería práctico que una computadora completara una sola. En cambio, su computadora recibe una pieza de un clon. Identificamos la pieza usando el número de Generación (Gen). Una computadora comenzará con la Generación 0, y cuando termine, a otra computadora se le asignará la Generación 1, etc. No podemos iniciar la Generación 1 hasta que la Generación 0 termine, y puede haber cientos de generaciones. Es por eso que las Unidades de Trabajo tienen plazos y por qué la velocidad es tan importante para nosotros."
+
+msgid "Why is this approach particularly useful?"
+msgstr "¿Por qué este enfoque es particularmente útil?"
+
+msgid "This approach can be powerful because not only is it very amendable to distributed computing, but the available computational resources can be used more efficiently. A protein spends most of its folding time “stuck” in an energetically-favorable position, with transitions – the processes largely of interest – taking place only rarely. Likewise, any straightforward simulation of protein folding will also waste valuable time generating data with little information content. However, using the adaptive sampling concept, the model can identify when the simulation is stuck, and then reinitialize new simulations starting from potentially more fruitful areas, avoiding the wasteful process of re-exploring areas that are already well understood."
+msgstr "Este enfoque puede ser poderoso porque no solo es muy fácil de modificar para la computación distribuida, sino que los recursos computacionales disponibles pueden usarse de manera más eficiente. Una proteína pasa la mayor parte de su tiempo de plegamiento \"atascada\" en una posición energéticamente favorable, con transiciones - los procesos en gran parte de interés - que ocurren sólo en raras ocasiones. Del mismo modo, cualquier simulación sencilla de plegamiento de proteínas también desperdiciará un tiempo valioso en la generación de datos con poco contenido de información. Sin embargo, utilizando el concepto de muestreo adaptativo, el modelo puede identificar cuándo la simulación está atascada y luego reiniciar nuevas simulaciones a partir de áreas potencialmente más fructíferas, evitando el proceso inútil de volver a explorar áreas que ya se comprenden bien."
+
+msgid "In a recent paper, we compared MSMs to more traditional simulation methods. We compared some very long folding trajectories from the Anton supercomputer to an MSM built from the same folding data. Although our MSM “chops up” the simulation into a bunch of short trajectories, it was able to reproduce their simulations very well. Moreover, we also found that the MSM approach revealed new insights into the folding process (a new folding pathway) that was missing in ANTON’s more traditional approach."
+msgstr "En un artículo reciente, comparamos los MEM con métodos de simulación más tradicionales. Comparamos algunas trayectorias de plegado muy largas de la supercomputadora Anton con un MEM construido a partir de los mismos datos de plegado. Aunque nuestro MEM \"corta\" la simulación en un montón de trayectorias cortas, fue capaz de reproducir sus simulaciones muy bien. Además, también descubrimos que el enfoque de MEM reveló nuevos conocimientos sobre el proceso de plegado (una nueva vía de plegado) que faltaba en el enfoque más tradicional de ANTON."
+
+msgid "What are some of the applications for these techniques?"
+msgstr "¿Cuáles son algunas de las aplicaciones de estas técnicas?"
+
+msgid "MSMs and adaptive sampling have been used to study protein folding (1-8), functional dynamics (8-11), ligand-binding (11-14), and protein-protein interactions (15)."
+msgstr "Los MEM y el muestreo adaptativo se han utilizado para estudiar el plegamiento de proteínas (1-8), la dinámica funcional (8-11), la unión de ligandos (11-14) y las interacciones proteína-proteína (15)."
+
+msgid "Jayachandran G, Vishal V, & Pande VS (2006) Using massively parallel simulation and Markovian models to study protein folding: Examining the dynamics of the villin headpiece. Journal of Chemical Physics 124:164902."
+msgstr "Jayachandran G, Vishal V, & Pande VS (2006) Using massively parallel simulation and Markovian models to study protein folding: Examining the dynamics of the villin headpiece. Journal of Chemical Physics 124:164902."
+
+msgid "Bowman GR, Beauchamp KA, Boxer G, & Pande VS (2009) Progress and challenges in the automated construction of Markov state models for full protein systems. Journal of Chemical Physics 131(12):124101."
+msgstr "Bowman GR, Beauchamp KA, Boxer G, & Pande VS (2009) Progress and challenges in the automated construction of Markov state models for full protein systems. Journal of Chemical Physics 131(12):124101."
+
+msgid "Noe F, Schutte C, Vanden-Eijnden E, Reich L, & Weikl TR (2009) Constructing the equilibrium ensemble of folding pathways from short off-equilibrium simulations. Proceedings of the National Academy of Sciences of the USA 106(45):19011-19016."
+msgstr "Noe F, Schutte C, Vanden-Eijnden E, Reich L, & Weikl TR (2009) Constructing the equilibrium ensemble of folding pathways from short off-equilibrium simulations. Proceedings of the National Academy of Sciences of the USA 106(45):19011-19016."
+
+msgid "Bowman GR & Pande VS (2010) Protein folded states are kinetic hubs. Proceedings of the National Academy of Sciences of the USA 107(24):10890-10895."
+msgstr "Bowman GR & Pande VS (2010) Protein folded states are kinetic hubs. Proceedings of the National Academy of Sciences of the USA 107(24):10890-10895."
+
+msgid "Beauchamp KA, Ensign DL, Das R, & Pande VS (2011) Quantitative comparison of villin headpiece subdomain simulations and triplet-triplet energy transfer experiments. Proc Natl Acad Sci USA 108:12734-12739."
+msgstr "Beauchamp KA, Ensign DL, Das R, & Pande VS (2011) Quantitative comparison of villin headpiece subdomain simulations and triplet-triplet energy transfer experiments. Proc Natl Acad Sci USA 108:12734-12739."
+
+msgid "Bowman GR, Voelz VA, & Pande VS (2011) Atomistic folding simulations of the five-helix bundle protein (6-85). Journal of the American Chemical Society 133(4):664-667."
+msgstr "Bowman GR, Voelz VA, & Pande VS (2011) Atomistic folding simulations of the five-helix bundle protein (6-85). Journal of the American Chemical Society 133(4):664-667."
+
+msgid "Voelz VA et al. (2012) Slow unfolded-state structuring in Acyl-CoA binding protein folding revealed by simulation and experiment. Journal of the American Chemical Society 134(30):12565-12577."
+msgstr "Voelz VA et al. (2012) Slow unfolded-state structuring in Acyl-CoA binding protein folding revealed by simulation and experiment. Journal of the American Chemical Society 134(30):12565-12577."
+
+msgid "Lane TJ, Bowman GR, Beauchamp K, Voelz VA, & Pande VS (2011) Markov state model reveals folding and functional dynamics in ultra-long MD trajectories. Journal of the American Chemical Society 133(45):18413-18419."
+msgstr "Lane TJ, Bowman GR, Beauchamp K, Voelz VA, & Pande VS (2011) Markov state model reveals folding and functional dynamics in ultra-long MD trajectories. Journal of the American Chemical Society 133(45):18413-18419."
+
+msgid "Yang S, Banavali NK, & Roux B (2009) Mapping the conformational transition in Src activation by cumulating the information from multiple molecular dynamics trajectories. Proc Natl Acad Sci USA 106(10):3776-3781."
+msgstr "Yang S, Banavali NK, & Roux B (2009) Mapping the conformational transition in Src activation by cumulating the information from multiple molecular dynamics trajectories. Proc Natl Acad Sci USA 106(10):3776-3781."
+
+msgid "Morcos F, et al. (2010) Modeling conformational ensembles of slow functional motions in Pin1-WW. PLoS Computational Biology 6(12):e1001015."
+msgstr "Morcos F, et al. (2010) Modeling conformational ensembles of slow functional motions in Pin1-WW. PLoS Computational Biology 6(12):e1001015.."
+
+msgid "Bowman GR & Geissler PL (2012) Equilibrium fluctuations of a single folded protein reveal a multitude of potential cryptic allosteric sites. Proc Natl Acad Sci USA 109(29):11681-11686."
+msgstr "Bowman GR & Geissler PL (2012) Equilibrium fluctuations of a single folded protein reveal a multitude of potential cryptic allosteric sites. Proc Natl Acad Sci USA 109(29):11681-11686."
+
+msgid "Silva DA, Bowman GR, Sosa-Peinado A, & Huang X (2011) A role for both conformational selection and induced fit in ligand binding by the LAO protein. PLoS Computational Biology 7(5):e1002054."
+msgstr "Silva DA, Bowman GR, Sosa-Peinado A, & Huang X (2011) A role for both conformational selection and induced fit in ligand binding by the LAO protein. PLoS Computational Biology 7(5):e1002054."
+
+msgid "Buch I, Giorgino T, & De Fabritiis G (2011) Complete reconstruction of an enzyme-inhibitor binding process by molecular dynamics simulations. Proc Natl Acad Sci USA 108(25):10184-10189."
+msgstr "Buch I, Giorgino T, & De Fabritiis G (2011) Complete reconstruction of an enzyme-inhibitor binding process by molecular dynamics simulations. Proc Natl Acad Sci USA 108(25):10184-10189."
+
+msgid "Held M, Metzner P, Prinz JH, & Noe F (2011) Mechanisms of protein-ligand association and its modulation by protein mutations. Biophysics Journal 100(3):701-710."
+msgstr "Held M, Metzner P, Prinz JH, & Noe F (2011) Mechanisms of protein-ligand association and its modulation by protein mutations. Biophysics Journal 100(3):701-710."
+
+msgid "Levin AM et al. (2012) Exploiting a natural conformational switch to engineer an interleukin-2 ‘super-kine.’ Nature 484(7395):529-533."
+msgstr "Levin AM et al. (2012) Exploiting a natural conformational switch to engineer an interleukin-2 ‘super-kine.’ Nature 484(7395):529-533.s"
+
+msgid "Who answered these questions?"
+msgstr "¿Quién respondió a estas preguntas?"
+
+msgid "These questions were answered primarily by TJ Lane, Gregory Bowman, Robert McGibbon, Christian Schwantes, Vijay Pande, and Bruce Borden."
+msgstr "Estas preguntas fueron respondidas principalmente por TJ Lane, Gregory Bowman, Robert McGibbon, Christian Schwantes, Vijay Pande y Bruce Borden."

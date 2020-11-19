@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/papers-results/\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200907\n"
+"Target-Language: fr-FR\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20201003\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+
+#: 
+msgid "PAPERS & RESULTS"
+msgstr "ARTICLES ET RÉSULTATS"
+
+#: 
+msgid "Here are our peer-reviewed results from Folding@home. For summaries of these methods and papers, as well as the scientific background behind Folding@home, please see the [Folding@home article on Wikipedia](https://en.wikipedia.org/wiki/Folding@home)."
+msgstr "Voici les résultats de Folding@home évalués par les pairs. Pour des résumés de ces méthodes et articles, ainsi que le contexte scientifique de Folding@home, veuillez consulter l'[article Folding@home de Wikipédia](https://fr.wikipedia.org/wiki/Folding@home)."
+
+#: 
+msgid "For all of the papers from the Pande Lab (not just those from Folding@home), please see our [group papers page](http://pande.stanford.edu/papers). Note that it can take quite a while to go from a result to a published peer review article (often as much as a year). These papers represent our progress to date that’s publicly available, with lots more on the way."
+msgstr "Pour l'ensembler des articles du Pande Lab (pas uniquement ceux de Folding@home), veuillez consulter notre [page des articles du groupe] (http://pande.stanford.edu/papers). Notez que le passage d'un résultat à un article publié dans une revue scientifique peut prendre un certain temps (souvent jusqu'à un an). Ces articles représentent nos progrès à ce jour, qui sont accessibles au public, et beaucoup d’autres sont en cours."
+
+#: 
+msgid "The distribution rules for published papers vary by the publication in which the paper appears. Due to these rules, a public web-source of each paper may not be immediately available. If full version is not linked below or available elsewhere on the Internet ([Google Scholar](https://scholar.google.com/) can be helpful for this), most, if not all of these publications are freely available at a local municipal or collegial library. Note these articles are written for fellow scientists, so the contents are fairly technical."
+msgstr "Les règles de distribution des articles publiés varient selon la publication dans laquelle l'article apparaît. En raison de ces règles, une source web publique peut ne pas être disponible immédiatement pour chacun des articles. Si la version complète n'est pas mise en lien ci-dessous ou disponible ailleurs sur Internet ([Google Scholar](https://scholar.google.com/) peut être utile pour ces recherches en ligne), la plupart, sinon la totalité de ces publications est disponible gratuitement dans une bibliothèque municipale ou universitaire locale. Notez que ces articles sont rédigés à l'attention de collègues scientifiques, donc leur contenu est assez technique."
+

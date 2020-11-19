@@ -1,0 +1,114 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200705\n"
+"Target-Language: de-DE\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20200710\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 2.3.1\n"
+
+msgid "I AM"
+msgstr "ICH BIN"
+
+msgid "One"
+msgstr "Einer"
+
+msgid "IN A MILLION"
+msgstr "VON EINER MILLION"
+
+msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
+msgstr "Egal, ob Sie bereits mitfalten oder noch nie davon gehört haben: Wir brauchen IHRE Hilfe, um unser Ziel – eine Million Unterstützer – zu erreichen."
+
+msgid "Start folding now"
+msgstr "Jetzt mitfalten"
+
+msgid "Hide this and watch the video."
+msgstr "Schließen, um das Video anzusehen."
+
+msgid "START FOLDING NOW"
+msgstr "JETZT MITFALTEN"
+
+msgid "Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use."
+msgstr "Suchen Sie sich die Version der Software aus, welche Ihnen am liebsten ist und legen Sie los. Folding@home herunterzuladen ist komplett kostenlos, einfach zu installieren, und die Nutzung ist sicher."
+
+msgid "Available for:"
+msgstr "Verfügbar für:"
+
+msgid "Linux"
+msgstr "Linux"
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "Mac"
+msgstr "Mac"
+
+msgid "Start folding"
+msgstr "Jetzt mitfalten"
+
+msgid "JOIN THE COMMUNITY"
+msgstr "WERDEN SIE TEIL DER COMMUNITY"
+
+msgid "The Folding@Home community is spread over countless forums, websites and social media."
+msgstr "Die Folding@home Community ist über unzählige Foren, Internetseiten und soziale Medien verteilt."
+
+msgid "Here's a list of our official channels."
+msgstr "Hier ist eine Liste unser offiziellen Kanäle."
+
+msgid "For tech support:"
+msgstr "Für technische Hilfe:"
+
+msgid "foldingforum.org"
+msgstr "foldingforum.org"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "1 in a million"
+msgstr "Einer von einer Million"
+
+msgid "WHY WE NEED YOU"
+msgstr "Warum wir Sie brauchen"
+
+msgid "Folding@home is a project focused on disease research. The problems we are solving require so many computer calculations and we need your help to find the cures!"
+msgstr "Folding@home ist ein Projekt, das sich auf die Erforschung von Krankheiten konzentriert. Diese Forschung erfordert eine so große Menge an Berechnungen, dass wir Ihre Hilfe brauchen, um Heilmittel zu finden!"
+
+msgid "Fight diseases Together with us."
+msgstr "Bekämpfen Sie Krankheiten gemeinsam mit uns."
+
+msgid "The Folding@home software allows you to share your unused computer power with us – so that we can research even more potential cures."
+msgstr "Die Folding@home-Software erlaubt es Ihnen, uns Ihre ungenutzte Rechenleistung zur Verfügung zu stellen, so dass wir noch mehr mögliche Heilmittel finden können."
+
+msgid "FOLDING?"
+msgstr "FALTEN?"
+
+msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
+msgstr "Als „Falten“ wird der Vorgang bezeichnet, wie sich die Proteine in den Zellen des menschlichen Körpers verformen. Unsere Gesundheit ist auf Proteine angewiesen und diese werden durch das Falten zusammengefügt. Wenn sich Proteine jedoch falsch falten, kann dies ernsthafte Folgen für die Gesundheit einer Person haben."
+
+msgid "Learn more"
+msgstr "Mehr erfahren"
+
+msgid "Team"
+msgstr "Team"
+
+msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
+msgstr "Folding@home ist derzeit bei der Washington University in der St. Louis School of Medicine zu Hause und steht unter der Leitung von Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Die Doktoren [John Chodera](http://www.choderalab.org/) (MSKCC) und [Vince Voelz](http://www.voelzlab.org/) (Temple University) unterstützen das Projektmanagement ebenfalls aktiv. Ihre drei Labore sind die Hauptantriebskraft von Folding@home."
+
+msgid "Latest Posts"
+msgstr "Neueste Posts"
