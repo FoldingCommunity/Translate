@@ -8,7 +8,7 @@ msgstr ""
 "Source-Last-Modified: 20200803\n"
 "Target-Language: de-DE\n"
 "Target-Version: 1.0\n"
-"Target-Last-Modified: 20200805\n"
+"Target-Last-Modified: 20201005\n"
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
@@ -59,10 +59,10 @@ msgid "First, we uncovered novel protein structures that were previously inacces
 msgstr "Zuerst entdeckten wir neuartige Proteinstrukturen, die der Forschungswelt zuvor nicht zugänglich waren."
 
 msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
-msgstr "Mit Ihrer Hilfe prüfen wir nun im Rahmen der COVID-Moonshot-Zusammenarbeit auf mögliche Medikamente, um diese Strukturen ins Visier zu nehmen."
+msgstr "Mit Ihrer Hilfe prüfen wir nun im Rahmen der COVID-Moonshot-Zusammenarbeit auf mögliche Medikamente, welche diese Strukturen ins Visier zu nehmen."
 
 msgid "See real-time progress toward new drugs"
-msgstr "Sehen Sie den Fortschritt hin zu neuen Medikamenten in Echtzeit"
+msgstr "Beobachten Sie die Entwicklung neuer Medikamente in Echtzeit"
 
 msgid "Foldingathome Ambassadors"
 msgstr "Botschafter von Foldingathome"
@@ -161,13 +161,13 @@ msgid "SHARE YOUR STORY"
 msgstr "TEILEN SIE IHRE GESCHICHTE"
 
 msgid "Help us spread the word about Foldingathome and why you have joined. Create your video and share it on social media."
-msgstr "Helfen Sie uns, auf Foldingathome aufmerksam zu machen und erzählen Sie, warum Sie dabei sind. Erstellen Sie Ihr Video und teilen Sie es über sozialen Medien."
+msgstr "Helfen Sie uns, auf Foldingathome aufmerksam zu machen und erzählen Sie, warum Sie mitmachen. Erstellen Sie ein Video und teilen Sie es über sozialen Medien."
 
 msgid "Step 1) Record yourself to make a video like those above."
-msgstr "Schritt 1) Nehmen Sie nach obigen Vorlagen ein Video von sich selbst auf."
+msgstr "Schritt 1) Nehmen Sie, analog zu den oberen, ein Video von sich selbst auf."
 
 msgid "Step 2) Share it on social media with hashtag #foldingathome and follow @foldingathome on Facebook and Twitter."
-msgstr "Schritt 2) Teilen Sie es unter dem Hashtag #foldingathome in sozialen Medien, und folgen Sie @foldingathome auf Facebook und Twitter."
+msgstr "Schritt 2) Teilen Sie es unter dem Hashtag #foldingathome in sozialen Medien und folgen Sie @foldingathome auf Facebook und Twitter."
 
 msgid "Thank you!"
 msgstr "Vielen Dank!"

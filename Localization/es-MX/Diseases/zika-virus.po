@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/zika-virus/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: es-MX\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201005\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Language: es_MX\n"
+
+msgid "ZIKA VIRUS"
+msgstr "VIRUS ZIKA"
+
+msgid "Zika virus is an emerging flavivirus that is rapidly spreading throughout South America, Central America and the Caribbean."
+msgstr "El virus Zika es un flavivirus emergente que se está extendiendo rápidamente por Sudamérica, Centroamérica y el Caribe."
+
+msgid "Zika infections generally cause only mild symptoms. However, recent studies show that Zika virus can pass from a pregnant woman to her fetus and there is strong evidence that associates Zika infection during pregnancy with a significant increase in serious fetal brain defects. There are no existing approved treatments for Zika. We are applying our approach from Dengue to Zika, due to the strong similarities between these diseases."
+msgstr "Las infecciones por Zika generalmente solo causan síntomas leves. Sin embargo, estudios recientes muestran que el virus del Zika puede pasar de una mujer embarazada a su feto y existe una fuerte evidencia de que asocia la infección del Zika durante el embarazo con un aumento significativo de defectos cerebrales fetales graves. No existen tratamientos aprobados para el Zika. Estamos aplicando nuestro enfoque desde el dengue hasta el zika, debido a las fuertes similitudes entre estas enfermedades."
+
+msgid "By CDC/ Cynthia Goldsmith (http://phil.cdc.gov/phil/details.asp?pid=20541) [Public domain], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AZika_EM_CDC_20541.png)"
+msgstr "Por CDC/ Cynthia Goldsmith (http://phil.cdc.gov/phil/details.asp?pid=20541) [Dominio público], [por Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AZika_EM_CDC_20541.png)"
+
+

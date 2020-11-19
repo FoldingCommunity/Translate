@@ -1,0 +1,28 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/ebola-virus/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20201010\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "EBOLA VIRUS"
+msgstr ""
+
+msgid "Our work in infectious disease stems from the primary approach we take methodologically: we use computational methods to repurpose drugs, i.e. find new uses for existing drugs."
+msgstr ""
+
+msgid "The power of this method is that we can move very quickly and inexpensively to yield new therapies. The reason why infectious disease is such a good target for repurposing is that we already know that the drugs to repurpose are safe (or more specifically, at which doses they are safe) and it is also common for small molecules to be toxic to organisms (that’s a key reason why drug design is so hard) and so what we need to do is to find small molecule drugs that are toxic to the pathogen and not to humans (as repurpose drugs are already known to be safe)."
+msgstr ""
+
+msgid "We are applying these approaches to key infectious diseases which have commonalities: Dengue Fever, Ebola, and Zika all have similar biology as does Chagas Disease, West Nile Virus, and African Sleeping Sickness."
+msgstr ""
+
+msgid "By NIAID [[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AEbola_Virus_From_Mali_Blood_Sample_(1).jpg)"
+msgstr ""
+
+

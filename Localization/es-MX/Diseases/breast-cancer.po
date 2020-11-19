@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/cancer/breast-cancer/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: es-MX\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201005\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Language: es_MX\n"
+
+msgid "BREAST CANCER"
+msgstr "CÁNCER DE MAMA"
+
+msgid "In 2014, we started to study breast cancer, specifically the Her2 Kinase, which is a part of the EGFR family of Tyrosine kinases, responsible for initiating a host of biochemical pathways. These kinases are critical for regulating cell division and thus mutations within the EGFR family have been linked to various types of cancers, including breast and pancreatic cancer."
+msgstr "En 2014, comenzamos a estudiar el cáncer de mama, específicamente la Her2 Quinasa, que es parte de la familia EGFR de Tirosina cinasas, responsable de iniciar una serie de vías bioquímicas. Estas quinasas son críticas para regular la división celular y, por lo tanto, las mutaciones dentro de la familia EGFR se han relacionado con varios tipos de cánceres, incluido el cáncer de mama y de páncreas."
+
+msgid "The aim of projects 9104 to 9114 is to understand the effect of certain mutations in the kinase domain of Her2. We are also hoping to find new druggable states within the system for creating the next generation of targeted cancer therapeutics, as well as to study the effect of mutations, which will give us insight into mutations present in breast cancer tumors."
+msgstr "El objetivo de los proyectos 9104 a 9114 es comprender el efecto de ciertas mutaciones en el dominio cinasa de Her2. También esperamos encontrar nuevos estados farmacológicos dentro del sistema para crear la próxima generación de terapias contra el cáncer dirigidas, así como para estudiar el efecto de las mutaciones, lo que nos dará una idea de las mutaciones presentes en los tumores de cáncer de mama."
+
+msgid "By Dr. Cecil Fox (Photographer) [Public domain or Public domain], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABreast_cancer_cells.jpg)"
+msgstr "Por el Dr. Cecil Fox (fotógrafo) [dominio público o dominio público],[a través de Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABreast_cancer_cells.jpg)"
