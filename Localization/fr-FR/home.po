@@ -71,7 +71,7 @@ msgid "Here's a list of our official channels."
 msgstr "Voici une liste de nos canaux officiels."
 
 msgid "For tech support: [foldingforum.org](https://foldingforum.org/)"
-msgstr "Support technique: [foldingforum.org](https://foldingforum.org/)""
+msgstr "Support technique: [foldingforum.org](https://foldingforum.org/)"
 
 msgid "Facebook"
 msgstr "Facebook"
