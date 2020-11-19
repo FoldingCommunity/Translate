@@ -22,8 +22,8 @@ msgstr ""
 msgid "Diseases"
 msgstr "MALADIES"
 
-msgid "The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far."
-msgstr "Le projet Folding@home (FAH) s'attache à comprendre le phénomène du repliement des protéines, les maladies dues à un repliement anormal et à l'agrégation des protéines et les nouvelles approches informatiques du développement de médicaments en général. Nous décrivons ici brièvement nos objectifs, nos activités actuelles et quelques temps forts."
+msgid "**The Folding@home project (FAH) is dedicated to understanding protein folding, the diseases that result from protein misfolding and aggregation, and novel computational ways to develop new drugs in general. Here, we briefly describe our goals, what we are doing, and some highlights so far.**"
+msgstr "**Le projet Folding@home (FAH) s'attache à comprendre le phénomène du repliement des protéines, les maladies dues à un repliement anormal et à l'agrégation des protéines et les nouvelles approches informatiques du développement de médicaments en général. Nous décrivons ici brièvement nos objectifs, nos activités actuelles et quelques temps forts.**"
 
 msgid "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
 msgstr "Un projet de calcul distribué doit non seulement gérer des calculs sur des millions de PC, mais aussi et surtout produire des résultats, notamment sous forme de publications soumises à un examen collégial, de conférences publiques et autres voies de communication ciblant la communauté scientifique au sens large. Vous trouverez dans la barre latérale divers liens illustrant nos progrès dans différents domaines."
