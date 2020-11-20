@@ -3,11 +3,11 @@ msgstr ""
 "FAH-Translate-Schema-Version: 1.0\n"
 "URL: https://foldingathome.org/\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
-"Source-Last-Modified: 20200705\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20201102\n"
 "Target-Language: fr-FR\n"
-"Target-Version: 1.0\n"
-"Target-Last-Modified: 20200716\n"
+"Target-Version: 1.1\n"
+"Target-Last-Modified: 20201119\n"
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
@@ -33,6 +33,9 @@ msgstr "Que vous participiez déjà à l'effort de « folding » ou que le sujet
 
 msgid "Start folding now"
 msgstr "Se lancer"
+
+msgid "Latest Posts"
+msgstr "Derniers billets"
 
 msgid "Hide this and watch the video."
 msgstr "Masquer cet écran pour visionner la vidéo."
@@ -67,11 +70,8 @@ msgstr "La communauté Folding@Home est répartie entre d'innombrables forums, s
 msgid "Here's a list of our official channels."
 msgstr "Voici une liste de nos canaux officiels."
 
-msgid "For tech support:"
-msgstr "Support technique:"
-
-msgid "foldingforum.org"
-msgstr "foldingforum.org"
+msgid "For tech support: [foldingforum.org](https://foldingforum.org/)"
+msgstr "Support technique: [foldingforum.org](https://foldingforum.org/)"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -108,6 +108,3 @@ msgstr "L'équipe"
 
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
 msgstr "Actuellement, Folding@home est basé à l'École de médecine de l'Université Washington de Saint-Louis (Missouri, États-Unis) et dirigé par le Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Les Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) participent aussi à la gestion du projet. Ensemble, leurs trois laboratoires constituent les principaux moteurs de Folding@home."
-
-msgid "Latest Posts"
-msgstr "Derniers billets"
