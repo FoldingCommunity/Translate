@@ -65,7 +65,7 @@ msgstr "La comunidad de Folding@Home está dispersa sobre diversos foros, sitios
 msgid "Here's a list of our official channels."
 msgstr "Aquí está una lista de nuestros canales oficiales."
 
-"For tech support: [foldingforum.org](https://foldingforum.org/)"
+msgid "For tech support: [foldingforum.org](https://foldingforum.org/)"
 msgstr "Para soporte técnico: [foldingforum.org](https://foldingforum.org/)"
 
 msgid "foldingforum.org"
