@@ -76,6 +76,12 @@ msgstr ""
 msgid "CEO, Nvidia"
 msgstr ""
 
+msgid "Bob Swan"
+msgstr ""
+
+msgid "CEO Intel"
+msgstr ""
+
 msgid "Dr. Gregory Bowman"
 msgstr ""
 
