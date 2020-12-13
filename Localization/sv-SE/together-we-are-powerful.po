@@ -95,7 +95,7 @@ msgid "Dr. Gregory Bowman"
 msgstr "Dr. Gregory Bowman"
 
 msgid "Director of Foldingathome & Associate Professor, Washington University School of Medicine in St Louis"
-msgstr "Direktör av Foldingathome & associerade professorer, Washington universitets skola i medicin i St Louis"
+msgstr "Direktör av Foldingathome & associerade professorer, Washington universitets medicinska fakulteten i St Louis"
 
 msgid "Charles H. Giancarlo"
 msgstr "Charles H. Giancarlo"
@@ -119,7 +119,7 @@ msgid "Michael Ward"
 msgstr "Michael Ward"
 
 msgid "PhD Student, Bowman lab, Washington University School of Medicine in St Louis"
-msgstr "Doktorand, Bowman laboratoriet, Washington universitets skola i Medicin i St Louis"
+msgstr "Doktorand, Bowman laboratoriet, Washington universitets medicinska fakulteten i St Louis"
 
 msgid "Patrick P. Gelsinger"
 msgstr "Patrick P. Gelsinger"
