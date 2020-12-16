@@ -85,6 +85,7 @@ msgstr "Bob Swan"
 
 msgid "CEO Intel"
 msgstr "Director ejecutivo de Intel"
+
 msgid "Dr. Gregory Bowman"
 msgstr "Dr. Gregory Bowman"
 
