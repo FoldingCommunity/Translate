@@ -3,11 +3,11 @@ msgstr ""
 "FAH-Translate-Schema-Version: 1.0\n"
 "URL: https://foldingathome.org/\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
-"Source-Last-Modified: 20200705\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20201102\n"
 "Target-Language: es-MX\n"
-"Target-Version: 1.0\n"
-"Target-Last-Modified: 20200709\n"
+"Target-Version: 1.1\n"
+"Target-Last-Modified: 20201102\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -53,6 +53,9 @@ msgstr "Mac"
 msgid "Start folding"
 msgstr "Comienza a plegar"
 
+msgid "Latest Posts"
+msgstr "Últimas Publicaciones"
+
 msgid "JOIN THE COMMUNITY"
 msgstr "ÚNETE A LA COMUNIDAD"
 
@@ -62,11 +65,8 @@ msgstr "La comunidad de Folding@Home está dispersa sobre diversos foros, sitios
 msgid "Here's a list of our official channels."
 msgstr "Aquí está una lista de nuestros canales oficiales."
 
-msgid "For tech support:"
-msgstr "Para soporte técnico:"
-
-msgid "foldingforum.org"
-msgstr "foldingforum.org"
+msgid "For tech support: [foldingforum.org](https://foldingforum.org/)"
+msgstr "Para soporte técnico: [foldingforum.org](https://foldingforum.org/)"
 
 msgid "Facebook"
 msgstr "Facebook"
@@ -104,5 +104,4 @@ msgstr "Equipo"
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
 msgstr "Folding@home tiene ahora su sede en la Universidad De Washington en la Escuela de Medicina en St. Louis, bajo la dirección del Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Los Doctores [John Chodera](http://www.choderalab.org/) (MSKCC) y [Vince Voelz](http://www.voelzlab.org/) (Temple University) también están ayudando activamente a administrar el proyecto. Juntos, sus tres laboratorios son los principales impulsores de Folding@Home."
 
-msgid "Latest Posts"
-msgstr "Últimas Publicaciones"
+

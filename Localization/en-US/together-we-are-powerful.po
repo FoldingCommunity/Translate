@@ -4,8 +4,8 @@ msgstr ""
 "URL: https://foldingathome.org/together-we-are-powerful/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.1\n"
-"Source-Last-Modified: 20200906\n"
+"Source-Version: 1.4\n"
+"Source-Last-Modified: 20201217\n"
 "Target-Language:\n"
 "Target-Version:\n"
 "Target-Last-Modified:\n"
@@ -40,7 +40,7 @@ msgstr ""
 msgid "Play"
 msgstr ""
 
-msgid "Learn about our work on SARS-CoV-2 and COVID-19."
+msgid "[Learn about our work on SARS-CoV-2 and COVID-19.](https://foldingathome.org/diseases/infectious-diseases/covid-19/)"
 msgstr ""
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
@@ -52,7 +52,7 @@ msgstr ""
 msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
 msgstr ""
 
-msgid "See real-time progress toward new drugs"
+msgid "[See real-time progress toward new drugs](https://covid.postera.ai/covid)"
 msgstr ""
 
 msgid "Foldingathome Ambassadors"
@@ -74,6 +74,12 @@ msgid "Jensen Huang"
 msgstr ""
 
 msgid "CEO, Nvidia"
+msgstr ""
+
+msgid "Bob Swan"
+msgstr ""
+
+msgid "CEO Intel"
 msgstr ""
 
 msgid "Dr. Gregory Bowman"
@@ -175,7 +181,7 @@ msgstr ""
 msgid "Choose your platform"
 msgstr ""
 
-msgid "Alternative Downloads"
+msgid "[Alternative Downloads](https://foldingathome.org/alternative-downloads/)"
 msgstr ""
 
 msgid "Contributors"

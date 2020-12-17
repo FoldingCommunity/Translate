@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/papers-results/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20200923\n"
+"Target-Language: id-ID\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20201019\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: id_ID\n"
+"X-Generator: Poedit 2.4.1\n"
+
+msgid "PAPERS & RESULTS"
+msgstr "MAKALAH & HASIL"
+
+msgid "Here are our peer-reviewed results from Folding@home. For summaries of these methods and papers, as well as the scientific background behind Folding@home, please see the [Folding@home article on Wikipedia](https://en.wikipedia.org/wiki/Folding@home)."
+msgstr "Berikut adalah hasil peer-review kami dari Folding@home. Ringkasan dari metode dan makalah, serta latar belakang ilmiah di balik Folding@home, dapat Anda lihat pada tautan [Artikel Folding@home di Wikipedia](https://en.wikipedia.org/wiki/Folding@home)."
+
+msgid "For all of the papers from the Pande Lab (not just those from Folding@home), please see our [group papers page](http://pande.stanford.edu/papers). Note that it can take quite a while to go from a result to a published peer review article (often as much as a year). These papers represent our progress to date that’s publicly available, with lots more on the way."
+msgstr "Untuk semua makalah dari Pande Lab (tidak hanya dari Folding@home), silakan lihat [halaman makalah](http://pande.stanford.edu/papers) kami. Perlu diketahui bahwa dibutuhkan waktu yang cukup lama agar hasil dapat menjadi artikel publikasi peer-review (seringkali hingga satu tahun). Makalah ini menunjukkan progres kami hingga tanggal makalah ini tersedia untuk umum, dengan masih banyak lagi yang sedang berjalan."
+
+msgid "The distribution rules for published papers vary by the publication in which the paper appears. Due to these rules, a public web-source of each paper may not be immediately available. If full version is not linked below or available elsewhere on the Internet ([Google Scholar](https://scholar.google.com/) can be helpful for this), most, if not all of these publications are freely available at a local municipal or collegial library. Note these articles are written for fellow scientists, so the contents are fairly technical."
+msgstr "Aturan distribusi makalah yang telah terbit bergantung pada tempat makalah tersebut dipublikasi. Oleh sebab itu, sumber web publik dari setiap makalah mungkin tidak langsung tersedia. Jika versi lengkap tidak ditautkan di bawah atau tersedia di tempat lain di Internet ([Google Cendekia](https://scholar.google.com/) mungkin dapat membantu), terlebih lagi jika tidak semua publikasi ini tersedia gratis di perpustakaan setempat. Sebagai catatan, artikel-artikel ini ditulis untuk sesama ilmuwan sehingga isinya cukup teknis."

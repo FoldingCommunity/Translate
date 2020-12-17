@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/chagas-disease-african-trypanosomiasis/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: es-MX\n"
+"Target-Version: 1.0\n"
+"Target-Last-Modified: 20201005\n"
+"MIME-Version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"Language: es_MX\n"
+
+msgid "CHAGAS DISEASE (AFRICAN TRYPANOSOMIASIS)"
+msgstr "ENFERMEDAD DE CHAGAS (TRIPANOSOMIASIS AFRICANA)"
+
+msgid "Chagas disease is caused by infection with the Trypanosoma cruzi parasite, and is one of the leading causes of heart failure in endemic regions of Latin America."
+msgstr "La enfermedad de Chagas es causada por la infección con el parásito Trypanosoma cruzi y es una de las principales causas de insuficiencia cardíaca en las regiones endémicas de América Latina."
+
+msgid "It is estimated to have infected over 10 million people, and nearly 30 % of chronic Chagas patients eventually develop cardiac complications and heart disease. The existing treatments for Chagas disease have limited efficacy against the chronic stage of the disease, and can cause severe side effects."
+msgstr "Se estima que ha infectado a más de 10 millones de personas, y casi el 30% de los pacientes con Chagas crónico eventualmente desarrollan complicaciones cardíacas y enfermedades cardíacas. Los tratamientos existentes para la enfermedad de Chagas tienen una eficacia limitada contra la etapa crónica de la enfermedad y pueden causar efectos secundarios graves."
+
+msgid "By Photo Credit:Content Providers(s): CDC/Dr. Myron G. Schultz [Public domain], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ATrypanosoma_cruzi_crithidia.jpeg)"
+msgstr "Por crédito de foto: Proveedor(es) de contenido: CDC/Dr. Myron G. Schultz [dominio público], [a través de Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ATrypanosoma_cruzi_crithidia.jpeg)"

@@ -3,9 +3,10 @@
 | Language | Done % | Updates Needed |
 | -------- | -----: | -------------: |
 | [bg-BG](#bg-BG) | 0% | ✔ 0 |
-| [de-DE](#de-DE) | 70% | 1 |
+| [de-DE](#de-DE) | 80% | 1 |
 | [es-ES](#es-ES) | 0% | ✔ 0 |
-| [es-MX](#es-MX) | ✔ 100% | 1 |
+| [es-MX](#es-MX) | 80% | 1 |
+| [fa-IR](#fa-IR) | 20% | ✔ 0 |
 | [fi-FI](#fi-FI) | 0% | ✔ 0 |
 | [fr-FR](#fr-FR) | 80% | ✔ 0 |
 | [it-IT](#it-IT) | 80% | 1 |
@@ -44,7 +45,7 @@
 | diseases.po | ? | ? | missing |
 | faq.po | ✔ | ✔ | - |
 | home.po | ✔ | ✔ | - |
-| papers-and-results.po | ? | ? | missing |
+| papers-and-results.po | ✔ | ✔ | - |
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
@@ -78,6 +79,21 @@
 | start-folding.po | ✔ | ✔ | - |
 | statistics.po | ✔ | ✔ | - |
 | together-we-are-powerful.po | ✔ | not up-to-date (1.0 vs 1.1) | - |
+
+[↑ Back to the overview](#overview)
+### fa-IR
+| File | Target-Language | Source-Version | Error |
+| ---- | --------------- | -------------- | ----- |
+| about.po | ✔ | ✔ | - |
+| covid-19.po | ? | ? | missing |
+| dig-deeper.po | ? | ? | missing |
+| diseases.po | ✔ | ✔ | - |
+| faq.po | ? | ? | missing |
+| home.po | ? | ? | missing |
+| papers-and-results.po | ? | ? | missing |
+| start-folding.po | ? | ? | missing |
+| statistics.po | ? | ? | missing |
+| together-we-are-powerful.po | ? | ? | missing |
 
 [↑ Back to the overview](#overview)
 ### fi-FI
