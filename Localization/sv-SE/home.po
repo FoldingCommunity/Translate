@@ -29,7 +29,7 @@ msgid "IN A MILLION"
 msgstr "I EN MILJON"
 
 msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
-msgstr "Oavsett om du redan viker eller om du aldrig har hört ett ord om det förut. Vi behöver din hjälp för att nå vårt mål - vilket är 1 miljon vikare."
+msgstr "Oavsett om du redan viker eller om du aldrig har hört ett ord om det förut, vi behöver din hjälp för att nå vårt mål - vilket är 1 miljon vikare."
 
 msgid "Start folding now"
 msgstr "Börja vika nu"
