@@ -41,7 +41,7 @@ msgid "[Available for Windows, Mac, Linux]"
 msgstr "[Tillgänglig för Windows, Mac, Linux]"
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
-msgstr "Utvecklingen på den nuvarande sprint 1 för att utvärdera en omgång av potentiella läkemedel började sön juli 26  06:31:13 utc 2020"
+msgstr "Utvecklingen på den nuvarande sprint 1 för att utvärdera en omgång av potentiella läkemedel började sön juli 26 06:31:13 utc 2020"
 
 msgid "Campaign Trailer"
 msgstr "Kampanj Trailer"
@@ -53,7 +53,7 @@ msgid "[Learn about our work on SARS-CoV-2 and COVID-19.](https://foldingathome.
 msgstr "[Läs om vårt arbete med SARS-CoV-2 och COVID-19.](https://foldingathome.org/diseases/infectious-diseases/covid-19/)"
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
-msgstr "I första hand används data kraften på SARS-CoV-2. Viruset som orsakar sjukdomen COVID-19, och dom proteinerna i kroppen som viruset reagerar med."
+msgstr "I första hand används data kraften på SARS-CoV-2, viruset som orsakar sjukdomen COVID-19, och dom proteinerna i kroppen som viruset reagerar med."
 
 msgid "First, we uncovered novel protein structures that were previously inaccessible to the research community."
 msgstr "Först, tog vi fram en ny proteinstruktur som förut var otillgänglig till forskare."
