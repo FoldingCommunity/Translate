@@ -4,10 +4,10 @@ msgstr ""
 "URL: https://foldingathome.org/together-we-are-powerful/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.4\n"
-"Source-Last-Modified: 20201217\n"
+"Source-Version: 1.3\n"
+"Source-Last-Modified: 20201210\n"
 "Target-Language: fr-FR\n"
-"Target-Version: 1.2\n"
+"Target-Version: 1.4\n"
 "Target-Last-Modified: 20201217\n"
 
 msgid "Together We Are Powerful - Folding@home"
@@ -75,6 +75,12 @@ msgstr "Jensen Huang"
 
 msgid "CEO, Nvidia"
 msgstr "PDG, Nvidia"
+
+msgid "Bob Swan"
+msgstr "Bob Swan"
+
+msgid "CEO Intel"
+msgstr "PDG Intel"
 
 msgid "Dr. Gregory Bowman"
 msgstr "Dr Gregory Bowman"
@@ -175,8 +181,8 @@ msgstr "[En savoir plus sur Folding@home](https://foldingathome.org/home)"
 msgid "Choose your platform"
 msgstr "Sélectionnez votre plateforme"
 
-msgid "Alternative Downloads"
-msgstr "Autres versions"
+msgid "[Alternative Downloads](https://foldingathome.org/alternative-downloads/)"
+msgstr "[Autres versions](https://foldingathome.org/alternative-downloads/)"
 
 msgid "Contributors"
 msgstr "Contributeurs"
