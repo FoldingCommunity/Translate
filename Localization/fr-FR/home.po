@@ -73,7 +73,7 @@ msgstr "Voici une liste de nos canaux officiels."
 msgid "For tech support: [foldingforum.org](https://foldingforum.org/)"
 msgstr "Support technique: [foldingforum.org](https://foldingforum.org/)"
 
-msgid "[Facebook]"
+msgid "[Facebook](https://www.facebook.com/Foldinghome-136059519794607/)"
 msgstr "[Facebook](https://www.facebook.com/Foldinghome-136059519794607/)"
 
 msgid "[Twitter](https://twitter.com/foldingathome)"
