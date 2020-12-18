@@ -7,8 +7,8 @@ msgstr ""
 "Source-Version: 1.1\n"
 "Source-Last-Modified: 202001102\n"
 "Target-Language: sv-SE\n"
-"Target-Version: 1.1\n"
-"Target-Last-Modified: 20201122\n"
+"Target-Version: 1.1.1\n"
+"Target-Last-Modified: 20201217\n"
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
@@ -26,7 +26,7 @@ msgid "**The Folding@home project (FAH) is dedicated to understanding protein fo
 msgstr "**Folding@home projektet (FAH) är dedikerad på att förstå protein vikning, sjukdomar som är ett resultat av protein miss vikning och aggregering, och nya sätt att räkna på som har utvecklat nya läkemedel generellt sätt. Här har vi kortfattat beskrivit våra mål, vad vi gör, och några höjdpunkter hittills.**"
 
 msgid "A distributed computing project must not only run calculations on millions of PCs, but such projects must produce results, especially in the form of peer-reviewed publications, public lectures, and other ways that disseminate the results from FAH to the greater scientific community. In the sidebar, you will find links to our progress in different areas."
-msgstr "Ett utbrett beräknings projekt måste inte innehålla miljoner av datorer som gör uträkningar, men såna typer av projekt måste ge resultat, speciellt i formen av jämlikt granskade publikationer, allmänna föreläsningar, och i andra sätt som sprider resultat ifrån FAH för den större vetenskapliga gemenskapen. I sidofältet kommer du kunna hitta länkar till våra framsteg inom olika områden."
+msgstr "Ett utbrett beräknings projekt måste inte innehålla miljoner av datorer som gör uträkningar, men såna typer av projekt måste ge resultat, speciellt i formen av jämlikt granskade publikationer, allmänna föreläsningar, och i andra sätt som sprider resultat från FAH för den större vetenskapliga gemenskapen. I sidofältet kommer du kunna hitta länkar till våra framsteg inom olika områden."
 
 msgid "You will also find updates about our work, advancements and new projects in the main [Folding@home blog](https://foldingathome.org/news/)."
 msgstr "Du kommer också hitta uppdateringar om vårt arbete, framsteg och nya projekt i huvudsak på [Folding@homes blog](https://foldingathome.org/news/)."
@@ -38,7 +38,7 @@ msgid "Proteins are necklaces of amino acids, long chain molecules. They are the
 msgstr "Proteiner är som halsband av aminosyror syror, långa kedjor av molekyler. De är grundstenarna till hur biologi får sin sak gjord. Som enzymer, de är den drivande kraften bakom alla bio kemikaliska reaktioner som gör så att biologi fungerar. Som strukturella element, de är huvudbeståndsdelen till våra ben, muskler, hår, skin och blodkärl. Som antikroppar, de känner igen om det kommer invaderande element och tillåter immunsystemet att ta bort dom oönskade invandrarna. Av dessa anledningarna, så har forskare sekvenserat det mänskliga genomet - Ritningarna av all proteinerna i biologin - Men hur kan vi förstå vad dessa proteiner gör och hur fungerar dom?"
 
 msgid "However, only knowing this sequence tells us little about what the protein does and how it does it. In order to carry out their function (e.g. as enzymes or antibodies), they must take on a particular shape, also known as a \"fold\". Thus, proteins are truly amazing machines: before they do their work, they assemble themselves! This self-assembly is called \"folding\"."
-msgstr "Emellertid, att endast veta denna sekvens berättar för oss lite om vad proteiner gör och hur de fungerar. För att utföra deras funktion utförd (t.ex så som enzymer och antikroppar), så måste de ha en special form, också känd som en ”vikning”. Alltså är proteiner en riktig fantastisk maskin: för de göra deras jobb och sätter de ihop sig själva! Denna ihop sättningen kallas ”vikning”."
+msgstr "Emellertid, att endast veta denna sekvens berättar för oss lite om vad proteiner gör och hur de fungerar. För att utföra deras funktion utförd (t.ex såsom enzymer och antikroppar), så måste de ha en speciell form, också känd som en ”vikning”. Alltså är proteiner en riktig fantastisk maskin: för de göra deras jobb och sätter de ihop sig själva! Denna ihopsättningen kallas ”vikning”."
 
 msgid "What happens if proteins don't fold correctly?"
 msgstr "Vad händer om proteiner inte viks på ett korrekt sätt?"
