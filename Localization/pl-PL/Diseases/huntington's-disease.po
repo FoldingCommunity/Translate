@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/neurological-diseases/huntingtons-disease/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: \n"
+"Target-Version: \n"
+"Target-Last-Modified: \n"
+
+msgid "HUNTINGTON’S DISEASE"
+msgstr ""
+
+msgid "Huntington’s Disease (HD) is caused by the aggregation of a different type of proteins. Some proteins have a repeat of a single amino acid (glutamine, often abbreviated as “Q”)."
+msgstr ""
+
+msgid "These poly-Q repeats, if long enough, form aggregates which cause HD. We are studying the structure of poly-Q aggregates as well as predicting the pathway by which they form. Similar to AD, these HD studies, if successful, would be useful for rational drug design approaches as well as further insight into how HD aggregates form kinetically (hopefully paving the way for a method to stop the HD aggregate formation)."
+msgstr ""
+
+msgid "By Jensflorian (Own work) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AHuntington_disease_ubiquitin.jpg)"
+msgstr ""
