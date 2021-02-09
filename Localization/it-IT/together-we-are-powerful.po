@@ -4,11 +4,11 @@ msgstr ""
 "URL: https://foldingathome.org/together-we-are-powerful/\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Source-Language: en-US\n"
-"Source-Version: 1.0\n"
-"Source-Last-Modified: 20200803\n"
+"Source-Version: 1.4\n"
+"Source-Last-Modified: 20201217\n"
 "Target-Language: it-IT\n"
-"Target-Version: 1.0.0\n"
-"Target-Last-Modified: 20200902\n"
+"Target-Version: 1.4.1\n"
+"Target-Last-Modified: 20210207\n"
 
 msgid "Together We Are Powerful - Folding@home"
 msgstr "Insieme siamo una forza - Folding@home"
@@ -40,8 +40,8 @@ msgstr "Trailer della campagna"
 msgid "Play"
 msgstr "Play"
 
-msgid "Learn about our work on SARS-CoV-2 and COVID-19."
-msgstr "Informazioni sul nostro lavoro sul SARS-CoV-2 e il COVID-19."
+msgid "[Learn about our work on SARS-CoV-2 and COVID-19.](https://foldingathome.org/diseases/infectious-diseases/covid-19/)"
+msgstr "[Informazioni sul nostro lavoro sul SARS-CoV-2 e il COVID-19.](https://foldingathome.org/diseases/infectious-diseases/covid-19/)"
 
 msgid "We are focusing the Foldingathome compute power on SARS-CoV-2, the virus that causes COVID-19, and the human proteins the virus interacts with."
 msgstr "Stiamo concentrato il potere computazione del Foldingathome sul SARS-CoV-2, il virus che causa il COVID-19, e sulle proteine umane con cui il virus interagisce."
@@ -52,8 +52,8 @@ msgstr "All'inizio abbiamo scoperto nuove strutture proteiche che prima non eran
 msgid "With your help, we are now screening for potential drugs to target these structures as a part of the COVID Moonshot Collaboration."
 msgstr "Con il tuo aiuto, stiamo cercando potenziali terapie che attacchino queste strutture proteiche, in collaborazione con COVID Moonshot."
 
-msgid "See real-time progress toward new drugs"
-msgstr "Andamento della ricerca in tempo reale"
+msgid "[See real-time progress toward new drugs](https://covid.postera.ai/covid)"
+msgstr "[Progressi in tempo reale nella scoperta di nuove terapie](https://covid.postera.ai/covid)"
 
 msgid "Foldingathome Ambassadors"
 msgstr "Foldingathome Ambassadors"
@@ -75,6 +75,12 @@ msgstr "Jensen Huang"
 
 msgid "CEO, Nvidia"
 msgstr "CEO, Nvidia"
+
+msgid "Bob Swan"
+msgstr "Bob Swan"
+
+msgid "CEO Intel"
+msgstr "CEO, Intel"
 
 msgid "Dr. Gregory Bowman"
 msgstr "Dr. Gregory Bowman"
@@ -142,6 +148,12 @@ msgstr "Emma Matthies"
 msgid "Info Security Engineer"
 msgstr "Info Security Engineer"
 
+msgid "Kevin Wasielewski"
+msgstr "Kevin Wasielewski"
+
+msgid "Co-founder & CEO Origin PC"
+msgstr "Co-founder & CEO Origin PC"
+
 msgid "Compilation Video"
 msgstr "Compilation Video"
 
@@ -169,8 +181,8 @@ msgstr "[Informazioni aggiuntive su Folding@home](https://foldingathome.org/home
 msgid "Choose your platform"
 msgstr "Scegli la tua piattaforma"
 
-msgid "Alternative Downloads"
-msgstr "Download alternativi"
+msgid "[Alternative Downloads](https://foldingathome.org/alternative-downloads/)"
+msgstr "[Download alternativi](https://foldingathome.org/alternative-downloads/)"
 
 msgid "Contributors"
 msgstr "Contributori"
