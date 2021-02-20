@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/dengue-fever/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: it-IT\n"
+"Target-Version: 1.1\n"
+"Target-Last-Modified: 20200221\n"
+
+msgid "DENGUE FEVER"
+msgstr "DENGUE"
+
+msgid "Dengue virus is a flavivirus that is estimated to infect about 390 million people annually and can potentially cause the life threatening Dengue hemorrhagic fever."
+msgstr "Il virus Dengue è un flavivirus che si stima infetti circa 390 milioni di persone ogni anno e che causi febbre emorragica, potenzialmente letale."
+
+msgid "The WHO has identified Dengue as the fastest growing mosquito borne disease in the world. Only 9 countries had experienced severe Dengue epidemics prior to 1970, but now the disease is prevalent in over 100 countries. There are no existing approved treatments for Dengue once infection occurs.  We are using a combination of cheminformatics and machine learning, in close coordination with experimental colleagues, to develop new therapies for Dengue."
+msgstr "L'OMS ha dichiarato la Dengue come la più malattia trasmessa dalle zanzare a più rapida crescita a livello mondiale. Solo 9 paesi hanno avuto epidemie di Dengue prima del 1970, mentre ora la malattia è diffusa in oltre 100 paesi. Non ci sono trattamenti approvati da utilizzare dopo l'infezione. Utilizziamo una combinazione di chemioinformatica, intelligenza artificiale e a prove sperimentali per sviluppare nuove terapie."
+
+msgid "By Muhammad Mahdi Karim (www.micro2macro.net) Facebook Youtube (Own work) [[GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAedes_aegypti_feeding.jpg)"
+msgstr "Di Muhammad Mahdi Karim (www.micro2macro.net) Facebook Youtube (Own work) [[GFDL 1.2](http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAedes_aegypti_feeding.jpg)"

@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: it-IT\n"
+"Target-Version: 1.1\n"
+"Target-Last-Modified: 20210220\n"
+
+msgid "ALZHEIMER’S DISEASE"
+msgstr "ALZHEIMER"
+
+msgid "Alzheimer’s Disease (AD) is caused by the aggregation of relatively small (42 amino acid) proteins, called Abeta peptides. These proteins form aggregates which even in small clumps appear to be toxic to neurons and cause neuronal cell death involved in Alzheimer’s Disease and the horrible neurodegenerative consequences. It’s a challenge to study these aggregates, even with simulations."
+msgstr "L'Alzheimer è causata dall'aggregazione di proteine relativamente piccole (42 aminoacidi), chiamate Abeta peptidi. Queste proteine formano aggregati che sembrano tossici per i neuroni, causano la morte delle cellule neuronali e portano alla neuro-degenerazione tipica di questa malattia. E' molto difficile studiare questi aggregati, anche con le simulazioni."
+
+msgid "We have many calculations being performed on AD. Our primary goals are the prediction of AD aggregate structure for rational drug design approaches as well as further insight into how AD aggregates form kinetically (hopefully paving the way for a method to stop the AD aggregate formation). We have made great progress towards this end."
+msgstr "Abbiamo molte simulazioni dedicate all'Alzheimer. I nostri due obiettivi principali sono predire la struttura di questi aggregati al fine di produrre farmaci adeguati e studiare la dinamica della loro formazione, nella speranza di trovare un sistema che la impedisca. Abbiamo fatto molti progressi verso questo obiettivo."
+
+msgid "By ADEAR: “Alzheimer’s Disease Education and Referral Center, a service of the National Institute on Aging.” [Public domain], [via Wikimedia Commons](https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/)"
+msgstr "Disegno di ADEAR: “Alzheimer’s Disease Education and Referral Center, un servizio del National Institute on Aging.” [Domain pubblico], [via Wikimedia Commons](https://foldingathome.org/diseases/neurological-diseases/alzheimers-disease/)"
