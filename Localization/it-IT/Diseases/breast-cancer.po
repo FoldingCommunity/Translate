@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/cancer/breast-cancer/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: it-IT\n"
+"Target-Version: 1.0.0\n"
+"Target-Last-Modified: 20210221\n"
+
+msgid "BREAST CANCER"
+msgstr "CANCRO AL SENO"
+
+msgid "In 2014, we started to study breast cancer, specifically the Her2 Kinase, which is a part of the EGFR family of Tyrosine kinases, responsible for initiating a host of biochemical pathways. These kinases are critical for regulating cell division and thus mutations within the EGFR family have been linked to various types of cancers, including breast and pancreatic cancer."
+msgstr "Nel 2014 abbiamo cominciato a studiare il cancro al seno, in particolare la proteina Her2, parte della famiglia di proteine chinasiche EGFR, responsabili dell'avvio di una serie di percorsi biochimici. Queste proteine sono fondamentali per la regolazione della mitosi cellulare: mutazioni all'interno della famiglia delle EGFR sono state collegate a diversi tipi di cancro, incluso quello al seno e al pancreas."
+
+msgid "The aim of projects 9104 to 9114 is to understand the effect of certain mutations in the kinase domain of Her2. We are also hoping to find new druggable states within the system for creating the next generation of targeted cancer therapeutics, as well as to study the effect of mutations, which will give us insight into mutations present in breast cancer tumors."
+msgstr "Lo scopo dei progetti dal 9104 al 9114 è di capire gli effetti di certe mutazioni nel dominio chinasico della Her2. Speriamo anche di trovare nuovi punti deboli da attaccare con una nuova generazione di farmaci, e di studiare gli effetti delle mutazioni, cosa che ci fornirebbe indizi sulle mutazioni presenti nei tumori al seno."
+
+msgid "By Dr. Cecil Fox (Photographer) [Public domain or Public domain], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABreast_cancer_cells.jpg)"
+msgstr "Del Dr. Cecil Fox (fotografo) [Dominio pubblico], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3ABreast_cancer_cells.jpg)"

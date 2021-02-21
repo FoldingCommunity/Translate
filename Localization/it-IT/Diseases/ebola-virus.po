@@ -1,0 +1,26 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/infectious-diseases/ebola-virus/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.1\n"
+"Source-Last-Modified: 20201010\n"
+"Target-Language: it-IT\n"
+"Target-Version: 1.1.0\n"
+"Target-Last-Modified: 20210221\n"
+
+msgid "EBOLA VIRUS"
+msgstr "EBOLA"
+
+msgid "Our work in infectious disease stems from the primary approach we take methodologically: we use computational methods to repurpose drugs, i.e. find new uses for existing drugs."
+msgstr "Il nostro lavoro con le malattie infettive parte dal nostro approccio: usiamo metodi computazionali per trovare nuovi usi a medicinali esistenti."
+
+msgid "The power of this method is that we can move very quickly and inexpensively to yield new therapies. The reason why infectious disease is such a good target for repurposing is that we already know that the drugs to repurpose are safe (or more specifically, at which doses they are safe) and it is also common for small molecules to be toxic to organisms (that’s a key reason why drug design is so hard) and so what we need to do is to find small molecule drugs that are toxic to the pathogen and not to humans (as repurpose drugs are already known to be safe)."
+msgstr "La forza di questo metodo sta nel permetterci di progredire la ricerca molto velocemente e a basso costo. Il motivo per cui le malattie infettive sono un ottimo candidato per l'uso di medicinali esistenti è che sappiamo già che tali medicinali sono sicuri (o meglio, a quale dosaggio sono sicuri). E' molto comune che piccole molecole siano tossiche per l'organismo (per questo disegnarne di nuove è così difficile): quindi cerchiamo di trovare molecole che siano tossiche per i patogeni ma non per gli umani, come appunto le medicine esistenti."
+
+msgid "We are applying these approaches to key infectious diseases which have commonalities: Dengue Fever, Ebola, and Zika all have similar biology as does Chagas Disease, West Nile Virus, and African Sleeping Sickness."
+msgstr "Applichiamo questo approccio a malattie infettive che hanno caratteristiche in comune: la dengue, l'ebola, e lo zika hanno una biologia simile alla malattia di Chagas, al virus del Nilo occidentale, alla tripanosomiasi africana."
+
+msgid "By NIAID [[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AEbola_Virus_From_Mali_Blood_Sample_(1).jpg)"
+msgstr "Di NIAID [[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AEbola_Virus_From_Mali_Blood_Sample_(1).jpg)"
