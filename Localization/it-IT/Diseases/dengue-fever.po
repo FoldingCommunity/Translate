@@ -8,7 +8,7 @@ msgstr ""
 "Source-Last-Modified: 20201005\n"
 "Target-Language: it-IT\n"
 "Target-Version: 1.1\n"
-"Target-Last-Modified: 20200221\n"
+"Target-Last-Modified: 20210221\n"
 
 msgid "DENGUE FEVER"
 msgstr "DENGUE"

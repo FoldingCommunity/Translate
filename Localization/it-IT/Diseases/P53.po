@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"FAH-Translate-Schema-Version: 1.0\n"
+"URL: https://foldingathome.org/diseases/cancer/p53/\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Source-Language: en-US\n"
+"Source-Version: 1.0\n"
+"Source-Last-Modified: 20201005\n"
+"Target-Language: it-IT\n"
+"Target-Version: 1.1\n"
+"Target-Last-Modified: 20210221\n"
+
+msgid "P53"
+msgstr "P53"
+
+msgid "Over half of all known cancers involve some mutation in p53, the so-called guardian of the cell. p53 is a tumor-suppressor which signals for cell death if DNA gets damaged."
+msgstr "Oltre la metà di tutti i tumori conosciuti coinvolge qualche mutazione in p53, il cosiddetto guardiano della cellula. p53 è un soppressore del tumore che segnala la morte cellulare se il DNA viene danneggiato."
+
+msgid "Without p53, damaged DNA can lead to the unusual growths found in cancer tumors. When p53 breaks down and does not fold correctly, then DNA damage goes unchecked and mutations can proliferate. We have been studying specific domains of p53 in order to predict mutations relevant in cancer and to study known cancer-related mutants."
+msgstr "Senza p53, il DNA danneggiato può portare alle crescita di cellule tumorali. Quando p53 non funziona correttamente, i danni al DNA non vengono rilevati e le mutazioni possono proliferare. Abbiamo studiato domini specifici di p53 per predire mutazioni che possono portare al cancro."
+
+msgid "By Nephron (Own work) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) or [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAnaplastic_astrocytoma_-_p53_-_very_high_mag.jpg)"
+msgstr "Di Nephron (Own work) [[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/) o [GFDL](http://www.gnu.org/licenses/fdl-1.3.html)], [via Wikimedia Commons](https://commons.wikimedia.org/wiki/File%3AAnaplastic_astrocytoma_-_p53_-_very_high_mag.jpg)"
