@@ -8,7 +8,7 @@ msgstr ""
 "Source-Last-Modified: 20201217\n"
 "Target-Language: sv-SE\n"
 "Target-Version: 1.2\n"
-"Target-Last-Modified: 20201217\n"
+"Target-Last-Modified: 20210624\n"
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
@@ -17,31 +17,31 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sv_SE\n"
-"X-Generator: Poedit 2.4.1\n"
+"X-Generator: Poedit 3.0\n"
 
 msgid "I AM"
 msgstr "JAG ÄR"
 
 msgid "One"
-msgstr "EN"
+msgstr "En"
 
 msgid "IN A MILLION"
-msgstr "I EN MILJON"
+msgstr "PÅ MILJONEN"
 
 msgid "Regardless if you are already folding or haven't heard a word about it before, we need your help to reach our goal – which is 1 million folders."
-msgstr "Oavsett om du redan viker eller om du aldrig har hört ett ord om det förut, vi behöver din hjälp för att nå vårt mål - vilket är 1 miljon vikare."
+msgstr "Oavsett om du redan veckar eller om du aldrig har hört ett ord om det förut; vi behöver din hjälp för att nå vårt mål - som är 1 miljon veckare."
 
 msgid "Start folding now"
-msgstr "Börja vika nu"
+msgstr "Börja vecka nu"
 
 msgid "Hide this and watch the video."
 msgstr "Göm detta och titta på videon."
 
 msgid "START FOLDING NOW"
-msgstr "BÖRJA VIKA NU"
+msgstr "BÖRJA VECKA NU"
 
 msgid "Find the version of the software you prefer and get started. Downloading Folding@home is completely free, easy to install and safe to use."
-msgstr "Hitta versionen av programvaran du föredra och kom igång. Att ladda ner Folding@home är helt gratis, enkelt att installera och säker att använda."
+msgstr "Hitta versionen av programvaran du föredrar och kom igång. Att ladda ner Folding@home är helt gratis, enkelt att installera och säkert att använda."
 
 msgid "Available for:"
 msgstr "Tillgänglig för:"
@@ -56,19 +56,19 @@ msgid "Mac"
 msgstr "Mac"
 
 msgid "Start folding"
-msgstr "Börja vika"
+msgstr "Börja vecka"
 
 msgid "Latest Posts"
-msgstr "Senaste Inläggen"
+msgstr "Senaste inläggen"
 
 msgid "JOIN THE COMMUNITY"
 msgstr "GÅ MED I GEMENSKAPEN"
 
 msgid "The Folding@Home community is spread over countless forums, websites and social media."
-msgstr "Folding@home gemenskapen är spridet över oräkneliga forums, webbsidor och sociala medier."
+msgstr "Folding@home-gemenskapen är spriden över otaliga forum, webbplatser och sociala medier."
 
 msgid "Here's a list of our official channels."
-msgstr "Här är en lista av våra officiella kanaler."
+msgstr "Här är en lista över våra officiella kanaler."
 
 msgid "For tech support: [foldingforum.org](https://foldingforum.org/)"
 msgstr "För teknisk support: [foldingforum.org](https://foldingforum.org/)"
@@ -80,31 +80,31 @@ msgid "[Twitter](https://twitter.com/foldingathome)"
 msgstr "[Twitter](https://twitter.com/foldingathome)"
 
 msgid "1 in a million"
-msgstr "1 i miljonen"
+msgstr "1 på miljonen"
 
 msgid "WHY WE NEED YOU"
 msgstr "VARFÖR VI BEHÖVER DIG"
 
 msgid "Folding@home is a project focused on disease research. The problems we are solving require so many computer calculations and we need your help to find the cures!"
-msgstr "Folding@home är ett projekt som är fokuserat på sjukdoms forskning. Problemet vi löser kräver så många data beräkningar och vi behöver din hjälp för att hitta läkemedel!"
+msgstr "Folding@home är ett projekt som är fokuserat på forskningen om sjukdomar. Problemen vi löser kräver många datorberäkningar och vi behöver din hjälp för att hitta botemedlen!"
 
 msgid "Fight diseases Together with us."
 msgstr "Bekämpa sjukdomar tillsammans med oss."
 
 msgid "The Folding@home software allows you to share your unused computer power with us – so that we can research even more potential cures."
-msgstr "Folding@home programvaran tillåter dig att dela din oanvända data kraft med oss - så vi kan forska fram ännu fler potentiella läkemedel."
+msgstr "Folding@home-programvaran låter dig dela din oanvända datorkraft med oss - så att vi kan forska fram ännu fler potentiella botemedel."
 
 msgid "FOLDING?"
-msgstr "VIKA?"
+msgstr "VECKNING?"
 
 msgid "Folding refers to the way human protein folds in the cells that make up your body. We rely on the proteins to keep us healthy and they assemble themselves by folding. But when they misfold, there can be serious consequences to a person's health."
-msgstr "Vika hänvisar till vägen hur människans proteiner viker sig i celler vilket din kropp är uppbyggd av. Vi litar på proteinerna att dom ska hålla oss friska och att bygga upp sig själva genom vikning. Men när dom miss viks, så kan det leda till allvarliga konsekvenser på en persons hälsa."
+msgstr "Veckning avser hur mänskligt protein veckas i de celler som utgör din kropp. Vi förlitar oss på proteinerna för att hålla oss friska och de monterar sig genom veckning. Men när de veckas fel kan det få allvarliga konsekvenser för en persons hälsa."
 
 msgid "Learn more"
 msgstr "Läs mer"
 
 msgid "Team"
-msgstr "Lag"
+msgstr "Team"
 
 msgid "Folding@home is now based at the Washington University in St. Louis School of Medicine, under the directorship of Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) and [Vince Voelz](http://www.voelzlab.org/) (Temple University) are also active in helping manage the project. Together, their three labs are the primary drivers of Folding@home."
-msgstr "Folding@home är nu baserad i Washingtons universitet i St. Louis medicinska fakulteten, under ledandet av Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) och [Vince Voelz](http://www.voelzlab.org/) (Temple Universitetet) är också aktiva i hanterade av projektet. Det är 3 laboratorium som primärt driver Folding@home."
+msgstr "Folding@home är nu beläget på Washington University vid St. Louis medicinska fakultet under ledning av Dr. [Greg Bowman](https://bowmanlab.biochem.wustl.edu/). Drs. [John Chodera](http://www.choderalab.org/) (MSKCC) och [Vince Voelz](http://www.voelzlab.org/) (Temple University) är också aktiva i drivandet av projektet. Tillsammans utgör deras tre laboratorier den primära drivkraften bakom Folding@home."

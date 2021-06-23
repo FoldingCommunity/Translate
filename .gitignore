@@ -1,1 +1,5 @@
 translation_report.md
+*.mo
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/Translate/v16/.suo
