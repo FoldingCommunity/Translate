@@ -1,10 +1,12 @@
 # Folding@home Translation Text Repository
 
-Thank you for helping us reach even more people around the world by adapting the
-experience to their native language.
 
-**IMPORTANT UPDATE: We have switched away from YAML format to PO format. Please
-read the updates.**
+
+**IMPORTANT UPDATE: THIS PROJECT HAS NOW MOVED TO CROWDIN
+https://crowdin.com/project/foldingathome SEE YOU THERE.**
+
+
+
 
 **Before you start translating, please read this README to learn how we
 collaborate and how to find out what is already done and what is left to do.**
