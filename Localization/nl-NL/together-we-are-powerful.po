@@ -32,7 +32,7 @@ msgid "[Available for Windows, Mac, Linux]"
 msgstr "[Beschikbaar voor Windows, Mac, Linux]"
 
 msgid "Progress on the current Sprint 1 to evaluate a batch of potential drugs Started Sun Jul 26 06:31:13 UTC 2020"
-msgstr "Voortang van de huidige sprint 1 voor de evaluatie van een groep mogelijke medicijnen is gestart op Zondag 26 Juli 06:31:13 UTC 2020"
+msgstr "Voortgang van de huidige sprint 1 voor de evaluatie van een groep mogelijke medicijnen is gestart op Zondag 26 Juli 06:31:13 UTC 2020"
 
 msgid "Campaign Trailer"
 msgstr "Campagne trailer"
